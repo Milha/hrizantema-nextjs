@@ -1,0 +1,82 @@
+.cont {
+  height: 60vh;
+  width: 100%;
+  background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+
+  background-image: image-set(
+    url(../../public/images/hero-images/hrizantema-hero-500w.jpg)
+      type("image/webp"),
+    url(../../public/images/hero-images/hrizantema-hero-500w.jpg)
+      type("image/jpg")
+  );
+  background-repeat: no-repeat;
+  /* object-fit: contain; */
+  background-position: top center;
+  background-size: contain;
+  //   object-fit: cover;
+  /* opacity: 0.1; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cont img {
+  /* height: 25rem; */
+  display: none;
+}
+
+.itemcont {
+  background-color: rgba(255, 255, 255, 0.2);
+
+  font-size: 1.4rem;
+
+  text-shadow: 1px 1px 1px black;
+  margin: 1rem;
+  padding: 0.2rem;
+}
+
+@media (min-width: 45em) {
+  .cont {
+    background-image: url(../../public/images/hero-images/hrizantema-hero-1200w.jpg);
+
+    background-image: image-set(
+      url(../../public/images/hero-images/hrizantema-hero-1200w.webp)
+        type("image/webp"),
+      url(../../public/images/hero-images/hrizantema-hero-1200w.jpg)
+        type("image/jpg")
+    );
+
+    background-size: cover;
+  }
+
+  .itemcont {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+  }
+}
+
+@media (min-width: 75rem) {
+  .cont {
+    background-image: url(../../public/images/hero-images/hrizantema-hero-1500w.jpg);
+
+    background-image: image-set(
+      url(../../public/images/hero-images/hrizantema-hero-1500w.webp)
+        type("image/webp"),
+      url(../../public/images/hero-images/hrizantema-hero-1500w.jpg)
+        type("image/jpg")
+    );
+  }
+}
+
+@media (min-width: 90rem) {
+  .cont {
+    background-image: url(../../public/images/hero-images/hrizantema-hero-2400w.jpg);
+
+    background-image: image-set(
+      url(../../public/images/hero-images/hrizantema-hero-2400w.webp)
+        type("image/webp"),
+      url(../../public/images/hero-images/hrizantema-hero-2400w.jpg)
+        type("image/jpg")
+    );
+  }
+}

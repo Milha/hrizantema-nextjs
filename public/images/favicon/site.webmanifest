@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Cvećara Hrizantema Orlovača",
+  "short_name": "Hrizantema Orlovača",
+  "start_url": "https://hrizantema.rs/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Hrizantema je cvećara na groblju Orlovača, prodaja cveća i izrada cvetnih aranžmana. Prirodni i vestački venci, suze, buketi.",
+  "lang": "sr",
+  "icons": [
+    {
+      "src": "../../imgs/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../../imgs/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

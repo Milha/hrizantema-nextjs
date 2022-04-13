@@ -1,0 +1,21 @@
+.cont {
+  margin: 0;
+  padding: 0;
+  font-size: 2rem;
+}
+
+.icon {
+  color: #c29b40;
+  font-size: 2.5rem;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.AddressArrow,
+.Money {
+  margin-right: 1rem;
+  color: var(--color-primary-gold-800);
+  font-size: 1.5rem;
+}

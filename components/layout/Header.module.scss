@@ -1,0 +1,168 @@
+.header {
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 6%;
+  width: 100vw;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  align-items: center;
+  margin: 1rem 0;
+  font-size: 2.2rem;
+  font-weight: 400;
+}
+
+.header_na {
+  font-family: "Great Vibes", cursive;
+  color: #ce96ce;
+  font-size: 3.3rem;
+}
+
+.header h2 {
+  margin-bottom: 2.5rem;
+}
+
+.nav_toggle {
+  position: absolute;
+  top: 10vh;
+  left: 0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 0.97);
+  padding-top: 2vh;
+  list-style: none;
+
+  z-index: 10;
+
+  /* transform: translateX(0%);
+      transition: transform 3s; */
+}
+
+/* .nav_toggle {
+      margin: auto;
+      padding-top: 2vh;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+    } */
+
+/* .nav_container ul {
+      margin: auto;
+      padding-top: 2vh;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+    } */
+
+.nav_toggle_none {
+  display: none;
+}
+
+.nav_toggle ul {
+  list-style: none;
+  padding: 5rem 0 10rem;
+}
+
+.nav_toggle ul li {
+  margin: 0;
+  padding: 1rem 5rem;
+  font-size: 1.2rem;
+}
+
+.nav_toggle ul li a {
+  display: inline-block;
+  /* background-color: rebeccapurple; */
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+
+  /* transition: trasform 3s all; */
+}
+
+.burger_icon {
+  display: inline-block;
+  width: 2.1rem;
+  height: 2.1rem;
+  color: var(--fonty);
+
+  /* transform: translatey(40%);
+    
+      overflow: hidden; */
+}
+
+/* .icon_x {
+      background-color: red;
+    } */
+
+/* .icon_bar {
+      background-color: tomato;
+    } */
+
+/* .box {
+      width: 3rem;
+      height: 3rem;
+      background-color: grey;
+    } */
+
+@media screen and (min-width: 800px) and (orientation: landscape) {
+  .header {
+    /* display: flex; */
+    flex-direction: column;
+    /* align-items: center; */
+  }
+
+  .header h1 {
+    font-size: 3rem;
+  }
+
+  .header ul {
+    margin: auto;
+  }
+
+  .header_na {
+    font-size: 4.5rem;
+  }
+
+  .nav_toggle,
+  .nav_toggle_none {
+    position: static;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 0;
+  }
+
+  .nav_toggle ul,
+  .nav_toggle_none ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 2vw;
+    list-style: none;
+    padding: 0;
+  }
+
+  .nav_toggle ul li,
+  .nav_toggle_none ul li {
+    width: 15vw;
+    margin: 0;
+    padding: 0;
+  }
+
+  .btn {
+    display: none;
+  }
+}

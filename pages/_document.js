@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="sr">
         <Head>
+          {/* GOOGLE FONTS */}
           <link rel="preconnect" href="https://fonts.googleapis.com" />
 
           <link
