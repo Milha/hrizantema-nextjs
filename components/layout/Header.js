@@ -30,16 +30,24 @@ function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/">Venci</Link>
+            <Link href="/" passHref>
+              <a>Venci</a>
+            </Link>
           </li>
           <li>
-            <Link href="/">Buketi</Link>
+            <Link href="/">
+              <a>Buketi</a>
+            </Link>
           </li>
           <li>
-            <Link href="/">Ostalo u ponudi</Link>
+            <Link href="/">
+              <a>Ostalo u ponudi</a>
+            </Link>
           </li>
           <li>
-            <Link href="/">Kontakt</Link>
+            <Link href="/">
+              <a className={classes.contact}>Kontakt</a>
+            </Link>
           </li>
         </ul>
       </div>
