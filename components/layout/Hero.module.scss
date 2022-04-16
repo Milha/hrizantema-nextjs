@@ -32,6 +32,12 @@
   padding: 0.2rem;
 }
 
+@media (min-width: 30em) {
+  .cont {
+    height: 45vh;
+  }
+}
+
 @media (min-width: 45em) {
   .cont {
     height: 60vh;

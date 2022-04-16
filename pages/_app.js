@@ -4,7 +4,6 @@ import Head from "next/head";
 
 import { firmSchema } from "../utils/firmSchema";
 import Header from "../components/layout/Header";
-import Hero from "../components/layout/Hero";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -71,8 +70,6 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <Header />
-
-      <Hero />
 
       <main>
         <Component {...pageProps} />
