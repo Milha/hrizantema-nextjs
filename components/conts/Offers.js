@@ -2,7 +2,7 @@ import FrontCard from "../cards/FrontCard";
 import classes from "./Offers.module.scss";
 
 export default function Offers({ data }) {
-  console.log(data[0].imgs, "from OFFERS");
+  // console.log(data[0].imgs, "from OFFERS");
 
   return (
     <section className={classes.cont}>

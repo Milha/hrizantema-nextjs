@@ -21,7 +21,7 @@ export default function Home({ propsData }) {
 
 export async function getStaticProps() {
   const propsData = offersCardsData;
-  console.log(propsData, "INSIDE PROPS");
+  // console.log(propsData, "INSIDE PROPS");
   return {
     props: { propsData },
   };
