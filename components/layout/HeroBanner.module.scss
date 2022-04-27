@@ -1,0 +1,62 @@
+@import "../../styles/colors.module.scss";
+
+.cont {
+  background-color: $color-main-goldy-100;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.1);
+
+  @media (min-width: 75rem) {
+    flex-direction: row;
+  }
+
+  .text_cont {
+    height: 25vh;
+    width: 100%;
+    // background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    order: 2;
+
+    p {
+      margin: 1rem 1.5rem;
+    }
+
+    @media (min-width: 40rem) {
+      height: 30vh;
+
+      p {
+        margin: 1.5rem 2.5rem;
+      }
+    }
+
+    @media (min-width: 75rem) {
+      height: 45vh;
+      background-color: rebeccapurple;
+      order: 1;
+    }
+  }
+
+  .image_cont {
+    height: 25vh;
+    width: 100%;
+    // background-color: red;
+    background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    order: 1;
+
+    @media (min-width: 40rem) {
+      height: 40vh;
+    }
+
+    @media (min-width: 75rem) {
+      height: 45vh;
+      //   background-color: rebeccapurple;
+      background-size: cover;
+      order: 2;
+    }
+  }
+}

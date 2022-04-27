@@ -1,18 +1,19 @@
 export const offersCardsData = [
   {
-    title: "First TITLE",
-    cardImage: "/images/aside/logo.png",
-    text: "FIRST TEXT",
+    title: "Venci",
+    cardImage:
+      "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.jpg",
+    text: "Venci od uvek svežeg cveća",
   },
   {
-    title: "SECOND TITLE",
+    title: "Suze",
     cardImage: "/images/aside/logo.png",
-    text: "SECOND TEXT",
+    text: "Suze svih veličina i dvostranične suze",
   },
   {
-    title: "THIRD TITLE",
+    title: "Ostalo u poundi",
     cardImage: "/images/aside/logo.png",
 
-    text: "THIRD TEXT",
+    text: "Veštačko cveće, kućice za sveće, saksijsko",
   },
 ];

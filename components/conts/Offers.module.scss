@@ -1,4 +1,11 @@
 .cont {
-  width: 100%;
+  width: 70%;
+  margin: 0 auto;
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  @media (min-width: 60rem) {
+    flex-direction: row;
+  }
 }

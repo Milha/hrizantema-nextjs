@@ -1,8 +1,9 @@
 import Head from "next/head";
 import Offers from "../components/conts/Offers";
+import HeroBanner from "../components/layout/HeroBanner";
 
-import Hero from "../components/layout/Hero";
-import SubHero from "../components/layout/SubHero";
+// import Hero from "../components/layout/Hero";
+// import SubHero from "../components/layout/SubHero";
 // import styles from "../styles/Home.module.css";
 import { offersCardsData } from "../data/offersCardsData";
 
@@ -11,8 +12,9 @@ export default function Home({ propsData }) {
   return (
     <div>
       <Head></Head>
-      <Hero />
-      <SubHero />
+      {/* <Hero /> */}
+      {/* <SubHero /> */}
+      <HeroBanner />
       <Offers data={propsData} />
       <p>DUMMY BODY</p>
     </div>

@@ -1,0 +1,18 @@
+Venci:
+
+Single item: aprox. 500 - 900, normal
+
+Single item: aprox. 400 - 720, small.
+
+NEW image have to have 2px for every 1px dispalyed
+
+New List item: 500 x 667 
+
+aprox. image width: 2
+
+New Single items
+
+Single item: aprox. 500 - 900, 
+
+Single item: aprox. 400 - 720.
+
