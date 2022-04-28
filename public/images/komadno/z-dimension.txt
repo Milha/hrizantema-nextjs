@@ -1,0 +1,33 @@
+Dimenison NEW - maybe better
+
+Single item: 675 - 900,
+
+List item: 375 - 500,
+
+NEW image have to have 2px for every 1px dispalyed
+
+New Single item: 591 - 800,
+
+aprox. image width: 31rem height: 100%
+
+New List item: 500 x 667,
+
+aprox. image width 20rem height: 100%
+
+Sa KalaNaDar
+
+Large: 560 x 900, New 560 x 750 
+Small 375 x 603, New 375 x 502,
+Smaller 264 x 400, New 264 x 354.
+
+Very new it have to be 2px for every 1px displayed
+
+Large: 900 x 1205,
+Small 700 x 937,
+Smaller 500 x 669.
+
+***NEW** it have to be 2px for every 1px displayed
+
+Large: 900 x 1205,
+Small 700 x 937,
+Smaller 500 x 669.

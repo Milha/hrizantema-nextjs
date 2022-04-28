@@ -1,0 +1,23 @@
+Resolutions for Ostalo u ponudi
+
+Dimenison NEW - maybe better
+
+Single item: 675 - 900, those are bigger approved 03.2022
+
+List item: 375 - 500, those are bigger approved 03.2022
+
+NEW image have to have 2px for every 1px dispalyed
+
+New Single item: 591 - 800,
+
+aprox. image width: 31rem height: 100%
+
+New List item: 500 x 667,
+
+aprox. image width 20rem height: 100%
+
+
+
+675 x 900
+
+591 x 800

@@ -1,0 +1,15 @@
+.cont {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+
+  @media (min-width: 45rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 75rem) {
+    width: 80%;
+    margin: 0 auto;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

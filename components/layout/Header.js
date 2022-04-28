@@ -25,22 +25,22 @@ function Header() {
       >
         <ul onClick={openMenu} aria-label="menu">
           <li>
-            <Link href="/">
+            <Link href="/lists/list-ponuda-suze">
               <a>Suze</a>
             </Link>
           </li>
           <li>
-            <Link href="/" passHref>
+            <Link href="/lists/list-ponuda-venci" passHref>
               <a>Venci</a>
             </Link>
           </li>
           <li>
-            <Link href="/">
+            <Link href="/lists/list-ponuda-buketi-korpe">
               <a>Buketi</a>
             </Link>
           </li>
           <li>
-            <Link href="/">
+            <Link href="/lists/list-ostalo-u-ponudi">
               <a>Ostalo u ponudi</a>
             </Link>
           </li>
