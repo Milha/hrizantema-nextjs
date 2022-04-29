@@ -1,4 +1,7 @@
 import FrontCard from "../cards/FrontCard";
+
+import SmallCard from "../cards/SmallCard";
+
 import classes from "./Offers.module.scss";
 
 export default function Offers({ data }) {
