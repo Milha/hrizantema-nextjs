@@ -5,7 +5,7 @@ import classes from "./listsArticles.module.scss";
 import { venciItemData } from "../../data/venciItemData";
 
 export default function Lists({ inject }) {
-  // console.log(inject);
+  console.log(inject, "from list page");
   return (
     <article className={classes.cont}>
       {inject.map((inj) => (
