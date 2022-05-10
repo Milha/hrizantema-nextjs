@@ -1,4 +1,4 @@
-export const venciItemData = [
+export const buketiKorpeItemData = [
   {
     id: 1,
     title: "Bele ruže ~ crvene ruže",
