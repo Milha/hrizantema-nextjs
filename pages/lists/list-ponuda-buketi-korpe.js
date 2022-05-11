@@ -11,7 +11,6 @@ export default function Lists({ inject }) {
     <article className={classes.cont}>
       {inject.map((inj) => (
         <section key={inj.id}>
-          {/* <SmallItem data={inj}></SmallItem> */}
           <SmallCard data={inj}></SmallCard>
         </section>
       ))}

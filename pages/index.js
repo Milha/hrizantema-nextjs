@@ -7,7 +7,9 @@ import Sample from "../components/layout/Sample";
 // import SubHero from "../components/layout/SubHero";
 // import styles from "../styles/Home.module.css";
 import { offersCardsData } from "../data/offersCardsData";
-import { venciItemData } from "../data/venciItemData";
+import { sampleIndexItemData } from "../data/sampleIndexItemData";
+
+// import { venciItemData } from "../data/venciItemData";
 
 export default function Home({ propsData, sampleData }) {
   // console.log(propsData, "from PROPS");
@@ -26,7 +28,7 @@ export default function Home({ propsData, sampleData }) {
 
 export async function getStaticProps() {
   const propsData = offersCardsData;
-  const sampleData = venciItemData;
+  const sampleData = sampleIndexItemData;
   // console.log(propsData, "INSIDE PROPS");
   return {
     props: { propsData, sampleData },

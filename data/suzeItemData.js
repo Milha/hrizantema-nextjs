@@ -1,93 +1,86 @@
 export const suzeItemData = [
   {
     id: 1,
-    title: "Bele ruže ~ crvene ruže",
-    price: "4.000",
-    priceRange: "4.000 - 5.500",
-    imageBig:
-      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
+    title: "Ljiljan orijental - carski ljiljan",
+    price: "2.400",
+    priceRange: "2.000 - 3.000",
+    imageBig: "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.jpg",
     imageBigWebP:
-      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.webp",
     imageBigSmall:
-      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg",
     imageBigWebPSmall:
-      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
     imageGMB:
-      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
-    alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
-    text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-gmb.jpg",
+    alt: "suza roze beli ljiljan orijental.",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih ljiljana orijentala - carskih ljiljana. Uz najkvalitetnije zelenilo, gipsofila, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-    link: "/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-    sluglink:
-      "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-    prodId: "VE-001",
+      "https://vlasniknekretnine.com/single/suze/roze-carski-ljiljan-orijental-prirodna-suza",
+    link: "/single/suze/roze-carski-ljiljan-orijental-prirodna-suza",
+    sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
+    prodId: "SU-001",
   },
   {
     id: 2,
-    title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-    price: "5.000",
-    priceRange: "4.000 - 6.000",
-    imageBig:
-      "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac.jpg",
-    imageBigWebP:
-      "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac.webp",
-    imageBigSmall:
-      "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
-      "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.webp",
-    imageGMB:
-      "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-gmb.jpg",
-    alt: "Prirodni venac beli ljiljan bele ruze crveni gerber bele hrizanteme margarete zelenilo robelini gipsofila lovor",
-    text: "Prirodni venac aranžiran od belih ljiljana, belih ruža,crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
+    title: "Crvena ruža",
+    price: "2.500",
+    priceRange: "2.000 - 3.000",
+    imageBig: "/images/suze/crvena-ruza-prirodna-suza.jpg",
+    imageBigWebP: "/images/suze/crvena-ruza-prirodna-suza.webp",
+    imageBigSmall: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
+    imageBigWebPSmall: "/images/suze/crvena-ruza-prirodna-suza-small.webp",
+    imageGMB: "/images/suze/crvena-ruza-prirodna-suza-gmb.jpg",
+    alt: "suza bele margarete, crveni gerber",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od crvenih ruža. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
-    link: "/single/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
-    sluglink:
-      "beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
-    prodId: "VE-002",
+      "https://vlasniknekretnine.com/single/suze/crvena-ruza-prirodna-suza",
+    link: "/single/suze/crvena-ruza-prirodna-suza",
+    sluglink: "crvena-ruza-prirodna-suza",
+    prodId: "SU-002",
   },
   {
     id: 3,
-    title: "Bele orijental ~ ruže ~ gerber ~ kale",
-    price: "9.000",
-    priceRange: "8.000 - 10.000",
+    title: "Margareta gerber",
+    price: "2.500",
+    priceRange: "2.000 - 3.000",
     imageBig:
-      "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac.jpg",
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP:
-      "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac.webp",
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.webp",
     imageBigSmall:
-      "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac-small.jpg",
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.jpg",
     imageBigWebPSmall:
-      "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac-small.webp",
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.webp",
     imageGMB:
-      "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac-gmb.jpg",
-    alt: "Venac sahrana bela kala crveni gerber bela hrizantema margareta",
-    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Venac porodični aranžiran od belih orjental ljiljana, belih ruža, kala i belih gerbera. Uz najkvalitetnije zelenilo, gipsofilu, robelini, lovor.",
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-gmb.jpg",
+    alt: "suza bele margarete, crveni gerber",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih margareta i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
-    link: "/single/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
-    sluglink:
-      "beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
-    prodId: "VE-003",
+      "https://vlasniknekretnine.com/single/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+    link: "/single/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+    sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+    prodId: "SU-003",
   },
   {
     id: 4,
-    title: "Srce crvena ruža",
-    price: "5.000",
-    priceRange: "4.000 - 5.000",
-    imageBig: "/images/venci/ruza-crvena-oblik-srce-venac.jpg",
-    imageBigWebP: "/images/venci/ruza-crvena-oblik-srce-venac.webp",
-    imageBigSmall: "/images/venci/ruza-crvena-oblik-srce-venac-small.jpg",
-    imageBigWebPSmall: "/images/venci/ruza-crvena-oblik-srce-venac-small.webp",
-    imageGMB: "/images/venci/ruza-crvena-oblik-srce-venac-gmb.jpg",
-    alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
-    text: "Prirodni venac aranžiran od belih ljiljana, belih ruža,crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
+    title: "Beli ljiljan ~ crveni gerber",
+    price: "3.000",
+    priceRange: "2.000 - 4.000",
+    imageBig: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.jpg",
+    imageBigWebP: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.webp",
+    imageBigSmall:
+      "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.jpg",
+    imageBigWebPSmall:
+      "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.webp",
+    imageGMB: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-gmb.jpg",
+    alt: "suza beli ljilja, crveni gerber",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/ruza-crvena-oblik-srce-venac",
-    link: "/single/venci/ruza-crvena-oblik-srce-venac",
-    sluglink: "ruza-crvena-oblik-srce-venac",
-    prodId: "VE-004",
+      "https://vlasniknekretnine.com/single/suze/beli-ljiljan-crveni-gerber-prirodna-suza",
+    link: "/single/suze/beli-ljiljan-crveni-gerber-prirodna-suza",
+    sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
+    prodId: "SU-004",
   },
 
   // {
@@ -96,23 +89,23 @@ export const suzeItemData = [
   //   price: "4.000",
   //   priceRange: "4.000 - 5.500",
   //   imageBig:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
+  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
   //   imageBigWebP:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
+  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
   //   imageBigSmall:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
+  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
   //   imageBigWebPSmall:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
+  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
   //   imageGMB:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
+  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://vlasniknekretnine.com/single/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   link: "/single/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   prodId: "VE-001",
+  //   prodId: "SU-001",
   // },
 
   // {

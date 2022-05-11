@@ -2,8 +2,7 @@ import SmallCard from "../../components/cards/SmallCard";
 
 import classes from "./listsArticles.module.scss";
 
-import { ostaloUPonudiData } from "../../data/ostaloUPonudiData";
-// import { venciItemData } from "../../data/venciItemData";
+import { komadnoItemData } from "../../data/rezanoItemData";
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
@@ -20,7 +19,7 @@ export default function Lists({ inject }) {
 }
 
 export async function getStaticProps() {
-  const inject = ostaloUPonudiData;
+  const inject = komadnoItemData;
   // const revInject = preinject.reverse();
   // const inject = preinject.reverse().slice(0, 20);
 
