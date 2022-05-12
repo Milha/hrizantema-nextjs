@@ -6,7 +6,7 @@ import { buketiKorpeItemData } from "../../data/buketiKorpeItemData";
 // import { venciItemData } from "../../data/venciItemData";
 
 export default function Lists({ inject }) {
-  console.log(inject, "from list page");
+  // console.log(inject, "from list page");
   return (
     <article className={classes.cont}>
       {inject.map((inj) => (

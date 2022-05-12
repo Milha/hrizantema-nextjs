@@ -3,7 +3,7 @@
   margin: 0 auto;
 
   @media (min-width: 45rem) {
-    width: 80%;
+    width: 70%;
   }
 
   .cont {
@@ -14,7 +14,7 @@
       grid-template-columns: repeat(2, 1fr);
     }
 
-    @media (min-width: 75rem) {
+    @media (min-width: 90rem) {
       margin: 0 auto;
       grid-template-columns: repeat(3, 1fr);
     }

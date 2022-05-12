@@ -10,10 +10,10 @@
   padding: 0 6%;
   width: 100vw;
   margin-bottom: 2rem;
-  color: $color-main-dark-purple-900;
+  color: #110703;
   // background-color: $color-main-dark-purple-100;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .header h1 {
@@ -25,7 +25,6 @@
 
 .header_na {
   font-family: "Great Vibes", cursive;
-  color: #ce96ce;
   font-size: 3.3rem;
 }
 
@@ -33,17 +32,15 @@
   margin-bottom: 2.5rem;
 }
 
-// .contact {
-//   padding: 2rem;
-// }
-
-// .header a {
-//   padding: 0.8rem;
-// }
+.header li a {
+  font-family: "Merriweather Sans", sans-serif;
+}
 
 .contact {
-  background-color: $color-main-goldy;
-  border-radius: 150px;
+  background-color: #cc142d;
+  color: #fbdade;
+  border-radius: 8px;
+  padding: 0 0.5rem;
 }
 
 .nav_toggle {
@@ -65,22 +62,6 @@
   /* transform: translateX(0%);
       transition: transform 3s; */
 }
-
-/* .nav_toggle {
-      margin: auto;
-      padding-top: 2vh;
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-    } */
-
-/* .nav_container ul {
-      margin: auto;
-      padding-top: 2vh;
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-    } */
 
 .nav_toggle_none {
   display: none;
@@ -119,20 +100,6 @@
     
       overflow: hidden; */
 }
-
-/* .icon_x {
-      background-color: red;
-    } */
-
-/* .icon_bar {
-      background-color: tomato;
-    } */
-
-/* .box {
-      width: 3rem;
-      height: 3rem;
-      background-color: grey;
-    } */
 
 @media screen and (min-width: 800px) and (orientation: landscape) {
   .header {
