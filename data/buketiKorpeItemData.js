@@ -13,8 +13,8 @@ export const buketiKorpeItemData = [
     alt: "Buket crvene ruze sa perlicama, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od crvenih ruža sa perlicama, od prirodnog cveća i najkvalitetnijeg zelenila. ",
     httpaddress:
-      "https://vlasniknekretnine.com/single/buketi-korpe/buket-crvene-ruze-perlice",
-    link: "/single/buketi-korpe/buket-crvene-ruze-perlice",
+      "https://vlasniknekretnine.com/single/buket-korpa/buket-crvene-ruze-perlice",
+    link: "/single/buket-korpa/buket-crvene-ruze-perlice",
     sluglink: "buket-crvene-ruze-perlice",
     prodId: "BU-001",
   },
@@ -32,8 +32,8 @@ export const buketiKorpeItemData = [
     alt: "Buket roze orijental i bele ruze, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od roze orijentala i belih ruža, od prirodnog cveća. ",
     httpaddress:
-      "https://vlasniknekretnine.com/single/buketi-korpe/buket-orijental-bele-ruze",
-    link: "/single/buketi-korpe/buket-orijental-bele-ruze",
+      "https://vlasniknekretnine.com/single/buket-korpa/buket-orijental-bele-ruze",
+    link: "/single/buket-korpa/buket-orijental-bele-ruze",
     sluglink: "buket-orijental-bele-ruze",
     prodId: "BU-002",
   },
@@ -54,8 +54,8 @@ export const buketiKorpeItemData = [
     alt: "Korpa od prirodnog cveca crimson gerber, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća crimson gerbera",
     httpaddress:
-      "https://vlasniknekretnine.com/single/buketi-korpe/crveni-crimson-gerber-prirodna-korpa",
-    link: "/single/buketi-korpe/crveni-crimson-gerber-prirodna-korpa",
+      "https://vlasniknekretnine.com/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa",
+    link: "/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa",
     sluglink: "crveni-crimson-gerber-prirodna-korpa",
     prodId: "BU-003",
   },
@@ -77,8 +77,8 @@ export const buketiKorpeItemData = [
     alt: "Korpa od prirodnog cveca beli ljiljan, bela margareta, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća beli ljiljan i bela margareta. Zelenilo lovor višnja.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa",
-    link: "/single/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa",
+      "https://vlasniknekretnine.com/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa",
+    link: "/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa",
     sluglink: "ljiljan-beli-bele-margarete-prirodna-korpa",
     prodId: "BU-004",
   },
@@ -101,8 +101,8 @@ export const buketiKorpeItemData = [
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/buketi-korpe/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/buketi-korpe/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://vlasniknekretnine.com/single/buket-korpa/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   link: "/single/buket-korpa/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   prodId: "BU-001",

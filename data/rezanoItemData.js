@@ -13,8 +13,8 @@ export const rezanoItemData = [
     alt: "crvena ruza",
     text: "Hrizantema cvećara Orlovača. Crvene ruže, prirodne, veliki izbor, uvek sveze. ",
     httpaddress:
-      "https://vlasniknekretnine.com/single/rezano-cvece/crvena-ruza-rezano-komadno-cvece",
-    link: "/single/rezano-cvece/crvena-ruza-rezano-komadno-cvece",
+      "https://vlasniknekretnine.com/single/rezano/crvena-ruza-rezano-komadno-cvece",
+    link: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
     sluglink: "crvena-ruza-rezano-komadno-cvece",
     prodId: "KO-001",
   },
@@ -33,8 +33,8 @@ export const rezanoItemData = [
     alt: "bela ruza prirodni rezani cvet",
     text: "Hrizantema cvećara Orlovača. Bele ruže, prirodne, veliki izbor, uvek sveze.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/rezano-cvece/bela-ruza-rezano-komadno-cvece",
-    link: "/single/rezano-cvece/bela-ruza-rezano-komadno-cvece",
+      "https://vlasniknekretnine.com/single/rezano/bela-ruza-rezano-komadno-cvece",
+    link: "/single/rezano/bela-ruza-rezano-komadno-cvece",
     sluglink: "bela-ruza-rezano-komadno-cvece",
     prodId: "KO-002",
   },
@@ -56,8 +56,8 @@ export const rezanoItemData = [
     alt: "beli ljiljan prirodni rezani komadni cvet",
     text: "Hrizantema cvećara Orlovača. Beli ljiljan, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-    link: "/single/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
+      "https://vlasniknekretnine.com/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
+    link: "/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
     sluglink:
       "beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
     prodId: "KO-003",
@@ -79,8 +79,8 @@ export const rezanoItemData = [
     alt: "Bela margareta, prirodno, rezano cvece",
     text: "Hrizantema cvećara Orlovača. Bela margareta, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/rezano-cvece/bela-margareta-rezano-komadno-cvece",
-    link: "/single/rezano-cvece/bela-margareta-rezano-komadno-cvece",
+      "https://vlasniknekretnine.com/single/rezano/bela-margareta-rezano-komadno-cvece",
+    link: "/single/rezano/bela-margareta-rezano-komadno-cvece",
     sluglink: "bela-margareta-rezano-komadno-cvece",
     prodId: "KO-004",
   },
@@ -103,8 +103,8 @@ export const rezanoItemData = [
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://vlasniknekretnine.com/single/rezano/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   link: "/single/rezano/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   prodId: "KO-001",

@@ -13,8 +13,8 @@ export const ostaloUPonudiData = [
     alt: "Velika kucica za paljenje sveca na groblju",
     text: "Hrizantema cvećara Orlovača. Velika kućica za paljenje sveće. Kućica za paljenje sveća.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/ostalo-u-ponudi/kucica-za-svece-velika",
-    link: "/single/ostalo-u-ponudi/kucica-za-svece-velika",
+      "https://vlasniknekretnine.com/single/ostalo/kucica-za-svece-velika",
+    link: "/single/ostalo/kucica-za-svece-velika",
     sluglink: "kucica-za-svece-velika",
     prodId: "OP-001",
   },
@@ -36,8 +36,8 @@ export const ostaloUPonudiData = [
     alt: "vestacko cvece roze ljiljan belo roze ruze saksija gips",
     text: "Roze ljiljani, belo - roze ruže, veštačko cveće u saksiji.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
-    link: "/single/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
+      "https://vlasniknekretnine.com/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     sluglink: "roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     prodId: "OP-002",
   },
@@ -55,8 +55,8 @@ export const ostaloUPonudiData = [
     alt: "Krst od stakla, za groblje, plave ruze",
     text: "Hrizantema cvećara Orlovača. Krst od stakla aranžiran plavim ružama.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/ostalo-u-ponudi/krst-staklo-plave-ruze",
-    link: "/single/ostalo-u-ponudi/krst-staklo-plave-ruze",
+      "https://vlasniknekretnine.com/single/ostalo/krst-staklo-plave-ruze",
+    link: "/single/ostalo/krst-staklo-plave-ruze",
     sluglink: "krst-staklo-plave-ruze",
     prodId: "OP-003",
   },
@@ -75,8 +75,8 @@ export const ostaloUPonudiData = [
     alt: "Suza od stakla za groblje, ljubicaste ruze",
     text: "Hrizantema cvećara Orlovača. Suza od stakla, aranžirana ljubičastim ružama.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze",
-    link: "/single/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze",
+      "https://vlasniknekretnine.com/single/ostalo/staklo-suza-ljubicaste-ruze",
+    link: "/single/ostalo/staklo-suza-ljubicaste-ruze",
     sluglink: "staklo-suza-ljubicaste-ruze",
     prodId: "OP-004",
   },
@@ -99,8 +99,8 @@ export const ostaloUPonudiData = [
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://vlasniknekretnine.com/single/ostalo/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   link: "/single/ostalo/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   prodId: "OP-001",

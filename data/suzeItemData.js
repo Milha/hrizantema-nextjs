@@ -16,8 +16,8 @@ export const suzeItemData = [
     alt: "suza roze beli ljiljan orijental.",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih ljiljana orijentala - carskih ljiljana. Uz najkvalitetnije zelenilo, gipsofila, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suze/roze-carski-ljiljan-orijental-prirodna-suza",
-    link: "/single/suze/roze-carski-ljiljan-orijental-prirodna-suza",
+      "https://vlasniknekretnine.com/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
+    link: "/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
     prodId: "SU-001",
   },
@@ -34,8 +34,8 @@ export const suzeItemData = [
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od crvenih ruža. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suze/crvena-ruza-prirodna-suza",
-    link: "/single/suze/crvena-ruza-prirodna-suza",
+      "https://vlasniknekretnine.com/single/suza/crvena-ruza-prirodna-suza",
+    link: "/single/suza/crvena-ruza-prirodna-suza",
     sluglink: "crvena-ruza-prirodna-suza",
     prodId: "SU-002",
   },
@@ -57,8 +57,8 @@ export const suzeItemData = [
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih margareta i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
-    link: "/single/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+      "https://vlasniknekretnine.com/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+    link: "/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     prodId: "SU-003",
   },
@@ -77,8 +77,8 @@ export const suzeItemData = [
     alt: "suza beli ljilja, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suze/beli-ljiljan-crveni-gerber-prirodna-suza",
-    link: "/single/suze/beli-ljiljan-crveni-gerber-prirodna-suza",
+      "https://vlasniknekretnine.com/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
+    link: "/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
     prodId: "SU-004",
   },
@@ -101,8 +101,8 @@ export const suzeItemData = [
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://vlasniknekretnine.com/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   link: "/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   prodId: "SU-001",

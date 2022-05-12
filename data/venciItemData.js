@@ -17,8 +17,8 @@ export const venciItemData = [
     alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
     text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-    link: "/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+      "https://vlasniknekretnine.com/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+    link: "/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
     sluglink:
       "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
     prodId: "VE-001",
@@ -41,8 +41,8 @@ export const venciItemData = [
     alt: "Prirodni venac beli ljiljan bele ruze crveni gerber bele hrizanteme margarete zelenilo robelini gipsofila lovor",
     text: "Prirodni venac aranžiran od belih ljiljana, belih ruža,crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
-    link: "/single/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
+      "https://vlasniknekretnine.com/single/venac/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
+    link: "/single/venac/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
     sluglink:
       "beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
     prodId: "VE-002",
@@ -65,8 +65,8 @@ export const venciItemData = [
     alt: "Venac sahrana bela kala crveni gerber bela hrizantema margareta",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Venac porodični aranžiran od belih orjental ljiljana, belih ruža, kala i belih gerbera. Uz najkvalitetnije zelenilo, gipsofilu, robelini, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
-    link: "/single/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
+      "https://vlasniknekretnine.com/single/venac/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
+    link: "/single/venac/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
     sluglink:
       "beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
     prodId: "VE-003",
@@ -84,8 +84,8 @@ export const venciItemData = [
     alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
     text: "Prirodni venac aranžiran od belih ljiljana, belih ruža,crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/venci/ruza-crvena-oblik-srce-venac",
-    link: "/single/venci/ruza-crvena-oblik-srce-venac",
+      "https://vlasniknekretnine.com/single/venac/ruza-crvena-oblik-srce-venac",
+    link: "/single/venac/ruza-crvena-oblik-srce-venac",
     sluglink: "ruza-crvena-oblik-srce-venac",
     prodId: "VE-004",
   },
@@ -108,8 +108,8 @@ export const venciItemData = [
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://vlasniknekretnine.com/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   link: "/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   prodId: "VE-001",
