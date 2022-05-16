@@ -1,12 +1,13 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
+import HeadSingle from "../../../components/heads/HeadSingle";
 
 import { suzeItemData } from "../../../data/suzeItemData";
 
 export default function Slug({ pageItems }) {
   return (
     <>
+      <HeadSingle data={pageItems} />
       <BigVerticalSingleCard data={pageItems} />
-      <h2>{pageItems.title}</h2>
     </>
   );
 }

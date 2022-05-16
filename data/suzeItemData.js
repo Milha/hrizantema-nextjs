@@ -16,7 +16,7 @@ export const suzeItemData = [
     alt: "suza roze beli ljiljan orijental.",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih ljiljana orijentala - carskih ljiljana. Uz najkvalitetnije zelenilo, gipsofila, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
+      "https://hrizantema.rs/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     link: "/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
     prodId: "SU-001",
@@ -33,8 +33,7 @@ export const suzeItemData = [
     imageGMB: "/images/suze/crvena-ruza-prirodna-suza-gmb.jpg",
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od crvenih ruža. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
-    httpaddress:
-      "https://vlasniknekretnine.com/single/suza/crvena-ruza-prirodna-suza",
+    httpaddress: "https://hrizantema.rs/single/suza/crvena-ruza-prirodna-suza",
     link: "/single/suza/crvena-ruza-prirodna-suza",
     sluglink: "crvena-ruza-prirodna-suza",
     prodId: "SU-002",
@@ -57,7 +56,7 @@ export const suzeItemData = [
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih margareta i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+      "https://hrizantema.rs/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     link: "/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     prodId: "SU-003",
@@ -77,7 +76,7 @@ export const suzeItemData = [
     alt: "suza beli ljilja, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
-      "https://vlasniknekretnine.com/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
+      "https://hrizantema.rs/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     link: "/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
     prodId: "SU-004",
@@ -101,7 +100,7 @@ export const suzeItemData = [
   //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
   //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //     "https://hrizantema.rs/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   link: "/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
   //   sluglink:
   //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
@@ -118,7 +117,7 @@ export const suzeItemData = [
   //   alt: "Ponuda suza prirodne dvostranicne vestacke",
   //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/beograd-stan/cerska-stan-beograd-28m",
+  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
   //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
   //   sluglink: "banatska_st_bg_76m",
   // },
@@ -131,7 +130,7 @@ export const suzeItemData = [
   //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
   //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/beograd-stan/cerska-stan-beograd-28m",
+  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
   //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
   //   sluglink: "banatska_st_bg_76m",
   // },
@@ -146,7 +145,7 @@ export const suzeItemData = [
   //   alt: "Ponuda suza prirodne dvostranicne vestacke",
   //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/beograd-stan/cerska-stan-beograd-28m",
+  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
   //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
   //   sluglink: "banatska_st_bg_76m",
   // },
@@ -159,7 +158,7 @@ export const suzeItemData = [
   //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
   //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
   //   httpaddress:
-  //     "https://vlasniknekretnine.com/single/beograd-stan/cerska-stan-beograd-28m",
+  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
   //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
   //   sluglink: "banatska_st_bg_76m",
   // },

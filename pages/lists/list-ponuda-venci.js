@@ -3,18 +3,22 @@ import SmallCard from "../../components/cards/SmallCard";
 import classes from "./listsArticles.module.scss";
 
 import { venciItemData } from "../../data/venciItemData";
+import HeadList from "../../components/heads/HeadList";
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
   return (
-    <article className={classes.cont}>
-      {inject.map((inj) => (
-        <section key={inj.id}>
-          {/* <SmallItem data={inj}></SmallItem> */}
-          <SmallCard data={inj}></SmallCard>
-        </section>
-      ))}
-    </article>
+    <>
+      <HeadList data={venciItemData} addTitle="Ponuda Venaca" />
+      <article className={classes.cont}>
+        {inject.map((inj) => (
+          <section key={inj.id}>
+            {/* <SmallItem data={inj}></SmallItem> */}
+            <SmallCard data={inj}></SmallCard>
+          </section>
+        ))}
+      </article>
+    </>
   );
 }
 

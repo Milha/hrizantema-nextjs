@@ -1,10 +1,10 @@
 @import "../../styles/colors.module.scss";
 
 .cont {
-  background-color: $color-main-goldy-100;
+  // background-color: $color-main-goldy-100;
   display: flex;
   flex-direction: column;
-  box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.1);
+  // box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.1);
 
   @media (min-width: 75rem) {
     flex-direction: row;
@@ -13,6 +13,7 @@
   .text_cont {
     height: 25vh;
     width: 100%;
+    text-align: center;
     // background-color: gainsboro;
     display: flex;
     flex-direction: column;
