@@ -1,9 +1,9 @@
 import SmallCard from "../../components/cards/SmallCard";
+import HeadList from "../../components/heads/HeadList";
 
 import classes from "./listsArticles.module.scss";
 
 import { venciItemData } from "../../data/venciItemData";
-import HeadList from "../../components/heads/HeadList";
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
@@ -13,7 +13,6 @@ export default function Lists({ inject }) {
       <article className={classes.cont}>
         {inject.map((inj) => (
           <section key={inj.id}>
-            {/* <SmallItem data={inj}></SmallItem> */}
             <SmallCard data={inj}></SmallCard>
           </section>
         ))}
@@ -24,8 +23,6 @@ export default function Lists({ inject }) {
 
 export async function getStaticProps() {
   const inject = venciItemData;
-  // const revInject = preinject.reverse();
-  // const inject = preinject.reverse().slice(0, 20);
 
   return {
     props: { inject },
