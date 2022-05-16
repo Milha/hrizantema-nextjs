@@ -14,7 +14,14 @@ export default function SmallCard({ data }) {
           </a>
         </Link>
         <p className={classes.desc}>{data.text}</p>
-        <p className={classes.price}>{data.price} din</p>
+        <div className={classes.price_more_cont}>
+          <p className={classes.price}>{data.price} din</p>
+          <p className={classes.more_a}>
+            <Link href={data.link}>
+              <a>detaljnije...</a>
+            </Link>
+          </p>
+        </div>
       </div>
     </div>
   );

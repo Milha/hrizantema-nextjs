@@ -1,11 +1,10 @@
-import BigVerticalCard from "../../../components/cards/BigVerticalCard";
+import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import { venciItemData } from "../../../data/venciItemData";
 
 export default function Slug({ pageItems }) {
   return (
     <div>
-      <BigVerticalCard data={pageItems} />
-      <h2>{pageItems.title}</h2>
+      <BigVerticalSingleCard data={pageItems} />
     </div>
   );
 }
