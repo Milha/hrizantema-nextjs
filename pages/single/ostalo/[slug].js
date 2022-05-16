@@ -1,10 +1,12 @@
+import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
+
 import { ostaloUPonudiData } from "../../../data/ostaloUPonudiData";
 
 export default function Slug({ pageItems }) {
   return (
-    <div>
-      <h2>{pageItems.title}</h2>
-    </div>
+    <>
+      <BigVerticalSingleCard data={pageItems} />
+    </>
   );
 }
 

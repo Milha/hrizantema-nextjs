@@ -40,6 +40,16 @@
 
     .desc {
       opacity: 0.6;
+      // white-space: wrap;
+
+      overflow: hidden;
+      max-height: 8rem;
+      -webkit-box-orient: vertical;
+      display: block;
+      display: -webkit-box;
+      overflow: hidden !important;
+      text-overflow: ellipsis;
+      -webkit-line-clamp: 3;
     }
 
     .price_more_cont {

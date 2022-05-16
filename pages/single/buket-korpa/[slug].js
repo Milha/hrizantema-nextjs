@@ -1,9 +1,11 @@
+import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
+
 import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
 
 export default function Slug({ pageItems }) {
   return (
     <div>
-      <h2>{pageItems.title}</h2>
+      <BigVerticalSingleCard data={pageItems} />
     </div>
   );
 }

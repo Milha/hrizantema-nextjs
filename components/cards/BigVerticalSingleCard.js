@@ -1,5 +1,5 @@
 import classes from "./BigVerticalSingleCard.module.scss";
-export default function BigVerticalCard({ data }) {
+export default function BigVerticalSingleCard({ data }) {
   return (
     <div className={classes.cont}>
       <div className={classes.img_cont}>

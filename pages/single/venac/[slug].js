@@ -3,9 +3,9 @@ import { venciItemData } from "../../../data/venciItemData";
 
 export default function Slug({ pageItems }) {
   return (
-    <div>
+    <>
       <BigVerticalSingleCard data={pageItems} />
-    </div>
+    </>
   );
 }
 

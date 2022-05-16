@@ -1,10 +1,13 @@
+import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
+
 import { suzeItemData } from "../../../data/suzeItemData";
 
 export default function Slug({ pageItems }) {
   return (
-    <div>
+    <>
+      <BigVerticalSingleCard data={pageItems} />
       <h2>{pageItems.title}</h2>
-    </div>
+    </>
   );
 }
 
