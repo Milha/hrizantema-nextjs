@@ -3,13 +3,15 @@ import HeadList from "../../components/heads/HeadList";
 
 import classes from "./listsArticles.module.scss";
 
-import { komadnoItemData } from "../../data/rezanoItemData";
+import { rezanoItemData } from "../../data/rezanoItemData";
+
+// import { rezanoItemData } from "../../data/rezanoItemData";
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
   return (
     <>
-      <HeadList data={komadnoItemData} addTitle="Ponuda rezanog cveća" />
+      <HeadList data={rezanoItemData} addTitle="Ponuda rezanog cveća" />
       <article className={classes.cont}>
         {inject.map((inj) => (
           <section key={inj.id}>
@@ -22,7 +24,7 @@ export default function Lists({ inject }) {
 }
 
 export async function getStaticProps() {
-  const inject = komadnoItemData;
+  const inject = rezanoItemData;
 
   return {
     props: { inject },

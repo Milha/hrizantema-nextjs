@@ -1,0 +1,25 @@
+.contact_cont {
+  font-family: "Merriweather Sans";
+  font-weight: 400;
+  text-align: center;
+
+  .text_span {
+    display: flex;
+    justify-content: center;
+    padding: 0.4rem;
+  }
+
+  @media (min-width: 40rem) {
+    width: 50%;
+    margin: auto;
+
+    .map_small {
+      display: none;
+    }
+  }
+  @media (max-width: 39.99rem) {
+    .map_big {
+      display: none;
+    }
+  }
+}

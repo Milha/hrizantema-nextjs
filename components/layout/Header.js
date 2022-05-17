@@ -45,7 +45,7 @@ function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/">
+            <Link href="/main-pages/contact">
               <a className={classes.contact}>Kontakt</a>
             </Link>
           </li>
