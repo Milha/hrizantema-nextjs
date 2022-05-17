@@ -79,6 +79,113 @@ export const ostaloUPonudiData = [
     prodId: "OP-004",
   },
 
+  {
+    id: 5,
+    title: "Bela kala ~ ružice ~ saksija",
+    price: "3.000",
+    priceRange: "1.000 - 3.000",
+    imageBig:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-gmb.jpg",
+    alt: "vestacko cvece bele kale ljubicasto bele ruzice saksija gips",
+    text: "Bele kale i ljubičaster ruže, veštačko cveće u saksiji. ",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
+    link: "/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
+    sluglink: "bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
+    prodId: "OP-005",
+  },
+  {
+    id: 6,
+    title: "Velika piramida od stakla - crvene ruže",
+    price: "2.000",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-gmb.jpg",
+    alt: "Piramida od stakla, za groblje, crvene ruze",
+    text: "Velika piramida od stakla aranžiran crvenim ružama. ",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/staklo-piramida-crvene-ruze-velika",
+    link: "/single/ostalo/staklo-piramida-crvene-ruze-velika",
+    sluglink: "staklo-piramida-crvene-ruze-velika",
+    prodId: "OP-006",
+  },
+  {
+    id: 7,
+    title: "Srce malo staklo crvene ruže",
+    price: "2.000",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-gmb.jpg",
+    alt: "Srce malo od stakla crvene i bele ruze",
+    text: "Hrizantema cvećara Orlovača. Srce od stakla malo crvene i bele ruže, veštačko cveće, veliki izbor.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/staklo-srce-malo-crvene-ruze",
+    link: "/single/ostalo/staklo-srce-malo-crvene-ruze",
+    sluglink: "staklo-srce-malo-crvene-ruze",
+    prodId: "OP-007",
+  },
+  {
+    id: 8,
+    title: "Bele orhideje",
+    price: "2.000",
+    priceRange: "1.000 - 3.000",
+    imageBig:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-gmb.jpg",
+    alt: "vestacko cvece bele orhideje saksija gips",
+    text: "Bele orhideje, veštačko cveće u saksiji.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips",
+    sluglink: "bele-orhideje-vestacko-cvece-saksija-gips",
+    prodId: "OP-008",
+  },
+
+  // {
+  //   id: 4,
+  //   title: "TITLE",
+  //   price: "2.000",
+  //   priceRange: "1.000 - 3.000",
+  //   imageBig: "/images/ostalo-u-ponudi/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/ostalo-u-ponudi/INPUTIMAGE.webp",
+  //   imageBigSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
+  //   imageBigWebPSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
+  //   alt: "ALTTT",
+  //   text: "DESCRIPTION",
+  //   httpaddress: "https://hrizantema.rs/single/ostalo/INPUTLINK",
+  //   link: "/single/ostalo/INPUTLINK",
+  //   sluglink: "INPUTLINK",
+  //   prodId: "OP-004",
+  // },
+
   // {
   //   id: 1,
   //   title: "Bele ruže ~ crvene ruže",

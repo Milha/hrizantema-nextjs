@@ -82,29 +82,146 @@ export const suzeItemData = [
     prodId: "SU-004",
   },
 
+  {
+    id: 5,
+    title: "Beli ljiljan ~ margareta",
+    price: "2.000",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.webp",
+    imageBigSmall:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.jpg",
+    imageBigWebPSmall:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-gmb.jpg",
+    alt: "suza beli ljiljan bela margareta hrizantema",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana i margareta. Uz najkvalitetnije zelenilo, gipsofila, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
+    link: "/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
+    sluglink: "beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
+    prodId: "SU-005",
+  },
+  {
+    id: 6,
+    title: "Ljiljan orijental gerber",
+    price: "2.000",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.webp",
+    imageBigSmall:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.jpg",
+    imageBigWebPSmall:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-gmb.jpg",
+    alt: "suza roze beli orijental, roze gerber",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih orijental ljiljana i roze gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
+    link: "/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
+    sluglink: "roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
+    prodId: "SU-006",
+  },
+
+  {
+    id: 7,
+    title: "Beli gerber",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    imageBig: "/images/suze/beli-gerber-prirodna-suza.jpg",
+    imageBigWebP: "/images/suze/beli-gerber-prirodna-suza.webp",
+    imageBigSmall: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
+    imageBigWebPSmall: "/images/suze/beli-gerber-prirodna-suza-small.webp",
+    imageGMB: "/images/suze/beli-gerber-prirodna-suza-gmb.jpg",
+    alt: "suza beli gerber, Hrizantema cvecara orlovaca",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
+    httpaddress: "https://hrizantema.rs/single/suza/beli-gerber-prirodna-suza",
+    link: "/single/suza/beli-gerber-prirodna-suza",
+    sluglink: "beli-gerber-prirodna-suza",
+    prodId: "SU-007",
+  },
+
+  {
+    id: 8,
+    title: "Ljiljan ~ margareta ~ gerber",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
+    imageBig:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.webp",
+    imageBigSmall:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.jpg",
+    imageBigWebPSmall:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-gmb.jpg",
+    alt: "suza ljiljan orjental, bela margareta, crveni gerber, Hrizantema cvecara orlovaca",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana orijenala, belih margareta i crvenih gerbera. Uz najkvalitetnije zelenilo, gipsofila, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
+    link: "/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
+    sluglink: "beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
+    prodId: "SU-008",
+  },
   // {
-  //   id: 1,
-  //   title: "Bele ruže ~ crvene ruže",
-  //   price: "4.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig:
-  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
-  //   imageBigWebP:
-  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
-  //   imageBigSmall:
-  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
-  //   imageBigWebPSmall:
-  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
-  //   imageGMB:
-  //     "/images/suze/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
-  //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
-  //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/suza/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   sluglink:
-  //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   prodId: "SU-001",
+  //   id: 5,
+  //   title: "TITLE",
+  //   price: "2.000",
+  //   priceRange: "1.000 - 2.500",
+  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
+  //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
+  //   imageBigWebPSmall: "/images/suze/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
+  //   alt: "ALT",
+  //   text: "DESCRIPTION",
+  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
+  //   link: "/single/suza/INPUTLINK",
+  //   sluglink: "INPUTLINK",
+  //   prodId: "SU-005",
+  // },
+
+  // {
+  //   id: 5,
+  //   title: "TITLE",
+  //   price: "2.000",
+  //   priceRange: "1.000 - 2.500",
+  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
+  //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
+  //   imageBigWebPSmall: "/images/suze/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
+  //   alt: "ALT",
+  //   text: "DESCRIPTION",
+  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
+  //   link: "/single/suza/INPUTLINK",
+  //   sluglink: "INPUTLINK",
+  //   prodId: "SU-005",
+  // },
+
+  // {
+  //   id: 5,
+  //   title: "TITLE",
+  //   price: "2.000",
+  //   priceRange: "1.000 - 2.500",
+  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
+  //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
+  //   imageBigWebPSmall: "/images/suze/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
+  //   alt: "ALT",
+  //   text: "DESCRIPTION",
+  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
+  //   link: "/single/suza/INPUTLINK",
+  //   sluglink: "INPUTLINK",
+  //   prodId: "SU-005",
   // },
 
   // {
