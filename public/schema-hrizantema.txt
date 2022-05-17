@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+      { "@context" : "https://schema.org",
+         "@type": "LocalBusiness",
+    "currenciesAccepted": ["USD", "EUR", "RSD"],
+    "openingHours": "Mo-Su 07:00-18:00",
+    "address": {
+    "@type": "PostalAddress",
+    "postalCode": "11000",
+    "addressLocality": "Groblje Orlovaca",
+    "streetAddress": "Groblje Orlovača lok 30",
+    "addressCountry": "Srbija"
+    },
+    "aggregateRating": {
+    "@type": "AggregateRating",
+    "reviewCount": "300",
+    "bestRating": "5",
+    "worstRating": "5",
+    "ratingValue": "5.0"
+    },
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "availableLanguage": ["en", "it"],
+    "contactType": "Prodavac",
+    "email": "sztrhrizantema@gmail.com",
+    "telephone": "+381641984088",
+    "url": "http://hrizantema.rs"
+    },
+    "logo": "http://hrizantema.rs/imgs/logo.png",
+    "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "44.709651100497574",
+    "longitude": "20.412431569495617"	
+    },
+    "name": "Hrizantema",
+    "image": "hrizantema-cvecara.jgp",
+    "url": "http://hrizantema.rs",
+    "telephone": "+381641984088",
+    "priceRange": "$$"
+    }
+</script>
