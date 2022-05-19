@@ -85,28 +85,63 @@ export const rezanoItemData = [
     prodId: "KO-004",
   },
 
+  {
+    id: 5,
+    title: "Crimson gerber",
+    price: "120",
+    priceRange: "100 - 200",
+    imageBig: "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.webp",
+    imageBigSmall:
+      "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.jpg",
+    imageBigWebPSmall:
+      "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-gmb.jpg",
+    alt: "Crimson gerber, prirodno, rezano cvece",
+    text: "Hrizantema cvećara Orlovača. Crimson gerber, prirodno cveće, veliki izbor, uvek sveže. ",
+    httpaddress:
+      "https://hrizantema.rs/single/rezano/crimson-gerber-rezano-komadno-cvece",
+    link: "/single/rezano/crimson-gerber-rezano-komadno-cvece",
+    sluglink: "crimson-gerber-rezano-komadno-cvece",
+    prodId: "KO-005",
+  },
+  {
+    id: 6,
+    title: "Kala",
+    price: "200",
+    priceRange: "100 - 300",
+    imageBig: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
+    imageBigWebP: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.webp",
+    imageBigSmall:
+      "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.jpg",
+    imageBigWebPSmall:
+      "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.webp",
+    imageGMB: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-gmb.jpg",
+    alt: "Bela kala",
+    text: "Hrizantema cvećara Orlovača. Kala, prirodno cveće, veliki izbor, uvek sveze.",
+    httpaddress:
+      "https://hrizantema.rs/single/rezano/bela-kala-rezano-komadno-cvece",
+    link: "/single/rezano/bela-kala-rezano-komadno-cvece",
+    sluglink: "bela-kala-rezano-komadno-cvece",
+    prodId: "KO-006",
+  },
   // {
   //   id: 1,
-  //   title: "Bele ruže ~ crvene ruže",
-  //   price: "4.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig:
-  //     "/images/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
-  //   imageBigWebP:
-  //     "/images/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
-  //   imageBigSmall:
-  //     "/images/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
-  //   imageBigWebPSmall:
-  //     "/images/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
-  //   imageGMB:
-  //     "/images/rezano-cvece/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
-  //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
-  //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/rezano/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/rezano/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   sluglink:
-  //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+  //   title: "TITLE",
+  //   price: "200",
+  //   priceRange: "100 - 300",
+  //   imageBig: "/images/rezano-cvece/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/rezano-cvece/INPUTIMAGE.webp",
+  //   imageBigSmall: "/images/rezano-cvece/INPUTIMAGE-small.jpg",
+  //   imageBigWebPSmall: "/images/rezano-cvece/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/rezano-cvece/INPUTIMAGE-gmb.jpg",
+  //   alt: "ALTTTT",
+  //   text: "DESCRIPTION",
+  //   httpaddress: "https://hrizantema.rs/single/rezano/LINKINPUT",
+  //   link: "/single/rezano/LINKINPUT",
+  //   sluglink: "LINKINPUT",
   //   prodId: "KO-001",
   // },
 

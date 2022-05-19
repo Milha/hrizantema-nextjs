@@ -40,6 +40,11 @@ function Header() {
             </Link>
           </li>
           <li>
+            <Link href="/lists/lista-ponuda-rezano-cvece">
+              <a>Rezano cveće</a>
+            </Link>
+          </li>
+          <li>
             <Link href="/lists/list-ostalo-u-ponudi">
               <a>Ostalo u ponudi</a>
             </Link>
