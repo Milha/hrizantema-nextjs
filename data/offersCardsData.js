@@ -11,13 +11,13 @@ export const offersCardsData = [
     cardImage:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg",
     text: "Suze svih veličina i dvostranične suze",
-    offerLink: "/lists/list-ponuda-venci",
+    offerLink: "lists/list-ponuda-suze",
   },
   {
     title: "Ostalo u poundi",
     cardImage: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
 
     text: "Veštačko cveće, kućice za sveće, saksijsko cveće",
-    offerLink: "/lists/list-ponuda-venci",
+    offerLink: "/lists/list-ostalo-u-ponudi",
   },
 ];
