@@ -255,23 +255,190 @@ export const venciItemData = [
     sluglink: "crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
     prodId: "VE-012",
   },
-  // {
-  //   id: 1,
-  //   title: "TITLE",
-  //   price: "4.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/venci/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/venci/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/venci/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/venci/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/venci/IMAGE-gmb.jpg",
-  //   alt: "ALTTTTT",
-  //   text: "DESCCCC",
-  //   httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
-  //   link: "/single/venac/INPUTLINKKKK",
-  //   sluglink: "INPUTLINKKKK",
-  //   prodId: "VE-001",
-  // },
+  {
+    id: 13,
+    title: "Gerber ~ gladiole",
+    price: "4.500",
+    priceRange: "4.000 - 5.000",
+    imageBig: "/images/venci/gerber-crveni-gladiole-crvene-venac.jpg",
+    imageBigWebP: "/images/venci/gerber-crveni-gladiole-crvene-venac.webp",
+    imageBigSmall:
+      "/images/venci/gerber-crveni-gladiole-crvene-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/gerber-crveni-gladiole-crvene-venac-small.webp",
+    imageGMB: "/images/venci/gerber-crveni-gladiole-crvene-venac-gmb.jpg",
+    alt: "Prirodni venac crveni gerberi crvene gladiole zelenilo robelini",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Prirodni venac aranžiran od crvenih gerbera i crvenih gladiola. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/gerber-crveni-gladiole-crvene-venac",
+    link: "/single/venac/gerber-crveni-gladiole-crvene-venac",
+    sluglink: "gerber-crveni-gladiole-crvene-venac",
+    prodId: "VE-013",
+  },
+  {
+    id: 14,
+    title: "Carski ljiljan ~ crveni gerber ~ margareta",
+    price: "4.000",
+    priceRange: "4.000 - 6.000",
+    imageBig:
+      "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.jpg",
+    imageBigWebP:
+      "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.webp",
+    imageBigSmall:
+      "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac-small.webp",
+    imageGMB:
+      "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac-gmb.jpg",
+    alt: "Prirodni venac crveni gerberi roze carski ljiljan bele ruze bele gladiole zelenilo robelini",
+    text: "Prirodni venac aranžiran od roze carskih ljiljana - orijentala, crvenih gerbera i belih margareta. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
+    link: "/single/venac/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
+    sluglink: "roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
+    prodId: "VE-014",
+  },
+  {
+    id: 15,
+    title: "Crveni gerber ~ bela gipsofila",
+    price: "4.000",
+    priceRange: "3.000 - 5.000",
+    imageBig: "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.webp",
+    imageBigSmall:
+      "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac-gmb.jpg",
+    alt: "Prirodni venac crveni gerber i bela gipsofila zelenilo kostrika robelini gipsofila lovor",
+    text: "Prirodni venac aranžiran od crvenih gerbera i belih gipsofila. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor, kostrika, gipsofila.",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/crveni-gerber-bela-gipsofila-prirodni-venac",
+    link: "/single/venac/crveni-gerber-bela-gipsofila-prirodni-venac",
+    sluglink: "crveni-gerber-bela-gipsofila-prirodni-venac",
+    prodId: "VE-015",
+  },
+  {
+    id: 16,
+    title: "Carski ljiljan ~ bele ruže",
+    price: "4.000",
+    priceRange: "4.000 - 6.000",
+    imageBig:
+      "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac.webp",
+    imageBigSmall:
+      "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac-gmb.jpg",
+    alt: "Prirodni venac roze orjental carski ljiljan bela ruza bela margareta hrizantema",
+    text: "Prirodni venac od roze orijentala - carskih ljiljana, belih ruza, belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor, kostrika. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
+    link: "/single/venac/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
+    sluglink:
+      "roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
+    prodId: "VE-016",
+  },
+  {
+    id: 17,
+    title: "Beli ljiljan ~ crvene ruže",
+    price: "4.000",
+    priceRange: "4.000 - 5.500",
+    imageBig:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.webp",
+    imageBigSmall:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac-gmb.jpg",
+    alt: "Prirodni venac beli ljijan crvena ruza bele kale bela margareta hrizantema",
+    text: "Prirodni venac od belih ljjiljana, crvenih ruža, belih kala i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor, kostrika.",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
+    link: "/single/venac/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
+    sluglink:
+      "beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
+    prodId: "VE-017",
+  },
+  {
+    id: 18,
+    title: "Ruža ~ gerber ~ margareta",
+    price: "4.000",
+    priceRange: "4.000 - 5.500",
+    imageBig:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1.jpg",
+    imageBigWebP:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1.webp",
+    imageBigSmall:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1-small.webp",
+    imageGMB:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1-gmb.jpg",
+    alt: "Venac od crvenih i belih ruža, gerbera i margareta",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Venac porodični od belih i crvenih ruža, crvenog gerbera, belih margareta / hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, robelini, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
+    link: "/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
+    sluglink:
+      "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
+    prodId: "VE-018",
+  },
+  {
+    id: 19,
+    title: "Bele ruže ~ ljubičaste margarete",
+    price: "4.000",
+    priceRange: "4.000 - 6.000",
+    imageBig:
+      "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac.webp",
+    imageBigSmall:
+      "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac-gmb.jpg",
+    alt: "Prirodni venac bele ruze ljubicaste margarete hrizanteme zelenilo kostrika robelini gipsofila lovor",
+    text: "Prirodni venac aranžiran od belih ruža i ljubičastih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor, kostrika. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
+    link: "/single/venac/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
+    sluglink:
+      "bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
+    prodId: "VE-019",
+  },
+  {
+    id: 20,
+    title: "Beli ljiljan ~ crvene gerber",
+    price: "4.000",
+    priceRange: "4.000 - 5.000",
+    imageBig:
+      "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.webp",
+    imageBigSmall:
+      "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema-gmb.jpg",
+    alt: "Prirodni venac beli ljijan crveni gerber lovor visnja zelenilo",
+    text: "Prirodni venac od belih ljjiljana, crvenih gerber. Uz najkvalitetnije zelenilo, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
+    link: "/single/venac/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
+    sluglink: "beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
+    prodId: "VE-020",
+  },
   // {
   //   id: 1,
   //   title: "TITLE",
