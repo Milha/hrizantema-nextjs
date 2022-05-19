@@ -1,6 +1,6 @@
-import FrontCard from "../cards/FrontCard";
+import FrontCard from "./FrontCard";
 
-import SmallCard from "../cards/SmallCard";
+// import SmallCard from "./SmallCard";
 
 import classes from "./Offers.module.scss";
 

@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Offers from "../components/conts/Offers";
+import Offers from "../components/cards/Offers";
 import HeroBanner from "../components/layout/HeroBanner";
 import Sample from "../components/layout/Sample";
 
