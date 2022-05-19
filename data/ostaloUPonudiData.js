@@ -168,6 +168,285 @@ export const ostaloUPonudiData = [
     prodId: "OP-008",
   },
 
+  {
+    id: 9,
+    title: "Roze orhideje",
+    price: "2.500",
+    priceRange: "2.000 - 3.000",
+    imageBig:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-gmb.jpg",
+    alt: "vestacko cvece ljubicasto roze orhideje saksija gips",
+    text: "Roze orhideje, veštačko cveće u saksiji.",
+    httpaddress: "https://hrizantema.rs/single/ostalo/INPUTLINK",
+    link: "/single/ostalo/INPUTLINK",
+    sluglink: "INPUTLINK",
+    prodId: "OP-004",
+  },
+  {
+    id: 10,
+    title: "Krst staklo crvene ruže",
+    price: "3.000",
+    priceRange: "2.000 - 4.000",
+    imageBig: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze.webp",
+    imageBigSmall: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-gmb.jpg",
+    alt: "Krst od stakla crvene i bele ruze",
+    text: "Hrizantema cvećara Orlovača. Krst od stakla crvene i bele ruže, veštačko cveće, veliki izbor. ",
+    httpaddress: "https://hrizantema.rs/single/ostalo/staklo-krst-crvene-ruze",
+    link: "/single/ostalo/staklo-krst-crvene-ruze",
+    sluglink: "staklo-krst-crvene-ruze",
+    prodId: "OP-010",
+  },
+  {
+    id: 11,
+    title: "Mala kućica za sveće",
+    price: "1.500",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-mala.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala.webp",
+    imageBigSmall: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/kucica-za-svece-mala-gmb.jpg",
+    alt: "Mala kucica za svece",
+    text: "Hrizantema cvećara Orlovača. Mala kućica za sveće. Kućica za paljenje sveća.",
+    httpaddress: "https://hrizantema.rs/single/ostalo/kucica-za-svece-mala",
+    link: "/single/ostalo/kucica-za-svece-mala",
+    sluglink: "kucica-za-svece-mala",
+    prodId: "OP-011",
+  },
+  {
+    id: 12,
+    title: "Piramida velika staklo crvene i bele ruže",
+    price: "1.400",
+    priceRange: "1.000 - 3.000",
+    imageBig:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-gmb.jpg",
+    alt: "Piramida od stakla crvene i bele ruze",
+    text: "Hrizantema cvećara Orlovača. Velika piramida od stakla crvene i bele ruže, veštačko cveće, veliki izbor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze",
+    link: "/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze",
+    sluglink: "staklo-piramida-velika-bele-ruze-crvene-ruze",
+    prodId: "OP-012",
+  },
+  {
+    id: 13,
+    title: "Suza od stakla ljubičaste i bele ruže",
+    price: "1.800",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-gmb.jpg",
+    alt: "Suza od stakla ljubicaste i bele ruze",
+    text: "Hrizantema cvećara Orlovača. Suza od stakla ljubičaste i bele ruže, veštačko cveće, veliki izbor.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/staklo-suza-mala-bele-crvene-ruze",
+    link: "/single/ostalo/staklo-suza-mala-bele-crvene-ruze",
+    sluglink: "staklo-suza-mala-bele-crvene-ruze",
+    prodId: "OP-013",
+  },
+  {
+    id: 14,
+    title: "Srce staklo crvene bele ruže",
+    price: "1.800",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-gmb.jpg",
+    alt: "srce stakleno crvene i bele ruze",
+    text: "Hrizantema cvećara Orlovača. Srce staklo crvene bele ruže, veštačko cveće, veliki izbor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/srce-staklo-crveno-bele-ruze",
+    link: "/single/ostalo/srce-staklo-crveno-bele-ruze",
+    sluglink: "srce-staklo-crveno-bele-ruze",
+    prodId: "OP-014",
+  },
+  {
+    id: 15,
+    title: "Piramida crvene ruže - mala",
+    price: "1.800",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-gmb.jpg",
+    alt: "Piramida od stakla crvene ruze",
+    text: "Piramida od stakla crvene ruže, veštačko cveće - mala. Veliki izbor cveća.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/mala-piramida-crvene-ruze",
+    link: "/single/ostalo/mala-piramida-crvene-ruze",
+    sluglink: "mala-piramida-crvene-ruze",
+    prodId: "OP-015",
+  },
+  {
+    id: 16,
+    title: "Staklo piramida ljubičaste i bele ruže",
+    price: "1.800",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-gmb.jpg",
+    alt: "Piramida od stakla crvene ruze",
+    text: "Hrizantema cvećara Orlovača. Staklo piramida ljubičaste i bele ruže, veštačko cveće, veliki izbor.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/mala-piramida-ljubicaste-bele-ruze",
+    link: "/single/ostalo/mala-piramida-ljubicaste-bele-ruze",
+    sluglink: "mala-piramida-ljubicaste-bele-ruze",
+    prodId: "OP-016",
+  },
+  {
+    id: 17,
+    title: "Suza od stakla ljubičaste i bele ruže",
+    price: "2.000",
+    priceRange: "1.000 - 3.000",
+    imageBig: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-gmb.jpg",
+    alt: "Suza od stakla ljubicaste i bele ruze",
+    text: "Hrizantema cvećara Orlovača. Suza od stakla ljubičaste i bele ruže, veštačko cveće, veliki izbor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/staklo-suza-ljubicaste-bele-ruze",
+    link: "/single/ostalo/staklo-suza-ljubicaste-bele-ruze",
+    sluglink: "staklo-suza-ljubicaste-bele-ruze",
+    prodId: "OP-017",
+  },
+  {
+    id: 18,
+    title: "Plave orhideje - veštačko",
+    price: "300",
+    priceRange: "200 - 400",
+    imageBig:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-gmb.jpg",
+    alt: "Plava orhideja vestacko cvece",
+    text: "Plava orhideja, veštačko cveće, veliki izbor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips",
+    sluglink: "plava-orhideja-vestacko-cvece-saksija-gips",
+    prodId: "OP-018",
+  },
+  {
+    id: 19,
+    title: "Crvene ružice - veštačko",
+    price: "300",
+    priceRange: "200 - 400",
+    imageBig:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-gmb.jpg",
+    alt: "crvene ruzice vestacko cvece saksija gips",
+    text: "Crvene ružice, veštačko cveće, veliki izbor.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips",
+    sluglink: "crvene-ruzice-vestacko-cvece-saksija-gips",
+    prodId: "OP-019",
+  },
+  {
+    id: 20,
+    title: "Roze orhideje - veštačko",
+    price: "300",
+    priceRange: "200 - 400",
+    imageBig:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-gmb.jpg",
+    alt: "Roze orhideja vestacko cvece",
+    text: "Hrizantema cvećara Orlovača. Roze orhideja, veštačko cveće, veliki izbor.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips",
+    sluglink: "ljubicasta-orhideja-vestacko-cvece-saksija-gips",
+    prodId: "OP-020",
+  },
+  {
+    id: 21,
+    title: "Bele kale - veštačko",
+    price: "300",
+    priceRange: "200 - 400",
+    imageBig:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips.webp",
+    imageBigSmall:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.jpg",
+    imageBigWebPSmall:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-gmb.jpg",
+    alt: "Bela kala vestacko cvece saksija gips",
+    text: "Hrizantema cvećara Orlovača. Bela kala, veštačko cveće, veliki izbor.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/bela-kala-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/bela-kala-vestacko-cvece-saksija-gips",
+    sluglink: "bela-kala-vestacko-cvece-saksija-gips",
+    prodId: "OP-021",
+  },
   // {
   //   id: 4,
   //   title: "TITLE",

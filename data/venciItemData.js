@@ -2,8 +2,8 @@ export const venciItemData = [
   {
     id: 1,
     title: "Bele ruže ~ crvene ruže",
-    price: "4.000",
-    priceRange: "4.000 - 5.500",
+    price: "6.000",
+    priceRange: "5.000 - 7.500",
     imageBig:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
     imageBigWebP:
@@ -172,6 +172,88 @@ export const venciItemData = [
     link: "/single/venac/bele-kale-crveni-gerber-prirodni-venac-gmb",
     sluglink: "bele-kale-crveni-gerber-prirodni-venac-gmb",
     prodId: "VE-008",
+  },
+  {
+    id: 9,
+    title: "Bela ruža ~ beli gerber",
+    price: "6.000",
+    priceRange: "5.000 - 6.500",
+    imageBig: "/images/venci/bela-ruza-beli-gerber-venac.jpg",
+    imageBigWebP: "/images/venci/bela-ruza-beli-gerber-venac.webp",
+    imageBigSmall: "/images/venci/bela-ruza-beli-gerber-venac-small.jpg",
+    imageBigWebPSmall: "/images/venci/bela-ruza-beli-gerber-venac-small.webp",
+    imageGMB: "/images/venci/bela-ruza-beli-gerber-venac-gmb.jpg",
+    alt: "Prirodni venac bela ruza beli gerber zelenilo robelini",
+    text: "Prirodni venac aranžiran od belih ruža i belih gerbera. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/bela-ruza-beli-gerber-venac",
+    link: "/single/venac/bela-ruza-beli-gerber-venac",
+    sluglink: "bela-ruza-beli-gerber-venac",
+    prodId: "VE-009",
+  },
+  {
+    id: 10,
+    title: "Beli gerber ~ žuti gerber",
+    price: "4.000",
+    priceRange: "3.000 - 3.500",
+    imageBig: "/images/venci/zuti-gerber-beli-gerber-prirodni-venac.jpg",
+    imageBigWebP: "/images/venci/zuti-gerber-beli-gerber-prirodni-venac.webp",
+    imageBigSmall:
+      "/images/venci/zuti-gerber-beli-gerber-prirodni-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/zuti-gerber-beli-gerber-prirodni-venac-small.webp",
+    imageGMB: "/images/venci/IMAGE-gmb.jpg",
+    alt: "Venac od belih ruza gerbera",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Venac aranžiran od belih ruža i crvenih gerbera. Uz najkvalitetnije zelenilo, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/zuti-gerber-beli-gerber-prirodni-venac",
+    link: "/single/venac/zuti-gerber-beli-gerber-prirodni-venac",
+    sluglink: "zuti-gerber-beli-gerber-prirodni-venac",
+    prodId: "VE-010",
+  },
+  {
+    id: 11,
+    title: "Orijental ~ crvena ruža ~ gerber",
+    price: "7.000",
+    priceRange: "6.000 - 8.000",
+    imageBig: "/images/venci/orijental-ruza-crvena-gerber-crveni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/orijental-ruza-crvena-gerber-crveni-venac.webp",
+    imageBigSmall:
+      "/images/venci/orijental-ruza-crvena-gerber-crveni-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/orijental-ruza-crvena-gerber-crveni-venac-small.webp",
+    imageGMB: "/images/venci/IMAGE-gmb.jpg",
+    alt: "Prirodni venac za sahrane carski ljiljan orijental crveni gerberi crvene ruze zelenilo robelini",
+    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Prirodni venac aranžiran od orijentala, crvenih ruža i crvenih gerbera. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/orijental-ruza-crvena-gerber-crveni-venac",
+    link: "/single/venac/orijental-ruza-crvena-gerber-crveni-venac",
+    sluglink: "orijental-ruza-crvena-gerber-crveni-venac",
+    prodId: "VE-011",
+  },
+
+  {
+    id: 12,
+    title: "Gerber ~ palisad hrizanteme",
+    price: "4.000",
+    priceRange: "4.000 - 5.000",
+    imageBig:
+      "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac.webp",
+    imageBigSmall:
+      "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac-small.jpg",
+    imageBigWebPSmall:
+      "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac-small.webp",
+    imageGMB: "/images/venci/IMAGE-gmb.jpg",
+    alt: "Prirodni venac crveni gerberi bele palisadke hrizanteme zelenilo robelini",
+    text: "Prirodni venac aranžiran od crvenih gerbera i belih jesenjih ruža palisadki hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor. ",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
+    link: "/single/venac/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
+    sluglink: "crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
+    prodId: "VE-012",
   },
   // {
   //   id: 1,
