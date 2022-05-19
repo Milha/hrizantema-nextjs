@@ -6,7 +6,9 @@ export default function BigVerticalSingleCard({ data }) {
         <img src={data.imageBig} alt={data.alt} />
       </div>
       <div className={classes.text_cont}>
-        <p className={classes.price}>{data.price} din</p>
+        <p className={classes.price}>
+          {data.price === "" ? data.priceRange : data.price} din
+        </p>
         <h2 className={classes.title}>{data.title}</h2>
         <p className={classes.desc}>{data.text}</p>
       </div>

@@ -27,8 +27,8 @@ export const venciItemData = [
   {
     id: 2,
     title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-    price: "5.000",
-    priceRange: "4.000 - 6.000",
+    price: "",
+    priceRange: "5.500 - 6.000",
     imageBig:
       "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac.jpg",
     imageBigWebP:
