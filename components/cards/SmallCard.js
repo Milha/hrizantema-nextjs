@@ -6,8 +6,8 @@ export default function SmallCard({ data }) {
     <div className={classes.cont}>
       <div className={classes.image_cont}>
         <picture>
-          <source srcSet={data.imageSmallWebP} type="image/webp" />
-          <img src={data.imageSmall} alt={data.alt} />
+          <source srcSet={data.imageBigWebP} type="image/webp" />
+          <img src={data.imageBig} alt={data.alt} />
         </picture>
       </div>
       <div className={classes.text_cont}>

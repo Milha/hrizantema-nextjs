@@ -156,14 +156,14 @@ export const venciItemData = [
     title: "Bele kale ~ crveni gerber",
     price: "4.000 - 6.000",
     priceRange: "4.000 - 6.000",
-    imageBig: "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb.jpg",
+    imageBig: "/images/venci/bele-kale-crveni-gerber-prirodni-venac.jpg",
     imageBigWebP:
-      "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb.webp",
+      "/images/venci/bele-kale-crveni-gerber-prirodni-venac.webp",
     imageSmall:
-      "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb-small.jpg",
+      "/images/venci/bele-kale-crveni-gerber-prirodni-venac-small.jpg",
     imageSmallWebP:
-      "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb-small.webp",
-    imageGMB: "/images/venci/IMAGE-gmb.jpg",
+      "/images/venci/bele-kale-crveni-gerber-prirodni-venac-small.webp",
+    imageGMB: "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb.jpg",
     alt: "Prirodni venac bele kale i crveni greber",
     text: "Prirodni venac aranžiran od belih kala i crvenih gerbera. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor, kostrika. ",
     httpaddress:

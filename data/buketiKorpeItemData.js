@@ -133,8 +133,8 @@ export const buketiKorpeItemData = [
     imageSmallWebP:
       "/images/buketi-korpe/buketi-orijental-roze-beli-small.webp",
     imageGMB: "/images/buketi-korpe/buketi-orijental-roze-beli-gmb.jpg",
-    alt: "ALTTTT",
-    text: "DESCRIPTION",
+    alt: "Buket roze i belih ljiljana orijental, prirodno cvece, cvecara Hrizantema",
+    text: "Hrizantema cvećara Orlovača. Buket od roze i belih ljiljana orijentala, od prirodnog cveća.",
     httpaddress:
       "https://hrizantema.rs/single/buket-korpa/buketi-orijental-roze-beli",
     link: "/single/buket-korpa/buketi-orijental-roze-beli",
