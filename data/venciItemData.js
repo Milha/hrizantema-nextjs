@@ -8,9 +8,9 @@ export const venciItemData = [
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
     imageBigWebP:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
     imageGMB:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
@@ -33,9 +33,9 @@ export const venciItemData = [
       "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.webp",
     imageGMB:
       "/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-gmb.jpg",
@@ -57,9 +57,9 @@ export const venciItemData = [
       "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac-small.webp",
     imageGMB:
       "/images/venci/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac-gmb.jpg",
@@ -79,8 +79,8 @@ export const venciItemData = [
     priceRange: "4.000 - 5.000",
     imageBig: "/images/venci/ruza-crvena-oblik-srce-venac.jpg",
     imageBigWebP: "/images/venci/ruza-crvena-oblik-srce-venac.webp",
-    imageBigSmall: "/images/venci/ruza-crvena-oblik-srce-venac-small.jpg",
-    imageBigWebPSmall: "/images/venci/ruza-crvena-oblik-srce-venac-small.webp",
+    imageSmall: "/images/venci/ruza-crvena-oblik-srce-venac-small.jpg",
+    imageSmallWebP: "/images/venci/ruza-crvena-oblik-srce-venac-small.webp",
     imageGMB: "/images/venci/ruza-crvena-oblik-srce-venac-gmb.jpg",
     alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
     text: "Prirodni venac aranžiran od belih ljiljana, belih ruža,crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
@@ -98,9 +98,9 @@ export const venciItemData = [
     priceRange: "4.000 - 5.000",
     imageBig: "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac.jpg",
     imageBigWebP: "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Prirodni venac beli ljiljani roze gerberi zelenilo kostrika robelini gipsofila lovor",
@@ -120,9 +120,9 @@ export const venciItemData = [
       "/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.jpg",
     imageBigWebP:
       "/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Prirodni venac roze carski ljiljan bele ruze bele gladiole zelenilo lovor robelini",
@@ -140,9 +140,8 @@ export const venciItemData = [
     priceRange: "4.000 - 5.500",
     imageBig: "/images/venci/gerber-crveni-oblik-srce-venac.jpg",
     imageBigWebP: "/images/venci/gerber-crveni-oblik-srce-venac.webp",
-    imageBigSmall: "/images/venci/gerber-crveni-oblik-srce-venac-small.jpg",
-    imageBigWebPSmall:
-      "/images/venci/gerber-crveni-oblik-srce-venac-small.webp",
+    imageSmall: "/images/venci/gerber-crveni-oblik-srce-venac-small.jpg",
+    imageSmallWebP: "/images/venci/gerber-crveni-oblik-srce-venac-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Prirodni venac oblik srce crveni gerberi zelenilo robelini",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Prirodni venac u obliku srca od crvenih gerbera. Uz najkvalitetnije zelenilo, lovor.",
@@ -160,9 +159,9 @@ export const venciItemData = [
     imageBig: "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb.jpg",
     imageBigWebP:
       "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/bele-kale-crveni-gerber-prirodni-venac-gmb-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Prirodni venac bele kale i crveni greber",
@@ -180,8 +179,8 @@ export const venciItemData = [
     priceRange: "5.000 - 6.500",
     imageBig: "/images/venci/bela-ruza-beli-gerber-venac.jpg",
     imageBigWebP: "/images/venci/bela-ruza-beli-gerber-venac.webp",
-    imageBigSmall: "/images/venci/bela-ruza-beli-gerber-venac-small.jpg",
-    imageBigWebPSmall: "/images/venci/bela-ruza-beli-gerber-venac-small.webp",
+    imageSmall: "/images/venci/bela-ruza-beli-gerber-venac-small.jpg",
+    imageSmallWebP: "/images/venci/bela-ruza-beli-gerber-venac-small.webp",
     imageGMB: "/images/venci/bela-ruza-beli-gerber-venac-gmb.jpg",
     alt: "Prirodni venac bela ruza beli gerber zelenilo robelini",
     text: "Prirodni venac aranžiran od belih ruža i belih gerbera. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor. ",
@@ -198,9 +197,9 @@ export const venciItemData = [
     priceRange: "3.000 - 3.500",
     imageBig: "/images/venci/zuti-gerber-beli-gerber-prirodni-venac.jpg",
     imageBigWebP: "/images/venci/zuti-gerber-beli-gerber-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/zuti-gerber-beli-gerber-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/zuti-gerber-beli-gerber-prirodni-venac-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Venac od belih ruza gerbera",
@@ -219,9 +218,9 @@ export const venciItemData = [
     imageBig: "/images/venci/orijental-ruza-crvena-gerber-crveni-venac.jpg",
     imageBigWebP:
       "/images/venci/orijental-ruza-crvena-gerber-crveni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/orijental-ruza-crvena-gerber-crveni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/orijental-ruza-crvena-gerber-crveni-venac-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Prirodni venac za sahrane carski ljiljan orijental crveni gerberi crvene ruze zelenilo robelini",
@@ -242,9 +241,9 @@ export const venciItemData = [
       "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac.jpg",
     imageBigWebP:
       "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac-small.webp",
     imageGMB: "/images/venci/IMAGE-gmb.jpg",
     alt: "Prirodni venac crveni gerberi bele palisadke hrizanteme zelenilo robelini",
@@ -262,9 +261,8 @@ export const venciItemData = [
     priceRange: "4.000 - 5.000",
     imageBig: "/images/venci/gerber-crveni-gladiole-crvene-venac.jpg",
     imageBigWebP: "/images/venci/gerber-crveni-gladiole-crvene-venac.webp",
-    imageBigSmall:
-      "/images/venci/gerber-crveni-gladiole-crvene-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmall: "/images/venci/gerber-crveni-gladiole-crvene-venac-small.jpg",
+    imageSmallWebP:
       "/images/venci/gerber-crveni-gladiole-crvene-venac-small.webp",
     imageGMB: "/images/venci/gerber-crveni-gladiole-crvene-venac-gmb.jpg",
     alt: "Prirodni venac crveni gerberi crvene gladiole zelenilo robelini",
@@ -284,9 +282,9 @@ export const venciItemData = [
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.jpg",
     imageBigWebP:
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac-small.webp",
     imageGMB:
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac-gmb.jpg",
@@ -306,9 +304,9 @@ export const venciItemData = [
     imageBig: "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac-small.webp",
     imageGMB:
       "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac-gmb.jpg",
@@ -329,9 +327,9 @@ export const venciItemData = [
       "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac-small.webp",
     imageGMB:
       "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac-gmb.jpg",
@@ -353,9 +351,9 @@ export const venciItemData = [
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac-small.webp",
     imageGMB:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac-gmb.jpg",
@@ -377,9 +375,9 @@ export const venciItemData = [
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1.jpg",
     imageBigWebP:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1-small.webp",
     imageGMB:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1-gmb.jpg",
@@ -401,9 +399,9 @@ export const venciItemData = [
       "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac-small.webp",
     imageGMB:
       "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac-gmb.jpg",
@@ -425,9 +423,9 @@ export const venciItemData = [
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.jpg",
     imageBigWebP:
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema-small.webp",
     imageGMB:
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema-gmb.jpg",
@@ -446,8 +444,8 @@ export const venciItemData = [
   //   priceRange: "4.000 - 5.500",
   //   imageBig: "/images/venci/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/venci/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/venci/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/venci/INPUTIMAGE-small.webp",
+  //   imageSmall: "/images/venci/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/venci/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/venci/IMAGE-gmb.jpg",
   //   alt: "ALTTTTT",
   //   text: "DESCCCC",
@@ -465,9 +463,9 @@ export const venciItemData = [
   //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
   //   imageBigWebP:
   //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
-  //   imageBigSmall:
+  //   imageSmall:
   //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
-  //   imageBigWebPSmall:
+  //   imageSmallWebP:
   //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
   //   imageGMB:
   //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",

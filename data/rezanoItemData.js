@@ -7,7 +7,7 @@ export const rezanoItemData = [
     imageBig: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.webp",
     imageBigSmall: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-gmb.jpg",
     alt: "crvena ruza",
@@ -27,7 +27,7 @@ export const rezanoItemData = [
     imageBigWebP: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.webp",
     imageBigSmall:
       "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-gmb.jpg",
     alt: "bela ruza prirodni rezani cvet",
@@ -49,7 +49,7 @@ export const rezanoItemData = [
       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.webp",
     imageBigSmall:
       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small-small.webp",
     imageGMB:
       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small-gmb.jpg",
@@ -72,7 +72,7 @@ export const rezanoItemData = [
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.webp",
     imageBigSmall:
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-small.webp",
     imageGMB:
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-gmb.jpg",
@@ -95,7 +95,7 @@ export const rezanoItemData = [
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.webp",
     imageBigSmall:
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.webp",
     imageGMB:
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-gmb.jpg",
@@ -116,7 +116,7 @@ export const rezanoItemData = [
     imageBigWebP: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.webp",
     imageBigSmall:
       "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-gmb.jpg",
     alt: "Bela kala",
@@ -135,7 +135,7 @@ export const rezanoItemData = [
   //   imageBig: "/images/rezano-cvece/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/rezano-cvece/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/rezano-cvece/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/rezano-cvece/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/rezano-cvece/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/rezano-cvece/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",

@@ -7,8 +7,7 @@ export const buketiKorpeItemData = [
     imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice.webp",
     imageBigSmall: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.jpg",
-    imageBigWebPSmall:
-      "/images/buketi-korpe/buket-crvene-ruze-perlice-small.webp",
+    imageSmallWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.webp",
     imageGMB: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
     alt: "Buket crvene ruze sa perlicama, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od crvenih ruža sa perlicama, od prirodnog cveća i najkvalitetnijeg zelenila. ",
@@ -26,8 +25,7 @@ export const buketiKorpeItemData = [
     imageBig: "/images/buketi-korpe/buket-orijental-bele-ruze.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-orijental-bele-ruze.webp",
     imageBigSmall: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
-    imageBigWebPSmall:
-      "/images/buketi-korpe/buket-orijental-bele-ruze-small.webp",
+    imageSmallWebP: "/images/buketi-korpe/buket-orijental-bele-ruze-small.webp",
     imageGMB: "/images/buketi-korpe/buket-orijental-bele-ruze-gmb.jpg",
     alt: "Buket roze orijental i bele ruze, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od roze orijentala i belih ruža, od prirodnog cveća. ",
@@ -47,7 +45,7 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa.webp",
     imageBigSmall:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.webp",
     imageGMB:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-gmb.jpg",
@@ -70,7 +68,7 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa.webp",
     imageBigSmall:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.webp",
     imageGMB:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-gmb.jpg",
@@ -93,7 +91,7 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket.webp",
     imageBigSmall:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.webp",
     imageGMB:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-gmb.jpg",
@@ -114,8 +112,7 @@ export const buketiKorpeItemData = [
     imageBig: "/images/buketi-korpe/kale-bele-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa.webp",
     imageBigSmall: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.jpg",
-    imageBigWebPSmall:
-      "/images/buketi-korpe/kale-bele-prirodna-korpa-small.webp",
+    imageSmallWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.webp",
     imageGMB: "/images/buketi-korpe/kale-bele-prirodna-korpa-gmb.jpg",
     alt: "Korpa od prirodnog cveca bela kala, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća bele kale. Zelenilo lovor višnja. ",
@@ -133,7 +130,7 @@ export const buketiKorpeItemData = [
     imageBig: "/images/buketi-korpe/buketi-orijental-roze-beli.jpg",
     imageBigWebP: "/images/buketi-korpe/buketi-orijental-roze-beli.webp",
     imageBigSmall: "/images/buketi-korpe/buketi-orijental-roze-beli-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/buketi-korpe/buketi-orijental-roze-beli-small.webp",
     imageGMB: "/images/buketi-korpe/buketi-orijental-roze-beli-gmb.jpg",
     alt: "ALTTTT",
@@ -153,7 +150,7 @@ export const buketiKorpeItemData = [
     imageBigWebP: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa.webp",
     imageBigSmall:
       "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.webp",
     imageGMB: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-gmb.jpg",
     alt: "Korpa od prirodnog cveca svetlo roze gerberi, prirodno cvece, cvecara Hrizantema",
@@ -172,7 +169,7 @@ export const buketiKorpeItemData = [
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",
@@ -189,7 +186,7 @@ export const buketiKorpeItemData = [
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",
@@ -206,7 +203,7 @@ export const buketiKorpeItemData = [
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",
@@ -223,7 +220,7 @@ export const buketiKorpeItemData = [
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",

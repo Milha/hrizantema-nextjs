@@ -9,7 +9,7 @@ export const suzeItemData = [
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.webp",
     imageBigSmall:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-gmb.jpg",
@@ -29,7 +29,7 @@ export const suzeItemData = [
     imageBig: "/images/suze/crvena-ruza-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-prirodna-suza.webp",
     imageBigSmall: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
-    imageBigWebPSmall: "/images/suze/crvena-ruza-prirodna-suza-small.webp",
+    imageSmallWebP: "/images/suze/crvena-ruza-prirodna-suza-small.webp",
     imageGMB: "/images/suze/crvena-ruza-prirodna-suza-gmb.jpg",
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od crvenih ruža. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
@@ -49,7 +49,7 @@ export const suzeItemData = [
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.webp",
     imageBigSmall:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-gmb.jpg",
@@ -70,7 +70,7 @@ export const suzeItemData = [
     imageBigWebP: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.webp",
     imageBigSmall:
       "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.webp",
     imageGMB: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-gmb.jpg",
     alt: "suza beli ljilja, crveni gerber",
@@ -93,7 +93,7 @@ export const suzeItemData = [
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.webp",
     imageBigSmall:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-gmb.jpg",
@@ -116,7 +116,7 @@ export const suzeItemData = [
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.webp",
     imageBigSmall:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-gmb.jpg",
@@ -137,7 +137,7 @@ export const suzeItemData = [
     imageBig: "/images/suze/beli-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-gerber-prirodna-suza.webp",
     imageBigSmall: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
-    imageBigWebPSmall: "/images/suze/beli-gerber-prirodna-suza-small.webp",
+    imageSmallWebP: "/images/suze/beli-gerber-prirodna-suza-small.webp",
     imageGMB: "/images/suze/beli-gerber-prirodna-suza-gmb.jpg",
     alt: "suza beli gerber, Hrizantema cvecara orlovaca",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
@@ -158,7 +158,7 @@ export const suzeItemData = [
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.webp",
     imageBigSmall:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.jpg",
-    imageBigWebPSmall:
+    imageSmallWebP:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-gmb.jpg",
@@ -178,7 +178,7 @@ export const suzeItemData = [
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/suze/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
@@ -196,7 +196,7 @@ export const suzeItemData = [
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/suze/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
@@ -214,7 +214,7 @@ export const suzeItemData = [
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
   //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageBigWebPSmall: "/images/suze/INPUTIMAGE-small.webp",
+  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
