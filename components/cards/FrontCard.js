@@ -6,7 +6,12 @@ export default function FrontCard({ data }) {
   return (
     <article className={classes.cont}>
       <div className={classes.image_cont}>
-        <img src={data.cardImage} alt="" />
+        <img
+          src={data.cardImage}
+          width="15rem"
+          height="30rem"
+          alt="proizvodi u ponudi"
+        />
       </div>
 
       <div className={classes.text_cont}>
