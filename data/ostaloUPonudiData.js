@@ -6,7 +6,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.800 - 2.200",
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-velika.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika.webp",
-    imageBigSmall: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
+    imageSmall: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
     imageSmallWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/kucica-za-svece-velika-gmb.jpg",
     alt: "Velika kucica za paljenje sveca na groblju",
@@ -25,7 +25,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips-small.webp",
@@ -46,7 +46,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.000 - 2.000",
     imageBig: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze.webp",
-    imageBigSmall: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.jpg",
+    imageSmall: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.jpg",
     imageSmallWebP: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-gmb.jpg",
     alt: "Krst od stakla, za groblje, plave ruze",
@@ -63,8 +63,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.000 - 3.000",
     imageBig: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze.webp",
-    imageBigSmall:
-      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.jpg",
+    imageSmall: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-gmb.jpg",
@@ -86,7 +85,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.webp",
@@ -108,7 +107,7 @@ export const ostaloUPonudiData = [
     imageBig: "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.webp",
@@ -129,7 +128,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.000 - 3.000",
     imageBig: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.webp",
@@ -151,7 +150,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.webp",
@@ -175,7 +174,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.webp",
@@ -195,7 +194,7 @@ export const ostaloUPonudiData = [
     priceRange: "2.000 - 4.000",
     imageBig: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze.webp",
-    imageBigSmall: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.jpg",
+    imageSmall: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-gmb.jpg",
@@ -213,7 +212,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.000 - 3.000",
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-mala.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala.webp",
-    imageBigSmall: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
+    imageSmall: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
     imageSmallWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/kucica-za-svece-mala-gmb.jpg",
     alt: "Mala kucica za svece",
@@ -232,7 +231,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.webp",
@@ -254,7 +253,7 @@ export const ostaloUPonudiData = [
     imageBig: "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.webp",
@@ -275,7 +274,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.000 - 3.000",
     imageBig: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.webp",
@@ -295,8 +294,7 @@ export const ostaloUPonudiData = [
     priceRange: "1.000 - 3.000",
     imageBig: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze.webp",
-    imageBigSmall:
-      "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.jpg",
+    imageSmall: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-gmb.jpg",
@@ -316,7 +314,7 @@ export const ostaloUPonudiData = [
     imageBig: "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.webp",
@@ -338,7 +336,7 @@ export const ostaloUPonudiData = [
     imageBig: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.webp",
@@ -361,7 +359,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.webp",
@@ -384,7 +382,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.webp",
@@ -407,7 +405,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.webp",
@@ -430,7 +428,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.jpg",
     imageSmallWebP:
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.webp",
@@ -451,7 +449,7 @@ export const ostaloUPonudiData = [
   //   priceRange: "1.000 - 3.000",
   //   imageBig: "/images/ostalo-u-ponudi/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/ostalo-u-ponudi/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTT",
@@ -471,7 +469,7 @@ export const ostaloUPonudiData = [
   //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
   //   imageBigWebP:
   //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
-  //   imageBigSmall:
+  //   imageSmall:
   //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
   //   imageSmallWebP:
   //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",

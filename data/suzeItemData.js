@@ -7,7 +7,7 @@ export const suzeItemData = [
     imageBig: "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.jpg",
     imageBigWebP:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg",
     imageSmallWebP:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
@@ -28,7 +28,7 @@ export const suzeItemData = [
     priceRange: "2.000 - 3.000",
     imageBig: "/images/suze/crvena-ruza-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-prirodna-suza.webp",
-    imageBigSmall: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
+    imageSmall: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
     imageSmallWebP: "/images/suze/crvena-ruza-prirodna-suza-small.webp",
     imageGMB: "/images/suze/crvena-ruza-prirodna-suza-gmb.jpg",
     alt: "suza bele margarete, crveni gerber",
@@ -47,7 +47,7 @@ export const suzeItemData = [
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.jpg",
     imageSmallWebP:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.webp",
@@ -68,7 +68,7 @@ export const suzeItemData = [
     priceRange: "2.000 - 4.000",
     imageBig: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.jpg",
     imageSmallWebP:
       "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.webp",
@@ -91,7 +91,7 @@ export const suzeItemData = [
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.jpg",
     imageBigWebP:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.jpg",
     imageSmallWebP:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.webp",
@@ -114,7 +114,7 @@ export const suzeItemData = [
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.jpg",
     imageBigWebP:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.jpg",
     imageSmallWebP:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.webp",
@@ -136,7 +136,7 @@ export const suzeItemData = [
     priceRange: "1.000 - 2.500",
     imageBig: "/images/suze/beli-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-gerber-prirodna-suza.webp",
-    imageBigSmall: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
+    imageSmall: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
     imageSmallWebP: "/images/suze/beli-gerber-prirodna-suza-small.webp",
     imageGMB: "/images/suze/beli-gerber-prirodna-suza-gmb.jpg",
     alt: "suza beli gerber, Hrizantema cvecara orlovaca",
@@ -156,7 +156,7 @@ export const suzeItemData = [
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.jpg",
     imageSmallWebP:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.webp",
@@ -177,7 +177,7 @@ export const suzeItemData = [
   //   priceRange: "1.000 - 2.500",
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",
@@ -195,7 +195,7 @@ export const suzeItemData = [
   //   priceRange: "1.000 - 2.500",
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",
@@ -213,7 +213,7 @@ export const suzeItemData = [
   //   priceRange: "1.000 - 2.500",
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/suze/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",

@@ -6,7 +6,7 @@ export const buketiKorpeItemData = [
     priceRange: "4.000 - 5.500",
     imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice.webp",
-    imageBigSmall: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.jpg",
+    imageSmall: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.jpg",
     imageSmallWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.webp",
     imageGMB: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
     alt: "Buket crvene ruze sa perlicama, prirodno cvece, cvecara Hrizantema",
@@ -24,7 +24,7 @@ export const buketiKorpeItemData = [
     priceRange: "2.000 - 4.000",
     imageBig: "/images/buketi-korpe/buket-orijental-bele-ruze.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-orijental-bele-ruze.webp",
-    imageBigSmall: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
+    imageSmall: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
     imageSmallWebP: "/images/buketi-korpe/buket-orijental-bele-ruze-small.webp",
     imageGMB: "/images/buketi-korpe/buket-orijental-bele-ruze-gmb.jpg",
     alt: "Buket roze orijental i bele ruze, prirodno cvece, cvecara Hrizantema",
@@ -43,7 +43,7 @@ export const buketiKorpeItemData = [
     imageBig: "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa.jpg",
     imageBigWebP:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.jpg",
     imageSmallWebP:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.webp",
@@ -66,7 +66,7 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa.jpg",
     imageBigWebP:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.jpg",
     imageSmallWebP:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.webp",
@@ -89,7 +89,7 @@ export const buketiKorpeItemData = [
     imageBig: "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket.jpg",
     imageBigWebP:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.jpg",
     imageSmallWebP:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.webp",
@@ -111,7 +111,7 @@ export const buketiKorpeItemData = [
     priceRange: "2.000 - 3.500",
     imageBig: "/images/buketi-korpe/kale-bele-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa.webp",
-    imageBigSmall: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.jpg",
+    imageSmall: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.jpg",
     imageSmallWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.webp",
     imageGMB: "/images/buketi-korpe/kale-bele-prirodna-korpa-gmb.jpg",
     alt: "Korpa od prirodnog cveca bela kala, cvecara Hrizantema",
@@ -129,7 +129,7 @@ export const buketiKorpeItemData = [
     priceRange: "2.000 - 3.500",
     imageBig: "/images/buketi-korpe/buketi-orijental-roze-beli.jpg",
     imageBigWebP: "/images/buketi-korpe/buketi-orijental-roze-beli.webp",
-    imageBigSmall: "/images/buketi-korpe/buketi-orijental-roze-beli-small.jpg",
+    imageSmall: "/images/buketi-korpe/buketi-orijental-roze-beli-small.jpg",
     imageSmallWebP:
       "/images/buketi-korpe/buketi-orijental-roze-beli-small.webp",
     imageGMB: "/images/buketi-korpe/buketi-orijental-roze-beli-gmb.jpg",
@@ -148,7 +148,7 @@ export const buketiKorpeItemData = [
     priceRange: "1.000 - 2.500",
     imageBig: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa.webp",
-    imageBigSmall:
+    imageSmall:
       "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.jpg",
     imageSmallWebP:
       "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.webp",
@@ -168,7 +168,7 @@ export const buketiKorpeItemData = [
   //   priceRange: "2.000 - 3.500",
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
@@ -185,7 +185,7 @@ export const buketiKorpeItemData = [
   //   priceRange: "2.000 - 3.500",
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
@@ -202,7 +202,7 @@ export const buketiKorpeItemData = [
   //   priceRange: "2.000 - 3.500",
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
@@ -219,7 +219,7 @@ export const buketiKorpeItemData = [
   //   priceRange: "2.000 - 3.500",
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageBigSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTT",
