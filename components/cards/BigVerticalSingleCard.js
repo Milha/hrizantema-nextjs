@@ -3,7 +3,10 @@ export default function BigVerticalSingleCard({ data }) {
   return (
     <div className={classes.cont}>
       <div className={classes.img_cont}>
-        <img src={data.imageBig} alt={data.alt} />
+        <picture>
+          <source srcSet={data.imageBigWebP} type="image/webp" />
+          <img src={data.imageBig} alt={data.alt} />
+        </picture>
       </div>
       <div className={classes.text_cont}>
         <p className={classes.price}>
