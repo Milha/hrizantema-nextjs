@@ -213,8 +213,8 @@ export const venciItemData = [
   {
     id: 11,
     title: "Orijental ~ crvena ruža ~ gerber",
-    price: "7.000",
-    priceRange: "6.000 - 8.000",
+    price: "8.000",
+    priceRange: "7.000 - 9.000",
     imageBig: "/images/venci/orijental-ruza-crvena-gerber-crveni-venac.jpg",
     imageBigWebP:
       "/images/venci/orijental-ruza-crvena-gerber-crveni-venac.webp",
@@ -276,8 +276,8 @@ export const venciItemData = [
   {
     id: 14,
     title: "Carski ljiljan ~ crveni gerber ~ margareta",
-    price: "4.000",
-    priceRange: "4.000 - 6.000",
+    price: "9.000",
+    priceRange: "8.000 - 10.000",
     imageBig:
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.jpg",
     imageBigWebP:
@@ -321,8 +321,8 @@ export const venciItemData = [
   {
     id: 16,
     title: "Carski ljiljan ~ bele ruže",
-    price: "4.000",
-    priceRange: "4.000 - 6.000",
+    price: "8.000",
+    priceRange: "7.000 - 9.000",
     imageBig:
       "/images/venci/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac.jpg",
     imageBigWebP:
@@ -345,8 +345,8 @@ export const venciItemData = [
   {
     id: 17,
     title: "Beli ljiljan ~ crvene ruže",
-    price: "4.000",
-    priceRange: "4.000 - 5.500",
+    price: "6.000",
+    priceRange: "5.000 - 7.500",
     imageBig:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.jpg",
     imageBigWebP:
@@ -369,8 +369,8 @@ export const venciItemData = [
   {
     id: 18,
     title: "Ruža ~ gerber ~ margareta",
-    price: "4.000",
-    priceRange: "4.000 - 5.500",
+    price: "8.000",
+    priceRange: "7.000 - 9.500",
     imageBig:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1.jpg",
     imageBigWebP:
@@ -393,8 +393,8 @@ export const venciItemData = [
   {
     id: 19,
     title: "Bele ruže ~ ljubičaste margarete",
-    price: "4.000",
-    priceRange: "4.000 - 6.000",
+    price: "7.000",
+    priceRange: "6.000 - 8.000",
     imageBig:
       "/images/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
@@ -417,7 +417,7 @@ export const venciItemData = [
   {
     id: 20,
     title: "Beli ljiljan ~ crvene gerber",
-    price: "4.000",
+    price: "6.000",
     priceRange: "4.000 - 5.000",
     imageBig:
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.jpg",
