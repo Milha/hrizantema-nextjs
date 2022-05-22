@@ -11,6 +11,7 @@ export default function FrontCard({ data }) {
           width="15rem"
           height="30rem"
           alt="proizvodi u ponudi"
+          loading="lazy"
         />
       </div>
 

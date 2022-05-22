@@ -7,7 +7,6 @@ export default function Slug({ pageItems }) {
     <div>
       <HeadSingle data={pageItems} />
       <BigVerticalSingleCard data={pageItems} />
-      <h2>{pageItems.title}</h2>
     </div>
   );
 }

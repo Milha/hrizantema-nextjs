@@ -7,7 +7,7 @@ export default function SmallCard({ data }) {
       <div className={classes.image_cont}>
         <picture>
           <source srcSet={data.imageBigWebP} type="image/webp" />
-          <img src={data.imageBig} alt={data.alt} />
+          <img src={data.imageBig} alt={data.alt} loading="lazy" />
         </picture>
       </div>
       <div className={classes.text_cont}>
