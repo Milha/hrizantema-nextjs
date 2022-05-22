@@ -4,6 +4,7 @@ import Head from "next/head";
 
 import { firmSchema } from "../utils/firmSchema";
 import Header from "../components/layout/Header";
+import GoogleAnalytics from "../components/diverse/GoogleAnalytics";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -68,6 +69,8 @@ function MyApp({ Component, pageProps }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(firmSchema) }}
         />
       </Head>
+
+      <GoogleAnalytics />
 
       <Header />
 
