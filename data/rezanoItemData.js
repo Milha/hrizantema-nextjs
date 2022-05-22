@@ -64,7 +64,7 @@ export const rezanoItemData = [
   {
     id: 4,
     title: "Bela margareta",
-    price: "200",
+    price: "250",
     priceRange: "200 - 300",
     imageBig: "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
     imageBigWebP:
@@ -87,7 +87,7 @@ export const rezanoItemData = [
   {
     id: 5,
     title: "Crimson gerber",
-    price: "120",
+    price: "150",
     priceRange: "100 - 200",
     imageBig: "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.jpg",
     imageBigWebP:
@@ -109,7 +109,7 @@ export const rezanoItemData = [
   {
     id: 6,
     title: "Kala",
-    price: "200",
+    price: "150",
     priceRange: "100 - 300",
     imageBig: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.webp",
