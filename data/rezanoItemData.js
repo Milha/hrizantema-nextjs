@@ -1,5 +1,6 @@
 export const rezanoItemData = [
   {
+    test: [3, 4, 5],
     id: 1,
     title: "Crvena ruža",
     price: "200",

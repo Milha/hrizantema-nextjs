@@ -2,12 +2,16 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 
 import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
+import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
   return (
     <div>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} />
+      <BigVerticalSingleCard
+        data={pageItems}
+        miniData={similarsBuketiKorpeFinder}
+      />
     </div>
   );
 }

@@ -1,12 +1,14 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
 import { venciItemData } from "../../../data/venciItemData";
+import { similarsVenciFinder } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
+  console.log(similarsVenciFinder, "FROM VENCI SLUG");
   return (
     <>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} />
+      <BigVerticalSingleCard data={pageItems} miniData={similarsVenciFinder} />
     </>
   );
 }

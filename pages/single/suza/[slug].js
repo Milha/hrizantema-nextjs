@@ -2,12 +2,13 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 
 import { suzeItemData } from "../../../data/suzeItemData";
+import { similarsSuzeFinder } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
   return (
     <>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} />
+      <BigVerticalSingleCard data={pageItems} miniData={similarsSuzeFinder} />
     </>
   );
 }
