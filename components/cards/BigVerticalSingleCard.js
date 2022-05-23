@@ -1,4 +1,6 @@
-import classes from './BigVerticalSingleCard.module.scss';
+import ShareLinksCont from "../conts/ShareLinksCont";
+import classes from "./BigVerticalSingleCard.module.scss";
+
 export default function BigVerticalSingleCard({ data }) {
   return (
     <div className={classes.cont}>
@@ -10,11 +12,12 @@ export default function BigVerticalSingleCard({ data }) {
       </div>
       <div className={classes.text_cont}>
         <p className={classes.price}>
-          {data.price === '' ? data.priceRange : data.price} din
+          {data.price === "" ? data.priceRange : data.price} din
         </p>
         <h2 className={classes.title}>{data.title}</h2>
         <p className={classes.desc}>{data.text}</p>
         <p>šifra proizvoda: {data.prodId}</p>
+        <ShareLinksCont data={data} />
       </div>
     </div>
   );

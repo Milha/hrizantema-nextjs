@@ -1,0 +1,10 @@
+.share_link_cont {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+
+  @media (min-width: 60rem) {
+    justify-content: left;
+    gap: 1.5rem;
+  }
+}

@@ -52,6 +52,11 @@
     margin: 0 auto;
     padding: 0.5rem;
     text-align: center;
+    padding-bottom: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 
     @media (min-width: 50rem) {
       text-align: left;
