@@ -19,6 +19,7 @@ import { rezanoItemData } from "../data/rezanoItemData";
 const dataRezano = rezanoItemData;
 
 export const rezanoSimilarData = dataRezano.map((inj) => ({
+  test: inj.test,
   id: inj.id,
   title: inj.title,
   price: inj.price,
@@ -27,7 +28,7 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
   imageBigWebP: inj.imageBigWebP,
   imageSmall: inj.imageSmall,
   imageSmallWebP: inj.imageSmallWebP,
-  imageSmallWebP: inj.rezanoSimilarData,
+
   imageGMB: inj.imageGMB,
   alt: inj.alt,
   text: inj.text,
@@ -35,10 +36,31 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
-  similar: inj.similar,
-//   rezanoSimilarData: inj.rezanoSimilarData,
-//   rezanoSimilarData: inj.rezanoSimilarData,
-//   rezanoSimilarData: inj.rezanoSimilarData,
-//   rezanoSimilarData: inj.rezanoSimilarData,
-//   rezanoSimilarData: inj.rezanoSimilarData,
+  similar: [
+    {
+      miniLink: rezanoItemData[inj.test[0]].link,
+      miniImage: rezanoItemData[inj.test[0]].imageBig,
+      miniPrice: rezanoItemData[inj.test[0]].price,
+      minAlt: rezanoItemData[inj.test[0]].alt,
+    },
+    {
+      miniLink: rezanoItemData[inj.test[1]].link,
+      miniImage: rezanoItemData[inj.test[1]].imageBig,
+      miniPrice: rezanoItemData[inj.test[1]].price,
+      minAlt: rezanoItemData[inj.test[1]].alt,
+    },
+    {
+      miniLink: rezanoItemData[inj.test[2]].link,
+      miniImage: rezanoItemData[inj.test[2]].imageBig,
+      miniPrice: rezanoItemData[inj.test[2]].price,
+      minAlt: rezanoItemData[inj.test[2]].alt,
+    },
+  ],
+  //   similar: inj.similar,
+
+  //   rezanoSimilarData: inj.rezanoSimilarData,
+  //   rezanoSimilarData: inj.rezanoSimilarData,
+  //   rezanoSimilarData: inj.rezanoSimilarData,
+  //   rezanoSimilarData: inj.rezanoSimilarData,
+  //   rezanoSimilarData: inj.rezanoSimilarData,
 }));

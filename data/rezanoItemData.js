@@ -1,5 +1,6 @@
 export const rezanoItemData = [
   {
+    test: [1, 2, 4],
     id: 1,
     title: "Crvena ruža",
     price: "200",
@@ -43,6 +44,7 @@ export const rezanoItemData = [
     ],
   },
   {
+    test: [0, 5, 4],
     id: 2,
     title: "Bela ruža",
     price: "200",
@@ -87,6 +89,7 @@ export const rezanoItemData = [
     ],
   },
   {
+    test: [3, 1, 5],
     id: 3,
     title: "Beli ljiljan",
     price: "400",
@@ -135,6 +138,7 @@ export const rezanoItemData = [
     ],
   },
   {
+    test: [2, 3, 5],
     id: 4,
     title: "Bela margareta",
     price: "250",
@@ -183,6 +187,7 @@ export const rezanoItemData = [
   },
 
   {
+    test: [1, 0, 5],
     id: 5,
     title: "Crimson gerber",
     price: "150",
@@ -230,6 +235,7 @@ export const rezanoItemData = [
     ],
   },
   {
+    test: [1, 2, 3],
     id: 6,
     title: "Kala",
     price: "150",

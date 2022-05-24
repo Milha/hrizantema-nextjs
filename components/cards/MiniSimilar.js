@@ -6,14 +6,8 @@ export default function MiniSimilar({ miniSimilarFinal }) {
   return (
     <div className={classes.cont}>
       <picture>
-        <source
-          srcSet={miniSimilarFinal.miniImage}
-          type="image/webp"
-        />
-        <img
-          src={miniSimilarFinal.miniImage}
-          alt={miniSimilarFinal.minAlt}
-        />
+        <source srcSet={miniSimilarFinal} type="image/webp" />
+        <img src={miniSimilarFinal.miniImage} alt={miniSimilarFinal.minAlt} />
       </picture>
       {/* <img src={miniSimilarFinal.miniImage} alt="" /> */}
       <p>{miniSimilarFinal.miniPrice}</p>

@@ -1,11 +1,14 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
-import { rezanoItemData } from "../../../data/rezanoItemData";
+// import { rezanoItemData } from "../../../data/rezanoItemData";
 import { rezanoSimilarData } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
-  console.log(rezanoItemData, "FROM norma datat");
-  console.log(rezanoSimilarData, "From changed data");
+  console.log(rezanoSimilarData[3].test[2], "FROM norma datat");
+  // console.log(pageItems, "FROM changed data");
+  // console.log(pageItems, "FROM changed data");
+  // console.log(rezanoSimilarData[0].test[0], "From changed data");
+  // console.log(pageItems.test[2], "From changed data");
   return (
     <div>
       <HeadSingle data={pageItems} />
@@ -16,7 +19,7 @@ export default function Slug({ pageItems }) {
 
 export async function getStaticProps(context) {
   // pageItems LOGIC
-  const data = rezanoItemData;
+  const data = rezanoSimilarData;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
@@ -30,7 +33,7 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
-  const data = rezanoItemData;
+  const data = rezanoSimilarData;
 
   const paths = data.map((way) => ({
     params: { slug: way.sluglink },

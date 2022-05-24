@@ -4,7 +4,9 @@ import classes from "./SimilarsCont.module.scss";
 // import { similarsVenciFinder } from "../../utils/similarsFinder";
 
 export default function SimilarsCont({ data }) {
-  // console.log(miniData, "FROM SIMILAR CONT");
+  // console.log(data.similar[0], "FROM SIMILAR CONT 1");
+  // console.log(data.similar[1], "FROM SIMILAR CONT 2");
+  // console.log(data.similar[2], "FROM SIMILAR CONT 3");
   const similarData1 = data.similar[0];
   const similarData2 = data.similar[1];
   const similarData3 = data.similar[2];
