@@ -18,6 +18,25 @@ export const rezanoItemData = [
     link: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
     sluglink: "crvena-ruza-rezano-komadno-cvece",
     prodId: "KO-001",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -38,6 +57,25 @@ export const rezanoItemData = [
     link: "/single/rezano/bela-ruza-rezano-komadno-cvece",
     sluglink: "bela-ruza-rezano-komadno-cvece",
     prodId: "KO-002",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -63,6 +101,25 @@ export const rezanoItemData = [
     sluglink:
       "beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
     prodId: "KO-003",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -86,6 +143,25 @@ export const rezanoItemData = [
     link: "/single/rezano/bela-margareta-rezano-komadno-cvece",
     sluglink: "bela-margareta-rezano-komadno-cvece",
     prodId: "KO-004",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
 
   {
@@ -110,6 +186,25 @@ export const rezanoItemData = [
     link: "/single/rezano/crimson-gerber-rezano-komadno-cvece",
     sluglink: "crimson-gerber-rezano-komadno-cvece",
     prodId: "KO-005",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -130,6 +225,25 @@ export const rezanoItemData = [
     link: "/single/rezano/bela-kala-rezano-komadno-cvece",
     sluglink: "bela-kala-rezano-komadno-cvece",
     prodId: "KO-006",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   // {
   //   id: 1,
@@ -147,6 +261,25 @@ export const rezanoItemData = [
   //   link: "/single/rezano/LINKINPUT",
   //   sluglink: "LINKINPUT",
   //   prodId: "KO-001",
+  //   similar: [
+  //     {
+  //       miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+  //       miniPrice: "000",
+  //       minAlt: "bela-ruza-rezano-komadno-cvece",
+  //     },
+  //     {
+  //       miniImage:
+  //         "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+  //       miniPrice: "111",
+  //       minAlt: "bela-ruza-rezano-komadno-cvece",
+  //     },
+  //     {
+  //       miniImage:
+  //         "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+  //       miniPrice: "222",
+  //       minAlt: "bela-ruza-rezano-komadno-cvece",
+  //     },
+  //   ],
   // },
 
   // {

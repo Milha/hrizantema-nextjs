@@ -16,6 +16,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/kucica-za-svece-velika",
     sluglink: "kucica-za-svece-velika",
     prodId: "OP-001",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -40,6 +59,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     sluglink: "roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     prodId: "OP-002",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -58,6 +96,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/krst-staklo-plave-ruze",
     sluglink: "krst-staklo-plave-ruze",
     prodId: "OP-003",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -78,6 +135,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-suza-ljubicaste-ruze",
     sluglink: "staklo-suza-ljubicaste-ruze",
     prodId: "OP-004",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
 
   {
@@ -103,6 +179,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     sluglink: "bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     prodId: "OP-005",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -126,6 +221,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-piramida-crvene-ruze-velika",
     sluglink: "staklo-piramida-crvene-ruze-velika",
     prodId: "OP-006",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -147,6 +261,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-srce-malo-crvene-ruze",
     sluglink: "staklo-srce-malo-crvene-ruze",
     prodId: "OP-007",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -171,6 +304,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips",
     sluglink: "bele-orhideje-vestacko-cvece-saksija-gips",
     prodId: "OP-008",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
 
   {
@@ -191,10 +343,30 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-gmb.jpg",
     alt: "vestacko cvece ljubicasto roze orhideje saksija gips",
     text: "Roze orhideje, veštačko cveće u saksiji.",
-    httpaddress: "https://hrizantema.rs/single/ostalo/INPUTLINK",
-    link: "/single/ostalo/INPUTLINK",
-    sluglink: "INPUTLINK",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija",
+    link: "/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija",
+    sluglink: "ljubicaste-roze-orhideje-vestacko-cvece-saksija",
     prodId: "OP-004",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -214,6 +386,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-krst-crvene-ruze",
     sluglink: "staklo-krst-crvene-ruze",
     prodId: "OP-010",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -232,6 +423,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/kucica-za-svece-mala",
     sluglink: "kucica-za-svece-mala",
     prodId: "OP-011",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -256,6 +466,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze",
     sluglink: "staklo-piramida-velika-bele-ruze-crvene-ruze",
     prodId: "OP-012",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -279,6 +508,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-suza-mala-bele-crvene-ruze",
     sluglink: "staklo-suza-mala-bele-crvene-ruze",
     prodId: "OP-013",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -300,6 +548,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/srce-staklo-crveno-bele-ruze",
     sluglink: "srce-staklo-crveno-bele-ruze",
     prodId: "OP-014",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -320,6 +587,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/mala-piramida-crvene-ruze",
     sluglink: "mala-piramida-crvene-ruze",
     prodId: "OP-015",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -343,6 +629,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/mala-piramida-ljubicaste-bele-ruze",
     sluglink: "mala-piramida-ljubicaste-bele-ruze",
     prodId: "OP-016",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -366,6 +671,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-suza-ljubicaste-bele-ruze",
     sluglink: "staklo-suza-ljubicaste-bele-ruze",
     prodId: "OP-017",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -390,6 +714,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips",
     sluglink: "plava-orhideja-vestacko-cvece-saksija-gips",
     prodId: "OP-018",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -414,6 +757,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips",
     sluglink: "crvene-ruzice-vestacko-cvece-saksija-gips",
     prodId: "OP-019",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -438,6 +800,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     sluglink: "ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     prodId: "OP-020",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
     test: [3, 4, 5],
@@ -462,6 +843,25 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/bela-kala-vestacko-cvece-saksija-gips",
     sluglink: "bela-kala-vestacko-cvece-saksija-gips",
     prodId: "OP-021",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   // {
   //   test: [3, 4, 5],

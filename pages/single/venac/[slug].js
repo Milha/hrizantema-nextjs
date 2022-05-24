@@ -1,28 +1,18 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
 import { venciItemData } from "../../../data/venciItemData";
-import { similarsVenciFinder } from "../../../utils/similarsFinder";
-import { findInUtils } from "../../../utils/similarsFinder";
+// import { similarsVenciFinder } from "../../../utils/similarsFinder";
+// import { findInUtils } from "../../../utils/similarsFinder";
 
-export default function Slug({ pageItems, miniData }) {
-  // console.log(similarsVenciFinder, "FROM VENCI SLUG");
-  // console.log(pageItems, "FROM VENCI SLUG");
-  // console.log(pageItems.test, "Testing find test array");
+export default function Slug({ pageItems }) {
+  // miniData LOGIC
   // const arrayTest = pageItems.test;
-  // console.log(
-  //   arrayTest.map((el) => similarsVenciFinder[el]),
-  //   "Maybe use map"
-  // );
-  // const newMiniData = arrayTest.map((el) => similarsVenciFinder[el]);
-  // console.log(pageItems, "From page props");
-  // console.log(findInUtils, "Just Array");
-  // console.log(Object.assign({}, findInUtils), "From utils");
-  // const assigned = Object.assign({}, findInUtils);
-  // console.log(assigned[1], "From Objected");
+  // const newMiniData = arrayTest.map((el) => venciItemData[el]);
+  // console.log(arrayTest);
   return (
     <>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} miniData={miniData} />
+      <BigVerticalSingleCard data={pageItems} />
     </>
   );
 }
@@ -34,11 +24,11 @@ export async function getStaticProps(context) {
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
   // miniData LOGIC
-  const arrayTest = pageSlug.test;
-  const newMiniData = arrayTest.map((el) => similarsVenciFinder[el]);
+  // const arrayTest = pageSlug.test;
+  // const newMiniData = arrayTest.map((el) => venciItemData[el]);
 
   return {
-    props: { pageItems: pageSlug, miniData: newMiniData },
+    props: { pageItems: pageSlug },
   };
 }
 

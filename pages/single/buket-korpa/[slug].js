@@ -4,11 +4,11 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
 // import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
 
-export default function Slug({ pageItems, miniData }) {
+export default function Slug({ pageItems }) {
   return (
     <div>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} miniData={miniData} />
+      <BigVerticalSingleCard data={pageItems} />
     </div>
   );
 }
@@ -18,12 +18,12 @@ export async function getStaticProps(context) {
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
-  // miniData LOGIC
-  const arrayTest = pageSlug.test;
-  const newMiniData = arrayTest.map((el) => buketiKorpeItemData[el]);
+  // // miniData LOGIC
+  // const arrayTest = pageSlug.test;
+  // const newMiniData = arrayTest.map((el) => buketiKorpeItemData[el]);
 
   return {
-    props: { pageItems: pageSlug, miniData: newMiniData },
+    props: { pageItems: pageSlug },
   };
 }
 

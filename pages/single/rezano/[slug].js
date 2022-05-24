@@ -3,11 +3,11 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 import { rezanoItemData } from "../../../data/rezanoItemData";
 // import { similarsRezanoFinder } from "../../../utils/similarsFinder";
 
-export default function Slug({ pageItems, miniData }) {
+export default function Slug({ pageItems }) {
   return (
     <div>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} miniData={miniData} />
+      <BigVerticalSingleCard data={pageItems} />
     </div>
   );
 }
@@ -23,7 +23,7 @@ export async function getStaticProps(context) {
   const newMiniData = arrayTest.map((el) => rezanoItemData[el]);
 
   return {
-    props: { pageItems: pageSlug, miniData: newMiniData },
+    props: { pageItems: pageSlug },
   };
 }
 

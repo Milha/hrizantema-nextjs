@@ -17,9 +17,27 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/buket-crvene-ruze-perlice",
     sluglink: "buket-crvene-ruze-perlice",
     prodId: "BU-001",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
-    test: [3, 4, 5],
     id: 2,
     title: "Orijental ~ bele ruže",
     price: "3.200",
@@ -36,9 +54,27 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/buket-orijental-bele-ruze",
     sluglink: "buket-orijental-bele-ruze",
     prodId: "BU-002",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
-    test: [3, 4, 5],
     id: 3,
     title: "Korpa crimson gerber",
     price: "1.500",
@@ -59,9 +95,27 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa",
     sluglink: "crveni-crimson-gerber-prirodna-korpa",
     prodId: "BU-003",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
-    test: [3, 4, 5],
     id: 4,
     title: "Beli ljiljan ~ bele margarete",
     price: "2.000",
@@ -83,10 +137,28 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa",
     sluglink: "ljiljan-beli-bele-margarete-prirodna-korpa",
     prodId: "BU-004",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
 
   {
-    test: [3, 4, 5],
     id: 5,
     title: "Beli ljiljan ~ bele ruže",
     price: "3.000",
@@ -107,10 +179,28 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/beli-ljiljan-bele-ruze-prirodni-buket",
     sluglink: "beli-ljiljan-bele-ruze-prirodni-buket",
     prodId: "BU-005",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
 
   {
-    test: [3, 4, 5],
     id: 6,
     title: "Bele kale",
     price: "1.500",
@@ -127,9 +217,27 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/kale-bele-prirodna-korpa",
     sluglink: "kale-bele-prirodna-korpa",
     prodId: "BU-006",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
-    test: [3, 4, 5],
     id: 7,
     title: "Beli i roze ljiljani orijentali",
     price: "5.000",
@@ -147,9 +255,27 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/buketi-orijental-roze-beli",
     sluglink: "buketi-orijental-roze-beli",
     prodId: "BU-007",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   {
-    test: [3, 4, 5],
     id: 8,
     title: "Svetlo roze gerberi",
     price: "1.500",
@@ -168,9 +294,27 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/gerber-svetlo-roze-prirodna-korpa",
     sluglink: "gerber-svetlo-roze-prirodna-korpa",
     prodId: "BU-008",
+    similar: [
+      {
+        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+        miniPrice: "000",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+        miniPrice: "111",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+      {
+        miniImage:
+          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+        miniPrice: "222",
+        minAlt: "bela-ruza-rezano-komadno-cvece",
+      },
+    ],
   },
   // {
-  //   test: [3, 4, 5],
   //   id: 6,
   //   title: "TITLE",
   //   price: "2.500",

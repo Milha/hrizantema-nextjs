@@ -3,9 +3,11 @@ import classes from "./SimilarsCont.module.scss";
 // import { venciItemData } from "../../data/venciItemData";
 // import { similarsVenciFinder } from "../../utils/similarsFinder";
 
-export default function SimilarsCont({ miniData }) {
+export default function SimilarsCont({ data }) {
   // console.log(miniData, "FROM SIMILAR CONT");
-  const data = miniData;
+  const similarData = data;
+  // console.log(data, "Similar cont - data");
+  // console.log(similarData, "Similar cont - similarData");
   // console.log(miniData, "FROM SIMILAR CONT");
   // console.log(miniData[0], "FROM test index 1");
   // console.log(miniData[1], "FROM test index 2");
@@ -51,13 +53,13 @@ export default function SimilarsCont({ miniData }) {
   //   const threeItems = data.toArray();
   return (
     <div className={classes.cont}>
-      {data.map((item, i) => (
+      {/* {similarData.map((item, i) => (
         <MiniSimilar key={i} miniSimilarFinal={miniData[i]} />
-      ))}
+      ))} */}
 
-      {/* <MiniSimilar miniSimilarFinal={miniData[0]} />
-      <MiniSimilar miniSimilarFinal={miniData[1]} />
-      <MiniSimilar miniSimilarFinal={miniData[2]} /> */}
+      {/* <MiniSimilar miniSimilarFinal={similarData.similar[0]} /> */}
+      {/* <MiniSimilar miniSimilarFinal={similarData.similar[1]} />
+      <MiniSimilar miniSimilarFinal={similarData.similar[2]} /> */}
     </div>
   );
 }
