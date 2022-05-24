@@ -2,13 +2,27 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 import { venciItemData } from "../../../data/venciItemData";
 import { similarsVenciFinder } from "../../../utils/similarsFinder";
+import { findInUtils } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
-  console.log(similarsVenciFinder, "FROM VENCI SLUG");
+  // console.log(similarsVenciFinder, "FROM VENCI SLUG");
+  // console.log(pageItems, "FROM VENCI SLUG");
+  console.log(pageItems.test, "Testing find test array");
+  const arrayTest = pageItems.test;
+  console.log(
+    arrayTest.map((el) => similarsVenciFinder[el]),
+    "Maybe use map"
+  );
+  const newMiniData = arrayTest.map((el) => similarsVenciFinder[el]);
+  // console.log(pageItems, "From page props");
+  // console.log(findInUtils, "Just Array");
+  // console.log(Object.assign({}, findInUtils), "From utils");
+  // const assigned = Object.assign({}, findInUtils);
+  // console.log(assigned[1], "From Objected");
   return (
     <>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} miniData={similarsVenciFinder} />
+      <BigVerticalSingleCard data={pageItems} miniData={newMiniData} />
     </>
   );
 }

@@ -4,8 +4,8 @@ import classes from "./BigVerticalSingleCard.module.scss";
 // import MiniSimilar from "./MiniSimilar";
 
 export default function BigVerticalSingleCard({ data, miniData }) {
-  console.log(data, "FROM BIG VERTICAl - Data");
-  console.log(miniData, "FROM BIG VERTICAl - Mini data");
+  // console.log(data, "FROM BIG VERTICAl - Data");
+  // console.log(miniData, "FROM BIG VERTICAl - Mini data");
   return (
     <div className={classes.cont}>
       <div className={classes.img_cont}>

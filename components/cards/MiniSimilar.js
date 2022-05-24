@@ -1,14 +1,15 @@
 import classes from "./MiniSimilar.module.scss";
 
 export default function MiniSimilar({ miniSimilarFinal }) {
-  console.log(miniSimilarFinal.miniPrice, miniSimilarFinal.miniImage, "From MiniSimilar");
+  console.log(miniSimilarFinal, "From MiniSimilar");
+  // console.log(miniSimilarFinal, "From MiniSimilar");
   return (
     <div className={classes.cont}>
       <picture>
-        <source srcSet={miniSimilarFinal.miniImage} type="image/webp" />
-        <img src={miniSimilarFinal.miniImage} alt={miniSimilarFinal.miniImage} />
+        <source srcSet={miniSimilarFinal.imageBig} type="image/webp" />
+        <img src={miniSimilarFinal.miniImage} alt={miniSimilarFinal.alt} />
       </picture>
-      <p>{miniSimilarFinal.miniPrice}</p>
+      <p>{miniSimilarFinal.price}</p>
     </div>
   );
 }

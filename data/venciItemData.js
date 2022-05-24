@@ -26,6 +26,7 @@ export const venciItemData = [
     stock: "https://schema.org/InStock",
   },
   {
+    test: [2, 3, 4],
     id: 2,
     title: "Ljiljan ~ ruža ~ gerber ~ margareta",
     price: "7.000",
@@ -50,6 +51,7 @@ export const venciItemData = [
     prodId: "VE-002",
   },
   {
+    test: [5, 6, 7],
     id: 3,
     title: "Bele orijental ~ ruže ~ gerber ~ kale",
     price: "9.000",
@@ -74,6 +76,7 @@ export const venciItemData = [
     prodId: "VE-003",
   },
   {
+    test: [7, 8, 9],
     id: 4,
     title: "Srce crvena ruža",
     price: "6.500",
@@ -113,6 +116,7 @@ export const venciItemData = [
     prodId: "VE-005",
   },
   {
+    test: [7, 8, 9],
     id: 6,
     title: "Carski ljiljan ~ bele ruže ~ gladiole",
     price: "6.000",
@@ -135,6 +139,7 @@ export const venciItemData = [
     prodId: "VE-006",
   },
   {
+    test: [7, 8, 9],
     id: 7,
     title: "Venac srce od gerbera",
     price: "5.500",
@@ -153,6 +158,7 @@ export const venciItemData = [
     prodId: "VE-007",
   },
   {
+    test: [7, 8, 9],
     id: 8,
     title: "Bele kale ~ crveni gerber",
     price: "5.000",
@@ -173,6 +179,7 @@ export const venciItemData = [
     prodId: "VE-008",
   },
   {
+    test: [7, 8, 9],
     id: 9,
     title: "Bela ruža ~ beli gerber",
     price: "6.000",
@@ -191,6 +198,7 @@ export const venciItemData = [
     prodId: "VE-009",
   },
   {
+    test: [7, 8, 9],
     id: 10,
     title: "Beli gerber ~ žuti gerber",
     price: "4.000",
@@ -211,6 +219,7 @@ export const venciItemData = [
     prodId: "VE-010",
   },
   {
+    test: [7, 8, 9],
     id: 11,
     title: "Orijental ~ crvena ruža ~ gerber",
     price: "8.000",
@@ -233,6 +242,7 @@ export const venciItemData = [
   },
 
   {
+    test: [7, 8, 9],
     id: 12,
     title: "Gerber ~ palisad hrizanteme",
     price: "4.000",
@@ -255,6 +265,7 @@ export const venciItemData = [
     prodId: "VE-012",
   },
   {
+    test: [7, 8, 9],
     id: 13,
     title: "Gerber ~ gladiole",
     price: "4.500",
@@ -274,6 +285,7 @@ export const venciItemData = [
     prodId: "VE-013",
   },
   {
+    test: [7, 8, 9],
     id: 14,
     title: "Carski ljiljan ~ crveni gerber ~ margareta",
     price: "9.000",
@@ -297,6 +309,7 @@ export const venciItemData = [
     prodId: "VE-014",
   },
   {
+    test: [7, 8, 9],
     id: 15,
     title: "Crveni gerber ~ bela gipsofila",
     price: "4.000",
@@ -319,6 +332,7 @@ export const venciItemData = [
     prodId: "VE-015",
   },
   {
+    test: [7, 8, 9],
     id: 16,
     title: "Carski ljiljan ~ bele ruže",
     price: "8.000",
@@ -343,6 +357,7 @@ export const venciItemData = [
     prodId: "VE-016",
   },
   {
+    test: [7, 8, 9],
     id: 17,
     title: "Beli ljiljan ~ crvene ruže",
     price: "5.000",
@@ -367,6 +382,7 @@ export const venciItemData = [
     prodId: "VE-017",
   },
   {
+    test: [7, 8, 9],
     id: 18,
     title: "Ruža ~ gerber ~ margareta",
     price: "8.000",
@@ -391,6 +407,7 @@ export const venciItemData = [
     prodId: "VE-018",
   },
   {
+    test: [7, 8, 9],
     id: 19,
     title: "Bele ruže ~ ljubičaste margarete",
     price: "9.000",
@@ -415,6 +432,7 @@ export const venciItemData = [
     prodId: "VE-019",
   },
   {
+    test: [7, 8, 9],
     id: 20,
     title: "Beli ljiljan ~ crvene gerber",
     price: "6.000",
