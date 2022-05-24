@@ -30,7 +30,7 @@ function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/lists/list-ponuda-venci" passHref>
+            <Link href="/lists/list-ponuda-venci">
               <a>Venci</a>
             </Link>
           </li>

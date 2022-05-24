@@ -1,7 +1,7 @@
 import classes from "./MiniSimilar.module.scss";
 
 export default function MiniSimilar({ miniSimilarFinal }) {
-  console.log(miniSimilarFinal, "From MiniSimilar");
+  // console.log(miniSimilarFinal, "From MiniSimilar");
   // console.log(miniSimilarFinal, "From MiniSimilar");
   return (
     <div className={classes.cont}>

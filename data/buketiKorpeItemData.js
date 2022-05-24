@@ -19,6 +19,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-001",
   },
   {
+    test: [3, 4, 5],
     id: 2,
     title: "Orijental ~ bele ruže",
     price: "3.200",
@@ -37,6 +38,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-002",
   },
   {
+    test: [3, 4, 5],
     id: 3,
     title: "Korpa crimson gerber",
     price: "1.500",
@@ -59,6 +61,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-003",
   },
   {
+    test: [3, 4, 5],
     id: 4,
     title: "Beli ljiljan ~ bele margarete",
     price: "2.000",
@@ -83,6 +86,7 @@ export const buketiKorpeItemData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 5,
     title: "Beli ljiljan ~ bele ruže",
     price: "3.000",
@@ -106,6 +110,7 @@ export const buketiKorpeItemData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 6,
     title: "Bele kale",
     price: "1.500",
@@ -124,6 +129,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-006",
   },
   {
+    test: [3, 4, 5],
     id: 7,
     title: "Beli i roze ljiljani orijentali",
     price: "5.000",
@@ -143,6 +149,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-007",
   },
   {
+    test: [3, 4, 5],
     id: 8,
     title: "Svetlo roze gerberi",
     price: "1.500",
@@ -163,6 +170,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-008",
   },
   // {
+  //   test: [3, 4, 5],
   //   id: 6,
   //   title: "TITLE",
   //   price: "2.500",

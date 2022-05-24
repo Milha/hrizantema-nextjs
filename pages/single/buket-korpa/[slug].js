@@ -2,16 +2,13 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 
 import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
-import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
+// import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
 
-export default function Slug({ pageItems }) {
+export default function Slug({ pageItems, miniData }) {
   return (
     <div>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard
-        data={pageItems}
-        miniData={similarsBuketiKorpeFinder}
-      />
+      <BigVerticalSingleCard data={pageItems} miniData={miniData} />
     </div>
   );
 }
@@ -21,8 +18,12 @@ export async function getStaticProps(context) {
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
+  // miniData LOGIC
+  const arrayTest = pageSlug.test;
+  const newMiniData = arrayTest.map((el) => buketiKorpeItemData[el]);
+
   return {
-    props: { pageItems: pageSlug },
+    props: { pageItems: pageSlug, miniData: newMiniData },
   };
 }
 

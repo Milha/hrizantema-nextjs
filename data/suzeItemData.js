@@ -23,6 +23,7 @@ export const suzeItemData = [
     prodId: "SU-001",
   },
   {
+    test: [3, 4, 5],
     id: 2,
     title: "Crvena ruža",
     price: "2.500",
@@ -40,6 +41,7 @@ export const suzeItemData = [
     prodId: "SU-002",
   },
   {
+    test: [3, 4, 5],
     id: 3,
     title: "Margareta gerber",
     price: "2.500",
@@ -63,6 +65,7 @@ export const suzeItemData = [
     prodId: "SU-003",
   },
   {
+    test: [3, 4, 5],
     id: 4,
     title: "Beli ljiljan ~ crveni gerber",
     price: "2.500",
@@ -84,6 +87,7 @@ export const suzeItemData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 5,
     title: "Beli ljiljan ~ margareta",
     price: "2.500",
@@ -107,6 +111,7 @@ export const suzeItemData = [
     prodId: "SU-005",
   },
   {
+    test: [3, 4, 5],
     id: 6,
     title: "Ljiljan orijental gerber",
     price: "2.500",
@@ -131,6 +136,7 @@ export const suzeItemData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 7,
     title: "Beli gerber",
     price: "1.500",
@@ -149,6 +155,7 @@ export const suzeItemData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 8,
     title: "Ljiljan ~ margareta ~ gerber",
     price: "",
@@ -171,7 +178,9 @@ export const suzeItemData = [
     sluglink: "beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     prodId: "SU-008",
   },
+
   // {
+  //   test: [3, 4, 5],
   //   id: 5,
   //   title: "TITLE",
   //   price: "2.000",

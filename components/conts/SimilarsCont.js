@@ -6,10 +6,10 @@ import classes from "./SimilarsCont.module.scss";
 export default function SimilarsCont({ miniData }) {
   // console.log(miniData, "FROM SIMILAR CONT");
   const data = miniData;
-  console.log(miniData, "FROM SIMILAR CONT");
-  console.log(miniData[0], "FROM test index 1");
-  console.log(miniData[1], "FROM test index 2");
-  console.log(miniData[2], "FROM test index 3");
+  // console.log(miniData, "FROM SIMILAR CONT");
+  // console.log(miniData[0], "FROM test index 1");
+  // console.log(miniData[1], "FROM test index 2");
+  // console.log(miniData[2], "FROM test index 3");
 
   // const founded = data.find((el, i) => {
   //   el.id == data.id;
@@ -52,7 +52,7 @@ export default function SimilarsCont({ miniData }) {
   return (
     <div className={classes.cont}>
       {data.map((item, i) => (
-        <MiniSimilar miniSimilarFinal={miniData[i]} />
+        <MiniSimilar key={i} miniSimilarFinal={miniData[i]} />
       ))}
 
       {/* <MiniSimilar miniSimilarFinal={miniData[0]} />

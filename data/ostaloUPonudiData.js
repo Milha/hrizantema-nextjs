@@ -18,6 +18,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-001",
   },
   {
+    test: [3, 4, 5],
     id: 2,
     title: "Roze ljiljan ruže saksija",
     price: "3.000",
@@ -41,6 +42,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-002",
   },
   {
+    test: [3, 4, 5],
     id: 3,
     title: "Krst od stakla mali - plave ruže",
     price: "1.500",
@@ -58,6 +60,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-003",
   },
   {
+    test: [3, 4, 5],
     id: 4,
     title: "Suza od stakla ljubičaste ruže",
     price: "2.000",
@@ -78,6 +81,7 @@ export const ostaloUPonudiData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 5,
     title: "Bela kala ~ ružice ~ saksija",
     price: "3.000",
@@ -101,6 +105,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-005",
   },
   {
+    test: [3, 4, 5],
     id: 6,
     title: "Velika piramida od stakla - crvene ruže",
     price: "2.000",
@@ -123,6 +128,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-006",
   },
   {
+    test: [3, 4, 5],
     id: 7,
     title: "Srce srednje staklo crvene ruže",
     price: "2.000",
@@ -143,6 +149,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-007",
   },
   {
+    test: [3, 4, 5],
     id: 8,
     title: "Bele orhideje",
     price: "2.000",
@@ -167,6 +174,7 @@ export const ostaloUPonudiData = [
   },
 
   {
+    test: [3, 4, 5],
     id: 9,
     title: "Roze orhideje",
     price: "2.500",
@@ -189,6 +197,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-004",
   },
   {
+    test: [3, 4, 5],
     id: 10,
     title: "Krst staklo crvene ruže",
     price: "2.000",
@@ -207,6 +216,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-010",
   },
   {
+    test: [3, 4, 5],
     id: 11,
     title: "Srednja kućica za sveće",
     price: "2.000",
@@ -224,6 +234,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-011",
   },
   {
+    test: [3, 4, 5],
     id: 12,
     title: "Piramida velika staklo crvene i bele ruže",
     price: "2.500",
@@ -247,6 +258,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-012",
   },
   {
+    test: [3, 4, 5],
     id: 13,
     title: "Suza od stakla ljubičaste i bele ruže",
     price: "2.000",
@@ -269,6 +281,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-013",
   },
   {
+    test: [3, 4, 5],
     id: 14,
     title: "Srce staklo crvene bele ruže",
     price: "2.000",
@@ -289,6 +302,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-014",
   },
   {
+    test: [3, 4, 5],
     id: 15,
     title: "Piramida crvene ruže - mala",
     price: "1.500",
@@ -308,6 +322,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-015",
   },
   {
+    test: [3, 4, 5],
     id: 16,
     title: "Staklo piramida ljubičaste i bele ruže",
     price: "1.500",
@@ -330,6 +345,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-016",
   },
   {
+    test: [3, 4, 5],
     id: 17,
     title: "Suza od stakla ljubičaste i bele ruže",
     price: "1.800",
@@ -352,6 +368,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-017",
   },
   {
+    test: [3, 4, 5],
     id: 18,
     title: "Plave orhideje - veštačko",
     price: "1000",
@@ -375,6 +392,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-018",
   },
   {
+    test: [3, 4, 5],
     id: 19,
     title: "Crvene ružice - veštačko",
     price: "1.000",
@@ -398,6 +416,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-019",
   },
   {
+    test: [3, 4, 5],
     id: 20,
     title: "Roze orhideje - veštačko",
     price: "2.000",
@@ -421,6 +440,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-020",
   },
   {
+    test: [3, 4, 5],
     id: 21,
     title: "Bele kale - veštačko",
     price: "1.500",
@@ -444,6 +464,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-021",
   },
   // {
+  //   test: [3, 4, 5],
   //   id: 4,
   //   title: "TITLE",
   //   price: "2.000",
