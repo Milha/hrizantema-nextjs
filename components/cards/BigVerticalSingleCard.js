@@ -1,7 +1,7 @@
 import ShareLinksCont from "../conts/ShareLinksCont";
-// import SimilarsCont from "../conts/SimilarsCont";
+import SimilarsCont from "../conts/SimilarsCont";
 import classes from "./BigVerticalSingleCard.module.scss";
-import MiniSimilar from "./MiniSimilar";
+// import MiniSimilar from "./MiniSimilar";
 
 export default function BigVerticalSingleCard({ data }) {
   // console.log(data, "FROM BIG VERTICAl - Data");
@@ -21,7 +21,7 @@ export default function BigVerticalSingleCard({ data }) {
         <h2 className={classes.title}>{data.title}</h2>
         <p className={classes.desc}>{data.text}</p>
         <p className={classes.code}>šifra proizvoda: {data.prodId}</p>
-        <MiniSimilar data={data}></MiniSimilar>
+        <SimilarsCont data={data}></SimilarsCont>
         <ShareLinksCont data={data} />
       </div>
     </div>

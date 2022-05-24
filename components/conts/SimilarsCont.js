@@ -5,7 +5,9 @@ import classes from "./SimilarsCont.module.scss";
 
 export default function SimilarsCont({ data }) {
   // console.log(miniData, "FROM SIMILAR CONT");
-  const similarData = data;
+  const similarData1 = data.similar[0];
+  const similarData2 = data.similar[1];
+  const similarData3 = data.similar[2];
   // console.log(data, "Similar cont - data");
   // console.log(similarData, "Similar cont - similarData");
   // console.log(miniData, "FROM SIMILAR CONT");
@@ -57,9 +59,9 @@ export default function SimilarsCont({ data }) {
         <MiniSimilar key={i} miniSimilarFinal={miniData[i]} />
       ))} */}
 
-      {/* <MiniSimilar miniSimilarFinal={similarData.similar[0]} /> */}
-      {/* <MiniSimilar miniSimilarFinal={similarData.similar[1]} />
-      <MiniSimilar miniSimilarFinal={similarData.similar[2]} /> */}
+      <MiniSimilar miniSimilarFinal={similarData1} />
+      <MiniSimilar miniSimilarFinal={similarData2} />
+      <MiniSimilar miniSimilarFinal={similarData3} />
     </div>
   );
 }

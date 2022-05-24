@@ -1,9 +1,11 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
 import { rezanoItemData } from "../../../data/rezanoItemData";
-// import { similarsRezanoFinder } from "../../../utils/similarsFinder";
+import { rezanoSimilarData } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
+  console.log(rezanoItemData, "FROM norma datat");
+  console.log(rezanoSimilarData, "From changed data");
   return (
     <div>
       <HeadSingle data={pageItems} />
@@ -18,9 +20,9 @@ export async function getStaticProps(context) {
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
-  // miniData LOGIC
-  const arrayTest = pageSlug.test;
-  const newMiniData = arrayTest.map((el) => rezanoItemData[el]);
+  // // miniData LOGIC
+  // const arrayTest = pageSlug.test;
+  // const newMiniData = arrayTest.map((el) => rezanoItemData[el]);
 
   return {
     props: { pageItems: pageSlug },
