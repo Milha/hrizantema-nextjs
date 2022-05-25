@@ -1,8 +1,9 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
 
-import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
+// import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
 // import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
+import { buketSetData } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
   return (
@@ -14,7 +15,7 @@ export default function Slug({ pageItems }) {
 }
 
 export async function getStaticProps(context) {
-  const data = buketiKorpeItemData;
+  const data = buketSetData;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
@@ -28,7 +29,7 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
-  const data = buketiKorpeItemData;
+  const data = buketSetData;
 
   const paths = data.map((way) => ({
     params: { slug: way.sluglink },

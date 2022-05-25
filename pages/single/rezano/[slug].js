@@ -4,7 +4,7 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 import { rezanoSimilarData } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
-  console.log(rezanoSimilarData[3].test[2], "FROM norma datat");
+  // console.log(rezanoSimilarData[3].test[2], "FROM norma datat");
   // console.log(pageItems, "FROM changed data");
   // console.log(pageItems, "FROM changed data");
   // console.log(rezanoSimilarData[0].test[0], "From changed data");

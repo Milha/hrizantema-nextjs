@@ -1,6 +1,6 @@
 export const suzeItemData = [
   {
-    test: [3, 4, 5],
+    test: [7, 6, 4],
     id: 1,
     title: "Ljiljan orijental - carski ljiljan",
     price: "2.400",
@@ -21,28 +21,28 @@ export const suzeItemData = [
     link: "/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
     prodId: "SU-001",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
   {
-    test: [3, 4, 5],
+    test: [3, 7, 2],
     id: 2,
     title: "Crvena ruža",
     price: "2.500",
@@ -58,28 +58,28 @@ export const suzeItemData = [
     link: "/single/suza/crvena-ruza-prirodna-suza",
     sluglink: "crvena-ruza-prirodna-suza",
     prodId: "SU-002",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
   {
-    test: [3, 4, 5],
+    test: [6, 7, 5],
     id: 3,
     title: "Margareta gerber",
     price: "2.500",
@@ -101,28 +101,28 @@ export const suzeItemData = [
     link: "/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     prodId: "SU-003",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
   {
-    test: [3, 4, 5],
+    test: [7, 5, 2],
     id: 4,
     title: "Beli ljiljan ~ crveni gerber",
     price: "2.500",
@@ -141,29 +141,29 @@ export const suzeItemData = [
     link: "/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
     prodId: "SU-004",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
 
   {
-    test: [3, 4, 5],
+    test: [5, 7, 2],
     id: 5,
     title: "Beli ljiljan ~ margareta",
     price: "2.500",
@@ -185,28 +185,28 @@ export const suzeItemData = [
     link: "/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     sluglink: "beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     prodId: "SU-005",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
   {
-    test: [3, 4, 5],
+    test: [0, 7, 5],
     id: 6,
     title: "Ljiljan orijental gerber",
     price: "2.500",
@@ -228,29 +228,29 @@ export const suzeItemData = [
     link: "/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     sluglink: "roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     prodId: "SU-006",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
 
   {
-    test: [3, 4, 5],
+    test: [3, 2, 5],
     id: 7,
     title: "Beli gerber",
     price: "1.500",
@@ -266,32 +266,32 @@ export const suzeItemData = [
     link: "/single/suza/beli-gerber-prirodna-suza",
     sluglink: "beli-gerber-prirodna-suza",
     prodId: "SU-007",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
 
   {
-    test: [3, 4, 5],
+    test: [3, 5, 2],
     id: 8,
     title: "Ljiljan ~ margareta ~ gerber",
-    price: "",
+    price: "3.000",
     priceRange: "2.000 - 3.000",
     imageBig:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.jpg",
@@ -310,25 +310,25 @@ export const suzeItemData = [
     link: "/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     prodId: "SU-008",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    // similarOLD: [
+    //   {
+    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
+    //     miniPrice: "000",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
+    //     miniPrice: "111",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    //   {
+    //     miniImage:
+    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
+    //     miniPrice: "222",
+    //     minAlt: "bela-ruza-rezano-komadno-cvece",
+    //   },
+    // ],
   },
 
   // {

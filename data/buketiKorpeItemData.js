@@ -1,6 +1,6 @@
 export const buketiKorpeItemData = [
   {
-    test: [3, 4, 5],
+    test: [1, 4, 6],
     id: 1,
     title: "Crvene ruže sa perlicama",
     price: "7.000",
@@ -38,6 +38,7 @@ export const buketiKorpeItemData = [
     ],
   },
   {
+    test: [4, 0, 6],
     id: 2,
     title: "Orijental ~ bele ruže",
     price: "3.200",
@@ -75,6 +76,7 @@ export const buketiKorpeItemData = [
     ],
   },
   {
+    test: [7, 3, 5],
     id: 3,
     title: "Korpa crimson gerber",
     price: "1.500",
@@ -116,6 +118,7 @@ export const buketiKorpeItemData = [
     ],
   },
   {
+    test: [5, 7, 2],
     id: 4,
     title: "Beli ljiljan ~ bele margarete",
     price: "2.000",
@@ -159,6 +162,7 @@ export const buketiKorpeItemData = [
   },
 
   {
+    test: [1, 6, 0],
     id: 5,
     title: "Beli ljiljan ~ bele ruže",
     price: "3.000",
@@ -201,6 +205,7 @@ export const buketiKorpeItemData = [
   },
 
   {
+    test: [3, 2, 4],
     id: 6,
     title: "Bele kale",
     price: "1.500",
@@ -238,6 +243,7 @@ export const buketiKorpeItemData = [
     ],
   },
   {
+    test: [1, 4, 3],
     id: 7,
     title: "Beli i roze ljiljani orijentali",
     price: "5.000",
@@ -276,6 +282,7 @@ export const buketiKorpeItemData = [
     ],
   },
   {
+    test: [5, 2, 3],
     id: 8,
     title: "Svetlo roze gerberi",
     price: "1.500",

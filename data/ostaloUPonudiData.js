@@ -1,6 +1,6 @@
 export const ostaloUPonudiData = [
   {
-    test: [3, 4, 5],
+    test: [2, 10, 3],
     id: 1,
     title: "Velika kućica za paljenje sveće",
     price: "2.500",
@@ -16,28 +16,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/kucica-za-svece-velika",
     sluglink: "kucica-za-svece-velika",
     prodId: "OP-001",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [4, 7, 8],
     id: 2,
     title: "Roze ljiljan ruže saksija",
     price: "3.000",
@@ -59,28 +40,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     sluglink: "roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     prodId: "OP-002",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [5, 9, 3],
     id: 3,
     title: "Krst od stakla mali - plave ruže",
     price: "1.500",
@@ -96,28 +58,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/krst-staklo-plave-ruze",
     sluglink: "krst-staklo-plave-ruze",
     prodId: "OP-003",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [16, 2, 12],
     id: 4,
     title: "Suza od stakla ljubičaste ruže",
     price: "2.000",
@@ -135,29 +78,10 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-suza-ljubicaste-ruze",
     sluglink: "staklo-suza-ljubicaste-ruze",
     prodId: "OP-004",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
 
   {
-    test: [3, 4, 5],
+    test: [8, 1, 7],
     id: 5,
     title: "Bela kala ~ ružice ~ saksija",
     price: "3.000",
@@ -179,28 +103,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     sluglink: "bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     prodId: "OP-005",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [15, 11, 14],
     id: 6,
     title: "Velika piramida od stakla - crvene ruže",
     price: "2.000",
@@ -221,28 +126,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-piramida-crvene-ruze-velika",
     sluglink: "staklo-piramida-crvene-ruze-velika",
     prodId: "OP-006",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [3, 13, 12],
     id: 7,
     title: "Srce srednje staklo crvene ruže",
     price: "2.000",
@@ -261,28 +147,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-srce-malo-crvene-ruze",
     sluglink: "staklo-srce-malo-crvene-ruze",
     prodId: "OP-007",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [4, 8, 1],
     id: 8,
     title: "Bele orhideje",
     price: "2.000",
@@ -304,29 +171,10 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips",
     sluglink: "bele-orhideje-vestacko-cvece-saksija-gips",
     prodId: "OP-008",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
 
   {
-    test: [3, 4, 5],
+    test: [1, 7, 4],
     id: 9,
     title: "Roze orhideje",
     price: "2.500",
@@ -347,29 +195,11 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija",
     link: "/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija",
     sluglink: "ljubicaste-roze-orhideje-vestacko-cvece-saksija",
-    prodId: "OP-004",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
+    prodId: "OP-009",
   },
+
   {
-    test: [3, 4, 5],
+    test: [3, 2, 5],
     id: 10,
     title: "Krst staklo crvene ruže",
     price: "2.000",
@@ -386,28 +216,10 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-krst-crvene-ruze",
     sluglink: "staklo-krst-crvene-ruze",
     prodId: "OP-010",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
+
   {
-    test: [3, 4, 5],
+    test: [3, 0, 2],
     id: 11,
     title: "Srednja kućica za sveće",
     price: "2.000",
@@ -423,28 +235,10 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/kucica-za-svece-mala",
     sluglink: "kucica-za-svece-mala",
     prodId: "OP-011",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
+
   {
-    test: [3, 4, 5],
+    test: [14, 5, 15],
     id: 12,
     title: "Piramida velika staklo crvene i bele ruže",
     price: "2.500",
@@ -466,28 +260,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze",
     sluglink: "staklo-piramida-velika-bele-ruze-crvene-ruze",
     prodId: "OP-012",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [3, 16, 6],
     id: 13,
     title: "Suza od stakla ljubičaste i bele ruže",
     price: "2.000",
@@ -508,28 +283,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-suza-mala-bele-crvene-ruze",
     sluglink: "staklo-suza-mala-bele-crvene-ruze",
     prodId: "OP-013",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [3, 6, 16],
     id: 14,
     title: "Srce staklo crvene bele ruže",
     price: "2.000",
@@ -548,28 +304,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/srce-staklo-crveno-bele-ruze",
     sluglink: "srce-staklo-crveno-bele-ruze",
     prodId: "OP-014",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [11, 15, 5],
     id: 15,
     title: "Piramida crvene ruže - mala",
     price: "1.500",
@@ -587,28 +324,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/mala-piramida-crvene-ruze",
     sluglink: "mala-piramida-crvene-ruze",
     prodId: "OP-015",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [11, 14, 5],
     id: 16,
     title: "Staklo piramida ljubičaste i bele ruže",
     price: "1.500",
@@ -629,28 +347,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/mala-piramida-ljubicaste-bele-ruze",
     sluglink: "mala-piramida-ljubicaste-bele-ruze",
     prodId: "OP-016",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [6, 3, 5],
     id: 17,
     title: "Suza od stakla ljubičaste i bele ruže",
     price: "1.800",
@@ -671,28 +370,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/staklo-suza-ljubicaste-bele-ruze",
     sluglink: "staklo-suza-ljubicaste-bele-ruze",
     prodId: "OP-017",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [20, 19, 18],
     id: 18,
     title: "Plave orhideje - veštačko",
     price: "1000",
@@ -714,28 +394,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips",
     sluglink: "plava-orhideja-vestacko-cvece-saksija-gips",
     prodId: "OP-018",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [17, 20, 19],
     id: 19,
     title: "Crvene ružice - veštačko",
     price: "1.000",
@@ -757,28 +418,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips",
     sluglink: "crvene-ruzice-vestacko-cvece-saksija-gips",
     prodId: "OP-019",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [18, 17, 20],
     id: 20,
     title: "Roze orhideje - veštačko",
     price: "2.000",
@@ -800,28 +442,9 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     sluglink: "ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     prodId: "OP-020",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [3, 4, 5],
+    test: [17, 4, 19],
     id: 21,
     title: "Bele kale - veštačko",
     price: "1.500",
@@ -843,25 +466,6 @@ export const ostaloUPonudiData = [
     link: "/single/ostalo/bela-kala-vestacko-cvece-saksija-gips",
     sluglink: "bela-kala-vestacko-cvece-saksija-gips",
     prodId: "OP-021",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   // {
   //   test: [3, 4, 5],

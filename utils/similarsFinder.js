@@ -1,21 +1,9 @@
-// import { venciItemData } from "../data/venciItemData";
-// import { rezanoItemData } from "../data/rezanoItemData";
-// import { buketiKorpeItemData } from "../data/buketiKorpeItemData";
-// import { suzeItemData } from "../data/suzeItemData";
-// import { ostaloUPonudiData } from "../data/ostaloUPonudiData";
-
-// export const similarsVenciFinder = venciItemData;
-// export const miniDatasimilarsRezanoFinder = rezanoItemData;
-// export const similarsBuketiKorpeFinder = buketiKorpeItemData;
-// export const similarsSuzeFinder = suzeItemData;
-// export const similarsOstaloFinder = ostaloUPonudiData;
-
-// const indexing = [0, 12, 13];
-
-// export const findInUtils = indexing.map((el) => similarsVenciFinder[el]);
-// export const findInUtils = indexing.map((el) => similarsVenciFinder[el]);
 import { rezanoItemData } from "../data/rezanoItemData";
+import { suzeItemData } from "../data//suzeItemData";
+import { buketiKorpeItemData } from "../data/buketiKorpeItemData";
+import { ostaloUPonudiData } from "../data/ostaloUPonudiData";
 
+// Buketi SetData
 const dataRezano = rezanoItemData;
 
 export const rezanoSimilarData = dataRezano.map((inj) => ({
@@ -56,11 +44,133 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
       minAlt: rezanoItemData[inj.test[2]].alt,
     },
   ],
-  //   similar: inj.similar,
+}));
 
-  //   rezanoSimilarData: inj.rezanoSimilarData,
-  //   rezanoSimilarData: inj.rezanoSimilarData,
-  //   rezanoSimilarData: inj.rezanoSimilarData,
-  //   rezanoSimilarData: inj.rezanoSimilarData,
-  //   rezanoSimilarData: inj.rezanoSimilarData,
+// Suze SetData
+const dataSuze = suzeItemData;
+
+export const suzeSetData = dataSuze.map((inj) => ({
+  test: inj.test,
+  id: inj.id,
+  title: inj.title,
+  price: inj.price,
+  priceRange: inj.priceRange,
+  imageBig: inj.imageBig,
+  imageBigWebP: inj.imageBigWebP,
+  imageSmall: inj.imageSmall,
+  imageSmallWebP: inj.imageSmallWebP,
+
+  imageGMB: inj.imageGMB,
+  alt: inj.alt,
+  text: inj.text,
+  httpaddress: inj.httpaddress,
+  link: inj.link,
+  sluglink: inj.sluglink,
+  prodId: inj.prodId,
+  similar: [
+    {
+      miniLink: suzeItemData[inj.test[0]].link,
+      miniImage: suzeItemData[inj.test[0]].imageBig,
+      miniPrice: suzeItemData[inj.test[0]].price,
+      minAlt: suzeItemData[inj.test[0]].alt,
+    },
+    {
+      miniLink: suzeItemData[inj.test[1]].link,
+      miniImage: suzeItemData[inj.test[1]].imageBig,
+      miniPrice: suzeItemData[inj.test[1]].price,
+      minAlt: suzeItemData[inj.test[1]].alt,
+    },
+    {
+      miniLink: suzeItemData[inj.test[2]].link,
+      miniImage: suzeItemData[inj.test[2]].imageBig,
+      miniPrice: suzeItemData[inj.test[2]].price,
+      minAlt: suzeItemData[inj.test[2]].alt,
+    },
+  ],
+}));
+
+// Buketi SetData
+const dataBuket = buketiKorpeItemData;
+
+export const buketSetData = dataBuket.map((inj) => ({
+  test: inj.test,
+  id: inj.id,
+  title: inj.title,
+  price: inj.price,
+  priceRange: inj.priceRange,
+  imageBig: inj.imageBig,
+  imageBigWebP: inj.imageBigWebP,
+  imageSmall: inj.imageSmall,
+  imageSmallWebP: inj.imageSmallWebP,
+
+  imageGMB: inj.imageGMB,
+  alt: inj.alt,
+  text: inj.text,
+  httpaddress: inj.httpaddress,
+  link: inj.link,
+  sluglink: inj.sluglink,
+  prodId: inj.prodId,
+  similar: [
+    {
+      miniLink: buketiKorpeItemData[inj.test[0]].link,
+      miniImage: buketiKorpeItemData[inj.test[0]].imageBig,
+      miniPrice: buketiKorpeItemData[inj.test[0]].price,
+      minAlt: buketiKorpeItemData[inj.test[0]].alt,
+    },
+    {
+      miniLink: buketiKorpeItemData[inj.test[1]].link,
+      miniImage: buketiKorpeItemData[inj.test[1]].imageBig,
+      miniPrice: buketiKorpeItemData[inj.test[1]].price,
+      minAlt: buketiKorpeItemData[inj.test[1]].alt,
+    },
+    {
+      miniLink: buketiKorpeItemData[inj.test[2]].link,
+      miniImage: buketiKorpeItemData[inj.test[2]].imageBig,
+      miniPrice: buketiKorpeItemData[inj.test[2]].price,
+      minAlt: buketiKorpeItemData[inj.test[2]].alt,
+    },
+  ],
+}));
+
+// Ostalo u ponudi SetData
+const dataOstaloUPonudi = ostaloUPonudiData;
+
+export const ostaloUPonudiSetData = dataOstaloUPonudi.map((inj) => ({
+  test: inj.test,
+  id: inj.id,
+  title: inj.title,
+  price: inj.price,
+  priceRange: inj.priceRange,
+  imageBig: inj.imageBig,
+  imageBigWebP: inj.imageBigWebP,
+  imageSmall: inj.imageSmall,
+  imageSmallWebP: inj.imageSmallWebP,
+
+  imageGMB: inj.imageGMB,
+  alt: inj.alt,
+  text: inj.text,
+  httpaddress: inj.httpaddress,
+  link: inj.link,
+  sluglink: inj.sluglink,
+  prodId: inj.prodId,
+  similar: [
+    {
+      miniLink: ostaloUPonudiData[inj.test[0]].link,
+      miniImage: ostaloUPonudiData[inj.test[0]].imageBig,
+      miniPrice: ostaloUPonudiData[inj.test[0]].price,
+      minAlt: ostaloUPonudiData[inj.test[0]].alt,
+    },
+    {
+      miniLink: ostaloUPonudiData[inj.test[1]].link,
+      miniImage: ostaloUPonudiData[inj.test[1]].imageBig,
+      miniPrice: ostaloUPonudiData[inj.test[1]].price,
+      minAlt: ostaloUPonudiData[inj.test[1]].alt,
+    },
+    {
+      miniLink: ostaloUPonudiData[inj.test[2]].link,
+      miniImage: ostaloUPonudiData[inj.test[2]].imageBig,
+      miniPrice: ostaloUPonudiData[inj.test[2]].price,
+      minAlt: ostaloUPonudiData[inj.test[2]].alt,
+    },
+  ],
 }));
