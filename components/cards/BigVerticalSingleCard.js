@@ -20,7 +20,9 @@ export default function BigVerticalSingleCard({ data }) {
         </p>
         <h2 className={classes.title}>{data.title}</h2>
         <p className={classes.desc}>{data.text}</p>
-        <p className={classes.code}>šifra proizvoda: {data.prodId}</p>
+        <p className={classes.code}>
+          <span>šifra:</span> {data.prodId}
+        </p>
         <SimilarsCont data={data}></SimilarsCont>
         <ShareLinksCont data={data} />
       </div>
