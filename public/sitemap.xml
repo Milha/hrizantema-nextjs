@@ -3,737 +3,352 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://hrizantema.rs/</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/products/venci.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
+	<loc>https://hrizantema.rs/lists/list-ponuda-suze</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/lists/list-ponuda-venci</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/lists/list-ponuda-buketi-korpe</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/lists/lista-ponuda-rezano-cvece</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/lists/list-ostalo-u-ponudi</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/main-pages/contact</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/single/venac/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/products/suze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/venac/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/products/buketi-korpe.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/venac/ruza-crvena-oblik-srce-venac</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/products/komadno.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/ostalo/kucica-za-svece-velika</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
+</url>
+<url>
+	<loc>https://hrizantema.rs/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/products/ostalo-u-ponudi.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/ostalo/krst-staklo-plave-ruze</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/contact.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/ljiljan-kala-belaruza-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/ruza-gerber-margareta-1.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/orijental-ruza-crvena-gerber-crveni-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beleruze-gerber-1.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beligerber-zutigerber.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/gerber-kala.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/orijental-gerber-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/bela-ruza-beli-gerber-venac.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/ruze-crvene-srce-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/suza-ljiljan-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/ljiljan-beli-margareta-bela-prirodna-korpa.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/orijental-beli-roze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/gerber-svetlo-roze-prirodna-korpa.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/crvene-ruze-perlice.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/gerber-zuti-prirodna-korpa.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/orijental-bele-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/kala-bela-prirodna-korpa.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/ljiljan-beli-ruze-bele.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/crvena-ruza.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/crveni-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/bela-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/kala.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/bela-ruza.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/roze-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/roze-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/beli-ljiljan-komadno-cvece.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/ruzice-crvene-vestacko.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/kale-bele-vestacko.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/kucica-za-svece-mala.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/piramida-mala-staklo-crvene-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/piramida-mala-staklo-ljubicaste-bele-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-krst-crvene-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:49+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/products/venci</loc>
-	<lastmod>2022-04-04T19:19:52+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-suza-ljubicaste-ruze</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/buket-korpa/buket-crvene-ruze-perlice</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/kala-orhideja-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/srce-beleruze-beligerber.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/venac-ruza-gerber-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/venac-srce-rozeruze-beleruze.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/crveni-gerber-bela-gipsofila-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljan-roze-gerber-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/bele-kale-crveni-gerber-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/products/suze</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/buket-korpa/buket-orijental-bele-ruze</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/suze/dvostranicna-suza-beli-ljiljan-beli-gerber-zelena-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/bela-ruza-crveni-gerber-bela-margareta-dvostranicna-suza.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/dvostranicna-suza-beli-ljiljan.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/bela-ruza-mahonija-prirodna-suza-dvostrana.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/bela-kala-bela-margareta-hrizantema-dvostranicna-suza.html</loc>
-	<lastmod>2022-04-04T19:19:53+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/crveni-crimson-gerber-prirodna-korpa.html</loc>
-	<lastmod>2022-04-04T19:19:54+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/products/komadno</loc>
-	<lastmod>2022-04-04T19:19:54+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/ljubicasti-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:55+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/narandzasta-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:55+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/ljubicasta-margareta.html</loc>
-	<lastmod>2022-04-04T19:19:55+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/narandzasti-gerber.html</loc>
-	<lastmod>2022-04-04T19:19:55+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/contact</loc>
-	<lastmod>2022-04-04T19:19:55+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/ljiljan-kala-belaruza-gerber</loc>
-	<lastmod>2022-04-04T19:19:56+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/ruza-gerber-margareta-1</loc>
-	<lastmod>2022-04-04T19:19:57+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/gerber-crveni-gladiola-crvena-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:19:57+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/products/ostalo-u-ponudi</loc>
-	<lastmod>2022-04-04T19:19:58+01:00</lastmod>
+	<loc>https://hrizantema.rs/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/beleruze-gerber-1</loc>
-	<lastmod>2022-04-04T19:19:58+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/roze-carski-ljiljan-orijental-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/gerber-kala</loc>
-	<lastmod>2022-04-04T19:19:58+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/crvena-ruza-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/rezano/crvena-ruza-rezano-komadno-cvece</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.1</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/rezano/bela-ruza-rezano-komadno-cvece</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-suza-ljubicaster-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/srce-staklo-crvene-bele-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/rezano/bela-margareta-rezano-komadno-cvece</loc>
+	<lastmod>2022-05-25T11:01:52+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/kucica-za-svece-velika.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:54+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/krst-staklo-plave-ruze.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:54+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/beli-gerber-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:54+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/orhideje-plave-vestacko.html</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza</loc>
+	<lastmod>2022-05-25T11:01:54+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/orijental-gerber-margareta</loc>
-	<lastmod>2022-04-04T19:19:59+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/beli-ljiljan-roze-gerber-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac</loc>
-	<lastmod>2022-04-04T19:20:00+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/beligerber-zutigerber</loc>
-	<lastmod>2022-04-04T19:20:00+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/gerber-crveni-oblik-srce-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/bela-ruza-beli-gerber-venac</loc>
-	<lastmod>2022-04-04T19:20:00+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/bele-kale-crveni-gerber-prirodni-venac-gmb</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:00+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/bela-ruza-beli-gerber-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/ruze-crvene-srce-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:01+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/zuti-gerber-beli-gerber-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/venac-kala-gerber-margareta</loc>
-	<lastmod>2022-04-04T19:20:01+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/orijental-ruza-crvena-gerber-crveni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/orijental-beli-roze</loc>
-	<lastmod>2022-04-04T19:20:03+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/ljiljan-beli-margareta-bela-prirodna-korpa</loc>
-	<lastmod>2022-04-04T19:20:03+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/gerber-crveni-gladiole-crvene-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/gerber-svetlo-roze-prirodna-korpa</loc>
-	<lastmod>2022-04-04T19:20:03+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/crvene-ruze-perlice</loc>
-	<lastmod>2022-04-04T19:20:04+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/crveni-gerber-bela-gipsofila-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/gerber-zuti-prirodna-korpa</loc>
-	<lastmod>2022-04-04T19:20:04+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/orijental-bele-ruze</loc>
-	<lastmod>2022-04-04T19:20:04+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/ljiljan-beli-ruze-bele</loc>
-	<lastmod>2022-04-04T19:20:04+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/kala-bela-prirodna-korpa</loc>
-	<lastmod>2022-04-04T19:20:05+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/crvena-ruza</loc>
-	<lastmod>2022-04-04T19:20:05+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/venac/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema</loc>
+	<lastmod>2022-05-25T11:01:55+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/crveni-gerber</loc>
-	<lastmod>2022-04-04T19:20:05+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/buket-korpa/beli-ljiljan-bele-ruze-prirodni-buket</loc>
+	<lastmod>2022-05-25T11:01:56+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/bela-margareta</loc>
-	<lastmod>2022-04-04T19:20:06+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/buket-korpa/kale-bele-prirodna-korpa</loc>
+	<lastmod>2022-05-25T11:01:56+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/kala</loc>
-	<lastmod>2022-04-04T19:20:06+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/buket-korpa/buketi-orijental-roze-beli</loc>
+	<lastmod>2022-05-25T11:01:56+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/bela-ruza</loc>
-	<lastmod>2022-04-04T19:20:06+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/buket-korpa/gerber-svetlo-roze-prirodna-korpa</loc>
+	<lastmod>2022-05-25T11:01:56+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/roze-gerber</loc>
-	<lastmod>2022-04-04T19:20:06+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/roze-margareta</loc>
-	<lastmod>2022-04-04T19:20:06+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-piramida-crvene-ruze-velika</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/komadno/beli-ljiljan-komadno-cvece</loc>
-	<lastmod>2022-04-04T19:20:07+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-srce-malo-crvene-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/ruzice-crvene-vestacko</loc>
-	<lastmod>2022-04-04T19:20:07+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/kucica-za-svece-mala</loc>
-	<lastmod>2022-04-04T19:20:07+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/kale-bele-vestacko</loc>
-	<lastmod>2022-04-04T19:20:08+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-krst-crvene-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze</loc>
-	<lastmod>2022-04-04T19:20:08+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/kucica-za-svece-mala</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/piramida-mala-staklo-crvene-ruze</loc>
-	<lastmod>2022-04-04T19:20:08+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-krst-crvene-ruze</loc>
-	<lastmod>2022-04-04T19:20:09+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-suza-mala-bele-crvene-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac</loc>
-	<lastmod>2022-04-04T19:20:09+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/srce-staklo-crveno-bele-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac</loc>
-	<lastmod>2022-04-04T19:20:10+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/mala-piramida-crvene-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/kala-orhideja-gerber</loc>
-	<lastmod>2022-04-04T19:20:11+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/mala-piramida-ljubicaste-bele-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/venac-ruza-gerber-margareta</loc>
-	<lastmod>2022-04-04T19:20:11+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/staklo-suza-ljubicaste-bele-ruze</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/srce-beleruze-beligerber</loc>
-	<lastmod>2022-04-04T19:20:12+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/crveni-gerber-bela-gipsofila-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:12+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/venac-srce-rozeruze-beleruze</loc>
-	<lastmod>2022-04-04T19:20:12+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:13+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/ostalo/bela-kala-vestacko-cvece-saksija-gips</loc>
+	<lastmod>2022-05-25T11:01:57+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljan-roze-gerber-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:13+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/rezano/crimson-gerber-rezano-komadno-cvece</loc>
+	<lastmod>2022-05-25T11:01:59+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://hrizantema.rs/pages/single/venci/bele-kale-crveni-gerber-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:13+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac</loc>
-	<lastmod>2022-04-04T19:20:14+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema</loc>
-	<lastmod>2022-04-04T19:20:14+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/bela-ruza-crveni-gerber-bela-margareta-dvostranicna-suza</loc>
-	<lastmod>2022-04-04T19:20:15+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/dvostranicna-suza-beli-ljiljan-beli-gerber-zelena-margareta</loc>
-	<lastmod>2022-04-04T19:20:15+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/bela-ruza-mahonija-prirodna-suza-dvostrana</loc>
-	<lastmod>2022-04-04T19:20:16+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/dvostranicna-suza-beli-ljiljan</loc>
-	<lastmod>2022-04-04T19:20:16+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza</loc>
-	<lastmod>2022-04-04T19:20:16+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/buketi-korpe/crveni-crimson-gerber-prirodna-korpa</loc>
-	<lastmod>2022-04-04T19:20:17+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/suze/bela-kala-bela-margareta-hrizantema-dvostranicna-suza</loc>
-	<lastmod>2022-04-04T19:20:17+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/ljubicasti-gerber</loc>
-	<lastmod>2022-04-04T19:20:18+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/ljubicasta-margareta</loc>
-	<lastmod>2022-04-04T19:20:18+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/narandzasta-margareta</loc>
-	<lastmod>2022-04-04T19:20:18+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/komadno/narandzasti-gerber</loc>
-	<lastmod>2022-04-04T19:20:18+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips</loc>
-	<lastmod>2022-04-04T19:20:20+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips</loc>
-	<lastmod>2022-04-04T19:20:21+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija</loc>
-	<lastmod>2022-04-04T19:20:21+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze</loc>
-	<lastmod>2022-04-04T19:20:22+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-suza-ljubicaster-ruze</loc>
-	<lastmod>2022-04-04T19:20:22+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/kucica-za-svece-velika</loc>
-	<lastmod>2022-04-04T19:20:23+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/srce-staklo-crvene-bele-ruze</loc>
-	<lastmod>2022-04-04T19:20:23+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika</loc>
-	<lastmod>2022-04-04T19:20:24+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/orhideje-plave-vestacko</loc>
-	<lastmod>2022-04-04T19:20:25+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://hrizantema.rs/pages/single/ostalo-u-ponudi/krst-staklo-plave-ruze</loc>
-	<lastmod>2022-04-04T19:20:25+01:00</lastmod>
-	<priority>0.4</priority>
+	<loc>https://hrizantema.rs/single/rezano/bela-kala-rezano-komadno-cvece</loc>
+	<lastmod>2022-05-25T11:01:59+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 </urlset>

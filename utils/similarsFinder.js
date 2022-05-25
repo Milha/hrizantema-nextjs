@@ -2,6 +2,7 @@ import { rezanoItemData } from "../data/rezanoItemData";
 import { suzeItemData } from "../data//suzeItemData";
 import { buketiKorpeItemData } from "../data/buketiKorpeItemData";
 import { ostaloUPonudiData } from "../data/ostaloUPonudiData";
+import { venciItemData } from "../data/venciItemData";
 
 // Buketi SetData
 const dataRezano = rezanoItemData;
@@ -171,6 +172,49 @@ export const ostaloUPonudiSetData = dataOstaloUPonudi.map((inj) => ({
       miniImage: ostaloUPonudiData[inj.test[2]].imageBig,
       miniPrice: ostaloUPonudiData[inj.test[2]].price,
       minAlt: ostaloUPonudiData[inj.test[2]].alt,
+    },
+  ],
+}));
+
+// Venci SetData
+const dataVenci = venciItemData;
+
+export const venciSetData = dataVenci.map((inj) => ({
+  test: inj.test,
+  id: inj.id,
+  title: inj.title,
+  price: inj.price,
+  priceRange: inj.priceRange,
+  imageBig: inj.imageBig,
+  imageBigWebP: inj.imageBigWebP,
+  imageSmall: inj.imageSmall,
+  imageSmallWebP: inj.imageSmallWebP,
+
+  imageGMB: inj.imageGMB,
+  alt: inj.alt,
+  text: inj.text,
+  httpaddress: inj.httpaddress,
+  link: inj.link,
+  sluglink: inj.sluglink,
+  prodId: inj.prodId,
+  similar: [
+    {
+      miniLink: venciItemData[inj.test[0]].link,
+      miniImage: venciItemData[inj.test[0]].imageBig,
+      miniPrice: venciItemData[inj.test[0]].price,
+      minAlt: venciItemData[inj.test[0]].alt,
+    },
+    {
+      miniLink: venciItemData[inj.test[1]].link,
+      miniImage: venciItemData[inj.test[1]].imageBig,
+      miniPrice: venciItemData[inj.test[1]].price,
+      minAlt: venciItemData[inj.test[1]].alt,
+    },
+    {
+      miniLink: venciItemData[inj.test[2]].link,
+      miniImage: venciItemData[inj.test[2]].imageBig,
+      miniPrice: venciItemData[inj.test[2]].price,
+      minAlt: venciItemData[inj.test[2]].alt,
     },
   ],
 }));

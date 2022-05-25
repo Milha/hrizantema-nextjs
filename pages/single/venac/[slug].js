@@ -1,6 +1,7 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
-import { venciItemData } from "../../../data/venciItemData";
+// import { venciItemData } from "../../../data/venciItemData";
+import { venciSetData } from "../../../utils/similarsFinder";
 // import { similarsVenciFinder } from "../../../utils/similarsFinder";
 // import { findInUtils } from "../../../utils/similarsFinder";
 
@@ -19,7 +20,7 @@ export default function Slug({ pageItems }) {
 
 export async function getStaticProps(context) {
   // pageItems LOGIC
-  const data = venciItemData;
+  const data = venciSetData;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
 
@@ -33,7 +34,7 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
-  const data = venciItemData;
+  const data = venciSetData;
 
   const paths = data.map((way) => ({
     params: { slug: way.sluglink },

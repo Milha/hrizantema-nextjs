@@ -1,6 +1,6 @@
 export const venciItemData = [
   {
-    test: [1, 12, 13],
+    test: [1, 19, 17],
     id: 1,
     title: "Bele ruže ~ crvene ruže",
     price: "7.000",
@@ -24,28 +24,9 @@ export const venciItemData = [
       "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
     prodId: "VE-001",
     stock: "https://schema.org/InStock",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [2, 3, 4],
+    test: [11, 13, 19],
     id: 2,
     title: "Ljiljan ~ ruža ~ gerber ~ margareta",
     price: "7.000",
@@ -68,28 +49,9 @@ export const venciItemData = [
     sluglink:
       "beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
     prodId: "VE-002",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [5, 6, 7],
+    test: [5, 8, 15],
     id: 3,
     title: "Bele orijental ~ ruže ~ gerber ~ kale",
     price: "9.000",
@@ -112,28 +74,9 @@ export const venciItemData = [
     sluglink:
       "beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
     prodId: "VE-003",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [0, 6, 8],
     id: 4,
     title: "Srce crvena ruža",
     price: "6.500",
@@ -150,29 +93,10 @@ export const venciItemData = [
     link: "/single/venac/ruza-crvena-oblik-srce-venac",
     sluglink: "ruza-crvena-oblik-srce-venac",
     prodId: "VE-004",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
 
   {
-    test: [7, 8, 9],
+    test: [13, 5, 10],
     id: 5,
     title: "Beli ljiljan ~ roze gerber",
     price: "4.000 - 5.000",
@@ -191,28 +115,10 @@ export const venciItemData = [
     link: "/single/venac/beli-ljiljan-roze-gerber-prirodni-venac",
     sluglink: "beli-ljiljan-roze-gerber-prirodni-venac",
     prodId: "VE-005",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
+
   {
-    test: [7, 8, 9],
+    test: [10, 15, 13],
     id: 6,
     title: "Carski ljiljan ~ bele ruže ~ gladiole",
     price: "6.000",
@@ -233,28 +139,9 @@ export const venciItemData = [
     link: "/single/venac/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac",
     sluglink: "roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac",
     prodId: "VE-006",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [19, 3, 13],
     id: 7,
     title: "Venac srce od gerbera",
     price: "5.500",
@@ -271,28 +158,9 @@ export const venciItemData = [
     link: "/single/venac/gerber-crveni-oblik-srce-venac",
     sluglink: "gerber-crveni-oblik-srce-venac",
     prodId: "VE-007",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [6, 9, 2],
     id: 8,
     title: "Bele kale ~ crveni gerber",
     price: "5.000",
@@ -311,28 +179,9 @@ export const venciItemData = [
     link: "/single/venac/bele-kale-crveni-gerber-prirodni-venac-gmb",
     sluglink: "bele-kale-crveni-gerber-prirodni-venac-gmb",
     prodId: "VE-008",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [0, 1, 18],
     id: 9,
     title: "Bela ruža ~ beli gerber",
     price: "6.000",
@@ -349,28 +198,9 @@ export const venciItemData = [
     link: "/single/venac/bela-ruza-beli-gerber-venac",
     sluglink: "bela-ruza-beli-gerber-venac",
     prodId: "VE-009",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [19, 13, 6],
     id: 10,
     title: "Beli gerber ~ žuti gerber",
     price: "4.000",
@@ -389,28 +219,9 @@ export const venciItemData = [
     link: "/single/venac/zuti-gerber-beli-gerber-prirodni-venac",
     sluglink: "zuti-gerber-beli-gerber-prirodni-venac",
     prodId: "VE-010",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [13, 1, 4],
     id: 11,
     title: "Orijental ~ crvena ruža ~ gerber",
     price: "8.000",
@@ -430,29 +241,10 @@ export const venciItemData = [
     link: "/single/venac/orijental-ruza-crvena-gerber-crveni-venac",
     sluglink: "orijental-ruza-crvena-gerber-crveni-venac",
     prodId: "VE-011",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
 
   {
-    test: [7, 8, 9],
+    test: [12, 4, 9],
     id: 12,
     title: "Gerber ~ palisad hrizanteme",
     price: "4.000",
@@ -473,28 +265,10 @@ export const venciItemData = [
     link: "/single/venac/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
     sluglink: "crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
     prodId: "VE-012",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
+
   {
-    test: [7, 8, 9],
+    test: [14, 11, 9],
     id: 13,
     title: "Gerber ~ gladiole",
     price: "4.500",
@@ -512,28 +286,9 @@ export const venciItemData = [
     link: "/single/venac/gerber-crveni-gladiole-crvene-venac",
     sluglink: "gerber-crveni-gladiole-crvene-venac",
     prodId: "VE-013",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [10, 1, 4],
     id: 14,
     title: "Carski ljiljan ~ crveni gerber ~ margareta",
     price: "9.000",
@@ -555,28 +310,9 @@ export const venciItemData = [
     link: "/single/venac/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
     sluglink: "roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
     prodId: "VE-014",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [0, 6, 19],
     id: 15,
     title: "Crveni gerber ~ bela gipsofila",
     price: "4.000",
@@ -597,28 +333,9 @@ export const venciItemData = [
     link: "/single/venac/crveni-gerber-bela-gipsofila-prirodni-venac",
     sluglink: "crveni-gerber-bela-gipsofila-prirodni-venac",
     prodId: "VE-015",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [1, 13, 16],
     id: 16,
     title: "Carski ljiljan ~ bele ruže",
     price: "8.000",
@@ -641,28 +358,9 @@ export const venciItemData = [
     sluglink:
       "roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
     prodId: "VE-016",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [3, 15, 1],
     id: 17,
     title: "Beli ljiljan ~ crvene ruže",
     price: "5.000",
@@ -685,28 +383,9 @@ export const venciItemData = [
     sluglink:
       "beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
     prodId: "VE-017",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [16, 0, 1],
     id: 18,
     title: "Ruža ~ gerber ~ margareta",
     price: "8.000",
@@ -729,28 +408,9 @@ export const venciItemData = [
     sluglink:
       "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
     prodId: "VE-018",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [16, 3, 8],
     id: 19,
     title: "Bele ruže ~ ljubičaste margarete",
     price: "9.000",
@@ -773,28 +433,9 @@ export const venciItemData = [
     sluglink:
       "bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
     prodId: "VE-019",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
-    test: [7, 8, 9],
+    test: [0, 6, 14],
     id: 20,
     title: "Beli ljiljan ~ crvene gerber",
     price: "6.000",
@@ -816,25 +457,6 @@ export const venciItemData = [
     link: "/single/venac/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
     sluglink: "beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
     prodId: "VE-020",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   // {
   //   id: 1,
