@@ -34,7 +34,7 @@ export default function BigVerticalSingleCard({ data }) {
             type="image/jpg"
           />
 
-          <img src={data.imageBig} alt={data.alt} />
+          <img src={data.imageBig} alt={data.alt} loading="lazy" />
         </picture>
       </div>
       <div className={classes.text_cont}>
