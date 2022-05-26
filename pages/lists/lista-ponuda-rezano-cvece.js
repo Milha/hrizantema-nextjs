@@ -11,7 +11,11 @@ export default function Lists({ inject }) {
   // console.log(inject, "from list page");
   return (
     <>
-      <HeadList data={rezanoItemData} addTitle="Ponuda rezanog cveća" />
+      <HeadList
+        data={rezanoItemData}
+        addTitle="Ponuda rezanog cveća"
+        addHttpaddress="https://hrizantema.rs/lists/lista-ponuda-rezano-cvece"
+      />
       <article className={classes.cont}>
         {inject.map((inj) => (
           <section key={inj.id}>

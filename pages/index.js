@@ -16,7 +16,10 @@ export default function Home({ propsData, sampleData }) {
 
   return (
     <div>
-      <Head></Head>
+      <Head>
+        {/* REL CANNONICAL */}
+        <link rel="canonical" href="https://hrizantema.rs" />
+      </Head>
       {/* <Hero /> */}
       {/* <SubHero /> */}
       <HeroBanner />

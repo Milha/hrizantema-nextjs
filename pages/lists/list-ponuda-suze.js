@@ -3,13 +3,17 @@ import HeadList from "../../components/heads/HeadList";
 
 import classes from "./listsArticles.module.scss";
 
-import { suzeItemData } from "../../data/suzeItemData";;
+import { suzeItemData } from "../../data/suzeItemData";
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
   return (
     <>
-      <HeadList data={suzeItemData} addTitle="Ponuda Suza" />
+      <HeadList
+        data={suzeItemData}
+        addTitle="Ponuda Suza"
+        addHttpaddress="https://hrizantema.rs/lists/list-ponuda-suze"
+      />
       <article className={classes.cont}>
         {inject.map((inj) => (
           <section key={inj.id}>

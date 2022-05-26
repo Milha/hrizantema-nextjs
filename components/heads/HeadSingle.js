@@ -22,6 +22,8 @@ export default function HeadSingle({ data }) {
       availability: data.stock,
     },
   };
+
+  console.log(data.httpaddress);
   return (
     <Head>
       {/* SCHEMA */}
@@ -34,6 +36,9 @@ export default function HeadSingle({ data }) {
 
       {/* META */}
       <title>Cvećara Hrizantema Orlovača | {data.title}</title>
+
+      {/* REL CANNONICAL */}
+      <link rel="canonical" href={data.httpaddress} />
     </Head>
   );
 }

@@ -63,6 +63,9 @@ function MyApp({ Component, pageProps }) {
           href="/images/favicon/favicon-16x16.png"
         />
         <link rel="manifest" href="/images/favicon/site.webmanifest" />
+
+        
+
         {/* SCHEMA */}
         <script
           type="application/ld+json"

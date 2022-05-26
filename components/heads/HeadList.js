@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-export default function HeadList({ data, addTitle }) {
+export default function HeadList({ data, addTitle, addHttpaddress }) {
   const eleMap = data.map((inj) => ({
     "@type": "ListItem",
     position: inj.id + 1,
@@ -15,6 +15,7 @@ export default function HeadList({ data, addTitle }) {
     name: "Lista venaca",
     itemListElement: eleMap,
   };
+
   return (
     <Head>
       {/* SCHEMA */}
@@ -24,9 +25,10 @@ export default function HeadList({ data, addTitle }) {
           __html: JSON.stringify(schemaDataItemList),
         }}
       />
-
       {/* META */}
       <title>Cvećara Hrizantema Orlovača | {addTitle}</title>
+      {/* REL CANNONICAL */}
+      <link rel="canonical" href={addHttpaddress} />
     </Head>
   );
 }
