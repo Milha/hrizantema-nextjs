@@ -18,30 +18,6 @@ export const rezanoItemData = [
     link: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
     sluglink: "crvena-ruza-rezano-komadno-cvece",
     prodId: "KO-001",
-    similar: [
-      {
-        // Bela RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "bela ruza prirodni rezani cvet",
-      },
-      {
-        // Beli LJILJAN
-        miniLink: "/single/rezano/bela-kala-rezano-komadno-cvece",
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "400",
-        minAlt: "beli ljiljan prirodni rezani komadni cvet",
-      },
-      {
-        // Bela Kala
-        miniLink: "/single/rezano/bela-kala-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
-        miniPrice: "150",
-        minAlt: "Bela kala",
-      },
-    ],
   },
   {
     test: [0, 5, 4],
@@ -62,31 +38,6 @@ export const rezanoItemData = [
     link: "/single/rezano/bela-ruza-rezano-komadno-cvece",
     sluglink: "bela-ruza-rezano-komadno-cvece",
     prodId: "KO-002",
-    similar: [
-      {
-        //Crvena RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "crvena ruza",
-      },
-      {
-        // Beli LILJAN
-        miniLink:
-          "/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "400",
-        minAlt: "beli ljiljan prirodni rezani komadni cvet",
-      },
-      {
-        // Bela KALA
-        miniLink: "/single/rezano/bela-kala-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
-        miniPrice: "150",
-        minAlt: "Bela kala",
-      },
-    ],
   },
   {
     test: [3, 1, 5],
@@ -94,48 +45,20 @@ export const rezanoItemData = [
     title: "Beli ljiljan",
     price: "400",
     priceRange: "300 - 500",
-    imageBig:
-      "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    imageBigWebP:
-      "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.webp",
+    imageBig: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece.jpg",
+    imageBigWebP: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece.webp",
     imageSmall:
-      "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small-small.jpg",
+      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.jpg",
     imageSmallWebP:
-      "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small-small.webp",
-    imageGMB:
-      "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small-gmb.jpg",
+      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.webp",
+    imageGMB: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-gmb.jpg",
     alt: "beli ljiljan prirodni rezani komadni cvet",
     text: "Hrizantema cvećara Orlovača. Beli ljiljan, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
-      "https://hrizantema.rs/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-    link: "/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-    sluglink:
-      "beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
+      "https://hrizantema.rs/single/rezano/beli-ljiljan-rezano-komadno-cvece",
+    link: "/single/rezano/beli-ljiljan-rezano-komadno-cvece",
+    sluglink: "beli-ljiljan-rezano-komadno-cvece",
     prodId: "KO-003",
-    similar: [
-      {
-        // Bela RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "bela ruza prirodni rezani cvet",
-      },
-      {
-        // Bela MARGARETA
-        miniLink: "/single/rezano/bela-margareta-rezano-komadno-cvece",
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "250",
-        minAlt: "Bela margareta, prirodno, rezano cvece",
-      },
-      {
-        // Bela KALA
-        miniLink: "/single/rezano/bela-kala-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
-        miniPrice: "150",
-        minAlt: "Bela kala",
-      },
-    ],
   },
   {
     test: [2, 3, 5],
@@ -159,31 +82,6 @@ export const rezanoItemData = [
     link: "/single/rezano/bela-margareta-rezano-komadno-cvece",
     sluglink: "bela-margareta-rezano-komadno-cvece",
     prodId: "KO-004",
-    similar: [
-      {
-        // Beli LILJAN
-        miniLink:
-          "/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "400",
-        minAlt: "beli ljiljan prirodni rezani komadni cvet",
-      },
-      {
-        // Bela Kala
-        miniLink: "/single/rezano/bela-kala-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
-        miniPrice: "150",
-        minAlt: "Bela kala",
-      },
-      {
-        // Bela RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "bela ruza prirodni rezani cvet",
-      },
-    ],
   },
 
   {
@@ -208,31 +106,6 @@ export const rezanoItemData = [
     link: "/single/rezano/crimson-gerber-rezano-komadno-cvece",
     sluglink: "crimson-gerber-rezano-komadno-cvece",
     prodId: "KO-005",
-    similar: [
-      {
-        //Crvena RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "crvena ruza",
-      },
-      {
-        // Bela RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "bela ruza prirodni rezani cvet",
-      },
-      {
-        // Beli LILJAN
-        miniLink:
-          "/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "400",
-        minAlt: "beli ljiljan prirodni rezani komadni cvet",
-      },
-    ],
   },
   {
     test: [1, 2, 3],
@@ -253,32 +126,6 @@ export const rezanoItemData = [
     link: "/single/rezano/bela-kala-rezano-komadno-cvece",
     sluglink: "bela-kala-rezano-komadno-cvece",
     prodId: "KO-006",
-    similar: [
-      {
-        // Beli LILJAN
-        miniLink:
-          "/single/rezano/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small",
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "400",
-        minAlt: "beli ljiljan prirodni rezani komadni cvet",
-      },
-      {
-        // Bela RUZA
-        miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "200",
-        minAlt: "bela ruza prirodni rezani cvet",
-      },
-      {
-        // Bela MARGARETA
-        miniLink: "/single/rezano/bela-margareta-rezano-komadno-cvece",
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "250",
-        minAlt: "Bela margareta, prirodno, rezano cvece",
-      },
-    ],
   },
   // {
   //   id: 1,
