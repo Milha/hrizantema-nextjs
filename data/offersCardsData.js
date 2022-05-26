@@ -11,7 +11,7 @@ export const offersCardsData = [
     cardImage:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg",
     text: "Suze svih veličina i dvostranične suze",
-    offerLink: "lists/list-ponuda-suze",
+    offerLink: "/lists/list-ponuda-suze",
   },
   {
     title: "Ostalo u poundi",
