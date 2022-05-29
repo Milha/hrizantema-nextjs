@@ -18,11 +18,7 @@ function Header() {
       </Link>
 
       {/* NAVIGATION */}
-      <div
-        className={
-          isOpen === false ? classes.nav_toggle : classes.nav_toggle_none
-        }
-      >
+      <div className={!isOpen ? classes.nav_toggle : classes.nav_toggle_none}>
         <ul onClick={openMenu} aria-label="menu">
           <li>
             <Link href="/lists/list-ponuda-suze">
@@ -63,7 +59,7 @@ function Header() {
         type="button"
         role="button"
       >
-        {isOpen === false ? (
+        {!isOpen ? (
           <span className={classes.burger_icon}>
             <CloseIcon></CloseIcon>
           </span>
