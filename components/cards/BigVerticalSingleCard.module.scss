@@ -1,3 +1,5 @@
+@import "../../styles/colors.module.scss";
+
 .cont {
   display: flex;
   flex-direction: column;
@@ -56,11 +58,15 @@
         // max-height: 42rem;
       }
 
+      // @media (min-width: 40rem) {
+      //   margin-left: -1rem;
+      // }
+
       @media (min-width: 80rem) {
         margin-left: 3vw;
       }
       @media (min-width: 100rem) {
-        margin-left: 9vw;
+        margin-left: 8vw;
       }
     }
 
@@ -99,18 +105,53 @@
     .desc {
       opacity: 0.6;
       line-height: 1.4;
+      margin-bottom: 2rem;
     }
 
     .code {
       text-align: left;
       font-size: 0.75rem;
-      margin-left: 0.5rem;
-      color: gray;
+      // margin-left: 0.5rem;
+      color: #858985;
+      margin-bottom: 0;
 
       // span {
       //   // text-transform: uppercase;
       //   font-size: 0.5rem;
       // }
     }
+
+    .similar_text {
+      color: $color-main-brown-200;
+      text-align: left;
+      // font-size: 0.75rem;
+      margin-bottom: 0;
+    }
+  }
+}
+
+.additional_cont {
+  width: 90%;
+  margin: 0 auto;
+  // @media (min-width: 50rem) {
+  //   width: 90%;
+  //   margin: 0 auto;
+  // }
+
+  @media (min-width: 50rem) {
+    width: 80%;
+  }
+
+  // @media (min-width: 80rem) {
+  //   width: 80%;
+  // }
+  p {
+    color: #cc142d;
+
+    // @media (min-width: 60rem) {
+    //   width: 98%;
+    //   margin: 0 auto;
+    //   background-color: rebeccapurple;
+    // }
   }
 }
