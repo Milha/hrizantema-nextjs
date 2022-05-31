@@ -58,16 +58,17 @@
         // max-height: 42rem;
       }
 
-      // @media (min-width: 40rem) {
-      //   margin-left: -1rem;
-      // }
+      @media (min-width: 60rem) {
+        max-width: 100%;
+        height: auto;
+      }
 
-      @media (min-width: 80rem) {
-        margin-left: 3vw;
-      }
-      @media (min-width: 100rem) {
-        margin-left: 8vw;
-      }
+      // @media (min-width: 80rem) {
+      //   margin-left: 3vw;
+      // }
+      // @media (min-width: 100rem) {
+      //   margin-left: 8vw;
+      // }
     }
 
     img:hover {
