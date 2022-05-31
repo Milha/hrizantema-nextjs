@@ -1,4 +1,4 @@
-import SmallCard from "./SmallCard";
+import SmallCard from "../cards/SmallCard";
 import classes from "./Sample.module.scss";
 
 export default function Sample(props) {
