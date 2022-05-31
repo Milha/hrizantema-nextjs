@@ -6,7 +6,6 @@ import classes from "./BigVerticalSingleCard.module.scss";
 export default function BigVerticalSingleCard({ data }) {
   // console.log(data, "FROM BIG VERTICAl - Data");
   // console.log(miniData, "FROM BIG VERTICAl - Mini data");
-  // console.log(data);
   return (
     <>
       <div className={classes.cont}>

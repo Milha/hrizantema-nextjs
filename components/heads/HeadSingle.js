@@ -23,7 +23,7 @@ export default function HeadSingle({ data }) {
     },
   };
 
-  console.log(data.httpaddress);
+  // console.log(data.httpaddress);
   return (
     <Head>
       {/* SCHEMA */}
