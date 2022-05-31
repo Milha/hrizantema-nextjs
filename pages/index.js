@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Offers from "../components/cards/Offers";
 import HeroBanner from "../components/layout/HeroBanner";
-import Sample from "../components/layout/Sample";
+import Sample from "../components/cards/Sample";
 
 // import Hero from "../components/layout/Hero";
 // import SubHero from "../components/layout/SubHero";
