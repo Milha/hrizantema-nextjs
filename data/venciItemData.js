@@ -30,7 +30,7 @@ export const venciItemData = [
     stock: "https://schema.org/InStock",
   },
   {
-    test: [11, 13, 19],
+    test: [20, 13, 19],
     id: 2,
     title: "Ljiljan ~ ruža ~ gerber ~ margareta",
     price: "7.000",

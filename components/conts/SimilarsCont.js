@@ -10,12 +10,6 @@ export default function SimilarsCont({ data }) {
   const similarData1 = data.similar[0];
   const similarData2 = data.similar[1];
   const similarData3 = data.similar[2];
-  // console.log(data, "Similar cont - data");
-  // console.log(similarData, "Similar cont - similarData");
-  // console.log(miniData, "FROM SIMILAR CONT");
-  // console.log(miniData[0], "FROM test index 1");
-  // console.log(miniData[1], "FROM test index 2");
-  // console.log(miniData[2], "FROM test index 3");
 
   // const founded = data.find((el, i) => {
   //   el.id == data.id;

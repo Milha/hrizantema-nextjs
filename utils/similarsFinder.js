@@ -32,6 +32,7 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
       miniImageWebP: rezanoItemData[inj.test[0]].imageSmallWebP,
       miniPrice: rezanoItemData[inj.test[0]].price,
       minAlt: rezanoItemData[inj.test[0]].alt,
+      miniTest: rezanoItemData[inj.test[0]].imageMini,
     },
     {
       miniLink: rezanoItemData[inj.test[1]].link,
@@ -39,6 +40,7 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
       miniImageWebP: rezanoItemData[inj.test[1]].imageSmallWebP,
       miniPrice: rezanoItemData[inj.test[1]].price,
       minAlt: rezanoItemData[inj.test[1]].alt,
+      miniTest: rezanoItemData[inj.test[1]].imageMini,
     },
     {
       miniLink: rezanoItemData[inj.test[2]].link,
@@ -46,6 +48,7 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
       miniImageWebP: rezanoItemData[inj.test[2]].imageSmallWebP,
       miniPrice: rezanoItemData[inj.test[2]].price,
       minAlt: rezanoItemData[inj.test[2]].alt,
+      miniTest: rezanoItemData[inj.test[2]].imageMini,
     },
   ],
 }));
