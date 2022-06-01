@@ -1,4 +1,4 @@
-const ostaloUPonudiDataPreReverse = [
+export const ostaloUPonudiData = [
   {
     test: [2, 10, 3],
     id: 1,
@@ -10,6 +10,8 @@ const ostaloUPonudiDataPreReverse = [
     imageSmall: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
     imageSmallWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/kucica-za-svece-velika-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
+    imageMiniWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.webp",
     alt: "Velika kucica za paljenje sveca na groblju",
     text: "Hrizantema cvećara Orlovača. Velika kućica za paljenje sveće. Kućica za paljenje sveća.",
     httpaddress: "https://hrizantema.rs/single/ostalo/kucica-za-svece-velika",
@@ -33,6 +35,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips-small.webp",
     alt: "vestacko cvece roze ljiljan belo roze ruze saksija gips",
     text: "Roze ljiljani, belo - roze ruže, veštačko cveće u saksiji.",
     httpaddress:
@@ -52,6 +58,8 @@ const ostaloUPonudiDataPreReverse = [
     imageSmall: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.jpg",
     imageSmallWebP: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.jpg",
+    imageMiniWebP: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.webp",
     alt: "Krst od stakla, za groblje, plave ruze",
     text: "Hrizantema cvećara Orlovača. Krst od stakla aranžiran plavim ružama.",
     httpaddress: "https://hrizantema.rs/single/ostalo/krst-staklo-plave-ruze",
@@ -71,6 +79,9 @@ const ostaloUPonudiDataPreReverse = [
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.webp",
     alt: "Suza od stakla za groblje, ljubicaste ruze",
     text: "Hrizantema cvećara Orlovača. Suza od stakla, aranžirana ljubičastim ružama.",
     httpaddress:
@@ -96,6 +107,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-small.webp",
     alt: "vestacko cvece bele kale ljubicasto bele ruzice saksija gips",
     text: "Bele kale i ljubičaster ruže, veštačko cveće u saksiji. ",
     httpaddress:
@@ -119,6 +134,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika-small.webp",
     alt: "Piramida od stakla, za groblje, crvene ruze",
     text: "Velika piramida od stakla aranžiran crvenim ružama. ",
     httpaddress:
@@ -140,6 +159,9 @@ const ostaloUPonudiDataPreReverse = [
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze-small.webp",
     alt: "Srce malo od stakla crvene i bele ruze",
     text: "Hrizantema cvećara Orlovača. Srce od stakla malo crvene i bele ruže, veštačko cveće, veliki izbor.",
     httpaddress:
@@ -164,6 +186,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips-small.webp",
     alt: "vestacko cvece bele orhideje saksija gips",
     text: "Bele orhideje, veštačko cveće u saksiji.",
     httpaddress:
@@ -189,6 +215,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija-small.webp",
     alt: "vestacko cvece ljubicasto roze orhideje saksija gips",
     text: "Roze orhideje, veštačko cveće u saksiji.",
     httpaddress:
@@ -210,6 +240,8 @@ const ostaloUPonudiDataPreReverse = [
     imageSmallWebP:
       "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.jpg",
+    imageMiniWebP: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.webp",
     alt: "Krst od stakla crvene i bele ruze",
     text: "Hrizantema cvećara Orlovača. Krst od stakla crvene i bele ruže, veštačko cveće, veliki izbor. ",
     httpaddress: "https://hrizantema.rs/single/ostalo/staklo-krst-crvene-ruze",
@@ -229,6 +261,8 @@ const ostaloUPonudiDataPreReverse = [
     imageSmall: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
     imageSmallWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/kucica-za-svece-mala-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
+    imageMiniWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.webp",
     alt: "Mala kucica za svece",
     text: "Hrizantema cvećara Orlovača. Mala kućica za sveće. Kućica za paljenje sveća.",
     httpaddress: "https://hrizantema.rs/single/ostalo/kucica-za-svece-mala",
@@ -253,6 +287,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze-small.webp",
     alt: "Piramida od stakla crvene i bele ruze",
     text: "Hrizantema cvećara Orlovača. Velika piramida od stakla crvene i bele ruže, veštačko cveće, veliki izbor. ",
     httpaddress:
@@ -276,6 +314,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze-small.webp",
     alt: "Suza od stakla ljubicaste i bele ruze",
     text: "Hrizantema cvećara Orlovača. Suza od stakla ljubičaste i bele ruže, veštačko cveće, veliki izbor.",
     httpaddress:
@@ -297,6 +339,9 @@ const ostaloUPonudiDataPreReverse = [
     imageSmallWebP:
       "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze-small.webp",
     alt: "srce stakleno crvene i bele ruze",
     text: "Hrizantema cvećara Orlovača. Srce staklo crvene bele ruže, veštačko cveće, veliki izbor. ",
     httpaddress:
@@ -317,6 +362,9 @@ const ostaloUPonudiDataPreReverse = [
     imageSmallWebP:
       "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.webp",
     imageGMB: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.webp",
     alt: "Piramida od stakla crvene ruze",
     text: "Piramida od stakla crvene ruže, veštačko cveće - mala. Veliki izbor cveća.",
     httpaddress:
@@ -340,6 +388,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze-small.webp",
     alt: "Piramida od stakla crvene ruze",
     text: "Hrizantema cvećara Orlovača. Staklo piramida ljubičaste i bele ruže, veštačko cveće, veliki izbor.",
     httpaddress:
@@ -363,6 +415,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze-small.webp",
     alt: "Suza od stakla ljubicaste i bele ruze",
     text: "Hrizantema cvećara Orlovača. Suza od stakla ljubičaste i bele ruže, veštačko cveće, veliki izbor. ",
     httpaddress:
@@ -387,6 +443,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips-small.webp",
     alt: "Plava orhideja vestacko cvece",
     text: "Plava orhideja, veštačko cveće, veliki izbor. ",
     httpaddress:
@@ -411,6 +471,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips-small.webp",
     alt: "crvene ruzice vestacko cvece saksija gips",
     text: "Crvene ružice, veštačko cveće, veliki izbor.",
     httpaddress:
@@ -435,6 +499,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips-small.webp",
     alt: "Roze orhideja vestacko cvece",
     text: "Hrizantema cvećara Orlovača. Roze orhideja, veštačko cveće, veliki izbor.",
     httpaddress:
@@ -459,6 +527,10 @@ const ostaloUPonudiDataPreReverse = [
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.webp",
     imageGMB:
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips-small.webp",
     alt: "Bela kala vestacko cvece saksija gips",
     text: "Hrizantema cvećara Orlovača. Bela kala, veštačko cveće, veliki izbor.",
     httpaddress:
@@ -467,6 +539,7 @@ const ostaloUPonudiDataPreReverse = [
     sluglink: "bela-kala-vestacko-cvece-saksija-gips",
     prodId: "OP-021",
   },
+
   // {
   //   test: [3, 4, 5],
   //   id: 4,
@@ -478,6 +551,8 @@ const ostaloUPonudiDataPreReverse = [
   //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.webp",
   //   alt: "ALTTT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/ostalo/INPUTLINK",
@@ -568,4 +643,4 @@ const ostaloUPonudiDataPreReverse = [
   // },
 ];
 
-export const ostaloUPonudiData = ostaloUPonudiDataPreReverse.reverse();
+// export const ostaloUPonudiData = ostaloUPonudiDataPreReverse.reverse();

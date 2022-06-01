@@ -14,6 +14,10 @@ export const suzeItemData = [
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg",
+    imageMiniWebP:
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
     alt: "suza roze beli ljiljan orijental.",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih ljiljana orijentala - carskih ljiljana. Uz najkvalitetnije zelenilo, gipsofila, lovor.",
     httpaddress:
@@ -21,25 +25,6 @@ export const suzeItemData = [
     link: "/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
     prodId: "SU-001",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
   {
     test: [3, 7, 2],
@@ -52,31 +37,14 @@ export const suzeItemData = [
     imageSmall: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
     imageSmallWebP: "/images/suze/crvena-ruza-prirodna-suza-small.webp",
     imageGMB: "/images/suze/crvena-ruza-prirodna-suza-gmb.jpg",
+    imageMini: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
+    imageMiniWebP: "/images/suze/crvena-ruza-prirodna-suza-small.webp",
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od crvenih ruža. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
     httpaddress: "https://hrizantema.rs/single/suza/crvena-ruza-prirodna-suza",
     link: "/single/suza/crvena-ruza-prirodna-suza",
     sluglink: "crvena-ruza-prirodna-suza",
     prodId: "SU-002",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
   {
     test: [6, 7, 5],
@@ -94,6 +62,10 @@ export const suzeItemData = [
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.jpg",
+    imageMiniWebP:
+      "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza-small.webp",
     alt: "suza bele margarete, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih margareta i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
@@ -101,25 +73,6 @@ export const suzeItemData = [
     link: "/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     prodId: "SU-003",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
   {
     test: [7, 5, 2],
@@ -134,6 +87,10 @@ export const suzeItemData = [
     imageSmallWebP:
       "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.webp",
     imageGMB: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.jpg",
+    imageMiniWebP:
+      "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza-small.webp",
     alt: "suza beli ljilja, crveni gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana i crvenih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress:
@@ -141,25 +98,6 @@ export const suzeItemData = [
     link: "/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
     prodId: "SU-004",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
 
   {
@@ -178,6 +116,10 @@ export const suzeItemData = [
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.jpg",
+    imageMiniWebP:
+      "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza-small.webp",
     alt: "suza beli ljiljan bela margareta hrizantema",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana i margareta. Uz najkvalitetnije zelenilo, gipsofila, lovor. ",
     httpaddress:
@@ -185,25 +127,6 @@ export const suzeItemData = [
     link: "/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     sluglink: "beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     prodId: "SU-005",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
   {
     test: [0, 7, 5],
@@ -221,6 +144,10 @@ export const suzeItemData = [
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.jpg",
+    imageMiniWebP:
+      "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza-small.webp",
     alt: "suza roze beli orijental, roze gerber",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih orijental ljiljana i roze gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor. ",
     httpaddress:
@@ -228,25 +155,6 @@ export const suzeItemData = [
     link: "/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     sluglink: "roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     prodId: "SU-006",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
 
   {
@@ -260,31 +168,14 @@ export const suzeItemData = [
     imageSmall: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
     imageSmallWebP: "/images/suze/beli-gerber-prirodna-suza-small.webp",
     imageGMB: "/images/suze/beli-gerber-prirodna-suza-gmb.jpg",
+    imageMini: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
+    imageMiniWebP: "/images/suze/beli-gerber-prirodna-suza-small.webp",
     alt: "suza beli gerber, Hrizantema cvecara orlovaca",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih gerbera. Uz najkvalitetnije zelenilo, mrežicu, lovor.",
     httpaddress: "https://hrizantema.rs/single/suza/beli-gerber-prirodna-suza",
     link: "/single/suza/beli-gerber-prirodna-suza",
     sluglink: "beli-gerber-prirodna-suza",
     prodId: "SU-007",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
 
   {
@@ -303,6 +194,10 @@ export const suzeItemData = [
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-small.webp",
     imageGMB:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.jpg",
+    imageMiniWebP:
+      "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.webp",
     alt: "suza ljiljan orjental, bela margareta, crveni gerber, Hrizantema cvecara orlovaca",
     text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od belih ljiljana orijenala, belih margareta i crvenih gerbera. Uz najkvalitetnije zelenilo, gipsofila, lovor. ",
     httpaddress:
@@ -310,25 +205,6 @@ export const suzeItemData = [
     link: "/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     prodId: "SU-008",
-    // similarOLD: [
-    //   {
-    //     miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-    //     miniPrice: "000",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-    //     miniPrice: "111",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    //   {
-    //     miniImage:
-    //       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-    //     miniPrice: "222",
-    //     minAlt: "bela-ruza-rezano-komadno-cvece",
-    //   },
-    // ],
   },
 
   // {
@@ -342,6 +218,8 @@ export const suzeItemData = [
   //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/suze/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/suze/INPUTIMAGE-mini.webp",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",

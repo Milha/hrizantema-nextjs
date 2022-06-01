@@ -10,6 +10,8 @@ export const buketiKorpeItemData = [
     imageSmall: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.jpg",
     imageSmallWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.webp",
     imageGMB: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
+    imageMini: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.jpg",
+    imageMiniWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.webp",
     alt: "Buket crvene ruze sa perlicama, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od crvenih ruža sa perlicama, od prirodnog cveća i najkvalitetnijeg zelenila. ",
     httpaddress:
@@ -17,25 +19,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/buket-crvene-ruze-perlice",
     sluglink: "buket-crvene-ruze-perlice",
     prodId: "BU-001",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
     test: [4, 0, 6],
@@ -48,6 +31,8 @@ export const buketiKorpeItemData = [
     imageSmall: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
     imageSmallWebP: "/images/buketi-korpe/buket-orijental-bele-ruze-small.webp",
     imageGMB: "/images/buketi-korpe/buket-orijental-bele-ruze-gmb.jpg",
+    imageMini: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
+    imageMiniWebP: "/images/buketi-korpe/buket-orijental-bele-ruze-small.webp",
     alt: "Buket roze orijental i bele ruze, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od roze orijentala i belih ruža, od prirodnog cveća. ",
     httpaddress:
@@ -55,25 +40,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/buket-orijental-bele-ruze",
     sluglink: "buket-orijental-bele-ruze",
     prodId: "BU-002",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
     test: [7, 3, 5],
@@ -90,6 +56,10 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.webp",
     imageGMB:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa-small.webp",
     alt: "Korpa od prirodnog cveca crimson gerber, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća crimson gerbera",
     httpaddress:
@@ -97,25 +67,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa",
     sluglink: "crveni-crimson-gerber-prirodna-korpa",
     prodId: "BU-003",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
     test: [5, 7, 2],
@@ -133,6 +84,10 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.webp",
     imageGMB:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa-small.webp",
     alt: "Korpa od prirodnog cveca beli ljiljan, bela margareta, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća beli ljiljan i bela margareta. Zelenilo lovor višnja.",
     httpaddress:
@@ -140,25 +95,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa",
     sluglink: "ljiljan-beli-bele-margarete-prirodna-korpa",
     prodId: "BU-004",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
 
   {
@@ -176,6 +112,10 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.webp",
     imageGMB:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket-small.webp",
     alt: "Buket beli ljiljan i bele ruze, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od belih ljiljana i belih ruža, od prirodnog cveća. ",
     httpaddress:
@@ -183,25 +123,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/beli-ljiljan-bele-ruze-prirodni-buket",
     sluglink: "beli-ljiljan-bele-ruze-prirodni-buket",
     prodId: "BU-005",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
 
   {
@@ -215,6 +136,8 @@ export const buketiKorpeItemData = [
     imageSmall: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.jpg",
     imageSmallWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.webp",
     imageGMB: "/images/buketi-korpe/kale-bele-prirodna-korpa-gmb.jpg",
+    imageMini: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.jpg",
+    imageMiniWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.webp",
     alt: "Korpa od prirodnog cveca bela kala, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća bele kale. Zelenilo lovor višnja. ",
     httpaddress:
@@ -222,25 +145,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/kale-bele-prirodna-korpa",
     sluglink: "kale-bele-prirodna-korpa",
     prodId: "BU-006",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
     test: [1, 4, 3],
@@ -254,6 +158,8 @@ export const buketiKorpeItemData = [
     imageSmallWebP:
       "/images/buketi-korpe/buketi-orijental-roze-beli-small.webp",
     imageGMB: "/images/buketi-korpe/buketi-orijental-roze-beli-gmb.jpg",
+    imageMini: "/images/buketi-korpe/buketi-orijental-roze-beli-small.jpg",
+    imageMiniWebP: "/images/buketi-korpe/buketi-orijental-roze-beli-small.webp",
     alt: "Buket roze i belih ljiljana orijental, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Buket od roze i belih ljiljana orijentala, od prirodnog cveća.",
     httpaddress:
@@ -261,25 +167,6 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/buketi-orijental-roze-beli",
     sluglink: "buketi-orijental-roze-beli",
     prodId: "BU-007",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
   {
     test: [5, 2, 3],
@@ -294,6 +181,10 @@ export const buketiKorpeItemData = [
     imageSmallWebP:
       "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.webp",
     imageGMB: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa-small.webp",
     alt: "Korpa od prirodnog cveca svetlo roze gerberi, prirodno cvece, cvecara Hrizantema",
     text: "Hrizantema cvećara Orlovača. Korpa od prirodnog cveća svetlo roze gerberi. Zelenilo lovor višnja. ",
     httpaddress:
@@ -301,27 +192,10 @@ export const buketiKorpeItemData = [
     link: "/single/buket-korpa/gerber-svetlo-roze-prirodna-korpa",
     sluglink: "gerber-svetlo-roze-prirodna-korpa",
     prodId: "BU-008",
-    similar: [
-      {
-        miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-        miniPrice: "000",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-        miniPrice: "111",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-      {
-        miniImage:
-          "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-        miniPrice: "222",
-        minAlt: "bela-ruza-rezano-komadno-cvece",
-      },
-    ],
   },
+
   // {
+  //   test: [5, 2, 3],
   //   id: 6,
   //   title: "TITLE",
   //   price: "2.500",
@@ -331,6 +205,8 @@ export const buketiKorpeItemData = [
   //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/buketi-korpe/INPUTIMAGE-mini.webp",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/buket-korpa/INPUTLINK",
@@ -338,6 +214,7 @@ export const buketiKorpeItemData = [
   //   sluglink: "INPUTLINK",
   //   prodId: "BU-006",
   // },
+
   // {
   //   id: 6,
   //   title: "TITLE",

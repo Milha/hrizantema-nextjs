@@ -11,6 +11,10 @@ export const rezanoItemData = [
     imageSmallWebP:
       "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-small.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-small.webp",
     alt: "crvena ruza",
     text: "Hrizantema cvećara Orlovača. Crvene ruže, prirodne, veliki izbor, uvek sveze. ",
     httpaddress:
@@ -31,6 +35,9 @@ export const rezanoItemData = [
     imageSmallWebP:
       "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-gmb.jpg",
+    imageMini: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.webp",
     alt: "bela ruza prirodni rezani cvet",
     text: "Hrizantema cvećara Orlovača. Bele ruže, prirodne, veliki izbor, uvek sveze.",
     httpaddress:
@@ -52,6 +59,10 @@ export const rezanoItemData = [
     imageSmallWebP:
       "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.webp",
     alt: "beli ljiljan prirodni rezani komadni cvet",
     text: "Hrizantema cvećara Orlovača. Beli ljiljan, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
@@ -75,6 +86,10 @@ export const rezanoItemData = [
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-small.webp",
     imageGMB:
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-small.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece-small.webp",
     alt: "Bela margareta, prirodno, rezano cvece",
     text: "Hrizantema cvećara Orlovača. Bela margareta, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
@@ -99,6 +114,10 @@ export const rezanoItemData = [
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.webp",
     imageGMB:
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece-small.webp",
     alt: "Crimson gerber, prirodno, rezano cvece",
     text: "Hrizantema cvećara Orlovača. Crimson gerber, prirodno cveće, veliki izbor, uvek sveže. ",
     httpaddress:
@@ -119,6 +138,9 @@ export const rezanoItemData = [
     imageSmallWebP:
       "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.webp",
     imageGMB: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-gmb.jpg",
+    imageMini: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.webp",
     alt: "Bela kala",
     text: "Hrizantema cvećara Orlovača. Kala, prirodno cveće, veliki izbor, uvek sveze.",
     httpaddress:
@@ -128,6 +150,7 @@ export const rezanoItemData = [
     prodId: "KO-006",
   },
   // {
+  //   test: [1, 2, 3],
   //   id: 1,
   //   title: "TITLE",
   //   price: "200",
@@ -137,31 +160,14 @@ export const rezanoItemData = [
   //   imageSmall: "/images/rezano-cvece/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/rezano-cvece/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/rezano-cvece/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/rezano-cvece/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/rezano-cvece/INPUTIMAGE-mini.webp",
   //   alt: "ALTTTT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/rezano/LINKINPUT",
   //   link: "/single/rezano/LINKINPUT",
   //   sluglink: "LINKINPUT",
   //   prodId: "KO-001",
-  //   similar: [
-  //     {miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-  //       miniImage: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
-  //       miniPrice: "000",
-  //       minAlt: "bela-ruza-rezano-komadno-cvece",
-  //     },
-  //     {miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-  //       miniImage:
-  //         "/images/rezano-cvece/beli-ljiljan-komadno-cvece-frontbeli-ljiljan-rezano-komadno-cvece-small.jpg",
-  //       miniPrice: "111",
-  //       minAlt: "bela-ruza-rezano-komadno-cvece",
-  //     },
-  //     {miniLink: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
-  //       miniImage:
-  //         "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
-  //       miniPrice: "222",
-  //       minAlt: "bela-ruza-rezano-komadno-cvece",
-  //     },
-  //   ],
   // },
 
   // {
