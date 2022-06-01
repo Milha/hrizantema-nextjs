@@ -459,9 +459,9 @@ export const venciItemData = [
     prodId: "VE-020",
   },
   {
-    test: [0, 6, 19],
+    test: [15, 1, 8],
     id: 21,
-    title: "TITLE",
+    title: "Crveni ljiljan ~ beli gerber",
     price: "4.000",
     priceRange: "4.000 - 5.500",
     imageBig:
@@ -478,12 +478,14 @@ export const venciItemData = [
       "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-mini.jpg",
     imageMiniWebP:
       "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-mini.jpg",
-    alt: "ALTTTTT",
-    text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
-    httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
-    link: "/single/venac/INPUTLINKKKK",
-    sluglink: "INPUTLINKKKK",
-    prodId: "VE-001",
+    alt: "Prirodni venac crveni ljijan beli gerber bele margarete hrizantema zelenilo",
+    text: "Prirodni venac od crvenih gerbera, belih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac",
+    link: "/single/venac/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac",
+    sluglink:
+      "crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac",
+    prodId: "VE-021",
   },
 
   // {
