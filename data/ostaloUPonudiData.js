@@ -1,4 +1,4 @@
-export const ostaloUPonudiData = [
+const ostaloUPonudiDataPreReverse = [
   {
     test: [2, 10, 3],
     id: 1,
@@ -567,3 +567,5 @@ export const ostaloUPonudiData = [
   //   sluglink: "banatska_st_bg_76m",
   // },
 ];
+
+export const ostaloUPonudiData = ostaloUPonudiDataPreReverse.reverse();

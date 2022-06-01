@@ -458,6 +458,34 @@ export const venciItemData = [
     sluglink: "beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
     prodId: "VE-020",
   },
+  {
+    test: [0, 6, 19],
+    id: 21,
+    title: "TITLE",
+    price: "4.000",
+    priceRange: "4.000 - 5.500",
+    imageBig:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac-mini.jpg",
+    alt: "ALTTTTT",
+    text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
+    httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
+    link: "/single/venac/INPUTLINKKKK",
+    sluglink: "INPUTLINKKKK",
+    prodId: "VE-001",
+  },
+
   // {
   //   id: 1,
   //   title: "TITLE",
@@ -467,7 +495,9 @@ export const venciItemData = [
   //   imageBigWebP: "/images/venci/INPUTIMAGE.webp",
   //   imageSmall: "/images/venci/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/venci/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/venci/IMAGE-gmb.jpg",
+  //   imageGMB: "/images/venci/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/venci/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/venci/INPUTIMAGE-mini.jpg",
   //   alt: "ALTTTTT",
   //   text: "DESCCCC",
   //   httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
@@ -475,6 +505,7 @@ export const venciItemData = [
   //   sluglink: "INPUTLINKKKK",
   //   prodId: "VE-001",
   // },
+
   // {
   //   id: 1,
   //   title: "Bele ruže ~ crvene ruže",
