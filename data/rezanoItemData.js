@@ -52,27 +52,27 @@ export const rezanoItemData = [
     title: "Beli ljiljan",
     price: "400",
     priceRange: "300 - 500",
-    imageBig: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece.jpg",
-    imageBigWebP: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece.webp",
+    imageBig: "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet.jpg",
+    imageBigWebP: "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet.webp",
     imageSmall:
-      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.jpg",
+      "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet-small.jpg",
     imageSmallWebP:
-      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.webp",
-    imageGMB: "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-gmb.jpg",
+      "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet-small.webp",
+    imageGMB: "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet-gmb.jpg",
     imageMini:
-      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.jpg",
+      "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet-small.jpg",
     imageMiniWebP:
-      "/images/rezano-cvece/beli-ljiljan-rezano-komadno-cvece-small.webp",
+      "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet-small.webp",
     alt: "beli ljiljan prirodni rezani komadni cvet",
     text: "Hrizantema cvećara Orlovača. Beli ljiljan, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
-      "https://hrizantema.rs/single/rezano/beli-ljiljan-rezano-komadno-cvece",
-    link: "/single/rezano/beli-ljiljan-rezano-komadno-cvece",
-    sluglink: "beli-ljiljan-rezano-komadno-cvece",
+      "https://hrizantema.rs/single/rezano/beli-ljiljan-rezani-komadni-cvet",
+    link: "/single/rezano/beli-ljiljan-rezani-komadni-cvet",
+    sluglink: "beli-ljiljan-rezani-komadni-cvet",
     prodId: "KO-003",
   },
   {
-    test: [2, 3, 5],
+    test: [2, 1, 5],
     id: 4,
     title: "Bela margareta",
     price: "250",
