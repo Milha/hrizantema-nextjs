@@ -11,6 +11,10 @@ export default function MiniSimilar({ miniSimilarFinal }) {
       <Link href={miniSimilarFinal.miniLink} passHref>
         <picture>
           <source srcSet={miniSimilarFinal.miniImageWebP} type="image/webp" />
+          <source
+            srcSet={miniSimilarFinal.miniImminiImageageWebP}
+            type="image/jpg"
+          />
           <img
             src={miniSimilarFinal.miniImage}
             alt={miniSimilarFinal.minAlt}
