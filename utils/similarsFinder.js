@@ -3,6 +3,7 @@ import { suzeItemData } from "../data//suzeItemData";
 import { buketiKorpeItemData } from "../data/buketiKorpeItemData";
 import { ostaloUPonudiData } from "../data/ostaloUPonudiData";
 import { venciItemData } from "../data/venciItemData";
+import { suzeDvostranicneData } from "../data/suzeDvostranicneItemData";
 
 // Buketi SetData
 const dataRezano = rezanoItemData;
@@ -240,6 +241,54 @@ export const venciSetData = dataVenci.map((inj) => ({
       miniImageWebP: venciItemData[inj.test[2]].imageMiniWebP,
       miniPrice: venciItemData[inj.test[2]].price,
       minAlt: venciItemData[inj.test[2]].alt,
+    },
+  ],
+}));
+
+// Dovstranicne Suze SetData
+const dataDvostranicneSuze = suzeDvostranicneData;
+
+export const dvostranicneSuzeSetData = dataDvostranicneSuze.map((inj) => ({
+  test: inj.test,
+  id: inj.id,
+  title: inj.title,
+  price: inj.price,
+  priceRange: inj.priceRange,
+  imageBig: inj.imageBig,
+  imageBigWebP: inj.imageBigWebP,
+  imageSmall: inj.imageSmall,
+  imageSmallWebP: inj.imageSmallWebP,
+  imageMini: inj.imageMini,
+  imageMiniWebP: inj.imageMiniWebP,
+
+  imageGMB: inj.imageGMB,
+  alt: inj.alt,
+  text: inj.text,
+  httpaddress: inj.httpaddress,
+  link: inj.link,
+  sluglink: inj.sluglink,
+  prodId: inj.prodId,
+  similar: [
+    {
+      miniLink: suzeDvostranicneData[inj.test[0]].link,
+      miniImage: suzeDvostranicneData[inj.test[0]].imageMini,
+      miniImageWebP: suzeDvostranicneData[inj.test[0]].imageMiniWebP,
+      miniPrice: suzeDvostranicneData[inj.test[0]].price,
+      minAlt: suzeDvostranicneData[inj.test[0]].alt,
+    },
+    {
+      miniLink: suzeDvostranicneData[inj.test[1]].link,
+      miniImage: suzeDvostranicneData[inj.test[1]].imageMini,
+      miniImageWebP: suzeDvostranicneData[inj.test[1]].imageMiniWebP,
+      miniPrice: suzeDvostranicneData[inj.test[1]].price,
+      minAlt: suzeDvostranicneData[inj.test[1]].alt,
+    },
+    {
+      miniLink: suzeDvostranicneData[inj.test[2]].link,
+      miniImage: suzeDvostranicneData[inj.test[2]].imageMini,
+      miniImageWebP: suzeDvostranicneData[inj.test[2]].imageMiniWebP,
+      miniPrice: suzeDvostranicneData[inj.test[2]].price,
+      minAlt: suzeDvostranicneData[inj.test[2]].alt,
     },
   ],
 }));
