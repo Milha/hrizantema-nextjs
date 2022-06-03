@@ -92,7 +92,7 @@ export const ostaloUPonudiData = [
   },
 
   {
-    test: [8, 1, 7],
+    test: [8, 1, 21],
     id: 5,
     title: "Bela kala ~ ružice ~ saksija",
     price: "3.000",
@@ -108,9 +108,9 @@ export const ostaloUPonudiData = [
     imageGMB:
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-gmb.jpg",
     imageMini:
-      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-small.jpg",
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.jpg",
     imageMiniWebP:
-      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-small.webp",
+      "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips-small.webp",
     alt: "vestacko cvece bele kale ljubicasto bele ruzice saksija gips",
     text: "Bele kale i ljubičaster ruže, veštačko cveće u saksiji. ",
     httpaddress:
@@ -540,26 +540,34 @@ export const ostaloUPonudiData = [
     prodId: "OP-021",
   },
 
-  // {
-  //   test: [3, 4, 5],
-  //   id: 4,
-  //   title: "TITLE",
-  //   price: "2.000",
-  //   priceRange: "1.000 - 3.000",
-  //   imageBig: "/images/ostalo-u-ponudi/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/ostalo-u-ponudi/INPUTIMAGE.webp",
-  //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
-  //   imageMini: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.jpg",
-  //   imageMiniWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.webp",
-  //   alt: "ALTTT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/ostalo/INPUTLINK",
-  //   link: "/single/ostalo/INPUTLINK",
-  //   sluglink: "INPUTLINK",
-  //   prodId: "OP-004",
-  // },
+  {
+    test: [1, 4, 8],
+    id: 22,
+    title: "Crveni ljilja veštačko gips",
+    price: "2.000",
+    priceRange: "1.000 - 3.000",
+    imageBig:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-mini.webp",
+    alt: "vestacko crveni ljiljan crvene ruzice saksija gips",
+    text: "Crveni ljiljan - crvene ružice, veštačko cveće u saksiji, gipsu.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
+    link: "/single/ostalo/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
+    sluglink: "crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
+    prodId: "OP-022",
+  },
 
   // {
   //   id: 1,
