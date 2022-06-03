@@ -1,0 +1,16 @@
+@import "../styles/colors.module.scss";
+
+.cont {
+  // padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+  background-image: url("/images/aside/page-not-found-404.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: $color-gray-100;
+  text-align: center;
+}
