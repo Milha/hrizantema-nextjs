@@ -7,7 +7,7 @@ import { rezanoItemData } from "./rezanoItemData";
 export const sampleIndexItemData = [
   { item: venciItemData[0] },
   { item: venciItemData[1] },
-  { item: venciItemData[2] },
+  { item: venciItemData[5] },
   { item: venciItemData[3] },
   { item: ostaloUPonudiData[0] },
   { item: ostaloUPonudiData[1] },
