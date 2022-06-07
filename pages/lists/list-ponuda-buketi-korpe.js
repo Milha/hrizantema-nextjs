@@ -1,16 +1,18 @@
-import SmallCard from "../../components/cards/SmallCard";
-import HeadList from "../../components/heads/HeadList";
+import SmallCard from '../../components/cards/SmallCard';
+import HeadList from '../../components/heads/HeadList';
 
-import classes from "./listsArticles.module.scss";
+import classes from './listsArticles.module.scss';
 
-import { buketiKorpeItemData } from "../../data/buketiKorpeItemData";
+import { buketiKorpeItemData } from '../../data/buketiKorpeItemData';
+
+const reverte = buketiKorpeItemData.reverse();
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
   return (
     <>
       <HeadList
-        data={buketiKorpeItemData}
+        data={inject}
         addTitle="Ponuda Buketa i Korpi"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-buketi-korpe"
       />
@@ -26,7 +28,7 @@ export default function Lists({ inject }) {
 }
 
 export async function getStaticProps() {
-  const inject = buketiKorpeItemData;
+  const inject = reverte;
 
   return {
     props: { inject },

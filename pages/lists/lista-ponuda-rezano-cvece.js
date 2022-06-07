@@ -1,18 +1,22 @@
-import SmallCard from "../../components/cards/SmallCard";
-import HeadList from "../../components/heads/HeadList";
+import SmallCard from '../../components/cards/SmallCard';
+import HeadList from '../../components/heads/HeadList';
 
-import classes from "./listsArticles.module.scss";
+import classes from './listsArticles.module.scss';
 
-import { rezanoItemData } from "../../data/rezanoItemData";
+import { rezanoItemData } from '../../data/rezanoItemData';
 
 // import { rezanoItemData } from "../../data/rezanoItemData";
 
+const reverte = rezanoItemData.reverse();
+
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
+  // console.log(inject);
+
   return (
     <>
       <HeadList
-        data={rezanoItemData}
+        data={inject}
         addTitle="Ponuda rezanog cveća"
         addHttpaddress="https://hrizantema.rs/lists/lista-ponuda-rezano-cvece"
       />
@@ -28,7 +32,7 @@ export default function Lists({ inject }) {
 }
 
 export async function getStaticProps() {
-  const inject = rezanoItemData;
+  const inject = reverte;
 
   return {
     props: { inject },

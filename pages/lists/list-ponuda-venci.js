@@ -1,16 +1,18 @@
-import SmallCard from "../../components/cards/SmallCard";
-import HeadList from "../../components/heads/HeadList";
+import SmallCard from '../../components/cards/SmallCard';
+import HeadList from '../../components/heads/HeadList';
 
-import classes from "./listsArticles.module.scss";
+import classes from './listsArticles.module.scss';
 
-import { venciItemData } from "../../data/venciItemData";
+import { venciItemData } from '../../data/venciItemData';
+
+const reverte = venciItemData.reverse();
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
   return (
     <>
       <HeadList
-        data={venciItemData}
+        data={inject}
         addTitle="Ponuda Venaca"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-venci"
       />
@@ -26,7 +28,7 @@ export default function Lists({ inject }) {
 }
 
 export async function getStaticProps() {
-  const inject = venciItemData;
+  const inject = reverte;
 
   return {
     props: { inject },
