@@ -1,5 +1,6 @@
 export const ostaloUPonudiData = [
   {
+    sample: true,
     test: [2, 10, 3],
     id: 1,
     title: "Velika kućica za paljenje sveće",
@@ -48,6 +49,7 @@ export const ostaloUPonudiData = [
     prodId: "OP-002",
   },
   {
+    sample: true,
     test: [5, 9, 3],
     id: 3,
     title: "Krst od stakla mali - plave ruže",
@@ -541,6 +543,7 @@ export const ostaloUPonudiData = [
   },
 
   {
+    sample: true,
     test: [1, 4, 8],
     id: 22,
     title: "Crveni ljilja veštačko gips",

@@ -1,5 +1,6 @@
 export const rezanoItemData = [
   {
+    sample: true,
     test: [1, 2, 4],
     id: 1,
     title: "Crvena ruža",
@@ -151,6 +152,7 @@ export const rezanoItemData = [
   },
 
   {
+    sample: true,
     test: [2, 7, 3],
     id: 7,
     title: "Ljubičasti carski ljiljan orijental",
@@ -180,6 +182,7 @@ export const rezanoItemData = [
   },
 
   {
+    sample: true,
     test: [6, 2, 3],
     id: 8,
     title: "Narandžasti carski ljiljan orijental",

@@ -27,6 +27,7 @@ export const suzeItemData = [
     prodId: "SU-001",
   },
   {
+    sample: true,
     test: [3, 7, 2],
     id: 2,
     title: "Crvena ruža",
@@ -47,6 +48,7 @@ export const suzeItemData = [
     prodId: "SU-002",
   },
   {
+    sample: true,
     test: [6, 7, 5],
     id: 3,
     title: "Margareta gerber",
@@ -75,6 +77,7 @@ export const suzeItemData = [
     prodId: "SU-003",
   },
   {
+    sample: true,
     test: [7, 5, 2],
     id: 4,
     title: "Beli ljiljan ~ crveni gerber",

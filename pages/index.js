@@ -7,13 +7,12 @@ import Sample from "../components/cards/Sample";
 // import SubHero from "../components/layout/SubHero";
 // import styles from "../styles/Home.module.css";
 import { offersCardsData } from "../data/offersCardsData";
-import { sampleIndexItemData } from "../data/sampleIndexItemData";
+// import { sampleIndexItemData } from "../data/sampleIndexItemData";
 
-// import { venciItemData } from "../data/venciItemData";
+import { sampleItems } from "../utils/sampleFinder";
 
-export default function Home({ propsData, sampleData }) {
-  // console.log(propsData, "from PROPS");
-
+export default function Home({ propsData, sampleFinderData }) {
+  // console.log(sampleFinderData, "from PROPS");
   return (
     <div>
       <Head>
@@ -24,16 +23,18 @@ export default function Home({ propsData, sampleData }) {
       {/* <SubHero /> */}
       <HeroBanner />
       <Offers data={propsData} />
-      <Sample data={sampleData} />
+      <Sample data={sampleFinderData} />
     </div>
   );
 }
 
 export async function getStaticProps() {
   const propsData = offersCardsData;
-  const sampleData = sampleIndexItemData;
+  // const sampleData = sampleIndexItemData;
+  const sampleFinderData = sampleItems;
+
   // console.log(propsData, "INSIDE PROPS");
   return {
-    props: { propsData, sampleData },
+    props: { propsData, sampleFinderData },
   };
 }
