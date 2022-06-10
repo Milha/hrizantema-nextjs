@@ -6,8 +6,8 @@ import Sample from "../components/cards/Sample";
 // import Hero from "../components/layout/Hero";
 // import SubHero from "../components/layout/SubHero";
 // import styles from "../styles/Home.module.css";
-import { offersCardsData } from "../data/offersCardsData";
 // import { sampleIndexItemData } from "../data/sampleIndexItemData";
+import { offersCardsData } from "../data/offersCardsData";
 
 import { sampleItems } from "../utils/sampleFinder";
 
