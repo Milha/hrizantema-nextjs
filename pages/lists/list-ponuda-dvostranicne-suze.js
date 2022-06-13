@@ -1,7 +1,7 @@
-import SmallCard from "../../components/cards/SmallCard";
+import SmallCardHorizontal from "../../components/cards/SmallCardHorizontal";
 import HeadList from "../../components/heads/HeadList";
 
-import classes from "./listsArticles.module.scss";
+import classes from "./ListsArticles.module.scss";
 
 import { suzeDvostranicneData } from "../../data/suzeDvostranicneItemData";
 
@@ -16,10 +16,10 @@ export default function Lists({ inject }) {
         addTitle="Ponuda Suza"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-suze"
       />
-      <article className={classes.cont}>
+      <article className={`${classes.cont} ${classes.horizontal_items}`}>
         {inject.map((inj) => (
           <section key={inj.id}>
-            <SmallCard data={inj}></SmallCard>
+            <SmallCardHorizontal data={inj}></SmallCardHorizontal>
           </section>
         ))}
       </article>

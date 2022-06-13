@@ -1,7 +1,7 @@
 import SmallCard from '../../components/cards/SmallCard';
 import HeadList from '../../components/heads/HeadList';
 
-import classes from './listsArticles.module.scss';
+import classes from './ListsArticles.module.scss';
 
 import { buketiKorpeItemData } from '../../data/buketiKorpeItemData';
 

@@ -13,3 +13,10 @@
     grid-template-columns: repeat(3, 1fr);
   }
 }
+.horizontal_items {
+  @media (min-width: 75rem) {
+    width: 60%;
+
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

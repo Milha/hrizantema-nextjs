@@ -2,8 +2,8 @@ export const suzeDvostranicneData = [
   {
     test: [0, 0, 0],
     id: 1,
-    title: "Ljiljan orijental - carski ljiljan",
-    price: "2.400",
+    title: "Kala ~ beli gerber",
+    price: "3.500",
     priceRange: "2.000 - 3.000",
     imageBig:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza.jpg",
@@ -19,8 +19,8 @@ export const suzeDvostranicneData = [
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-small.jpg",
     imageMiniWebP:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-small.webp",
-    alt: "suza roze beli ljiljan orijental.",
-    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Suza aranžirana od roze belih ljiljana orijentala - carskih ljiljana. Uz najkvalitetnije zelenilo, gipsofila, lovor.",
+    alt: "dvostranickan suza bele kale beli gerber suza za sahrane za sanduk prirodno cvece",
+    text: "Dvostranična suza bele kale i beli gerber. Najkvalitetnije zelenilo, lovor.",
     httpaddress:
       "https://hrizantema.rs/single/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza",
     link: "/single/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza",
