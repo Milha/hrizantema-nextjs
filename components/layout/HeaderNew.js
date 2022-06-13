@@ -13,6 +13,11 @@ function HeaderNew() {
   const [drop, setDrop] = useState(true);
   const dropMenu = () => setDrop(!drop);
 
+  const doubleClick = () => {
+    openMenu();
+    dropMenu();
+  };
+
   return (
     <div className={classes.header}>
       {/* HEADER LOGO */}
@@ -40,7 +45,7 @@ function HeaderNew() {
             </p>
             <div
               className={drop ? classes.is_drop : classes.is_not_drop}
-              onClick={openMenu}
+              onClick={doubleClick}
             >
               <div className={classes.drop_link_cont}>
                 <Link href="/lists/list-ponuda-suze">
