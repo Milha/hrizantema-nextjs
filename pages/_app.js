@@ -3,7 +3,8 @@ import "../styles/globals.scss";
 import Head from "next/head";
 
 import { firmSchema } from "../utils/firmSchema";
-import Header from "../components/layout/Header";
+// import Header from "../components/layout/Header";
+import HeaderNew from "../components/layout/HeaderNew";
 import GoogleAnalytics from "../components/diverse/GoogleAnalytics";
 
 function MyApp({ Component, pageProps }) {
@@ -64,8 +65,6 @@ function MyApp({ Component, pageProps }) {
         />
         <link rel="manifest" href="/images/favicon/site.webmanifest" />
 
-        
-
         {/* SCHEMA */}
         <script
           type="application/ld+json"
@@ -75,7 +74,10 @@ function MyApp({ Component, pageProps }) {
 
       <GoogleAnalytics />
 
-      <Header />
+      {/* <Header /> */}
+      {/* <hr /> */}
+      <HeaderNew />
+      {/* <hr /> */}
 
       <main>
         <Component {...pageProps} />
