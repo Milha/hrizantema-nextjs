@@ -16,9 +16,9 @@ export const suzeDvostranicneData = [
     imageGMB:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-gmb.jpg",
     imageMini:
-      "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-small.jpg",
+      "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-mini.jpg",
     imageMiniWebP:
-      "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-small.webp",
+      "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza-mini.webp",
     alt: "dvostranickan suza bele kale beli gerber suza za sahrane za sanduk prirodno cvece",
     text: "Dvostranična suza bele kale i beli gerber. Najkvalitetnije zelenilo, lovor.",
     httpaddress:
@@ -45,9 +45,9 @@ export const suzeDvostranicneData = [
     imageGMB:
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-gmb.jpg",
     imageMini:
-      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-small.jpg",
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-mini.jpg",
     imageMiniWebP:
-      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-small.webp",
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-mini.webp",
     alt: "dvostranickan suza bela kala bela margareta hrizantema suza za sahrane za sanduk prirodno cvece",
     text: "Dvostranična suza bele kale i beli gerber. Najkvalitetnije zelenilo, lovor.",
     httpaddress:
