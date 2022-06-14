@@ -1,10 +1,10 @@
 export const suzeDvostranicneData = [
   {
-    test: [0, 0, 0],
+    test: [1, 1, 1],
     id: 1,
     title: "Kala ~ beli gerber",
     price: "3.500",
-    priceRange: "2.000 - 3.000",
+    priceRange: "2.500 - 4.000",
     imageBig:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -28,43 +28,52 @@ export const suzeDvostranicneData = [
     prodId: "DS-001",
   },
 
-  // {
-  //   test: [3, 4, 5],
-  //   id: 5,
-  //   title: "TITLE",
-  //   price: "2.000",
-  //   priceRange: "1.000 - 2.500",
-  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
-  //   imageMini: "/images/suze/INPUTIMAGE-mini.jpg",
-  //   imageMiniWebP: "/images/suze/INPUTIMAGE-mini.webp",
-  //   alt: "ALT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
-  //   link: "/single/suza/INPUTLINK",
-  //   sluglink: "INPUTLINK",
-  //   prodId: "SU-005",
-  // },
+  {
+    test: [0, 0, 0],
+    id: 2,
+    title: "Bela kala ~ bela margareta",
+    price: "2.000",
+    priceRange: "3.000 - 4.500",
+    imageBig:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-small.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-small.webp",
+    alt: "dvostranickan suza bela kala bela margareta hrizantema suza za sahrane za sanduk prirodno cvece",
+    text: "Dvostranična suza bele kale i beli gerber. Najkvalitetnije zelenilo, lovor.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
+    link: "/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
+    sluglink: "bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
+    prodId: "DS-002",
+  },
 
   // {
+  //   test: [0, 0, 0],
   //   id: 5,
   //   title: "TITLE",
   //   price: "2.000",
   //   priceRange: "1.000 - 2.500",
-  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
+  //   imageBig: "/images/suza-dvostranicna/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/suza-dvostranicna/INPUTIMAGE.webp",
+  //   imageSmall: "/images/suza-dvostranicna/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/suza-dvostranicna/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/suza-dvostranicna/INPUTIMAGE-gmb.jpg",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
-  //   link: "/single/suza/INPUTLINK",
+  //   httpaddress: "https://hrizantema.rs/single/suza-dvostranicna/INPUTLINK",
+  //   link: "/single/suza-dvostranicna/INPUTLINK",
   //   sluglink: "INPUTLINK",
-  //   prodId: "SU-005",
+  //   prodId: "DS-111",
   // },
 
   // {
