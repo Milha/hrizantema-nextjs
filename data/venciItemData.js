@@ -104,7 +104,7 @@ export const venciItemData = [
     imageMini: "/images/venci/ruza-crvena-oblik-srce-venac-small.jpg",
     imageMiniWebP: "/images/venci/ruza-crvena-oblik-srce-venac-small.webp",
     alt: "Prirodni venac oblik srca crvene ruze bela gipsofila lovor visnja zelenilo",
-    text: "Prirodni venac aranžiran od crvenih  ruža. Uz najkvalitetnije zelenilo, belu gipsofilu, lovor.",
+    text: "Prirodni venac aranžiran od crvenih ruža u obliku srca. Ruže izražavaju najdublje poštovanje prema preminulima. Mirni spokoj crvenih ruža je bez premca, što ih decenijama čini tradicionalnim cvetom izbora za sahrane i ceremonije u kapeli. Uz najkvalitetnije zelenilo, belu gipsofilu, lovor.",
     httpaddress:
       "https://hrizantema.rs/single/venac/ruza-crvena-oblik-srce-venac",
     link: "/single/venac/ruza-crvena-oblik-srce-venac",

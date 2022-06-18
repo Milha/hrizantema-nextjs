@@ -58,17 +58,17 @@ function HeaderNew() {
               </div>
             </div>
           </li>
-          <li>
+          <li onClick={openMenu}>
             <Link href="/lists/lista-ponuda-rezano-cvece">
               <a>Rezano cveće</a>
             </Link>
           </li>
-          <li>
+          <li onClick={openMenu}>
             <Link href="/lists/list-ostalo-u-ponudi">
               <a>Ostalo u ponudi</a>
             </Link>
           </li>
-          <li>
+          <li onClick={openMenu}>
             <Link href="/main-pages/contact">
               <a className={classes.contact}>Kontakt</a>
             </Link>

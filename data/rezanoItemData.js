@@ -17,7 +17,7 @@ export const rezanoItemData = [
     imageMiniWebP:
       "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece-small.webp",
     alt: "crvena ruza",
-    text: "Hrizantema cvećara Orlovača. Crvene ruže, prirodne, veliki izbor, uvek sveze. ",
+    text: "Klasična lepota crvene ruže sa u našim buketima ruža dugih stabljika. Hrizantema cvećara Orlovača. Crvene ruže, prirodne, veliki izbor, uvek sveze. ",
     httpaddress:
       "https://hrizantema.rs/single/rezano/crvena-ruza-rezano-komadno-cvece",
     link: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
@@ -40,7 +40,7 @@ export const rezanoItemData = [
     imageMiniWebP:
       "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.webp",
     alt: "bela ruza prirodni rezani cvet",
-    text: "Hrizantema cvećara Orlovača. Bele ruže, prirodne, veliki izbor, uvek sveze.",
+    text: "Klasična lepota bele ruže sa u našim buketima ruža dugih stabljika. Hrizantema cvećara Orlovača. Bele ruže, prirodne, veliki izbor, uvek sveze.",
     httpaddress:
       "https://hrizantema.rs/single/rezano/bela-ruza-rezano-komadno-cvece",
     link: "/single/rezano/bela-ruza-rezano-komadno-cvece",
@@ -211,6 +211,34 @@ export const rezanoItemData = [
     prodId: "KO-008",
   },
 
+  {
+    test: [6, 2, 7],
+    id: 9,
+    title: "Beli carski ljiljan orijental",
+    price: "800",
+    priceRange: "700 - 900",
+    imageBig:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-mini.webp",
+    alt: "narandzasti carski ljiljan orijental ljiljan prirodni rezani komadni cvet",
+    text: "Beli ljiljani je čest izbor i za venčanja i za sahrane, jer  simbolizuju podmlađivanje duše. Beli ljiljani orijentali mogu predstavljati čistoću, posvećenost i ponovno rođenje, zbog čega se često biraju kao cveće za saučešće. Hrizantema cvećara Orlovača. Beli carski ljiljan orijental, prirodno cveće, veliki izbor, uvek sveže.",
+    httpaddress:
+      "https://hrizantema.rs/single/rezano/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
+    link: "/single/rezano/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
+    sluglink: "beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
+    prodId: "KO-009",
+  },
   // {
   //   test: [1, 2, 3],
   //   id: 1,
