@@ -1,14 +1,15 @@
-import SmallCard from '../../components/cards/SmallCard';
-import HeadList from '../../components/heads/HeadList';
+import SmallCard from "../../components/cards/SmallCard";
+import HeadList from "../../components/heads/HeadList";
 
-import classes from './ListsArticles.module.scss';
+import classes from "./ListsArticles.module.scss";
 
-import { ostaloUPonudiData } from '../../data/ostaloUPonudiData';
+import { ostaloUPonudiData } from "../../data/ostaloUPonudiData";
 
 const reverte = ostaloUPonudiData.reverse();
 
 export default function Lists({ inject }) {
   // console.log(inject, "from list page");
+
   return (
     <>
       <HeadList
