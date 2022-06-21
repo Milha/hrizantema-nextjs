@@ -49,7 +49,7 @@ export const suzeDvostranicneData = [
     imageMiniWebP:
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-mini.webp",
     alt: "dvostranican suza bela kala bela margareta hrizantema suza za sahrane za sanduk prirodno cvece",
-    text: "Dvostranična suza bele kale i beli gerber. Najkvalitetnije zelenilo, lovor.",
+    text: "Belo cveće predstavlja eleganciju, poštovanje, čistotu i večnu ljubav. Hrizanteme se vide kao simbol istine. Dvostranična suza bele kale i bele hrizanteme. Najkvalitetnije zelenilo, lovor.",
     httpaddress:
       "https://hrizantema.rs/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
     link: "/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
@@ -89,9 +89,9 @@ export const suzeDvostranicneData = [
   {
     test: [0, 1, 2],
     id: 4,
-    title: "Bela ruža",
-    price: "2.000",
-    priceRange: "1.000 - 2.500",
+    title: "Bela ruža ~ mahonija",
+    price: "5.000",
+    priceRange: "4.000 - 6.500",
     imageBig:
       "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza.jpg",
     imageBigWebP:
