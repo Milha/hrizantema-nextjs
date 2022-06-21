@@ -3,7 +3,7 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 1,
     title: "Kala ~ beli gerber",
-    price: "3.500",
+    price: "4.500",
     priceRange: "2.500 - 4.000",
     imageBig:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza.jpg",
@@ -61,8 +61,8 @@ export const suzeDvostranicneData = [
     test: [0, 1, 3],
     id: 3,
     title: "Beli ljiljan ~ crvena ruža",
-    price: "4.000",
-    priceRange: "3.000 - 4.500",
+    price: "4.500",
+    priceRange: "3.000 - 5.500",
     imageBig:
       "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -90,8 +90,8 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 4,
     title: "Bela ruža",
-    price: "2.000",
-    priceRange: "1.000 - 2.500",
+    price: "5.000",
+    priceRange: "4.000 - 5.500",
     imageBig:
       "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza.jpg",
     imageBigWebP:
