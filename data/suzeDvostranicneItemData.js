@@ -58,7 +58,7 @@ export const suzeDvostranicneData = [
   },
 
   {
-    test: [0, 1, 2],
+    test: [0, 1, 3],
     id: 3,
     title: "Beli ljiljan ~ crvena ruža",
     price: "4.000",
@@ -86,6 +86,35 @@ export const suzeDvostranicneData = [
       "beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
     prodId: "DS-003",
   },
+  {
+    test: [0, 1, 2],
+    id: 4,
+    title: "Bela ruža",
+    price: "2.000",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza-mini.webp",
+    alt: "dvostranican bela ruza suza za sahrane za sanduk prirodno cvece",
+    text: "Bela ruža se koristi u pogrebnim aranžmanima da prenese nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza",
+    link: "/single/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza",
+    sluglink: "bela-ruza-hrizantema-dvostranicna-suza",
+    prodId: "DS-004",
+  },
+
   // {
   //   test: [0, 0, 0],
   //   id: 5,
@@ -97,30 +126,14 @@ export const suzeDvostranicneData = [
   //   imageSmall: "/images/suza-dvostranicna/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/suza-dvostranicna/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suza-dvostranicna/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/suza-dvostranicna/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/suza-dvostranicna/INPUTIMAGE-mini.webp",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/suza-dvostranicna/INPUTLINK",
   //   link: "/single/suza-dvostranicna/INPUTLINK",
   //   sluglink: "INPUTLINK",
   //   prodId: "DS-111",
-  // },
-
-  // {
-  //   id: 5,
-  //   title: "TITLE",
-  //   price: "2.000",
-  //   priceRange: "1.000 - 2.500",
-  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
-  //   alt: "ALT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
-  //   link: "/single/suza/INPUTLINK",
-  //   sluglink: "INPUTLINK",
-  //   prodId: "SU-005",
   // },
 
   // {
