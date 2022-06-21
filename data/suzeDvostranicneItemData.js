@@ -1,6 +1,6 @@
 export const suzeDvostranicneData = [
   {
-    test: [1, 1, 1],
+    test: [0, 1, 2],
     id: 1,
     title: "Kala ~ beli gerber",
     price: "3.500",
@@ -29,7 +29,7 @@ export const suzeDvostranicneData = [
   },
 
   {
-    test: [0, 0, 0],
+    test: [0, 1, 2],
     id: 2,
     title: "Bela kala ~ bela margareta",
     price: "2.000",
@@ -48,7 +48,7 @@ export const suzeDvostranicneData = [
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-mini.jpg",
     imageMiniWebP:
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza-mini.webp",
-    alt: "dvostranickan suza bela kala bela margareta hrizantema suza za sahrane za sanduk prirodno cvece",
+    alt: "dvostranican suza bela kala bela margareta hrizantema suza za sahrane za sanduk prirodno cvece",
     text: "Dvostranična suza bele kale i beli gerber. Najkvalitetnije zelenilo, lovor.",
     httpaddress:
       "https://hrizantema.rs/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
@@ -57,6 +57,35 @@ export const suzeDvostranicneData = [
     prodId: "DS-002",
   },
 
+  {
+    test: [0, 1, 2],
+    id: 3,
+    title: "Beli ljiljan ~ crvena ruža",
+    price: "4.000",
+    priceRange: "3.000 - 4.500",
+    imageBig:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza-mini.webp",
+    alt: "dvostranican suza bela ljiljan crvena ruza bela margareta hrizantema suza za sahrane za sanduk prirodno cvece",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. U pogrebnom okruženju, crvene ruže simbolizuju ljubav i tugu. Hrizanteme se vide kao simbol istine.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
+    link: "/single/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
+    sluglink:
+      "beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
+    prodId: "DS-003",
+  },
   // {
   //   test: [0, 0, 0],
   //   id: 5,
