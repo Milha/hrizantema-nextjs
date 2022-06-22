@@ -575,7 +575,7 @@ export const ostaloUPonudiData = [
   // {
   //   id: 1,
   //   title: "Bele ruže ~ crvene ruže",
-  //   price: "4.000",
+  //   price: "NA.000",
   //   priceRange: "4.000 - 5.500",
   //   imageBig:
   //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",

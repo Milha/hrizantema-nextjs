@@ -91,10 +91,10 @@ export const venciItemData = [
   },
   {
     sample: true,
-    test: [0, 6, 8],
+    test: [0, 6, 21],
     id: 4,
     title: 'Srce crvena ruža',
-    price: '6.500',
+    price: '7.500',
     priceRange: '4.000 - 5.000',
     imageBig: '/images/venci/ruza-crvena-oblik-srce-venac.jpg',
     imageBigWebP: '/images/venci/ruza-crvena-oblik-srce-venac.webp',

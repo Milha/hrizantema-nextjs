@@ -243,7 +243,7 @@ export const rezanoItemData = [
   //   test: [1, 2, 3],
   //   id: 1,
   //   title: "TITLE",
-  //   price: "200",
+  //   price: "NA",
   //   priceRange: "100 - 300",
   //   imageBig: "/images/rezano-cvece/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/rezano-cvece/INPUTIMAGE.webp",

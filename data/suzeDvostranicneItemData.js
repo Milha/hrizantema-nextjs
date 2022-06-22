@@ -32,7 +32,7 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 2,
     title: "Bela kala ~ bela margareta",
-    price: "2.000",
+    price: "4.000",
     priceRange: "3.000 - 4.500",
     imageBig:
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza.jpg",
@@ -119,7 +119,7 @@ export const suzeDvostranicneData = [
   //   test: [0, 0, 0],
   //   id: 5,
   //   title: "TITLE",
-  //   price: "2.000",
+  //   price: "NA.000",
   //   priceRange: "1.000 - 2.500",
   //   imageBig: "/images/suza-dvostranicna/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suza-dvostranicna/INPUTIMAGE.webp",

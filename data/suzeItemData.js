@@ -214,7 +214,7 @@ export const suzeItemData = [
   //   test: [3, 4, 5],
   //   id: 5,
   //   title: "TITLE",
-  //   price: "2.000",
+  //   price: "NA.000",
   //   priceRange: "1.000 - 2.500",
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",

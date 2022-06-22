@@ -201,7 +201,7 @@ export const buketiKorpeItemData = [
   //   test: [5, 2, 3],
   //   id: 6,
   //   title: "TITLE",
-  //   price: "2.500",
+  //   price: "NA.000",
   //   priceRange: "2.000 - 3.500",
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",

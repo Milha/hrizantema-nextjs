@@ -33,15 +33,29 @@
   margin-bottom: 2.5rem;
 }
 
-.header li a {
-  font-family: "Merriweather Sans", sans-serif;
+.header li {
+  // background-color: red;
+
+  a {
+    // margin: 0.75rem 0;
+    // background-color: #bababa;
+    font-family: "Merriweather Sans", sans-serif;
+  }
 }
 
-.contact {
+.header li .contact {
   background-color: #cc142d;
-  color: #fbdade;
+  color: white;
+  // color: #fbdade;
   border-radius: 8px;
   padding: 0 0.5rem;
+
+  transition: all 0.6s ease-in;
+}
+
+.header li .contact:hover {
+  background-color: white;
+  color: #cc142d;
 }
 
 .drop_p {
