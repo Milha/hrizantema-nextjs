@@ -1,15 +1,16 @@
 .cont {
   height: 40vh;
   width: 100%;
-  background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
 
   background-image: image-set(
     url(../../public/images/hero-images/hrizantema-hero-700w.jpg)
-      type("image/webp"),
+      type('image/webp'),
     url(../../public/images/hero-images/hrizantema-hero-700w.jpg)
-      type("image/jpg")
+      type('image/jpg')
   );
-  
+
+  background-image: url(../../public/images/hero-images/hrizantema-hero-700w.jpg);
+
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
@@ -46,9 +47,9 @@
 
     background-image: image-set(
       url(../../public/images/hero-images/hrizantema-hero-1200w.webp)
-        type("image/webp"),
+        type('image/webp'),
       url(../../public/images/hero-images/hrizantema-hero-1200w.jpg)
-        type("image/jpg")
+        type('image/jpg')
     );
   }
 
@@ -65,9 +66,9 @@
 
     background-image: image-set(
       url(../../public/images/hero-images/hrizantema-hero-1500w.webp)
-        type("image/webp"),
+        type('image/webp'),
       url(../../public/images/hero-images/hrizantema-hero-1500w.jpg)
-        type("image/jpg")
+        type('image/jpg')
     );
 
     background-size: cover;
@@ -81,9 +82,9 @@
 
     background-image: image-set(
       url(../../public/images/hero-images/hrizantema-hero-2400w.webp)
-        type("image/webp"),
+        type('image/webp'),
       url(../../public/images/hero-images/hrizantema-hero-2400w.jpg)
-        type("image/jpg")
+        type('image/jpg')
     );
   }
 }
