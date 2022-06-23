@@ -2,9 +2,9 @@ export const offersCardsData = [
   {
     title: 'Venci',
     cardImage:
-      '/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.jpg',
+      '/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.jpg',
     cardImageWebP:
-      '/images/venci/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac-small.webp',
+      '/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.webp',
     text: 'Venci od uvek svežeg cveća',
     offerLink: '/lists/list-ponuda-venci',
   },
