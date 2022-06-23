@@ -1,4 +1,4 @@
-@import "../../styles/colors.module.scss";
+@import '../../styles/colors.module.scss';
 
 .cont {
   // background-color: $color-main-goldy-100;
@@ -43,7 +43,13 @@
     height: 25vh;
     width: 100%;
     // background-color: red;
-    background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+    // background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+    background-image: image-set(
+      url(../../public/images/hero-images/hrizantema-hero-700w.webp)
+        type('image/webp'),
+      url(../../public/images/hero-images/hrizantema-hero-700w.jpg)
+        type('image/jpg')
+    );
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
