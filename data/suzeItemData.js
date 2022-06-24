@@ -210,6 +210,29 @@ export const suzeItemData = [
     prodId: "SU-008",
   },
 
+  {
+    test: [7, 5, 1],
+    id: 9,
+    title: "Bela ruža ~ roze gerber",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
+    imageBig: "/images/suze/bela-ruza-roze-gerber-prirodna-suza.jpg",
+    imageBigWebP: "/images/suze/bela-ruza-roze-gerber-prirodna-suza.webp",
+    imageSmall: "/images/suze/bela-ruza-roze-gerber-prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suze/bela-ruza-roze-gerber-prirodna-suza-small.webp",
+    imageGMB: "/images/suze/bela-ruza-roze-gerber-prirodna-suza-gmb.jpg",
+    imageMini: "/images/suze/bela-ruza-roze-gerber-prirodna-suza-mini.jpg",
+    imageMiniWebP: "/images/suze/bela-ruza-roze-gerber-prirodna-suza-mini.webp",
+    alt: "Suza prirodna aranziarana bele ruze roze pink ljubicasti gerber",
+    text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza/bela-ruza-roze-gerber-prirodna-suza",
+    link: "/single/suza/bela-ruza-roze-gerber-prirodna-suza",
+    sluglink: "bela-ruza-roze-gerber-prirodna-suza",
+    prodId: "SU-009",
+  },
+
   // {
   //   test: [3, 4, 5],
   //   id: 5,

@@ -10,11 +10,25 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 
 ## Bela ruža
 
-Bela ruža se koristi u pogrebnim aranžmanima da prenese nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
+Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
 
 ## Beli ljiljan
 
 Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.
+
+## Beli gerberi
+
+Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.
+
+## Ljubičasti gerberi
+
+Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.
+
+## Bela kala
+
+Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.
+
+##
 
 ##
 
@@ -27,6 +41,10 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 ### Ljiljan
 
 Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti.
+
+### Gerber
+
+Gerberi simbolizuju lepotu, nevinost i čistotu.
 
 ### Hrizantema
 
