@@ -18,6 +18,7 @@ export const ostaloUPonudiData = [
     httpaddress: "https://hrizantema.rs/single/ostalo/kucica-za-svece-velika",
     link: "/single/ostalo/kucica-za-svece-velika",
     sluglink: "kucica-za-svece-velika",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-001",
   },
   {
@@ -46,6 +47,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     link: "/single/ostalo/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     sluglink: "roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-002",
   },
   {
@@ -67,6 +69,7 @@ export const ostaloUPonudiData = [
     httpaddress: "https://hrizantema.rs/single/ostalo/krst-staklo-plave-ruze",
     link: "/single/ostalo/krst-staklo-plave-ruze",
     sluglink: "krst-staklo-plave-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-003",
   },
   {
@@ -90,6 +93,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/staklo-suza-ljubicaste-ruze",
     link: "/single/ostalo/staklo-suza-ljubicaste-ruze",
     sluglink: "staklo-suza-ljubicaste-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-004",
   },
 
@@ -119,6 +123,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     link: "/single/ostalo/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     sluglink: "bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-005",
   },
   {
@@ -146,6 +151,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/staklo-piramida-crvene-ruze-velika",
     link: "/single/ostalo/staklo-piramida-crvene-ruze-velika",
     sluglink: "staklo-piramida-crvene-ruze-velika",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-006",
   },
   {
@@ -170,6 +176,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/staklo-srce-malo-crvene-ruze",
     link: "/single/ostalo/staklo-srce-malo-crvene-ruze",
     sluglink: "staklo-srce-malo-crvene-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-007",
   },
   {
@@ -198,6 +205,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips",
     link: "/single/ostalo/bele-orhideje-vestacko-cvece-saksija-gips",
     sluglink: "bele-orhideje-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-008",
   },
 
@@ -227,6 +235,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija",
     link: "/single/ostalo/ljubicaste-roze-orhideje-vestacko-cvece-saksija",
     sluglink: "ljubicaste-roze-orhideje-vestacko-cvece-saksija",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-009",
   },
 
@@ -249,6 +258,7 @@ export const ostaloUPonudiData = [
     httpaddress: "https://hrizantema.rs/single/ostalo/staklo-krst-crvene-ruze",
     link: "/single/ostalo/staklo-krst-crvene-ruze",
     sluglink: "staklo-krst-crvene-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-010",
   },
 
@@ -270,6 +280,7 @@ export const ostaloUPonudiData = [
     httpaddress: "https://hrizantema.rs/single/ostalo/kucica-za-svece-mala",
     link: "/single/ostalo/kucica-za-svece-mala",
     sluglink: "kucica-za-svece-mala",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-011",
   },
 
@@ -299,6 +310,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze",
     link: "/single/ostalo/staklo-piramida-velika-bele-ruze-crvene-ruze",
     sluglink: "staklo-piramida-velika-bele-ruze-crvene-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-012",
   },
   {
@@ -326,6 +338,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/staklo-suza-mala-bele-crvene-ruze",
     link: "/single/ostalo/staklo-suza-mala-bele-crvene-ruze",
     sluglink: "staklo-suza-mala-bele-crvene-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-013",
   },
   {
@@ -350,6 +363,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/srce-staklo-crveno-bele-ruze",
     link: "/single/ostalo/srce-staklo-crveno-bele-ruze",
     sluglink: "srce-staklo-crveno-bele-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-014",
   },
   {
@@ -373,6 +387,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/mala-piramida-crvene-ruze",
     link: "/single/ostalo/mala-piramida-crvene-ruze",
     sluglink: "mala-piramida-crvene-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-015",
   },
   {
@@ -400,6 +415,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/mala-piramida-ljubicaste-bele-ruze",
     link: "/single/ostalo/mala-piramida-ljubicaste-bele-ruze",
     sluglink: "mala-piramida-ljubicaste-bele-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-016",
   },
   {
@@ -427,6 +443,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/staklo-suza-ljubicaste-bele-ruze",
     link: "/single/ostalo/staklo-suza-ljubicaste-bele-ruze",
     sluglink: "staklo-suza-ljubicaste-bele-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-017",
   },
   {
@@ -455,6 +472,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips",
     link: "/single/ostalo/plava-orhideja-vestacko-cvece-saksija-gips",
     sluglink: "plava-orhideja-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-018",
   },
   {
@@ -483,6 +501,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips",
     link: "/single/ostalo/crvene-ruzice-vestacko-cvece-saksija-gips",
     sluglink: "crvene-ruzice-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-019",
   },
   {
@@ -511,6 +530,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     link: "/single/ostalo/ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     sluglink: "ljubicasta-orhideja-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-020",
   },
   {
@@ -539,6 +559,7 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/bela-kala-vestacko-cvece-saksija-gips",
     link: "/single/ostalo/bela-kala-vestacko-cvece-saksija-gips",
     sluglink: "bela-kala-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-021",
   },
 
@@ -569,32 +590,28 @@ export const ostaloUPonudiData = [
       "https://hrizantema.rs/single/ostalo/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
     link: "/single/ostalo/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
     sluglink: "crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
+    availability: "https://schema.org/PreOrder",
     prodId: "OP-022",
   },
 
   // {
+  //   test: [1, 4, 8],
   //   id: 1,
   //   title: "Bele ruže ~ crvene ruže",
   //   price: "NA.000",
   //   priceRange: "4.000 - 5.500",
-  //   imageBig:
-  //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.jpg",
-  //   imageBigWebP:
-  //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2.webp",
-  //   imageSmall:
-  //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
-  //   imageGMB:
-  //     "/images/ostalo-u-ponudi/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-gmb.jpg",
-  //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
-  //   text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/ostalo/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   link: "/single/ostalo/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   sluglink:
-  //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-  //   prodId: "OP-001",
+  //   imageBig: "/images/ostalo-u-ponudi/IMAGE.jpg",
+  //   imageBigWebP: "/images/ostalo-u-ponudi/IMAGE.webp",
+  //   imageSmall: "/images/ostalo-u-ponudi/IMAGE-small.jpg",
+  //   imageSmallWebP: "/images/ostalo-u-ponudi/IMAGE-small.webp",
+  //   imageGMB: "/images/ostalo-u-ponudi/IMAGE-gmb.jpg",
+  //   alt: "ALTTTTTTT",
+  //   text: "DESCCCCCCC",
+  //   httpaddress: "https://hrizantema.rs/single/ostalo/LINKKKKK",
+  //   link: "/single/ostalo/LINKKKKK",
+  //   sluglink: "LINKKKKK",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "OP-111",
   // },
 
   // {

@@ -24,6 +24,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     link: "/single/suza/roze-carski-ljiljan-orijental-prirodna-suza",
     sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-001",
   },
   {
@@ -45,6 +46,7 @@ export const suzeItemData = [
     httpaddress: "https://hrizantema.rs/single/suza/crvena-ruza-prirodna-suza",
     link: "/single/suza/crvena-ruza-prirodna-suza",
     sluglink: "crvena-ruza-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-002",
   },
   {
@@ -74,6 +76,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     link: "/single/suza/bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-003",
   },
   {
@@ -100,6 +103,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     link: "/single/suza/beli-ljiljan-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-004",
   },
 
@@ -129,6 +133,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     link: "/single/suza/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     sluglink: "beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-005",
   },
   {
@@ -157,6 +162,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     link: "/single/suza/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     sluglink: "roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-006",
   },
 
@@ -178,6 +184,7 @@ export const suzeItemData = [
     httpaddress: "https://hrizantema.rs/single/suza/beli-gerber-prirodna-suza",
     link: "/single/suza/beli-gerber-prirodna-suza",
     sluglink: "beli-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-007",
   },
 
@@ -207,6 +214,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     link: "/single/suza/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     sluglink: "beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-008",
   },
 
@@ -230,6 +238,7 @@ export const suzeItemData = [
       "https://hrizantema.rs/single/suza/bela-ruza-roze-gerber-prirodna-suza",
     link: "/single/suza/bela-ruza-roze-gerber-prirodna-suza",
     sluglink: "bela-ruza-roze-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "SU-009",
   },
 
@@ -251,6 +260,7 @@ export const suzeItemData = [
   //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
   //   link: "/single/suza/INPUTLINK",
   //   sluglink: "INPUTLINK",
+  //   availability: "https://schema.org/PreOrder",
   //   prodId: "SU-005",
   // },
 

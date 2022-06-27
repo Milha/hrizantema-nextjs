@@ -19,6 +19,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/buket-crvene-ruze-perlice",
     link: "/single/buket-korpa/buket-crvene-ruze-perlice",
     sluglink: "buket-crvene-ruze-perlice",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-001",
   },
   {
@@ -40,6 +41,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/buket-orijental-bele-ruze",
     link: "/single/buket-korpa/buket-orijental-bele-ruze",
     sluglink: "buket-orijental-bele-ruze",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-002",
   },
   {
@@ -67,6 +69,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa",
     link: "/single/buket-korpa/crveni-crimson-gerber-prirodna-korpa",
     sluglink: "crveni-crimson-gerber-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-003",
   },
   {
@@ -96,6 +99,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa",
     link: "/single/buket-korpa/ljiljan-beli-bele-margarete-prirodna-korpa",
     sluglink: "ljiljan-beli-bele-margarete-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-004",
   },
 
@@ -125,6 +129,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/beli-ljiljan-bele-ruze-prirodni-buket",
     link: "/single/buket-korpa/beli-ljiljan-bele-ruze-prirodni-buket",
     sluglink: "beli-ljiljan-bele-ruze-prirodni-buket",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-005",
   },
 
@@ -147,6 +152,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/kale-bele-prirodna-korpa",
     link: "/single/buket-korpa/kale-bele-prirodna-korpa",
     sluglink: "kale-bele-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-006",
   },
   {
@@ -169,6 +175,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/buketi-orijental-roze-beli",
     link: "/single/buket-korpa/buketi-orijental-roze-beli",
     sluglink: "buketi-orijental-roze-beli",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-007",
   },
   {
@@ -194,6 +201,7 @@ export const buketiKorpeItemData = [
       "https://hrizantema.rs/single/buket-korpa/gerber-svetlo-roze-prirodna-korpa",
     link: "/single/buket-korpa/gerber-svetlo-roze-prirodna-korpa",
     sluglink: "gerber-svetlo-roze-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
     prodId: "BU-008",
   },
 
@@ -215,6 +223,7 @@ export const buketiKorpeItemData = [
   //   httpaddress: "https://hrizantema.rs/single/buket-korpa/INPUTLINK",
   //   link: "/single/buket-korpa/INPUTLINK",
   //   sluglink: "INPUTLINK",
+  //   availability: "https://schema.org/PreOrder",
   //   prodId: "BU-006",
   // },
 

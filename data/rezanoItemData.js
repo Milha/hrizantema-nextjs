@@ -22,6 +22,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/crvena-ruza-rezano-komadno-cvece",
     link: "/single/rezano/crvena-ruza-rezano-komadno-cvece",
     sluglink: "crvena-ruza-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
     prodId: "KO-001",
   },
   {
@@ -45,6 +46,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/bela-ruza-rezano-komadno-cvece",
     link: "/single/rezano/bela-ruza-rezano-komadno-cvece",
     sluglink: "bela-ruza-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
     prodId: "KO-002",
   },
   {
@@ -70,6 +72,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/beli-ljiljan-rezani-komadni-cvet",
     link: "/single/rezano/beli-ljiljan-rezani-komadni-cvet",
     sluglink: "beli-ljiljan-rezani-komadni-cvet",
+    availability: "https://schema.org/InStock",
     prodId: "KO-003",
   },
   {
@@ -97,6 +100,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/bela-margareta-rezano-komadno-cvece",
     link: "/single/rezano/bela-margareta-rezano-komadno-cvece",
     sluglink: "bela-margareta-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
     prodId: "KO-004",
   },
 
@@ -125,6 +129,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/crimson-gerber-rezano-komadno-cvece",
     link: "/single/rezano/crimson-gerber-rezano-komadno-cvece",
     sluglink: "crimson-gerber-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
     prodId: "KO-005",
   },
   {
@@ -148,6 +153,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/bela-kala-rezano-komadno-cvece",
     link: "/single/rezano/bela-kala-rezano-komadno-cvece",
     sluglink: "bela-kala-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
     prodId: "KO-006",
   },
 
@@ -178,6 +184,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/roze-carski-ljiljan-orijental-rezani-komadni-cvet",
     link: "/single/rezano/roze-carski-ljiljan-orijental-rezani-komadni-cvet",
     sluglink: "roze-carski-ljiljan-orijental-rezani-komadni-cvet",
+    availability: "https://schema.org/InStock",
     prodId: "KO-007",
   },
 
@@ -208,6 +215,7 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/narandzasti-ljiljan-orijental-carski-ljiljan-rezan-komadni-cvet",
     link: "/single/rezano/narandzasti-ljiljan-orijental-carski-ljiljan-rezan-komadni-cvet",
     sluglink: "narandzasti-ljiljan-orijental-carski-ljiljan-rezan-komadni-cvet",
+    availability: "https://schema.org/InStock",
     prodId: "KO-008",
   },
 
@@ -237,8 +245,10 @@ export const rezanoItemData = [
       "https://hrizantema.rs/single/rezano/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
     link: "/single/rezano/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
     sluglink: "beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
+    availability: "https://schema.org/InStock",
     prodId: "KO-009",
   },
+
   // {
   //   test: [1, 2, 3],
   //   id: 1,
@@ -257,6 +267,7 @@ export const rezanoItemData = [
   //   httpaddress: "https://hrizantema.rs/single/rezano/LINKINPUT",
   //   link: "/single/rezano/LINKINPUT",
   //   sluglink: "LINKINPUT",
+  //   availability: "https://schema.org/InStock",
   //   prodId: "KO-001",
   // },
 

@@ -25,6 +25,7 @@ export const suzeDvostranicneData = [
       "https://hrizantema.rs/single/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza",
     link: "/single/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza",
     sluglink: "bela-kala-beli-gerber-prirodna-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "DS-001",
   },
 
@@ -54,6 +55,7 @@ export const suzeDvostranicneData = [
       "https://hrizantema.rs/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
     link: "/single/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
     sluglink: "bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "DS-002",
   },
 
@@ -84,6 +86,7 @@ export const suzeDvostranicneData = [
     link: "/single/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
     sluglink:
       "beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "DS-003",
   },
   {
@@ -112,6 +115,7 @@ export const suzeDvostranicneData = [
       "https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza",
     link: "/single/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza",
     sluglink: "bela-ruza-hrizantema-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
     prodId: "DS-004",
   },
 
@@ -133,6 +137,7 @@ export const suzeDvostranicneData = [
   //   httpaddress: "https://hrizantema.rs/single/suza-dvostranicna/INPUTLINK",
   //   link: "/single/suza-dvostranicna/INPUTLINK",
   //   sluglink: "INPUTLINK",
+  //   availability: "https://schema.org/PreOrder",
   //   prodId: "DS-111",
   // },
 

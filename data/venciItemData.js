@@ -27,8 +27,8 @@ export const venciItemData = [
     link: "/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
     sluglink:
       "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-001",
-    stock: "https://schema.org/InStock",
   },
   {
     test: [20, 13, 19],
@@ -57,6 +57,7 @@ export const venciItemData = [
     link: "/single/venac/beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
     sluglink:
       "beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-002",
   },
   {
@@ -87,6 +88,7 @@ export const venciItemData = [
     link: "/single/venac/beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
     sluglink:
       "beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-003",
   },
   {
@@ -109,6 +111,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/ruza-crvena-oblik-srce-venac",
     link: "/single/venac/ruza-crvena-oblik-srce-venac",
     sluglink: "ruza-crvena-oblik-srce-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-004",
   },
 
@@ -135,6 +138,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/beli-ljiljan-roze-gerber-prirodni-venac",
     link: "/single/venac/beli-ljiljan-roze-gerber-prirodni-venac",
     sluglink: "beli-ljiljan-roze-gerber-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-005",
   },
 
@@ -164,6 +168,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac",
     link: "/single/venac/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac",
     sluglink: "roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-006",
   },
   {
@@ -185,6 +190,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/gerber-crveni-oblik-srce-venac",
     link: "/single/venac/gerber-crveni-oblik-srce-venac",
     sluglink: "gerber-crveni-oblik-srce-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-007",
   },
   {
@@ -209,6 +215,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/bele-kale-crveni-gerber-prirodni-venac-gmb",
     link: "/single/venac/bele-kale-crveni-gerber-prirodni-venac-gmb",
     sluglink: "bele-kale-crveni-gerber-prirodni-venac-gmb",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-008",
   },
   {
@@ -230,6 +237,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/bela-ruza-beli-gerber-venac",
     link: "/single/venac/bela-ruza-beli-gerber-venac",
     sluglink: "bela-ruza-beli-gerber-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-009",
   },
   {
@@ -254,6 +262,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/zuti-gerber-beli-gerber-prirodni-venac",
     link: "/single/venac/zuti-gerber-beli-gerber-prirodni-venac",
     sluglink: "zuti-gerber-beli-gerber-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-010",
   },
   {
@@ -280,6 +289,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/orijental-ruza-crvena-gerber-crveni-venac",
     link: "/single/venac/orijental-ruza-crvena-gerber-crveni-venac",
     sluglink: "orijental-ruza-crvena-gerber-crveni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-011",
   },
 
@@ -309,6 +319,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
     link: "/single/venac/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
     sluglink: "crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-012",
   },
 
@@ -333,6 +344,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/gerber-crveni-gladiole-crvene-venac",
     link: "/single/venac/gerber-crveni-gladiole-crvene-venac",
     sluglink: "gerber-crveni-gladiole-crvene-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-013",
   },
   {
@@ -361,6 +373,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
     link: "/single/venac/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
     sluglink: "roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-014",
   },
   {
@@ -388,6 +401,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/crveni-gerber-bela-gipsofila-prirodni-venac",
     link: "/single/venac/crveni-gerber-bela-gipsofila-prirodni-venac",
     sluglink: "crveni-gerber-bela-gipsofila-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-015",
   },
   {
@@ -417,6 +431,7 @@ export const venciItemData = [
     link: "/single/venac/roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
     sluglink:
       "roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-016",
   },
   {
@@ -446,6 +461,7 @@ export const venciItemData = [
     link: "/single/venac/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
     sluglink:
       "beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-017",
   },
   {
@@ -475,6 +491,7 @@ export const venciItemData = [
     link: "/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
     sluglink:
       "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-018",
   },
   {
@@ -504,6 +521,7 @@ export const venciItemData = [
     link: "/single/venac/bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
     sluglink:
       "bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-019",
   },
   {
@@ -532,6 +550,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
     link: "/single/venac/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
     sluglink: "beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-020",
   },
   {
@@ -561,6 +580,7 @@ export const venciItemData = [
     link: "/single/venac/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac",
     sluglink:
       "crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-021",
   },
 
@@ -590,6 +610,7 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac",
     link: "/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac",
     sluglink: "srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-022",
   },
 
@@ -619,27 +640,31 @@ export const venciItemData = [
       "https://hrizantema.rs/single/venac/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac",
     link: "/single/venac/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac",
     sluglink: "bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-023",
   },
+
+  
   // {
   //   test: [15, 1, 8],
   //   id: 1,
-  //   title: 'TITLE',
-  //   price: 'NA.000',
-  //   priceRange: '4.000 - 5.500',
-  //   imageBig: '/images/venci/INPUTIMAGE.jpg',
-  //   imageBigWebP: '/images/venci/INPUTIMAGE.webp',
-  //   imageSmall: '/images/venci/INPUTIMAGE-small.jpg',
-  //   imageSmallWebP: '/images/venci/INPUTIMAGE-small.webp',
-  //   imageGMB: '/images/venci/INPUTIMAGE-gmb.jpg',
-  //   imageMini: '/images/venci/INPUTIMAGE-mini.jpg',
-  //   imageMiniWebP: '/images/venci/INPUTIMAGE-mini.webp',
-  //   alt: 'ALTTTTT',
-  //   text: 'DESCCCC',
-  //   httpaddress: 'https://hrizantema.rs/single/venac/INPUTLINKKKK',
-  //   link: '/single/venac/INPUTLINKKKK',
-  //   sluglink: 'INPUTLINKKKK',
-  //   prodId: 'VE-001',
+  //   title: "TITLE",
+  //   price: "NA.000",
+  //   priceRange: "4.000 - 5.500",
+  //   imageBig: "/images/venci/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/venci/INPUTIMAGE.webp",
+  //   imageSmall: "/images/venci/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/venci/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/venci/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/venci/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/venci/INPUTIMAGE-mini.webp",
+  //   alt: "ALTTTTT",
+  //   text: "DESCCCC",
+  //   httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
+  //   link: "/single/venac/INPUTLINKKKK",
+  //   sluglink: "INPUTLINKKKK",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "VE-001",
   // },
 
   // {

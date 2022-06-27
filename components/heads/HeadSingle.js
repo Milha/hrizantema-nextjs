@@ -19,7 +19,7 @@ export default function HeadSingle({ data }) {
       price: data.price,
       priceCurrency: "RSD",
       url: data.httpaddress,
-      availability: data.stock,
+      availability: data.availability,
     },
     url: data.httpaddress,
   };

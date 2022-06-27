@@ -28,6 +28,7 @@ export const rezanoSimilarData = dataRezano.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
+  availability: inj.availability,
   similar: [
     {
       miniLink: rezanoItemData[inj.test[0]].link,
@@ -76,6 +77,7 @@ export const suzeSetData = dataSuze.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
+  availability: inj.availability,
   similar: [
     {
       miniLink: suzeItemData[inj.test[0]].link,
@@ -124,6 +126,7 @@ export const buketSetData = dataBuket.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
+  availability: inj.availability,
   similar: [
     {
       miniLink: buketiKorpeItemData[inj.test[0]].link,
@@ -172,6 +175,7 @@ export const ostaloUPonudiSetData = dataOstaloUPonudi.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
+  availability: inj.availability,
   similar: [
     {
       miniLink: ostaloUPonudiData[inj.test[0]].link,
@@ -220,6 +224,7 @@ export const venciSetData = dataVenci.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
+  availability: inj.availability,
   similar: [
     {
       miniLink: venciItemData[inj.test[0]].link,
@@ -268,6 +273,7 @@ export const dvostranicneSuzeSetData = dataDvostranicneSuze.map((inj) => ({
   link: inj.link,
   sluglink: inj.sluglink,
   prodId: inj.prodId,
+  availability: inj.availability,
   similar: [
     {
       miniLink: suzeDvostranicneData[inj.test[0]].link,
