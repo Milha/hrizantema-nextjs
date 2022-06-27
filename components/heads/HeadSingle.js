@@ -21,6 +21,7 @@ export default function HeadSingle({ data }) {
       url: data.httpaddress,
       availability: data.stock,
     },
+    url: data.httpaddress,
   };
 
   // console.log(data);
