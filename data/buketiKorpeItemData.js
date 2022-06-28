@@ -209,8 +209,8 @@ export const buketiKorpeItemData = [
     test: [5, 2, 3],
     id: 9,
     title: "Crveni ljiljan ~ bela ruža",
-    price: "4.000",
-    priceRange: "3.000 - 5.000",
+    price: "2.500",
+    priceRange: "2.000 - 3.000",
     imageBig:
       "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa.jpg",
     imageBigWebP:
