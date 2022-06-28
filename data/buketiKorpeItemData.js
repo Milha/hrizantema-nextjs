@@ -205,6 +205,36 @@ export const buketiKorpeItemData = [
     prodId: "BU-008",
   },
 
+  {
+    test: [5, 2, 3],
+    id: 9,
+    title: "Crveni ljiljan ~ bela ruža",
+    price: "4.000",
+    priceRange: "3.000 - 5.000",
+    imageBig:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa-mini.webp",
+    alt: "Korpa od prirodnog cveca crveni ljiljan bele ruze robelini lovor visnja",
+    text: "Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav. Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.",
+    httpaddress:
+      "https://hrizantema.rs/single/buket-korpa/crveni-lljiljan-bela-ruza-prirodna-korpa",
+    link: "/single/buket-korpa/crveni-lljiljan-bela-ruza-prirodna-korpa",
+    sluglink: "crveni-lljiljan-bela-ruza-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-009",
+  },
+
   // {
   //   test: [5, 2, 3],
   //   id: 6,
@@ -218,7 +248,7 @@ export const buketiKorpeItemData = [
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
   //   imageMini: "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
   //   imageMiniWebP: "/images/buketi-korpe/INPUTIMAGE-mini.webp",
-  //   alt: "ALTTTT",
+  //   alt: "Korpa od prirodnog cveca ALTTTT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/buket-korpa/INPUTLINK",
   //   link: "/single/buket-korpa/INPUTLINK",

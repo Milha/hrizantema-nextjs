@@ -28,7 +28,9 @@ Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da s
 
 Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.
 
-##
+## Crveni ljiljan
+
+Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav.
 
 ##
 
