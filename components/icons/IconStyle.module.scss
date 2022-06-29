@@ -1,7 +1,13 @@
+@import "../../styles/colors.module.scss";
+
 .cont {
   margin: 0;
   padding: 0;
   font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $color-main-brown-600;
 }
 
 .icon {

@@ -1,9 +1,10 @@
-import SmallCard from '../../components/cards/SmallCard';
-import HeadList from '../../components/heads/HeadList';
+import SmallCard from "../../components/cards/SmallCard";
+import HeadList from "../../components/heads/HeadList";
 
-import classes from './ListsArticles.module.scss';
+import classes from "./ListsArticles.module.scss";
 
-import { buketiKorpeItemData } from '../../data/buketiKorpeItemData';
+import { buketiKorpeItemData } from "../../data/buketiKorpeItemData";
+import ArrowToTop from "../../components/ui/ArrowToTop";
 
 const reverte = buketiKorpeItemData.reverse();
 
@@ -23,6 +24,7 @@ export default function Lists({ inject }) {
           </section>
         ))}
       </article>
+      <ArrowToTop />
     </>
   );
 }

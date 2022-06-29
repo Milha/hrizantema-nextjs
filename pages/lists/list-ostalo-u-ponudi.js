@@ -1,5 +1,6 @@
 import SmallCard from "../../components/cards/SmallCard";
 import HeadList from "../../components/heads/HeadList";
+import ArrowToTop from '../../components/ui/ArrowToTop'
 
 import classes from "./ListsArticles.module.scss";
 
@@ -24,6 +25,7 @@ export default function Lists({ inject }) {
           </section>
         ))}
       </article>
+      <ArrowToTop />
     </>
   );
 }

@@ -4,6 +4,7 @@ import HeadList from "../../components/heads/HeadList";
 import classes from "./ListsArticles.module.scss";
 
 import { rezanoItemData } from "../../data/rezanoItemData";
+import ArrowToTop from "../../components/ui/ArrowToTop";
 
 // import { rezanoItemData } from "../../data/rezanoItemData";
 
@@ -27,6 +28,7 @@ export default function Lists({ inject }) {
           </section>
         ))}
       </article>
+      <ArrowToTop />
     </>
   );
 }

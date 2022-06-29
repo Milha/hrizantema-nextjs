@@ -10,6 +10,7 @@ import Sample from "../components/cards/Sample";
 import { offersCardsData } from "../data/offersCardsData";
 
 import { sampleItems } from "../utils/sampleFinder";
+import ArrowToTop from "../components/ui/ArrowToTop";
 
 export default function Home({ propsData, sampleFinderData }) {
   // console.log(sampleFinderData, "from PROPS");
@@ -24,6 +25,7 @@ export default function Home({ propsData, sampleFinderData }) {
       <HeroBanner />
       <Offers data={propsData} />
       <Sample data={sampleFinderData} />
+      <ArrowToTop />
     </div>
   );
 }
