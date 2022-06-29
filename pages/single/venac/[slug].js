@@ -1,15 +1,10 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
-// import { venciItemData } from "../../../data/venciItemData";
+
 import { venciSetData } from "../../../utils/similarsFinder";
-// import { similarsVenciFinder } from "../../../utils/similarsFinder";
-// import { findInUtils } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
-  // miniData LOGIC
-  // const arrayTest = pageItems.test;
-  // const newMiniData = arrayTest.map((el) => venciItemData[el]);
-  // console.log(arrayTest);
+ 
   return (
     <>
       <HeadSingle data={pageItems} />
