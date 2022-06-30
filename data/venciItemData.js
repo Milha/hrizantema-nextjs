@@ -61,7 +61,6 @@ export const venciItemData = [
     prodId: "VE-002",
   },
   {
-    sample: true,
     test: [5, 8, 15],
     id: 3,
     title: "Bele orijental ~ ruže ~ gerber ~ kale",
@@ -615,6 +614,7 @@ export const venciItemData = [
   },
 
   {
+    sample: true,
     test: [2, 21, 8],
     id: 23,
     title: "Ruža ~ gerber ~ kala ~ robelini",
@@ -644,7 +644,6 @@ export const venciItemData = [
     prodId: "VE-023",
   },
 
-  
   // {
   //   test: [15, 1, 8],
   //   id: 1,

@@ -73,7 +73,6 @@ export const buketiKorpeItemData = [
     prodId: "BU-003",
   },
   {
-    sample: true,
     test: [5, 7, 2],
     id: 4,
     title: "Beli ljiljan ~ bele margarete",
@@ -206,6 +205,7 @@ export const buketiKorpeItemData = [
   },
 
   {
+    sample: true,
     test: [5, 2, 3],
     id: 9,
     title: "Crveni ljiljan ~ bela ruža",
