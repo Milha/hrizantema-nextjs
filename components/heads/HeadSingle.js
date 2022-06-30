@@ -14,6 +14,7 @@ export default function HeadSingle({ data }) {
     image: data.imageBig,
     description: data.text,
     name: data.title,
+    category: "rezano cveće",
     offers: {
       "@type": "Offer",
       price: data.price,
