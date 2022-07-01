@@ -89,6 +89,10 @@
     flex-direction: column;
     justify-content: space-between;
 
+    .sim_horiz_cont {
+      background-color: rebeccapurple;
+    }
+
     @media (min-width: 50rem) {
       text-align: left;
     }

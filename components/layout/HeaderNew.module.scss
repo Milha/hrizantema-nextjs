@@ -37,12 +37,29 @@
 
 .header li {
   // background-color: red;
+  // padding: 0;
+  // background-color: rebeccapurple;
 
   a {
-    // margin: 0.75rem 0;
+    // margin: 0.25rem 0;
     // background-color: #bababa;
     font-family: "Merriweather Sans", sans-serif;
   }
+}
+
+// .drop_link_cont {
+//   margin-top: 111rem;
+// }
+
+.drop_link_cont:first-child {
+  margin-top: 0.5rem;
+
+  @media screen and (min-width: 800px) and (orientation: landscape) {
+    margin-top: 0;
+  }
+}
+.drop_link_cont:last-child {
+  padding-bottom: 0;
 }
 
 .header li .contact {
@@ -96,10 +113,16 @@
     // background-color: rebeccapurple;
 
     a {
+      display: block;
       text-align: center;
-      padding: 1.5rem;
-      padding-bottom: 0;
+      // padding: 1.5rem;
+      padding: 1rem 0;
+      margin-top: 0.25rem;
+      // margin-bottom: 0;
       // background-color: rebeccapurple;
+      z-index: 99;
+      background: #fff;
+      border-radius: 4px;
     }
   }
 }
@@ -218,7 +241,7 @@
       padding: 0;
 
       a {
-        padding: 0;
+        padding: 0 1rem;
       }
     }
   }

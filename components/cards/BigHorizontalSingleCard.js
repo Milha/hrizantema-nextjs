@@ -47,7 +47,7 @@ export default function BigVerticalSingleCard({ data }) {
             <span>šifra:</span> {data.prodId}
           </p>
           <p className={classes.similar_text}>Slično:</p>
-          <SimilarsCont data={data} />
+          <SimilarsCont data={data} small={true} />
           <ShareLinksCont data={data} />
         </div>
       </div>

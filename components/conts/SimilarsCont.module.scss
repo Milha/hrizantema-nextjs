@@ -1,6 +1,19 @@
 .cont {
   display: flex;
+  flex-direction: row;
+  // background-color: blue;
   // gap: 3rem;
   //   justify-content: space-evenly;
   //   padding-right: 15rem;
+}
+
+.cont_horizontal {
+  display: flex;
+  flex-direction: column;
+  // background-color: red;
+  // display: none;
+
+  @media (min-width: 50rem) {
+    flex-direction: row;
+  }
 }
