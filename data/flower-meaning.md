@@ -8,6 +8,10 @@ Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.
 
 Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. U pogrebnom okruženju, crvene ruže simbolizuju ljubav i tugu.
 
+## Crveni ljiljan
+
+Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav.
+
 ## Bela ruža
 
 Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
@@ -20,17 +24,17 @@ Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevi
 
 Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.
 
-## Ljubičasti gerberi
-
-Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.
-
 ## Bela kala
 
 Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.
 
-## Crveni ljiljan
+## Bela hrizantema
 
-Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav.
+Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
+
+## Ljubičasti gerberi
+
+Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.
 
 ##
 

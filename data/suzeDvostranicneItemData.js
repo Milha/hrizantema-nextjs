@@ -119,6 +119,35 @@ export const suzeDvostranicneData = [
     prodId: "DS-004",
   },
 
+  {
+    test: [0, 2, 3],
+    id: 5,
+    title: "Beli ljiljan ~ crvene ruže",
+    price: "NA.000",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza-mini.webp",
+    alt: "dvostranican bela ruza suza za sahrane za sanduk prirodno cvece crvene ruze beli ljiljan bele margarete hrizanteme",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza",
+    link: "/single/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza",
+    sluglink: "crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "DS-005",
+  },
   // {
   //   test: [0, 0, 0],
   //   id: 5,
@@ -132,7 +161,7 @@ export const suzeDvostranicneData = [
   //   imageGMB: "/images/suza-dvostranicna/INPUTIMAGE-gmb.jpg",
   //   imageMini: "/images/suza-dvostranicna/INPUTIMAGE-mini.jpg",
   //   imageMiniWebP: "/images/suza-dvostranicna/INPUTIMAGE-mini.webp",
-  //   alt: "ALT",
+  //   alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/suza-dvostranicna/INPUTLINK",
   //   link: "/single/suza-dvostranicna/INPUTLINK",
