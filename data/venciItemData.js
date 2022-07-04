@@ -644,6 +644,36 @@ export const venciItemData = [
     prodId: "VE-023",
   },
 
+  {
+    test: [21, 22, 13],
+    id: 24,
+    title: "Beli orijental ~ beli gerber",
+    price: "NA.000",
+    priceRange: "4.000 - 5.500",
+    imageBig:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac-mini.webp",
+    alt: "Prirodni venac beli ljiljan carski ljiljan orijenta beli gerber zelenilo robelini",
+    text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+    httpaddress:
+      "https://hrizantema.rs/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
+    link: "/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
+    sluglink:
+      "beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-024",
+  },
   // {
   //   test: [15, 1, 8],
   //   id: 1,
@@ -657,7 +687,7 @@ export const venciItemData = [
   //   imageGMB: "/images/venci/INPUTIMAGE-gmb.jpg",
   //   imageMini: "/images/venci/INPUTIMAGE-mini.jpg",
   //   imageMiniWebP: "/images/venci/INPUTIMAGE-mini.webp",
-  //   alt: "ALTTTTT",
+  //   alt: "Prirodni venac ALTTTTT",
   //   text: "DESCCCC",
   //   httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
   //   link: "/single/venac/INPUTLINKKKK",

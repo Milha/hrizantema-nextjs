@@ -242,27 +242,31 @@ export const suzeItemData = [
     prodId: "SU-009",
   },
 
-  // {
-  //   test: [3, 4, 5],
-  //   id: 5,
-  //   title: "TITLE",
-  //   price: "NA.000",
-  //   priceRange: "1.000 - 2.500",
-  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
-  //   imageMini: "/images/suze/INPUTIMAGE-mini.jpg",
-  //   imageMiniWebP: "/images/suze/INPUTIMAGE-mini.webp",
-  //   alt: "ALT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
-  //   link: "/single/suza/INPUTLINK",
-  //   sluglink: "INPUTLINK",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "SU-005",
-  // },
+  {
+    test: [8, 1, 3],
+    id: 10,
+    title: "Crvene ruža ~ bela gladiola",
+    price: "NA.000",
+    priceRange: "1.000 - 2.500",
+    imageBig: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.jpg",
+    imageBigWebP: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.webp",
+    imageSmall:
+      "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza-small.webp",
+    imageGMB: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza-gmb.jpg",
+    imageMini: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza-mini.webp",
+    alt: "Prirodna suza crvena ruza bela gladiola robelini zelenilo ukrasna traka",
+    text: "Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. U pogrebnom okruženju, crvene ruže simbolizuju ljubav i tugu. Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza/crvena-ruza-bela-gladiola-prirodna-suza",
+    link: "/single/suza/crvena-ruza-bela-gladiola-prirodna-suza",
+    sluglink: "crvena-ruza-bela-gladiola-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "SU-010",
+  },
 
   // {
   //   id: 5,

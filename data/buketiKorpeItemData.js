@@ -235,6 +235,30 @@ export const buketiKorpeItemData = [
     prodId: "BU-009",
   },
 
+  {
+    test: [8, 1, 3],
+    id: 10,
+    title: "Roze ljiljan",
+    price: "NA.000",
+    priceRange: "2.000 - 3.500",
+    imageBig: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa.jpg",
+    imageBigWebP: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa.webp",
+    imageSmall: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/roze-ljiljan-prirodna-korpa-small.webp",
+    imageGMB: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa-gmb.jpg",
+    imageMini: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa-mini.jpg",
+    imageMiniWebP: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa-mini.webp",
+    alt: "Korpa od prirodnog cveca roze ljiljan robelini",
+    text: "Ružičasta boja je stoji kao simbol ženstvenosti, ljubavi, obožavanja i divljenja. Pink ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti.",
+    httpaddress:
+      "https://hrizantema.rs/single/buket-korpa/roze-ljiljan-prirodna-korpa",
+    link: "/single/buket-korpa/roze-ljiljan-prirodna-korpa",
+    sluglink: "roze-ljiljan-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-011",
+  },
+
   // {
   //   test: [5, 2, 3],
   //   id: 6,

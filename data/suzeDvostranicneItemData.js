@@ -148,6 +148,35 @@ export const suzeDvostranicneData = [
     availability: "https://schema.org/PreOrder",
     prodId: "DS-005",
   },
+  {
+    test: [3, 4, 1],
+    id: 6,
+    title: "Bela ruža ~ bela gladiola",
+    price: "NA.000",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza-mini.webp",
+    alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
+    text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.",
+    httpaddress:
+      "https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
+    link: "/single/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
+    sluglink: "bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "DS-006",
+  },
   // {
   //   test: [0, 0, 0],
   //   id: 5,

@@ -598,7 +598,7 @@ export const ostaloUPonudiData = [
     test: [1, 4, 21],
     id: 23,
     title: "Žuta ruža ~ žute ružice",
-    price: "3.000",
+    price: "2.000",
     priceRange: "1.000 - 3.500",
     imageBig:
       "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips.jpg",

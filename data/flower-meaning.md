@@ -32,6 +32,10 @@ Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično kori
 
 Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
 
+## Pink ljiljan
+
+Ružičasta boja je stoji kao simbol ženstvenosti, ljubavi, obožavanja i divljenja. Pink ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
+
 ## Ljubičasti gerberi
 
 Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.
@@ -60,7 +64,11 @@ Gerberi simbolizuju lepotu, nevinost i čistotu. Gerberi označava da je osoba k
 
 Hrizanteme se vide kao simbol istine.
 
-### Crveni
+### Gladiola
+
+Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.
+
+### Crvena
 
 Crveni cvetovi označavaju snagu, poštovanje, predanost i ljubav.
 
