@@ -1,6 +1,6 @@
-const categoryOstaloUPonudi = "?categroy=ostalo";
-const categoryVestacko = "?categroy=vestacko";
-const categoryStaklici = "?categroy=staklici";
+const categoryOstaloUPonudi = "?category=ostalo";
+const categoryVestacko = "?category=vestacko";
+const categoryStaklici = "?category=staklici";
 
 export const ostaloUPonudiData = [
   {
@@ -620,9 +620,8 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips-mini.webp",
     alt: "vestacko cvece zute ruze zute ruzice saksija gips",
     text: "Žuta ruža je simbol prijateljstva koje izražava vašu podršku. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže da izrazite saučešće.",
-    httpaddress:
-      "https://hrizantema.rs/single/ostalo/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
-    link: "/single/ostalo/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
+    httpaddress: `https://hrizantema.rs/single/ostalo/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips${categoryVestacko}`,
+    link: `/single/ostalo/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips${categoryVestacko}`,
     sluglink: "zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-023",
@@ -640,8 +639,8 @@ export const ostaloUPonudiData = [
   //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTTTTT",
   //   text: "DESCCCCCCC",
-  //   httpaddress: "https://hrizantema.rs/single/ostalo/LINKKKKK",
-  //   link: "/single/ostalo/LINKKKKK",
+  //   httpaddress: `https://hrizantema.rs/single/ostalo/LINKKKKK${categoryVestacko}`,
+  //   link: `/single/ostalo/LINKKKKK${categoryVestacko}`,
   //   sluglink: "LINKKKKK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "OP-111",

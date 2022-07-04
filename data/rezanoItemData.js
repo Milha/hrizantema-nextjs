@@ -1,3 +1,5 @@
+const categoryRezano = "?category=rezano";
+
 export const rezanoItemData = [
   {
     sample: true,
@@ -271,9 +273,8 @@ export const rezanoItemData = [
       "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece-mini.webp",
     alt: "Narandzasti gerber prirodni rezani komadni cvet",
     text: "Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u pitanju gerberi, oni označavaju da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.",
-    httpaddress:
-      "https://hrizantema.rs/single/rezano/narandzasti-gerber-rezano-komadno-cvece",
-    link: "/single/rezano/narandzasti-gerber-rezano-komadno-cvece",
+    httpaddress: `https://hrizantema.rs/single/rezano/narandzasti-gerber-rezano-komadno-cvece${categoryRezano}`,
+    link: `/single/rezano/narandzasti-gerber-rezano-komadno-cvece${categoryRezano}`,
     sluglink: "narandzasti-gerber-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-010",
@@ -294,27 +295,13 @@ export const rezanoItemData = [
   //   imageMiniWebP: "/images/rezano-cvece/INPUTIMAGE-mini.webp",
   //   alt: "ALTTTT prirodni rezani komadni cvet",
   //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/rezano/LINKINPUT",
-  //   link: "/single/rezano/LINKINPUT",
+  //   httpaddress: `https://hrizantema.rs/single/rezano/LINKINPUT${categoryRezano}`,
+  //   link: `/single/rezano/LINKINPUT${categoryRezano}`,
   //   sluglink: "LINKINPUT",
   //   availability: "https://schema.org/InStock",
   //   prodId: "KO-001",
   // },
 
-  // {
-  //   id: 2,
-  //   title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ponuda suza prirodne dvostranicne vestacke",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
   // {
   //   id: 3,
   //   title: "Ostalo u poundi",

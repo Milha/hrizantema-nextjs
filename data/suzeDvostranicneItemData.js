@@ -1,4 +1,4 @@
-const categorySuze = "?categroy=suze";
+const categorySuze = "?category=suze";
 
 export const suzeDvostranicneData = [
   {
@@ -125,8 +125,8 @@ export const suzeDvostranicneData = [
     test: [0, 2, 3],
     id: 5,
     title: "Beli ljiljan ~ crvene ruže",
-    price: "NA.000",
-    priceRange: "1.000 - 2.500",
+    price: "5.500",
+    priceRange: "4.000 - 6.500",
     imageBig:
       "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -172,9 +172,8 @@ export const suzeDvostranicneData = [
       "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza-mini.webp",
     alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
     text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.",
-    httpaddress:
-      "https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
-    link: "/single/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
+    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza${categorySuze}`,
+    link: `/single/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza${categorySuze}`,
     sluglink: "bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-006",
@@ -194,12 +193,10 @@ export const suzeDvostranicneData = [
   //   imageMiniWebP: "/images/suza-dvostranicna/INPUTIMAGE-mini.webp",
   //   alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
   //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/suza-dvostranicna/INPUTLINK",
-  //   link: "/single/suza-dvostranicna/INPUTLINK",
+  //   httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/INPUTLINK${categorySuze}`,
+  //   link: `/single/suza-dvostranicna/INPUTLINK${categorySuze}`,
   //   sluglink: "INPUTLINK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "DS-111",
   // },
-
-  
 ];

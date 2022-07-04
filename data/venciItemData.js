@@ -1,4 +1,4 @@
-const categoryVenci = "?categroy=venci";
+const categoryVenci = "?category=venci";
 
 export const venciItemData = [
   {
@@ -605,10 +605,9 @@ export const venciItemData = [
       "/images/venci/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac-mini.webp",
     alt: "Prirodni venac u obliku srca bele ruze beli gerber bela gipsofila lovor visnja zelenilo",
     text: "Prirodni venac aranžiran od belih  ruža i belih gerbera. Uz najkvalitetnije zelenilo, belu gipsofilu, lovor.",
-    httpaddress:
-      "https://hrizantema.rs/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac",
-    link: "/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac",
-    sluglink: "srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac",
+    httpaddress: `https://hrizantema.rs/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac${categoryVenci}`,
+    sluglink: `srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-022",
   },
@@ -636,10 +635,9 @@ export const venciItemData = [
       "/images/venci/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac-mini.webp",
     alt: "Prirodni venac bele ruze beli gerber bele kale bez jelke samo zelenilo robelini",
     text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.",
-    httpaddress:
-      "https://hrizantema.rs/single/venac/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac",
-    link: "/single/venac/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac",
-    sluglink: "bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac",
+    httpaddress: `https://hrizantema.rs/single/venac/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac${categoryVenci}`,
+    sluglink: `bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-023",
   },
@@ -668,9 +666,8 @@ export const venciItemData = [
     text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
     httpaddress: `https://hrizantema.rs/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac${categoryVenci}`,
     link: `/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac${categoryVenci}`,
-    sluglink:
-      "beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
-    availability: `https://schema.org/PreOrder${categoryVenci}`,
+    sluglink: `beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac`,
+    availability: "https://schema.org/PreOrder",
     prodId: "VE-024",
   },
   // {
@@ -688,8 +685,8 @@ export const venciItemData = [
   //   imageMiniWebP: "/images/venci/INPUTIMAGE-mini.webp",
   //   alt: "Prirodni venac ALTTTTT",
   //   text: "DESCCCC",
-  //   httpaddress: "https://hrizantema.rs/single/venac/INPUTLINKKKK",
-  //   link: "/single/venac/INPUTLINKKKK",
+  //   httpaddress: `https://hrizantema.rs/single/venac/INPUTLINKKKK${categoryVenci}`,
+  //   link: `/single/venac/INPUTLINKKKK${categoryVenci}`,
   //   sluglink: "INPUTLINKKKK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "VE-001",
