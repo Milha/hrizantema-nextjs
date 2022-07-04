@@ -36,7 +36,9 @@ Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
 
 Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.
 
-##
+## Narandžasti gerber
+
+Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u pitanju gerberi, oni označavaju da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.
 
 ##
 
@@ -50,7 +52,7 @@ Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti.
 
 ### Gerber
 
-Gerberi simbolizuju lepotu, nevinost i čistotu.
+Gerberi simbolizuju lepotu, nevinost i čistotu. Gerberi označava da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.
 
 ### Hrizantema
 

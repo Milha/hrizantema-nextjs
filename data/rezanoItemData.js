@@ -249,6 +249,36 @@ export const rezanoItemData = [
     prodId: "KO-009",
   },
 
+  {
+    test: [1, 2, 3],
+    id: 10,
+    title: "Narandžasti gerber",
+    price: "200",
+    priceRange: "100 - 300",
+    imageBig:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece-mini.webp",
+    alt: "Narandzasti gerber prirodni rezani komadni cvet",
+    text: "Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u pitanju gerberi, oni označavaju da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.",
+    httpaddress:
+      "https://hrizantema.rs/single/rezano/narandzasti-gerber-rezano-komadno-cvece",
+    link: "/single/rezano/narandzasti-gerber-rezano-komadno-cvece",
+    sluglink: "narandzasti-gerber-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-010",
+  },
+
   // {
   //   test: [1, 2, 3],
   //   id: 1,
@@ -262,7 +292,7 @@ export const rezanoItemData = [
   //   imageGMB: "/images/rezano-cvece/INPUTIMAGE-gmb.jpg",
   //   imageMini: "/images/rezano-cvece/INPUTIMAGE-mini.jpg",
   //   imageMiniWebP: "/images/rezano-cvece/INPUTIMAGE-mini.webp",
-  //   alt: "ALTTTT",
+  //   alt: "ALTTTT prirodni rezani komadni cvet",
   //   text: "DESCRIPTION",
   //   httpaddress: "https://hrizantema.rs/single/rezano/LINKINPUT",
   //   link: "/single/rezano/LINKINPUT",
