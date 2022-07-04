@@ -565,7 +565,7 @@ export const ostaloUPonudiData = [
 
   {
     sample: true,
-    test: [1, 4, 8],
+    test: [1, 4, 22],
     id: 22,
     title: "Crveni ljilja veštačko gips",
     price: "2.000",
@@ -594,17 +594,46 @@ export const ostaloUPonudiData = [
     prodId: "OP-022",
   },
 
+  {
+    test: [1, 4, 21],
+    id: 23,
+    title: "Žuta ruža ~ žute ružice",
+    price: "3.000",
+    priceRange: "1.000 - 3.500",
+    imageBig:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips-mini.webp",
+    alt: "vestacko cvece zute ruze zute ruzice saksija gips",
+    text: "Žuta ruža je simbol prijateljstva koje izražava vašu podršku. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže da izrazite saučešće.",
+    httpaddress:
+      "https://hrizantema.rs/single/ostalo/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
+    link: "/single/ostalo/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
+    sluglink: "zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-023",
+  },
   // {
   //   test: [1, 4, 8],
   //   id: 1,
-  //   title: "Bele ruže ~ crvene ruže",
+  //   title: "TITLE",
   //   price: "NA.000",
   //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/ostalo-u-ponudi/IMAGE.jpg",
-  //   imageBigWebP: "/images/ostalo-u-ponudi/IMAGE.webp",
-  //   imageSmall: "/images/ostalo-u-ponudi/IMAGE-small.jpg",
-  //   imageSmallWebP: "/images/ostalo-u-ponudi/IMAGE-small.webp",
-  //   imageGMB: "/images/ostalo-u-ponudi/IMAGE-gmb.jpg",
+  //   imageBig: "/images/ostalo-u-ponudi/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/ostalo-u-ponudi/INPUTIMAGE.webp",
+  //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
   //   alt: "ALTTTTTTT",
   //   text: "DESCCCCCCC",
   //   httpaddress: "https://hrizantema.rs/single/ostalo/LINKKKKK",

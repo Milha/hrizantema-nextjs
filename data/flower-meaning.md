@@ -40,7 +40,9 @@ Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da s
 
 Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u pitanju gerberi, oni označavaju da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.
 
-##
+## Žuta ruža
+
+Žuta ruža je simbol prijateljstva koje izražava vašu podršku.
 
 ### Ruža
 
