@@ -1,3 +1,7 @@
+const categoryOstaloUPonudi = "?categroy=ostalo";
+const categoryVestacko = "?categroy=vestacko";
+const categoryStaklici = "?categroy=staklici";
+
 export const ostaloUPonudiData = [
   {
     sample: true,

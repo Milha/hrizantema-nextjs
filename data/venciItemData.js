@@ -1,3 +1,5 @@
+const categoryVenci = "?categroy=venci";
+
 export const venciItemData = [
   {
     sample: true,
@@ -22,11 +24,9 @@ export const venciItemData = [
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
     alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
     text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
-    httpaddress:
-      "https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-    link: "/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
-    sluglink:
-      "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2",
+    httpaddress: `https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2${categoryVenci}`,
+    link: `/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2${categoryVenci}`,
+    sluglink: `crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2${categoryVenci}`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-001",
   },
@@ -648,7 +648,7 @@ export const venciItemData = [
     test: [21, 22, 13],
     id: 24,
     title: "Beli orijental ~ beli gerber",
-    price: "NA.000",
+    price: "5.500",
     priceRange: "4.000 - 5.500",
     imageBig:
       "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac.jpg",
@@ -666,12 +666,11 @@ export const venciItemData = [
       "/images/venci/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac-mini.webp",
     alt: "Prirodni venac beli ljiljan carski ljiljan orijenta beli gerber zelenilo robelini",
     text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
-    httpaddress:
-      "https://hrizantema.rs/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
-    link: "/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac${categoryVenci}`,
     sluglink:
       "beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac",
-    availability: "https://schema.org/PreOrder",
+    availability: `https://schema.org/PreOrder${categoryVenci}`,
     prodId: "VE-024",
   },
   // {

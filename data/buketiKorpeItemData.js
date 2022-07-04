@@ -1,3 +1,6 @@
+const categoryBuketi = "?categroy=buketi";
+const categoryKorpe = "?categroy=korpe";
+
 export const buketiKorpeItemData = [
   {
     sample: true,
@@ -239,7 +242,7 @@ export const buketiKorpeItemData = [
     test: [8, 1, 3],
     id: 10,
     title: "Roze ljiljan",
-    price: "NA.000",
+    price: "2.000",
     priceRange: "2.000 - 3.500",
     imageBig: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa.webp",

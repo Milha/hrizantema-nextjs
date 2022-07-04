@@ -1,3 +1,5 @@
+const categorySuze = "?categroy=suze";
+
 export const suzeItemData = [
   {
     test: [7, 6, 4],
@@ -246,7 +248,7 @@ export const suzeItemData = [
     test: [8, 1, 3],
     id: 10,
     title: "Crvene ruža ~ bela gladiola",
-    price: "NA.000",
+    price: "1.700",
     priceRange: "1.000 - 2.500",
     imageBig: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.webp",

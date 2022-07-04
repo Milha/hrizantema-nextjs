@@ -253,7 +253,7 @@ export const rezanoItemData = [
     test: [1, 2, 3],
     id: 10,
     title: "Narandžasti gerber",
-    price: "200",
+    price: "150",
     priceRange: "100 - 300",
     imageBig:
       "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece.jpg",
