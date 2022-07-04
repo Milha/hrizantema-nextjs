@@ -25,6 +25,7 @@ export const ostaloUPonudiData = [
     availability: "https://schema.org/PreOrder",
     prodId: "OP-001",
   },
+
   {
     test: [4, 7, 8],
     id: 2,
