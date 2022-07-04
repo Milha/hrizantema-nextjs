@@ -14,7 +14,7 @@ export default function Lists({ inject }) {
     <>
       <HeadList
         data={inject}
-        addTitle="Ponuda Suza"
+        addTitle="Ponuda Dvostraničnih Suza"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-suze"
       />
       <article className={classes.cont}>
