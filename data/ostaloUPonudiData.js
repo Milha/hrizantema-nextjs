@@ -1,6 +1,8 @@
-const categoryOstaloUPonudi = "?category=ostalo";
-const categoryVestacko = "?category=vestacko";
-const categoryStaklici = "?category=staklici";
+const categorySchema = ["ostalo", "vestacko", "staklici"];
+
+const categoryOstaloUPonudi = `?category=${categorySchema[0]}`;
+const categoryVestacko = `?category=${categorySchema[1]}`;
+const categoryStaklici = `?category=${categorySchema[2]}`;
 
 export const ostaloUPonudiData = [
   {
@@ -24,6 +26,7 @@ export const ostaloUPonudiData = [
     sluglink: "kucica-za-svece-velika",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-001",
+    category: categorySchema[0],
   },
 
   {
@@ -54,6 +57,7 @@ export const ostaloUPonudiData = [
     sluglink: "roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-002",
+    category: categorySchema[1],
   },
   {
     sample: true,
@@ -76,6 +80,7 @@ export const ostaloUPonudiData = [
     sluglink: "krst-staklo-plave-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-003",
+    category: categorySchema[2],
   },
   {
     test: [16, 2, 12],
@@ -100,6 +105,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-suza-ljubicaste-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-004",
+    category: categorySchema[2],
   },
 
   {
@@ -130,6 +136,7 @@ export const ostaloUPonudiData = [
     sluglink: "bela-kala-ljubicasto-bele-ruzice-saksijsko-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-005",
+    category: categorySchema[1],
   },
   {
     test: [15, 11, 14],
@@ -158,6 +165,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-piramida-crvene-ruze-velika",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-006",
+    category: categorySchema[2],
   },
   {
     test: [3, 13, 12],
@@ -183,6 +191,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-srce-malo-crvene-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-007",
+    category: categorySchema[2],
   },
   {
     test: [4, 8, 1],
@@ -212,6 +221,7 @@ export const ostaloUPonudiData = [
     sluglink: "bele-orhideje-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-008",
+    category: categorySchema[1],
   },
 
   {
@@ -242,6 +252,7 @@ export const ostaloUPonudiData = [
     sluglink: "ljubicaste-roze-orhideje-vestacko-cvece-saksija",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-009",
+    category: categorySchema[1],
   },
 
   {
@@ -265,6 +276,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-krst-crvene-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-010",
+    category: categorySchema[2],
   },
 
   {
@@ -287,6 +299,7 @@ export const ostaloUPonudiData = [
     sluglink: "kucica-za-svece-mala",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-011",
+    category: categorySchema[0],
   },
 
   {
@@ -317,6 +330,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-piramida-velika-bele-ruze-crvene-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-012",
+    category: categorySchema[2],
   },
   {
     test: [3, 16, 6],
@@ -345,6 +359,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-suza-mala-bele-crvene-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-013",
+    category: categorySchema[2],
   },
   {
     test: [3, 6, 16],
@@ -370,6 +385,7 @@ export const ostaloUPonudiData = [
     sluglink: "srce-staklo-crveno-bele-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-014",
+    category: categorySchema[2],
   },
   {
     test: [11, 15, 5],
@@ -394,6 +410,7 @@ export const ostaloUPonudiData = [
     sluglink: "mala-piramida-crvene-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-015",
+    category: categorySchema[2],
   },
   {
     test: [11, 14, 5],
@@ -422,6 +439,7 @@ export const ostaloUPonudiData = [
     sluglink: "mala-piramida-ljubicaste-bele-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-016",
+    category: categorySchema[2],
   },
   {
     test: [6, 3, 5],
@@ -450,6 +468,7 @@ export const ostaloUPonudiData = [
     sluglink: "staklo-suza-ljubicaste-bele-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-017",
+    category: categorySchema[2],
   },
   {
     test: [20, 19, 18],
@@ -479,6 +498,7 @@ export const ostaloUPonudiData = [
     sluglink: "plava-orhideja-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-018",
+    category: categorySchema[1],
   },
   {
     test: [17, 20, 19],
@@ -508,6 +528,7 @@ export const ostaloUPonudiData = [
     sluglink: "crvene-ruzice-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-019",
+    category: categorySchema[1],
   },
   {
     test: [18, 17, 20],
@@ -537,6 +558,7 @@ export const ostaloUPonudiData = [
     sluglink: "ljubicasta-orhideja-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-020",
+    category: categorySchema[1],
   },
   {
     test: [17, 4, 19],
@@ -566,6 +588,7 @@ export const ostaloUPonudiData = [
     sluglink: "bela-kala-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-021",
+    category: categorySchema[1],
   },
 
   {
@@ -597,6 +620,7 @@ export const ostaloUPonudiData = [
     sluglink: "crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-022",
+    category: categorySchema[1],
   },
 
   {
@@ -626,6 +650,7 @@ export const ostaloUPonudiData = [
     sluglink: "zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-023",
+    category: categorySchema[1],
   },
   // {
   //   test: [1, 4, 8],

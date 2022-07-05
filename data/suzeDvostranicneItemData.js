@@ -1,4 +1,5 @@
-const categorySuze = "?category=suze";
+const categorySchema = "suze";
+const categorySuze = `?category=${categorySchema}`;
 
 export const suzeDvostranicneData = [
   {
@@ -29,6 +30,7 @@ export const suzeDvostranicneData = [
     sluglink: "bela-kala-beli-gerber-prirodna-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-001",
+    category: categorySchema,
   },
 
   {
@@ -59,6 +61,7 @@ export const suzeDvostranicneData = [
     sluglink: "bela-kala-bela-margareta-hrizantema-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-002",
+    category: categorySchema,
   },
 
   {
@@ -90,6 +93,7 @@ export const suzeDvostranicneData = [
       "beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-003",
+    category: categorySchema,
   },
   {
     test: [0, 1, 2],
@@ -119,6 +123,7 @@ export const suzeDvostranicneData = [
     sluglink: "bela-ruza-hrizantema-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-004",
+    category: categorySchema,
   },
 
   {
@@ -149,6 +154,7 @@ export const suzeDvostranicneData = [
     sluglink: "crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-005",
+    category: categorySchema,
   },
   {
     test: [3, 4, 1],
@@ -177,6 +183,7 @@ export const suzeDvostranicneData = [
     sluglink: "bela-ruza-bela-gladiola-prirodna-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-006",
+    category: categorySchema,
   },
   // {
   //   test: [0, 0, 0],
@@ -198,5 +205,6 @@ export const suzeDvostranicneData = [
   //   sluglink: "INPUTLINK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "DS-111",
+  //   category: categorySchema,
   // },
 ];

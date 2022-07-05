@@ -10,7 +10,7 @@ function ArrowToTop({ top }) {
   // console.log(path, "From Route Arrow Top");
   return (
     <div className={classes.cont}>
-      <Link href={path}>
+      <Link href={path} passHref>
         <div className={classes.icon_cont}>
           <ChevronDoubleUp />
         </div>

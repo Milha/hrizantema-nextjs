@@ -1,4 +1,5 @@
-const categorySuze = "?category=suze";
+const categorySchema = "suze";
+const categorySuze = `?category=${categorySchema}`;
 
 export const suzeItemData = [
   {
@@ -28,6 +29,7 @@ export const suzeItemData = [
     sluglink: "roze-carski-ljiljan-orijental-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-001",
+    category: categorySchema,
   },
   {
     sample: true,
@@ -50,6 +52,7 @@ export const suzeItemData = [
     sluglink: "crvena-ruza-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-002",
+    category: categorySchema,
   },
   {
     sample: true,
@@ -80,6 +83,7 @@ export const suzeItemData = [
     sluglink: "bela-margareta-hrizantema-crveni-gerber-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-003",
+    category: categorySchema,
   },
   {
     sample: true,
@@ -107,6 +111,7 @@ export const suzeItemData = [
     sluglink: "beli-ljiljan-crveni-gerber-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-004",
+    category: categorySchema,
   },
 
   {
@@ -137,6 +142,7 @@ export const suzeItemData = [
     sluglink: "beli-ljiljan--bela-hrizantema-margareta-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-005",
+    category: categorySchema,
   },
   {
     test: [0, 7, 5],
@@ -166,6 +172,7 @@ export const suzeItemData = [
     sluglink: "roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-006",
+    category: categorySchema,
   },
 
   {
@@ -188,6 +195,7 @@ export const suzeItemData = [
     sluglink: "beli-gerber-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-007",
+    category: categorySchema,
   },
 
   {
@@ -218,6 +226,7 @@ export const suzeItemData = [
     sluglink: "beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-008",
+    category: categorySchema,
   },
 
   {
@@ -242,6 +251,7 @@ export const suzeItemData = [
     sluglink: "bela-ruza-roze-gerber-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-009",
+    category: categorySchema,
   },
 
   {
@@ -267,6 +277,7 @@ export const suzeItemData = [
     sluglink: "crvena-ruza-bela-gladiola-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "SU-010",
+    category: categorySchema,
   },
 
   // {
@@ -285,6 +296,7 @@ export const suzeItemData = [
   //   link: `/single/suza/INPUTLINK${categorySuze}`,
   //   sluglink: "INPUTLINK",
   //   prodId: "SU-005",
+  //   category: categorySchema,
   // },
 
   // {

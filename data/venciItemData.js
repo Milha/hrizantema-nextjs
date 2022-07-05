@@ -1,4 +1,5 @@
-const categoryVenci = "?category=venci";
+const categorySchema = "venci";
+const categoryVenci = `?category=${categorySchema}`;
 
 export const venciItemData = [
   {
@@ -29,6 +30,7 @@ export const venciItemData = [
     sluglink: `crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2${categoryVenci}`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-001",
+    category: categorySchema,
   },
   {
     test: [20, 13, 19],
@@ -59,6 +61,7 @@ export const venciItemData = [
       "beli-ljiljan-bele-ruze-crveni-gerber-bela-margareta-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-002",
+    category: categorySchema,
   },
   {
     test: [5, 8, 15],
@@ -89,6 +92,7 @@ export const venciItemData = [
       "beli-carski-ljiljan-bela-ruza-bela-kala-beli-gerber-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-003",
+    category: categorySchema,
   },
   {
     sample: true,
@@ -112,6 +116,7 @@ export const venciItemData = [
     sluglink: "ruza-crvena-oblik-srce-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-004",
+    category: categorySchema,
   },
 
   {
@@ -139,6 +144,7 @@ export const venciItemData = [
     sluglink: "beli-ljiljan-roze-gerber-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-005",
+    category: categorySchema,
   },
 
   {
@@ -169,6 +175,7 @@ export const venciItemData = [
     sluglink: "roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-006",
+    category: categorySchema,
   },
   {
     test: [19, 3, 13],
@@ -191,6 +198,7 @@ export const venciItemData = [
     sluglink: "gerber-crveni-oblik-srce-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-007",
+    category: categorySchema,
   },
   {
     test: [6, 9, 2],
@@ -216,6 +224,7 @@ export const venciItemData = [
     sluglink: "bele-kale-crveni-gerber-prirodni-venac-gmb",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-008",
+    category: categorySchema,
   },
   {
     test: [0, 1, 18],
@@ -238,6 +247,7 @@ export const venciItemData = [
     sluglink: "bela-ruza-beli-gerber-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-009",
+    category: categorySchema,
   },
   {
     test: [19, 13, 6],
@@ -263,6 +273,7 @@ export const venciItemData = [
     sluglink: "zuti-gerber-beli-gerber-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-010",
+    category: categorySchema,
   },
   {
     test: [13, 1, 4],
@@ -290,6 +301,7 @@ export const venciItemData = [
     sluglink: "orijental-ruza-crvena-gerber-crveni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-011",
+    category: categorySchema,
   },
 
   {
@@ -320,6 +332,7 @@ export const venciItemData = [
     sluglink: "crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-012",
+    category: categorySchema,
   },
 
   {
@@ -345,6 +358,7 @@ export const venciItemData = [
     sluglink: "gerber-crveni-gladiole-crvene-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-013",
+    category: categorySchema,
   },
   {
     test: [10, 1, 4],
@@ -374,6 +388,7 @@ export const venciItemData = [
     sluglink: "roze-carski-ljiljan-crveni-gerber-bela-margareta-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-014",
+    category: categorySchema,
   },
   {
     test: [0, 6, 19],
@@ -402,6 +417,7 @@ export const venciItemData = [
     sluglink: "crveni-gerber-bela-gipsofila-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-015",
+    category: categorySchema,
   },
   {
     test: [1, 13, 16],
@@ -432,6 +448,7 @@ export const venciItemData = [
       "roze-orijental-carski-ljiljan-bele-ruze-bele-margarete-hrizanteme-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-016",
+    category: categorySchema,
   },
   {
     test: [3, 15, 1],
@@ -462,6 +479,7 @@ export const venciItemData = [
       "beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-017",
+    category: categorySchema,
   },
   {
     test: [16, 0, 1],
@@ -492,6 +510,7 @@ export const venciItemData = [
       "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-1",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-018",
+    category: categorySchema,
   },
   {
     test: [16, 5, 8],
@@ -522,6 +541,7 @@ export const venciItemData = [
       "bele-ruze-ljubicaste-margarete-hrizanteme-gipsofila-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-019",
+    category: categorySchema,
   },
   {
     test: [0, 6, 14],
@@ -551,6 +571,7 @@ export const venciItemData = [
     sluglink: "beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-020",
+    category: categorySchema,
   },
   {
     test: [15, 1, 8],
@@ -581,6 +602,7 @@ export const venciItemData = [
       "crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-021",
+    category: categorySchema,
   },
 
   {
@@ -610,6 +632,7 @@ export const venciItemData = [
     sluglink: `srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-022",
+    category: categorySchema,
   },
 
   {
@@ -640,6 +663,7 @@ export const venciItemData = [
     sluglink: `bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-023",
+    category: categorySchema,
   },
 
   {
@@ -669,8 +693,9 @@ export const venciItemData = [
     sluglink: `beli-carski-ljiljan-orijental-beli-gerber-robelini-prirodni-venac`,
     availability: "https://schema.org/PreOrder",
     prodId: "VE-024",
+    category: categorySchema,
   },
-  
+
   // {
   //   test: [15, 1, 8],
   //   id: 1,
@@ -691,6 +716,7 @@ export const venciItemData = [
   //   sluglink: "INPUTLINKKKK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "VE-001",
+  //   category: categorySchema,
   // },
 
   // {

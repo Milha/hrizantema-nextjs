@@ -14,7 +14,8 @@ export default function HeadSingle({ data }) {
     image: data.imageBig,
     description: data.text,
     name: data.title,
-    category: "rezano cveće",
+    category: data.category,
+    // category: data.category ? data.category : "/",
     offers: {
       "@type": "Offer",
       price: data.price,
@@ -25,7 +26,7 @@ export default function HeadSingle({ data }) {
     url: data.httpaddress,
   };
 
-  // console.log(data);
+  // console.log(data, "From Head");
   return (
     <Head>
       {/* TITLE */}

@@ -27,6 +27,7 @@ export const rezanoItemData = [
     sluglink: "crvena-ruza-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-001",
+    category: categorySchema,
   },
   {
     test: [0, 5, 4],
@@ -51,6 +52,7 @@ export const rezanoItemData = [
     sluglink: "bela-ruza-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-002",
+    category: categorySchema,
   },
   {
     test: [5, 6, 1],
@@ -77,6 +79,7 @@ export const rezanoItemData = [
     sluglink: "beli-ljiljan-rezani-komadni-cvet",
     availability: "https://schema.org/InStock",
     prodId: "KO-003",
+    category: categorySchema,
   },
   {
     test: [2, 1, 5],
@@ -105,6 +108,7 @@ export const rezanoItemData = [
     sluglink: "bela-margareta-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-004",
+    category: categorySchema,
   },
 
   {
@@ -134,6 +138,7 @@ export const rezanoItemData = [
     sluglink: "crimson-gerber-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-005",
+    category: categorySchema,
   },
   {
     test: [1, 2, 3],
@@ -158,6 +163,7 @@ export const rezanoItemData = [
     sluglink: "bela-kala-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-006",
+    category: categorySchema,
   },
 
   {
@@ -189,6 +195,7 @@ export const rezanoItemData = [
     sluglink: "roze-carski-ljiljan-orijental-rezani-komadni-cvet",
     availability: "https://schema.org/InStock",
     prodId: "KO-007",
+    category: categorySchema,
   },
 
   {
@@ -220,6 +227,7 @@ export const rezanoItemData = [
     sluglink: "narandzasti-ljiljan-orijental-carski-ljiljan-rezan-komadni-cvet",
     availability: "https://schema.org/InStock",
     prodId: "KO-008",
+    category: categorySchema,
   },
 
   {
@@ -250,6 +258,7 @@ export const rezanoItemData = [
     sluglink: "beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-009",
+    category: categorySchema,
   },
 
   {
@@ -279,6 +288,7 @@ export const rezanoItemData = [
     sluglink: "narandzasti-gerber-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-010",
+    category: categorySchema,
   },
 
   // {
@@ -301,6 +311,7 @@ export const rezanoItemData = [
   //   sluglink: "LINKINPUT",
   //   availability: "https://schema.org/InStock",
   //   prodId: "KO-001",
+  //   category: categorySchema,
   // },
 
   // {
