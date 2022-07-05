@@ -1,4 +1,5 @@
-const categoryRezano = "?category=rezano";
+const categorySchema = "rezano";
+const categoryRezano = `?category=${categorySchema}`;
 
 export const rezanoItemData = [
   {
