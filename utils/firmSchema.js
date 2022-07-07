@@ -7,7 +7,7 @@ export const firmSchema = {
     "https://hrizantema.rs/imgs/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.jpg",
   ],
   currenciesAccepted: ["USD", "EUR", "RSD"],
-  openingHours: "Mo-Su 07:00-19:00",
+  openingHours: "Mo-Su 07:00-16:00",
   address: {
     "@type": "PostalAddress",
     postalCode: "11000",

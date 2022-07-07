@@ -31,7 +31,7 @@ export default function Contact() {
             telefonom.
           </p>
           <p>Radno vreme:</p>
-          <p>ponedeljak - nedelja: 07:00 - 19:00</p>
+          <p>ponedeljak - nedelja: 07:00 - 16:00</p>
         </div>
         <div className={classes.contact_item}>
           <div className={classes.map_big}>
