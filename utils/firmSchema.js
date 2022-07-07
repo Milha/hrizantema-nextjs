@@ -2,9 +2,9 @@ export const firmSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   image: [
-    "https://hrizantema.rs/imgs/hrizantema-cvecara-gmb.jpg",
-    "https://hrizantema.rs/imgs/vestacko007.jpg",
-    "https://hrizantema.rs/imgs/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.jpg",
+    "https://hrizantema.rs/images/aside/hrizantema-cvecara-gmb.jpg",
+    "https://hrizantema.rs/images/venci/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac.jpg",
+    "https://hrizantema.rs/images/venci/ruza-crvena-oblik-srce-venac.jpg",
   ],
   currenciesAccepted: ["USD", "EUR", "RSD"],
   openingHours: "Mo-Su 07:00-16:00",
