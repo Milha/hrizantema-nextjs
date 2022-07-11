@@ -261,6 +261,35 @@ export const buketiKorpeItemData = [
     prodId: "BU-011",
   },
 
+  {
+    test: [9, 8, 3],
+    id: 11,
+    title: "Beli ljiljan ~ crvena ruža",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa-mini.webp",
+    alt: "Korpa od prirodnog cveca beli ljiljan crvena ruza",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. U pogrebnom okruženju, crvene ruže simbolizuju ljubav i tugu.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/beli-ljiljan-crvena-ruza-prirodna-korpa${categoryKorpe}`,
+    link: `/single/buket-korpa/beli-ljiljan-crvena-ruza-prirodna-korpa${categoryKorpe}`,
+    sluglink: "beli-ljiljan-crvena-ruza-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-011",
+  },
+
   // {
   //   test: [5, 2, 3],
   //   id: 6,

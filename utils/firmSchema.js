@@ -7,7 +7,7 @@ export const firmSchema = {
     "https://hrizantema.rs/images/venci/ruza-crvena-oblik-srce-venac.jpg",
   ],
   currenciesAccepted: ["USD", "EUR", "RSD"],
-  openingHours: "Mo-Su 07:00-16:00",
+  openingHours: "Mo-Su 07:00-19:00",
   address: {
     "@type": "PostalAddress",
     postalCode: "11000",

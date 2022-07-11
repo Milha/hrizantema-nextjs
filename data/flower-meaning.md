@@ -68,6 +68,8 @@ Hrizanteme se vide kao simbol istine.
 
 Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.
 
+Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje aranžman govori mnogo o vašim osećanjima prema osobi koja je preminula.
+
 ### Crvena
 
 Crveni cvetovi označavaju snagu, poštovanje, predanost i ljubav.
