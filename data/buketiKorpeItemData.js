@@ -1,5 +1,6 @@
-const categoryBuketi = "?category=buketi";
-const categoryKorpe = "?category=korpe";
+const categorySchema = ["korpe", "buketi"];
+const categoryKorpe = `?category=${categorySchema[0]}`;
+const categoryBuketi = `?category=${categorySchema[1]}`;
 
 export const buketiKorpeItemData = [
   {
@@ -24,6 +25,7 @@ export const buketiKorpeItemData = [
     sluglink: "buket-crvene-ruze-perlice",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-001",
+    category: categorySchema[1],
   },
   {
     test: [4, 0, 6],
@@ -46,6 +48,7 @@ export const buketiKorpeItemData = [
     sluglink: "buket-orijental-bele-ruze",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-002",
+    category: categorySchema[1],
   },
   {
     test: [7, 3, 5],
@@ -74,6 +77,7 @@ export const buketiKorpeItemData = [
     sluglink: "crveni-crimson-gerber-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-003",
+    category: categorySchema[0],
   },
   {
     test: [5, 7, 2],
@@ -103,6 +107,7 @@ export const buketiKorpeItemData = [
     sluglink: "ljiljan-beli-bele-margarete-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-004",
+    category: categorySchema[0],
   },
 
   {
@@ -133,6 +138,7 @@ export const buketiKorpeItemData = [
     sluglink: "beli-ljiljan-bele-ruze-prirodni-buket",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-005",
+    category: categorySchema[1],
   },
 
   {
@@ -156,6 +162,7 @@ export const buketiKorpeItemData = [
     sluglink: "kale-bele-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-006",
+    category: categorySchema[0],
   },
   {
     test: [1, 4, 3],
@@ -179,6 +186,7 @@ export const buketiKorpeItemData = [
     sluglink: "buketi-orijental-roze-beli",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-007",
+    category: categorySchema[1],
   },
   {
     test: [5, 2, 3],
@@ -205,6 +213,7 @@ export const buketiKorpeItemData = [
     sluglink: "gerber-svetlo-roze-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-008",
+    category: categorySchema[0],
   },
 
   {
@@ -236,6 +245,7 @@ export const buketiKorpeItemData = [
     sluglink: "crveni-lljiljan-bela-ruza-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-009",
+    category: categorySchema[0],
   },
 
   {
@@ -259,6 +269,7 @@ export const buketiKorpeItemData = [
     sluglink: "roze-ljiljan-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-011",
+    category: categorySchema[0],
   },
 
   {
@@ -288,6 +299,7 @@ export const buketiKorpeItemData = [
     sluglink: "beli-ljiljan-crvena-ruza-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-011",
+    category: categorySchema[0],
   },
 
   // {
