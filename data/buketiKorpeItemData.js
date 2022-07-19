@@ -302,27 +302,34 @@ export const buketiKorpeItemData = [
     category: categorySchema[0],
   },
 
-  // {
-  //   test: [5, 2, 3],
-  //   id: 6,
-  //   title: "TITLE",
-  //   price: "NA.000",
-  //   priceRange: "2.000 - 3.500",
-  //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
-  //   imageMini: "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
-  //   imageMiniWebP: "/images/buketi-korpe/INPUTIMAGE-mini.webp",
-  //   alt: "Korpa od prirodnog cveca ALTTTT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: `https://hrizantema.rs/single/buket-korpa/INPUTLINK${categoryKorpe}`,
-  //   link: `/single/buket-korpa/INPUTLINK${categoryKorpe}`,
-  //   sluglink: "INPUTLINK",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "BU-006",
-  // },
+  {
+    test: [9, 10, 3],
+    id: 12,
+    title: "Roze ljiljan ~ bela kala",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    imageBig:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa-mini.webp",
+    alt: "Korpa od prirodnog cveca roze liljani bele kale zelenilo ukrasne trake",
+    text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa${categoryKorpe}`,
+    link: `/single/buket-korpa/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa${categoryKorpe}`,
+    sluglink: "roze-ljiljan-bela-kala-gipsofila-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-012",
+  },
 
   // {
   //   id: 6,

@@ -32,9 +32,9 @@ Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično kori
 
 Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
 
-## Pink ljiljan
+## Roze ljiljan
 
-Ružičasta boja je stoji kao simbol ženstvenosti, ljubavi, obožavanja i divljenja. Pink ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
+Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
 
 ## Ljubičasti gerberi
 
