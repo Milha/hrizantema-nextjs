@@ -36,6 +36,8 @@ export const firmSchema = {
     latitude: "44.709651100497574",
     longitude: "20.412431569495617",
   },
+  hasMap:
+    "https://www.google.com/maps/place/Hrizantema+Cve%C4%87ara+Orlova%C4%8Da/@44.7158874,20.4169648,14.71z/data=!4m5!3m4!1s0x0:0xbf13ca7f0a30e621!8m2!3d44.7095133!4d20.4124528",
   name: "Hrizantema",
   url: "https://hrizantema.rs",
   telephone: "+381692050441",
