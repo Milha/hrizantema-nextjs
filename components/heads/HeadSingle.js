@@ -15,18 +15,20 @@ export default function HeadSingle({ data }) {
     description: data.text,
     name: data.title,
     category: data.category,
+    material: data.includes,
     // category: data.category ? data.category : "/",
     offers: {
       "@type": "Offer",
       price: data.price,
       priceCurrency: "RSD",
+      priceValidUntil: "2023-11-20",
       url: data.httpaddress,
       availability: data.availability,
     },
     url: data.httpaddress,
   };
 
-  // console.log(data, "From Head");
+  // console.log(data.includes, "From Head");
   return (
     <Head>
       {/* TITLE */}
