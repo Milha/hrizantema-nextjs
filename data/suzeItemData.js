@@ -8,6 +8,7 @@ export const suzeItemData = [
     title: "Ljiljan orijental - carski ljiljan",
     price: "2.400",
     priceRange: "2.000 - 3.000",
+    includes: ["ljiljane orijentale", "gipsofila", "lovor", "robelini"],
     imageBig: "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.jpg",
     imageBigWebP:
       "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.webp",
@@ -38,6 +39,7 @@ export const suzeItemData = [
     title: "Crvena ruža",
     price: "2.500",
     priceRange: "2.000 - 3.000",
+    includes: ["ruže", "gipsofila"],
     imageBig: "/images/suze/crvena-ruza-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-prirodna-suza.webp",
     imageSmall: "/images/suze/crvena-ruza-prirodna-suza-small.jpg",
@@ -61,6 +63,7 @@ export const suzeItemData = [
     title: "Margareta gerber",
     price: "2.500",
     priceRange: "2.000 - 3.000",
+    includes: ["margarete", "gerbere", "gipsofila"],
     imageBig:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP:
@@ -92,6 +95,7 @@ export const suzeItemData = [
     title: "Beli ljiljan ~ crveni gerber",
     price: "2.500",
     priceRange: "2.000 - 4.000",
+    includes: ["ljiljane", "gerbere", "gipsofila"],
     imageBig: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.webp",
     imageSmall:
@@ -120,6 +124,7 @@ export const suzeItemData = [
     title: "Beli ljiljan ~ margareta",
     price: "2.500",
     priceRange: "1.000 - 2.500",
+    includes: ["ljiljane", "margarete"],
     imageBig:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.jpg",
     imageBigWebP:
@@ -150,6 +155,7 @@ export const suzeItemData = [
     title: "Ljiljan orijental gerber",
     price: "2.500",
     priceRange: "1.000 - 2.500",
+    includes: ["ljiljane orijentale", "gerbere", "mrežicu", "robelini"],
     imageBig:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.jpg",
     imageBigWebP:
@@ -181,6 +187,7 @@ export const suzeItemData = [
     title: "Beli gerber",
     price: "1.500",
     priceRange: "1.000 - 2.500",
+    includes: ["gerbere"],
     imageBig: "/images/suze/beli-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-gerber-prirodna-suza.webp",
     imageSmall: "/images/suze/beli-gerber-prirodna-suza-small.jpg",
@@ -204,6 +211,7 @@ export const suzeItemData = [
     title: "Ljiljan ~ margareta ~ gerber",
     price: "3.000",
     priceRange: "2.000 - 3.000",
+    includes: ["ljiljane", "gerbere", "margarete", "gipsofila", "robelini"],
     imageBig:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP:
@@ -235,6 +243,7 @@ export const suzeItemData = [
     title: "Bela ruža ~ roze gerber",
     price: "2.500",
     priceRange: "2.000 - 3.500",
+    includes: ["ruže", "gerbere", "gipsofila", "robelini"],
     imageBig: "/images/suze/bela-ruza-roze-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/bela-ruza-roze-gerber-prirodna-suza.webp",
     imageSmall: "/images/suze/bela-ruza-roze-gerber-prirodna-suza-small.jpg",
@@ -260,6 +269,7 @@ export const suzeItemData = [
     title: "Crvene ruža ~ bela gladiola",
     price: "1.700",
     priceRange: "1.000 - 2.500",
+    includes: ["ruže", "gladiole", "gipsofila", "robelini"],
     imageBig: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.webp",
     imageSmall:
@@ -285,6 +295,7 @@ export const suzeItemData = [
   //   title: "TITLE",
   //   price: "2.000",
   //   priceRange: "1.000 - 2.500",
+  //   includes: [],
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
   //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
@@ -297,24 +308,6 @@ export const suzeItemData = [
   //   sluglink: "INPUTLINK",
   //   prodId: "SU-005",
   //   category: categorySchema,
-  // },
-
-  // {
-  //   id: 5,
-  //   title: "TITLE",
-  //   price: "2.000",
-  //   priceRange: "1.000 - 2.500",
-  //   imageBig: "/images/suze/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
-  //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
-  //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
-  //   alt: "ALT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/suza/INPUTLINK",
-  //   link: "/single/suza/INPUTLINK",
-  //   sluglink: "INPUTLINK",
-  //   prodId: "SU-005",
   // },
 
   // {

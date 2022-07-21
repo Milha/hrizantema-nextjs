@@ -12,6 +12,7 @@ export const ostaloUPonudiData = [
     title: "Velika kućica za paljenje sveće",
     price: "2.500",
     priceRange: "1.800 - 2.200",
+    includes: null,
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-velika.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika.webp",
     imageSmall: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
@@ -35,6 +36,7 @@ export const ostaloUPonudiData = [
     title: "Roze ljiljan ruže saksija",
     price: "3.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ljiljane orijentale", "veštački robelini"],
     imageBig:
       "/images/ostalo-u-ponudi/roze-ljiljan-belo-roze-ruze-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -66,6 +68,7 @@ export const ostaloUPonudiData = [
     title: "Krst od stakla mali - plave ruže",
     price: "1.500",
     priceRange: "1.000 - 2.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze.webp",
     imageSmall: "/images/ostalo-u-ponudi/krst-staklo-plave-ruze-small.jpg",
@@ -88,6 +91,7 @@ export const ostaloUPonudiData = [
     title: "Suza od stakla ljubičaste ruže",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze.webp",
     imageSmall: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-ruze-small.jpg",
@@ -114,6 +118,7 @@ export const ostaloUPonudiData = [
     title: "Bela kala ~ ružice ~ saksija",
     price: "3.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke kale", "veštačke ruže", "veštački robelini"],
     imageBig:
       "/images/ostalo-u-ponudi/bela-kala-ljubicasto-bele-ruzice-saksijsko-gips.jpg",
     imageBigWebP:
@@ -144,6 +149,7 @@ export const ostaloUPonudiData = [
     title: "Velika piramida od stakla - crvene ruže",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-piramida-crvene-ruze-velika.webp",
@@ -173,6 +179,7 @@ export const ostaloUPonudiData = [
     title: "Srce srednje staklo crvene ruže",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/staklo-srce-malo-crvene-ruze.webp",
     imageSmall:
@@ -199,6 +206,7 @@ export const ostaloUPonudiData = [
     title: "Bele orhideje",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke orhideje"],
     imageBig:
       "/images/ostalo-u-ponudi/bele-orhideje-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -230,6 +238,7 @@ export const ostaloUPonudiData = [
     title: "Roze orhideje",
     price: "2.500",
     priceRange: "2.000 - 3.000",
+    includes: ["veštačke orhideje"],
     imageBig:
       "/images/ostalo-u-ponudi/ljubicaste-roze-orhideje-vestacko-cvece-saksija.jpg",
     imageBigWebP:
@@ -261,6 +270,7 @@ export const ostaloUPonudiData = [
     title: "Krst staklo crvene ruže",
     price: "2.000",
     priceRange: "2.000 - 4.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze.webp",
     imageSmall: "/images/ostalo-u-ponudi/staklo-krst-crvene-ruze-small.jpg",
@@ -285,6 +295,7 @@ export const ostaloUPonudiData = [
     title: "Srednja kućica za sveće",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: null,
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-mala.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala.webp",
     imageSmall: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
@@ -308,6 +319,7 @@ export const ostaloUPonudiData = [
     title: "Piramida velika staklo crvene i bele ruže",
     price: "2.500",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig:
       "/images/ostalo-u-ponudi/staklo-piramida-velika-bele-ruze-crvene-ruze.jpg",
     imageBigWebP:
@@ -338,6 +350,7 @@ export const ostaloUPonudiData = [
     title: "Suza od stakla ljubičaste i bele ruže",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-suza-mala-bele-crvene-ruze.webp",
@@ -367,6 +380,7 @@ export const ostaloUPonudiData = [
     title: "Srce staklo crvene bele ruže",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/srce-staklo-crveno-bele-ruze.webp",
     imageSmall:
@@ -393,6 +407,7 @@ export const ostaloUPonudiData = [
     title: "Piramida crvene ruže - mala",
     price: "1.500",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze.jpg",
     imageBigWebP: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze.webp",
     imageSmall: "/images/ostalo-u-ponudi/mala-piramida-crvene-ruze-small.jpg",
@@ -418,6 +433,7 @@ export const ostaloUPonudiData = [
     title: "Staklo piramida ljubičaste i bele ruže",
     price: "1.500",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/mala-piramida-ljubicaste-bele-ruze.webp",
@@ -447,6 +463,7 @@ export const ostaloUPonudiData = [
     title: "Suza od stakla ljubičaste i bele ruže",
     price: "1.800",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ruže"],
     imageBig: "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze.jpg",
     imageBigWebP:
       "/images/ostalo-u-ponudi/staklo-suza-ljubicaste-bele-ruze.webp",
@@ -475,7 +492,8 @@ export const ostaloUPonudiData = [
     id: 18,
     title: "Plave orhideje - veštačko",
     price: "1000",
-    priceRange: "200 - 400",
+    priceRange: "800 - 1200",
+    includes: ["veštačke orhideje"],
     imageBig:
       "/images/ostalo-u-ponudi/plava-orhideja-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -505,7 +523,8 @@ export const ostaloUPonudiData = [
     id: 19,
     title: "Crvene ružice - veštačko",
     price: "1.000",
-    priceRange: "200 - 400",
+    priceRange: "800 - 1400",
+    includes: ["veštačke ruže"],
     imageBig:
       "/images/ostalo-u-ponudi/crvene-ruzice-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -535,7 +554,8 @@ export const ostaloUPonudiData = [
     id: 20,
     title: "Roze orhideje - veštačko",
     price: "2.000",
-    priceRange: "200 - 400",
+    priceRange: "1200 - 2400",
+    includes: ["veštačke orhideje"],
     imageBig:
       "/images/ostalo-u-ponudi/ljubicasta-orhideja-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -565,7 +585,8 @@ export const ostaloUPonudiData = [
     id: 21,
     title: "Bele kale - veštačko",
     price: "1.500",
-    priceRange: "200 - 400",
+    priceRange: "1.200 - 2.400",
+    includes: ["veštačke kale", "veštačke ruže"],
     imageBig:
       "/images/ostalo-u-ponudi/bela-kala-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -598,6 +619,7 @@ export const ostaloUPonudiData = [
     title: "Crveni ljilja veštačko gips",
     price: "2.000",
     priceRange: "1.000 - 3.000",
+    includes: ["veštačke ljiljane", "veštačke ruže", "veštački robelini"],
     imageBig:
       "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips.jpg",
     imageBigWebP:
@@ -629,6 +651,7 @@ export const ostaloUPonudiData = [
     title: "Žuta ruža ~ žute ružice",
     price: "1.500",
     priceRange: "1.000 - 3.500",
+    includes: ["veštačke ruže"],
     imageBig:
       "/images/ostalo-u-ponudi/zuta-ruza-zute-ruzice-vestacko-cvece-saksija-gips.jpg",
     imageBigWebP:
@@ -658,6 +681,7 @@ export const ostaloUPonudiData = [
   //   title: "TITLE",
   //   price: "NA.000",
   //   priceRange: "4.000 - 5.500",
+  //   includes: [],
   //   imageBig: "/images/ostalo-u-ponudi/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/ostalo-u-ponudi/INPUTIMAGE.webp",
   //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
@@ -670,34 +694,6 @@ export const ostaloUPonudiData = [
   //   sluglink: "LINKKKKK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "OP-111",
-  // },
-
-  // {
-  //   id: 2,
-  //   title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ponuda suza prirodne dvostranicne vestacke",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
-  // {
-  //   id: 3,
-  //   title: "Ostalo u poundi",
-  //   price: "4.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
   // },
 
   // {

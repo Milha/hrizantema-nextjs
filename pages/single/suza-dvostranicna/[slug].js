@@ -7,7 +7,8 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 import { dvostranicneSuzeSetData } from "../../../utils/similarsFinder";
 
 export default function Slug({ pageItems }) {
-  // console.log(pageItems);
+  // console.log(pageItems, "From single / suza dvostranicna");
+  // console.log(pageItems.includes, "From single / suza dvostranicna");
   return (
     <>
       <HeadSingle data={pageItems} />

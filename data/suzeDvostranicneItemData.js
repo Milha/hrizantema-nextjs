@@ -8,6 +8,7 @@ export const suzeDvostranicneData = [
     title: "Kala ~ beli gerber",
     price: "4.500",
     priceRange: "2.500 - 4.000",
+    includes: ["kale", "gerber", "gipsofila"],
     imageBig:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -39,6 +40,7 @@ export const suzeDvostranicneData = [
     title: "Bela kala ~ bela margareta",
     price: "4.000",
     priceRange: "3.000 - 4.500",
+    includes: ["kale", "margarete", "lovor"],
     imageBig:
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -70,6 +72,7 @@ export const suzeDvostranicneData = [
     title: "Beli ljiljan ~ crvena ruža",
     price: "4.500",
     priceRange: "3.000 - 5.500",
+    includes: ["ljiljane", "ruže", "lovor", "mahooniju"],
     imageBig:
       "/images/suza-dvostranicna/beli-ljiljan-crvena-ruza-bela-margareta-hrizantema-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -101,6 +104,7 @@ export const suzeDvostranicneData = [
     title: "Bela ruža ~ mahonija",
     price: "5.000",
     priceRange: "4.000 - 6.500",
+    includes: ["ruže", "mahonija"],
     imageBig:
       "/images/suza-dvostranicna/bela-ruza-hrizantema-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -132,6 +136,7 @@ export const suzeDvostranicneData = [
     title: "Beli ljiljan ~ crvene ruže",
     price: "5.500",
     priceRange: "4.000 - 6.500",
+    includes: ["ruže", "ljiljane", "gipsofila", "lovor"],
     imageBig:
       "/images/suza-dvostranicna/crvena-ruza-beli-ljjiljan-prirodna-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -162,6 +167,7 @@ export const suzeDvostranicneData = [
     title: "Bela ruža ~ bela gladiola",
     price: "3.800",
     priceRange: "1.000 - 2.500",
+    includes: ["ruže", "gladiole", "lovor", "robelini"],
     imageBig:
       "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza.jpg",
     imageBigWebP:
@@ -191,6 +197,7 @@ export const suzeDvostranicneData = [
   //   title: "TITLE",
   //   price: "NA.000",
   //   priceRange: "1.000 - 2.500",
+  //   includes: [],
   //   imageBig: "/images/suza-dvostranicna/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suza-dvostranicna/INPUTIMAGE.webp",
   //   imageSmall: "/images/suza-dvostranicna/INPUTIMAGE-small.jpg",

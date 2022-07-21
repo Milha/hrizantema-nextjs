@@ -1,0 +1,28 @@
+@import "../../../styles/colors.module.scss";
+
+.include_cont {
+  //   background-color: gray;
+  display: flex;
+  justify-content: left;
+  color: $color-main-dark-green-800;
+  margin-bottom: 1rem;
+
+  p {
+    margin: 0;
+  }
+
+  .include_items {
+    // background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: auto 1rem;
+    text-align: center;
+  }
+
+  .include_items p {
+    // background-color: green;
+    margin: 0;
+  }
+}

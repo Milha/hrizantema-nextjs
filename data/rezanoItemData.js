@@ -9,6 +9,7 @@ export const rezanoItemData = [
     title: "Crvena ruža",
     price: "200",
     priceRange: "200 - 400",
+    includes: null,
     imageBig: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.webp",
     imageSmall: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
@@ -35,6 +36,7 @@ export const rezanoItemData = [
     title: "Bela ruža",
     price: "200",
     priceRange: "200 - 400",
+    includes: null,
     imageBig: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.webp",
     imageSmall: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece-small.jpg",
@@ -60,6 +62,7 @@ export const rezanoItemData = [
     title: "Beli ljiljan",
     price: "400",
     priceRange: "300 - 500",
+    includes: null,
     imageBig: "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet.jpg",
     imageBigWebP: "/images/rezano-cvece/beli-ljiljan-rezani-komadni-cvet.webp",
     imageSmall:
@@ -87,6 +90,7 @@ export const rezanoItemData = [
     title: "Bela margareta",
     price: "250",
     priceRange: "200 - 300",
+    includes: null,
     imageBig: "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.jpg",
     imageBigWebP:
       "/images/rezano-cvece/bela-margareta-rezano-komadno-cvece.webp",
@@ -117,6 +121,7 @@ export const rezanoItemData = [
     title: "Crimson gerber",
     price: "150",
     priceRange: "100 - 200",
+    includes: null,
     imageBig: "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.jpg",
     imageBigWebP:
       "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.webp",
@@ -146,6 +151,7 @@ export const rezanoItemData = [
     title: "Kala",
     price: "150",
     priceRange: "100 - 300",
+    includes: null,
     imageBig: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.webp",
     imageSmall: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece-small.jpg",
@@ -173,6 +179,7 @@ export const rezanoItemData = [
     title: "Ljubičasti carski ljiljan orijental",
     price: "800",
     priceRange: "500 - 900",
+    includes: null,
     imageBig:
       "/images/rezano-cvece/roze-carski-ljiljan-orijental-rezani-komadni-cvet.jpg",
     imageBigWebP:
@@ -205,6 +212,7 @@ export const rezanoItemData = [
     title: "Narandžasti carski ljiljan orijental",
     price: "800 ",
     priceRange: "700 - 900",
+    includes: null,
     imageBig:
       "/images/rezano-cvece/narandzasti-ljiljan-orijental-carski-ljiljan-rezan-komadni-cvet.jpg",
     imageBigWebP:
@@ -236,6 +244,7 @@ export const rezanoItemData = [
     title: "Beli carski ljiljan orijental",
     price: "800",
     priceRange: "700 - 900",
+    includes: null,
     imageBig:
       "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece.jpg",
     imageBigWebP:
@@ -267,6 +276,7 @@ export const rezanoItemData = [
     title: "Narandžasti gerber",
     price: "150",
     priceRange: "100 - 300",
+    includes: null,
     imageBig:
       "/images/rezano-cvece/narandzasti-gerber-rezano-komadno-cvece.jpg",
     imageBigWebP:
@@ -297,6 +307,7 @@ export const rezanoItemData = [
   //   title: "TITLE",
   //   price: "NA",
   //   priceRange: "100 - 300",
+  //   includes: null,
   //   imageBig: "/images/rezano-cvece/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/rezano-cvece/INPUTIMAGE.webp",
   //   imageSmall: "/images/rezano-cvece/INPUTIMAGE-small.jpg",
