@@ -1,6 +1,9 @@
+import QandAs from "../../components/vary-components/QandAs";
 import classes from "./contact.module.scss";
 
-export default function Contact() {
+import { qandasData } from "../../data/qandas-data";
+
+export default function Contact({ qandasData }) {
   return (
     <main>
       <div className={classes.contact_cont}>
@@ -67,6 +70,20 @@ export default function Contact() {
           </p>
         </div>
       </div>
+      {qandasData.map((item) => (
+        <div key={item.question}>
+          <QandAs singleQandA={item} />
+        </div>
+      ))}
+      <div className={classes.pusher}></div>
+
+      {/* <QandAs singleQandA={qandasData[1]} /> */}
     </main>
   );
+}
+
+export async function getStaticProps() {
+  return {
+    props: { qandasData },
+  };
 }

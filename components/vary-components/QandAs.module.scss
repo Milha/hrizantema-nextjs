@@ -1,0 +1,18 @@
+.cont {
+  width: 90%;
+  margin: auto;
+  @media (min-width: 40rem) {
+    width: 50%;
+  }
+  .q_cont {
+    display: flex;
+    justify-content: space-between;
+
+    .arrows {
+      display: flex;
+      align-items: center;
+
+      padding: 0 0.5rem;
+    }
+  }
+}
