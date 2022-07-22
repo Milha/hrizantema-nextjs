@@ -616,7 +616,7 @@ export const ostaloUPonudiData = [
     sample: true,
     test: [1, 4, 22],
     id: 22,
-    title: "Crveni ljilja veštačko gips",
+    title: "Crveni ljiljan ~ veštačko gips",
     price: "2.000",
     priceRange: "1.000 - 3.000",
     includes: ["veštačke ljiljane", "veštačke ruže", "veštački robelini"],
@@ -675,6 +675,38 @@ export const ostaloUPonudiData = [
     prodId: "OP-023",
     category: categorySchema[1],
   },
+
+  {
+    test: [1, 4, 21],
+    id: 24,
+    title: "Beli ljiljan ~ veštačko cveće",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
+    includes: ["veštačke ljiljane", "veštačke ruže", "veštački robelini"],
+    imageBig:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips-mini.webp",
+    alt: "vestacko cvece beli ljiljan bele ruzice saksija gips",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips${categoryVestacko}`,
+    link: `/single/ostalo/beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips${categoryVestacko}`,
+    sluglink:
+      "beli-ljiljan-orijental-carski-ljiljan-bele-ruzice-saksijsko-vestacko-cvece-gips",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-024",
+    category: categorySchema[1],
+  },
   // {
   //   test: [1, 4, 8],
   //   id: 1,
@@ -687,6 +719,8 @@ export const ostaloUPonudiData = [
   //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.webp",
   //   alt: "ALTTTTTTT",
   //   text: "DESCCCCCCC",
   //   httpaddress: `https://hrizantema.rs/single/ostalo/LINKKKKK${categoryVestacko}`,
@@ -694,6 +728,7 @@ export const ostaloUPonudiData = [
   //   sluglink: "LINKKKKK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "OP-111",
+  //   category: categorySchema[1],
   // },
 
   // {
