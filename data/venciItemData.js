@@ -754,8 +754,8 @@ export const venciItemData = [
     test: [5, 11, 12],
     id: 25,
     title: "Ljiljan ~ hrizantema ~ gladiola",
-    price: "5.000",
-    priceRange: "4.000 - 5.500",
+    price: "3.800",
+    priceRange: "3.000 - 4.500",
     includes: ["ljiljane", "hrizanteme", "gladiole", "robelini"],
     imageBig:
       "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac.jpg",
