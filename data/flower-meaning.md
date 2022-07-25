@@ -2,6 +2,10 @@
 title: Znacenje cveca i boja
 ---
 
+## General sentences
+
+Poklon cveće je često idealan izbor, jer pruža dugotrajnu počast izgubljenoj voljenoj osobi, kao i stalni podsetnik na prijateljstvo i naklonost koju želite da podržite ožalošćenog tokom procesa tugovanja.
+
 ## Crvene ruža
 
 Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.

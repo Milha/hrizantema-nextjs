@@ -677,7 +677,7 @@ export const venciItemData = [
       "/images/venci/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac-mini.jpg",
     imageMiniWebP:
       "/images/venci/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac-mini.webp",
-    alt: "Prirodni venac u obliku srca bele ruze beli gerber bela gipsofila lovor visnja zelenilo",
+    alt: "Prirodni venac u obliku srca bele ruze beli gerber bela gipsofila lovor visnja zelenilo. Poklon cveće je često idealan izbor, jer pruža dugotrajnu počast izgubljenoj voljenoj osobi, kao i stalni podsetnik na prijateljstvo i naklonost koju želite da podržite ožalošćenog tokom procesa tugovanja.",
     text: "Prirodni venac aranžiran od belih  ruža i belih gerbera. Uz najkvalitetnije zelenilo, belu gipsofilu, lovor.",
     httpaddress: `https://hrizantema.rs/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac${categoryVenci}`,
     link: `/single/venac/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac${categoryVenci}`,
@@ -750,6 +750,37 @@ export const venciItemData = [
     category: categorySchema,
   },
 
+  {
+    test: [5, 11, 12],
+    id: 25,
+    title: "Ljiljan ~ hrizantema ~ gladiola",
+    price: "5.000",
+    priceRange: "4.000 - 5.500",
+    includes: ["ljiljane", "hrizanteme", "gladiole", "robelini"],
+    imageBig:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac-mini.webp",
+    alt: "Prirodni venac beli ljiljan bele hrizanteme palisadke crvene gladiole robelini zelenilo porodicni venac za sahrane",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac${categoryVenci}`,
+    sluglink:
+      "beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-025",
+    category: categorySchema,
+  },
   // {
   //   test: [15, 1, 8],
   //   id: 1,
