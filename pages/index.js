@@ -11,6 +11,7 @@ import { offersCardsData } from "../data/offersCardsData";
 
 import { sampleItems } from "../utils/sampleFinder";
 import ArrowToTop from "../components/ui/ArrowToTop";
+import MapButton from "../components/ui/MapButton";
 
 export default function Home({ propsData, sampleFinderData }) {
   // console.log(sampleFinderData, "from PROPS");
@@ -24,6 +25,11 @@ export default function Home({ propsData, sampleFinderData }) {
       {/* <SubHero /> */}
       <HeroBanner />
       <Offers data={propsData} />
+      <MapButton
+        hrefData={
+          "https://www.google.com/maps/place/Hrizantema+Cve%C4%87ara+Orlova%C4%8Da/@44.7158874,20.4169648,14.71z/data=!4m5!3m4!1s0x0:0xbf13ca7f0a30e621!8m2!3d44.7095133!4d20.4124528"
+        }
+      />
       <Sample data={sampleFinderData} />
       <ArrowToTop />
     </div>
