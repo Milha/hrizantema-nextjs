@@ -43,4 +43,8 @@ export const firmSchema = {
   telephone: "+381692050441",
   priceRange: "$$",
   legalName: "Hrizantema 1994",
+  sameAs: [
+    "https://www.facebook.com/profile.php?id=100083130969553",
+    "https://www.instagram.com/cvecarahrizantema/",
+  ],
 };
