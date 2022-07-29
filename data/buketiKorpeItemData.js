@@ -342,25 +342,61 @@ export const buketiKorpeItemData = [
     availability: "https://schema.org/PreOrder",
     prodId: "BU-012",
   },
-
+  {
+    test: [5, 4, 3],
+    id: 13,
+    title: "Bele gladiole",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    includes: ["gladiole", "robelini", "mrežica"],
+    imageBig: "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa-small.webp",
+    imageGMB: "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa-mini.webp",
+    alt: "Prirodna korpa bele gladiole prirodno cvece korpa za groblje sahrane zelenilo robelini",
+    text: "Belo cveće predstavlja eleganciju, poštovanje, čistotu i večnu ljubav. Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje aranžman govori mnogo o vašim osećanjima prema osobi koja je preminula.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/bela-gladiola-prirodno-cvece-korpa${categoryKorpe}`,
+    link: `/single/buket-korpa/bela-gladiola-prirodno-cvece-korpa${categoryKorpe}`,
+    sluglink: "bela-gladiola-prirodno-cvece-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-013",
+  },
   // {
-  //   id: 6,
-  //   title: "TITLE",
-  //   price: "2.500",
-  //   priceRange: "2.000 - 3.500",
+  //   test: [5, 4, 3],
+  //   id: 13,
+  //   title: "BTITLE",
+  //   price: "NA.500",
+  //   priceRange: "1.000 - 2.500",
   //   includes: [],
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
-  //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageBigWebP:
+  //     "/images/buketi-korpe/INPUTIMAGE.webp",
+  //   imageSmall:
+  //     "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
-  //   alt: "ALTTTT",
+  //   imageMini:
+  //     "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/buketi-korpe/INPUTIMAGE-mini.webp",
+  //   alt: "ALTTTTTT",
   //   text: "DESCRIPTION",
-  //   httpaddress: "https://hrizantema.rs/single/buket-korpa/INPUTLINK",
-  //   link: "/single/buket-korpa/INPUTLINK",
+  //   httpaddress: `https://hrizantema.rs/single/buket-korpa/INPUTLINK${categoryKorpe}`,
+  //   link: `/single/buket-korpa/INPUTLINK${categoryKorpe}`,
   //   sluglink: "INPUTLINK",
-  //   prodId: "BU-006",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "BU-013",
   // },
+
   // {
   //   id: 6,
   //   title: "TITLE",
