@@ -707,6 +707,36 @@ export const ostaloUPonudiData = [
     prodId: "OP-024",
     category: categorySchema[1],
   },
+  {
+    test: [18, 22, 21],
+    id: 25,
+    title: "Crvena ruža ~ crvene ružice",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    includes: [],
+    imageBig:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips-mini.webp",
+    alt: "vestacko cvece zute ruze zute ruzice saksija gips",
+    text: "Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. U pogrebnom okruženju, crvene ruže simbolizuju ljubav i tugu.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips${categoryVestacko}`,
+    link: `/single/ostalo/crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips${categoryVestacko}`,
+    sluglink: "crvena-ruza-crvene-ruzice-vestacko-cvece-saksije-gips",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-025",
+    category: categorySchema[1],
+  },
   // {
   //   test: [1, 4, 8],
   //   id: 1,
