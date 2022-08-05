@@ -191,6 +191,36 @@ export const suzeDvostranicneData = [
     prodId: "DS-006",
     category: categorySchema,
   },
+  {
+    test: [5, 0, 1],
+    id: 7,
+    title: "Crveni gerber ~ crvene gladiole",
+    price: "4.000",
+    priceRange: "3.000 - 5.500",
+    includes: ["gerbere", "gladiole"],
+    imageBig:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza-mini.webp",
+    alt: "dvostranican suza za sahrane za sanduk prirodno cvece crveni gerber crvene gladiole",
+    text: "Gerberi simbolizuju lepotu, nevinost i čistotu. Gerberi označava da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi. Crveni gerberi predstavljaju ljubav. Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje aranžman govori mnogo o vašim osećanjima prema osobi koja je preminula.  Gladiolie nose nekoliko simboličkih značenja, uključujući snagu karaktera, iskrenost i integritet.",
+    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza${categorySuze}`,
+    link: `/single/suza-dvostranicna/crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza${categorySuze}`,
+    sluglink: "crveni-gerber-crvena-gladiola-prirodna-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "DS-007",
+    category: categorySchema,
+  },
   // {
   //   test: [0, 0, 0],
   //   id: 5,

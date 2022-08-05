@@ -16,6 +16,10 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 
 Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav.
 
+## Crveni gerber
+
+Crveni gerberi predstavljaju ljubav.
+
 ## Bela ruža
 
 Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
@@ -39,6 +43,10 @@ Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
 ## Roze ljiljan
 
 Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
+
+## Roze gerber
+
+Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.
 
 ## Ljubičasti gerberi
 
@@ -73,6 +81,8 @@ Hrizanteme se vide kao simbol istine.
 Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.
 
 Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje aranžman govori mnogo o vašim osećanjima prema osobi koja je preminula.
+
+Ime gladiola potiče od latinske reči gladius, što se prevodi kao mač. Kao rezultat toga, mnogi ljudi ih nazivaju ljiljanom mača zbog načina na koji izgledaju. Gladioli nose nekoliko simboličkih značenja, uključujući snagu karaktera, iskrenost i integritet. Gladioli se mogu dati u bilo kojoj paleti boja, uključujući belu, crvenu, ružičastu, ljubičastu, narandžastu, zelenu, lososa i žutu.
 
 ### Crvena
 
