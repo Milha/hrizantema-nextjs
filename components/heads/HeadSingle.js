@@ -24,8 +24,14 @@ export default function HeadSingle({ data }) {
       priceValidUntil: "2023-11-20",
       url: data.httpaddress,
       availability: data.availability,
+      itemCondition: "NewCondition",
     },
     url: data.httpaddress,
+    isPartOf: { "@id": "https://hrizantema.rs", url: "https://hrizantema.rs" },
+    mainEntityOfPage: {
+      "@id": "https://hrizantema.rs",
+      url: "https://hrizantema.rs",
+    },
   };
 
   // console.log(data.includes, "From Head");
@@ -49,7 +55,11 @@ export default function HeadSingle({ data }) {
         key="title"
       />
       <meta property="og:description" content={data.text} key="description" />
-      <meta property="og:site_name" content="Zdrava" key="site_name"></meta>
+      <meta
+        property="og:site_name"
+        content="Hrizantema cvećara Orlovača"
+        key="site_name"
+      ></meta>
       <meta property="og:image" content={data.imageSmall} key="image" />
 
       {/* SCHEMA */}
