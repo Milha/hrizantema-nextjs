@@ -60,6 +60,12 @@ Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u p
 
 Žuta ruža je simbol prijateljstva koje izražava vašu podršku.
 
+Kada se neko oseća loše, slanje buketa jarko žutih ruža je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Buket jarko žutog cveća takođe može da izrazi brigu i brigu za ljude koji su vam dragi i savršeno prenesu želje da se oporavite.
+
+## Žuti ljiljan
+
+Žuti ljiljan je simbol zdravlja, blagostanja i čistoće. Zlatna boja ljiljana odiše izuzetnom lepotom i snagom van okolnosti i životnih napora.
+
 ### Ruža
 
 Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu.

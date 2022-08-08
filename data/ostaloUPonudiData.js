@@ -737,6 +737,37 @@ export const ostaloUPonudiData = [
     prodId: "OP-025",
     category: categorySchema[1],
   },
+  {
+    test: [1, 21, 23],
+    id: 26,
+    title: "Žuti ljiljan ~ žute ružice",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
+    includes: ["vestacki ljiljan", "vestacke ruzice"],
+    imageBig:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips-mini.webp",
+    alt: "vestacko cvece zuti ljiljan zute ruzice saksija gips",
+    text: "Žuti ljiljan je simbol zdravlja, blagostanja i čistoće. Zlatna boja ljiljana odiše izuzetnom lepotom i snagom van okolnosti i životnih napora. Kada se neko oseća loše, slanje buketa jarko žutih ruža je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Buket jarko žutog cveća takođe može da izrazi brigu i brigu za ljude koji su vam dragi i savršeno prenesu želje da se oporavite.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips${categoryVestacko}`,
+    link: `/single/ostalo/zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips${categoryVestacko}`,
+    sluglink:
+      "zuti-ljiljan-orijental-carski-ljiljan-zute-ruzice-vestacko-cvece-gips",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-026",
+    category: categorySchema[1],
+  },
   // {
   //   test: [1, 4, 8],
   //   id: 1,
