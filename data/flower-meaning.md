@@ -90,7 +90,11 @@ Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje
 
 Ime gladiola potiče od latinske reči gladius, što se prevodi kao mač. Kao rezultat toga, mnogi ljudi ih nazivaju ljiljanom mača zbog načina na koji izgledaju. Gladioli nose nekoliko simboličkih značenja, uključujući snagu karaktera, iskrenost i integritet. Gladioli se mogu dati u bilo kojoj paleti boja, uključujući belu, crvenu, ružičastu, ljubičastu, narandžastu, zelenu, lososa i žutu.
 
-### Crvena
+### Lepa kata
+
+Lepa kata simbolizuje ljubav, mudrost, strpljenje, veru, eleganciju i lepotu. Svaka vrsta boja nosiće svoju duboku simboliku, od plemenitosti do prijateljstva, pa čak i čistoće.
+
+#### Crvena
 
 Crveni cvetovi označavaju snagu, poštovanje, predanost i ljubav.
 

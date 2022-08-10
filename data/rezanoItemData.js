@@ -116,7 +116,7 @@ export const rezanoItemData = [
   },
 
   {
-    test: [1, 0, 5],
+    test: [1, 0, 9],
     id: 5,
     title: "Crimson gerber",
     price: "150",
@@ -271,7 +271,7 @@ export const rezanoItemData = [
   },
 
   {
-    test: [1, 2, 3],
+    test: [1, 2, 4],
     id: 10,
     title: "Narandžasti gerber",
     price: "150",
@@ -301,6 +301,31 @@ export const rezanoItemData = [
     category: categorySchema,
   },
 
+  {
+    test: [4, 3, 9],
+    id: 11,
+    title: "Lepa Kata",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig: "/images/rezano-cvece/lepa-kata-rezano-cvece-buket.jpg",
+    imageBigWebP: "/images/rezano-cvece/lepa-kata-rezano-cvece-buket.webp",
+    imageSmall: "/images/rezano-cvece/lepa-kata-rezano-cvece-buket-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/lepa-kata-rezano-cvece-buket-small.webp",
+    imageGMB: "/images/rezano-cvece/lepa-kata-rezano-cvece-buket-gmb.jpg",
+    imageMini: "/images/rezano-cvece/lepa-kata-rezano-cvece-buket-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/lepa-kata-rezano-cvece-buket-mini.webp",
+    alt: "Lepa kata buket prirodni rezani komadni cvet",
+    text: "Lepa kata simbolizuje ljubav, mudrost, strpljenje, veru, eleganciju i lepotu. Svaka vrsta boja nosiće svoju duboku simboliku, od plemenitosti do prijateljstva, pa čak i čistoće.",
+    httpaddress: `https://hrizantema.rs/single/rezano/lepa-kata-rezano-cvece-buket${categoryRezano}`,
+    link: `/single/rezano/lepa-kata-rezano-cvece-buket${categoryRezano}`,
+    sluglink: "lepa-kata-rezano-cvece-buket",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-011",
+    category: categorySchema,
+  },
   // {
   //   test: [1, 2, 3],
   //   id: 1,
