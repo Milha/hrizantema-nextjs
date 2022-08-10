@@ -1,0 +1,8 @@
+
+To adjust for Instagram Veritcal
+
+w:1080px by h:1350px big
+
+w:420px by h:525px card-small
+
+w:420px by h:525px small
