@@ -1,3 +1,15 @@
+08. 2022.
+
+To adjust for Instagram Veritcal
+
+w:1080px by h:1350px big
+
+w:420px by h:525px card-small
+
+w:420px by h:525px small
+
+While waiting new dimesnions use old sizes
+
 New Size OUR 06.2022.
 
 Venci, Suze - vertical, Komadno, Ostalo:
