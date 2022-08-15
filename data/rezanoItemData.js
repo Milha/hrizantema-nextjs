@@ -326,7 +326,37 @@ export const rezanoItemData = [
     prodId: "KO-011",
     category: categorySchema,
   },
-  
+
+  {
+    test: [4, 7, 9],
+    id: 12,
+    title: "Crveni gerber",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/crveni-gerber-rezano-komadno-prirodno-cvece-mini.webp",
+    alt: "Crveni gerberi prirodni rezani komadni cvet",
+    text: "Crveni gerberi predstavljaju ljubav. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Dakle, ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.",
+    httpaddress: `https://hrizantema.rs/single/rezano/crveni-gerber-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    link: `/single/rezano/crveni-gerber-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    sluglink: "crveni-gerber-rezano-komadno-prirodno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-012",
+    category: categorySchema,
+  },
   // {
   //   test: [1, 2, 3],
   //   id: 1,

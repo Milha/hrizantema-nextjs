@@ -20,6 +20,8 @@ Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sr
 
 Crveni gerberi predstavljaju ljubav.
 
+Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Dakle, ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.
+
 ## Bela ruža
 
 Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
