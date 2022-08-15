@@ -116,7 +116,7 @@ export const rezanoItemData = [
   },
 
   {
-    test: [1, 0, 9],
+    test: [11, 0, 9],
     id: 5,
     title: "Crimson gerber",
     price: "150",
@@ -271,7 +271,7 @@ export const rezanoItemData = [
   },
 
   {
-    test: [1, 2, 4],
+    test: [11, 2, 4],
     id: 10,
     title: "Narandžasti gerber",
     price: "150",
