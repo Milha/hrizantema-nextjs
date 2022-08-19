@@ -370,7 +370,7 @@ export const buketiKorpeItemData = [
     prodId: "BU-013",
   },
   {
-    test: [8, 10, 3],
+    test: [5, 10, 3],
     id: 14,
     title: "Korpa beli ljiljan",
     price: "1.500",
