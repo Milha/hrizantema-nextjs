@@ -7,7 +7,7 @@ const categoryStaklici = `?category=${categorySchema[2]}`;
 export const ostaloUPonudiData = [
   {
     sample: true,
-    test: [2, 10, 3],
+    test: [2, 10, 16],
     id: 1,
     title: "Velika kućica za paljenje sveće",
     price: "2.500",
@@ -290,7 +290,7 @@ export const ostaloUPonudiData = [
   },
 
   {
-    test: [3, 0, 2],
+    test: [0, 4, 11],
     id: 11,
     title: "Srednja kućica za sveće",
     price: "2.000",

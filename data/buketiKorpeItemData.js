@@ -369,6 +369,35 @@ export const buketiKorpeItemData = [
     availability: "https://schema.org/PreOrder",
     prodId: "BU-013",
   },
+  {
+    test: [8, 10, 3],
+    id: 14,
+    title: "Korpa beli ljiljan",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    includes: ["ljiljane", "mrežica", "lovor"],
+    imageBig:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa-mini.webp",
+    alt: "Prirodna korpa beli ljiljan ljubicasta masna mrezica zelenilo lovor visnja",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/beli-ljiljan-ljubicasta-masna-prirodna-korpa${categoryKorpe}`,
+    link: `/single/buket-korpa/beli-ljiljan-ljubicasta-masna-prirodna-korpa${categoryKorpe}`,
+    sluglink: "beli-ljiljan-ljubicasta-masna-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-014",
+  },
   // {
   //   test: [5, 4, 3],
   //   id: 13,
