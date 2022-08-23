@@ -361,7 +361,7 @@ export const rezanoItemData = [
     test: [8, 2, 3],
     id: 13,
     title: "Roze margareta hrizantema baltika",
-    price: "200",
+    price: "250",
     priceRange: "100 - 300",
     includes: null,
     imageBig:
