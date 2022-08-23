@@ -357,6 +357,36 @@ export const rezanoItemData = [
     prodId: "KO-012",
     category: categorySchema,
   },
+  {
+    test: [8, 2, 3],
+    id: 13,
+    title: "Roze margareta hrizantema baltika",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece-mini.webp",
+    alt: "Roze margareta hrizantema vrsta baltika prirodni rezani komadni cvet",
+    text: "Za ovu boju hrizanteme se kaže da simbolizuje dugovečnost. Roze hrizanteme takođe mogu značiti čast i ljubav, sjajno ako želite da pošaljete poruku da nekome kažete da vam je stalo i da ga cenite.",
+    httpaddress: `https://hrizantema.rs/single/rezano/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece${categoryRezano}`,
+    link: `/single/rezano/roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece${categoryRezano}`,
+    sluglink: "roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-013",
+    category: categorySchema,
+  },
   // {
   //   test: [1, 2, 3],
   //   id: 1,

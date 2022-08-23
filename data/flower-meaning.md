@@ -50,6 +50,10 @@ Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljilja
 
 Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.
 
+## Roze hrizantema
+
+Za ovu boju hrizanteme se kaže da simbolizuje dugovečnost. Ružičaste hrizanteme takođe mogu značiti čast i ljubav, sjajno ako želite da pošaljete poruku da nekome kažete da vam je stalo i da ga cenite.
+
 ## Ljubičasti gerberi
 
 Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ružičasti gerberi su simbol zahvalnosti.
