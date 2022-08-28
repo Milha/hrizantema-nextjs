@@ -289,8 +289,39 @@ export const suzeItemData = [
     prodId: "SU-010",
     category: categorySchema,
   },
+  {
+    test: [4, 2, 9],
+    id: 11,
+    title: "Bele margarete ~ crvene gladiole",
+    price: "2.000",
+    priceRange: "2.000 - 3.500",
+    includes: ["margarete", "gladiole", "mrežica"],
+    imageBig:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola.jpg",
+    imageBigWebP:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola.webp",
+    imageSmall:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola-small.jpg",
+    imageSmallWebP:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola-small.webp",
+    imageGMB:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola-gmb.jpg",
+    imageMini:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola-mini.jpg",
+    imageMiniWebP:
+      "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola-mini.webp",
+    alt: "Prirodna suza prirodno cvece bele hrizanteme margarete crvene gladiole mrezica",
+    text: "Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje aranžman govori mnogo o vašim osećanjima prema osobi koja je preminula.",
+    httpaddress: `https://hrizantema.rs/single/suza/bela-baltika-margareta-hrizantema-crvena-gladiola${categorySuze}`,
+    link: `/single/suza/bela-baltika-margareta-hrizantema-crvena-gladiola${categorySuze}`,
+    sluglink: "bela-baltika-margareta-hrizantema-crvena-gladiola",
+    availability: "https://schema.org/PreOrder",
+    prodId: "SU-011",
+    category: categorySchema,
+  },
 
   // {
+  //   test: [8, 1, 3],
   //   id: 5,
   //   title: "TITLE",
   //   price: "2.000",
@@ -301,6 +332,8 @@ export const suzeItemData = [
   //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
   //   imageSmallWebP: "/images/suze/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/suze/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/suze/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/suze/INPUTIMAGE-mini.webp",
   //   alt: "ALT",
   //   text: "DESCRIPTION",
   //   httpaddress: `https://hrizantema.rs/single/suza/INPUTLINK${categorySuze}`,
