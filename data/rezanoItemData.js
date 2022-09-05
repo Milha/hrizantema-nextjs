@@ -4,6 +4,7 @@ const categoryRezano = `?category=${categorySchema}`;
 export const rezanoItemData = [
   {
     sample: true,
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [1, 2, 4],
     id: 1,
     title: "Crvena ruža",
@@ -31,6 +32,7 @@ export const rezanoItemData = [
     category: categorySchema,
   },
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [0, 5, 4],
     id: 2,
     title: "Bela ruža",
@@ -57,6 +59,7 @@ export const rezanoItemData = [
     category: categorySchema,
   },
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [5, 6, 1],
     id: 3,
     title: "Beli ljiljan",
@@ -85,6 +88,7 @@ export const rezanoItemData = [
     category: categorySchema,
   },
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [2, 1, 5],
     id: 4,
     title: "Bela margareta",
@@ -116,6 +120,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [11, 0, 9],
     id: 5,
     title: "Crimson gerber",
@@ -146,6 +151,7 @@ export const rezanoItemData = [
     category: categorySchema,
   },
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [1, 2, 3],
     id: 6,
     title: "Kala",
@@ -173,6 +179,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     sample: true,
     test: [2, 7, 3],
     id: 7,
@@ -206,6 +213,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     sample: true,
     test: [6, 2, 3],
     id: 8,
@@ -239,6 +247,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [6, 2, 7],
     id: 9,
     title: "Beli carski ljiljan orijental",
@@ -271,6 +280,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [11, 2, 4],
     id: 10,
     title: "Narandžasti gerber",
@@ -302,6 +312,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [4, 3, 9],
     id: 11,
     title: "Lepa Kata",
@@ -328,6 +339,7 @@ export const rezanoItemData = [
   },
 
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [4, 7, 9],
     id: 12,
     title: "Crveni gerber",
@@ -358,6 +370,7 @@ export const rezanoItemData = [
     category: categorySchema,
   },
   {
+    similarTo: ["Crveni gerber", "Crveni gerber", "Crveni gerber"],
     test: [8, 2, 3],
     id: 13,
     title: "Roze margareta hrizantema baltika",

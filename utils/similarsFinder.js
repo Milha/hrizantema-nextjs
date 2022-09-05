@@ -111,6 +111,7 @@ export const suzeSetData = dataSuze.map((inj) => ({
 const dataBuket = buketiKorpeItemData;
 
 export const buketSetData = dataBuket.map((inj) => ({
+  similarTo: inj.similarTo ?? "",
   test: inj.test,
   id: inj.id,
   title: inj.title,

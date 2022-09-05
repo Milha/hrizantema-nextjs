@@ -4,6 +4,11 @@ const categoryBuketi = `?category=${categorySchema[1]}`;
 
 export const buketiKorpeItemData = [
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     sample: true,
     test: [1, 4, 6],
     id: 1,
@@ -29,6 +34,11 @@ export const buketiKorpeItemData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [4, 0, 6],
     id: 2,
     title: "Orijental ~ bele ruže",
@@ -53,6 +63,11 @@ export const buketiKorpeItemData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [7, 3, 5],
     id: 3,
     title: "Korpa crimson gerber",
@@ -83,6 +98,11 @@ export const buketiKorpeItemData = [
     category: categorySchema[0],
   },
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [5, 7, 2],
     id: 4,
     title: "Beli ljiljan ~ bele margarete",
@@ -115,6 +135,11 @@ export const buketiKorpeItemData = [
   },
 
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     sample: true,
     test: [1, 6, 0],
     id: 5,
@@ -147,6 +172,11 @@ export const buketiKorpeItemData = [
   },
 
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [3, 2, 4],
     id: 6,
     title: "Bele kale",
@@ -171,6 +201,11 @@ export const buketiKorpeItemData = [
     category: categorySchema[0],
   },
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [1, 4, 3],
     id: 7,
     title: "Beli i roze ljiljani orijentali",
@@ -196,6 +231,11 @@ export const buketiKorpeItemData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [5, 2, 3],
     id: 8,
     title: "Svetlo roze gerberi",
@@ -225,6 +265,11 @@ export const buketiKorpeItemData = [
   },
 
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     sample: true,
     test: [5, 2, 3],
     id: 9,
@@ -258,6 +303,11 @@ export const buketiKorpeItemData = [
   },
 
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [8, 1, 3],
     id: 10,
     title: "Roze ljiljan",
@@ -283,6 +333,11 @@ export const buketiKorpeItemData = [
   },
 
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [9, 8, 3],
     id: 11,
     title: "Beli ljiljan ~ crvena ruža",
@@ -314,6 +369,11 @@ export const buketiKorpeItemData = [
   },
 
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [9, 10, 3],
     id: 12,
     title: "Roze ljiljan ~ bela kala",
@@ -343,6 +403,11 @@ export const buketiKorpeItemData = [
     prodId: "BU-012",
   },
   {
+    similarTo: [
+      "Korpa beli ljiljan",
+      "Bele gladiole",
+      "Roze ljiljan ~ bela kala",
+    ],
     test: [5, 4, 3],
     id: 13,
     title: "Bele gladiole",
@@ -370,6 +435,11 @@ export const buketiKorpeItemData = [
     prodId: "BU-013",
   },
   {
+    similarTo: [
+      "Beli ljiljan ~ crvena ruža",
+      "Roze ljiljan",
+      "Crveni ljiljan ~ bela ruža",
+    ],
     test: [5, 10, 3],
     id: 14,
     title: "Korpa beli ljiljan",

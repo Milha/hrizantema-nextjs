@@ -4,7 +4,7 @@ import classes from "./BigHorizontalSingleCard.module.scss";
 // import MiniSimilar from "./MiniSimilar";
 import Includes from "./card-items/Includes";
 
-export default function BigVerticalSingleCard({ data }) {
+export default function BigVerticalSingleCard({ data, similarPropData }) {
   // console.log(data.imageBig, "FROM BIG VERTICAl - Data");
   // console.log(miniData, "FROM BIG VERTICAl - Mini data");
   // console.log(data, "FROM BIG VERTICAl - Mini data");
@@ -50,7 +50,11 @@ export default function BigVerticalSingleCard({ data }) {
             <span>šifra:</span> {data.prodId}
           </p>
           <p className={classes.similar_text}>Slično:</p>
-          <SimilarsCont data={data} small={true} />
+          <SimilarsCont
+            data={data}
+            small={true}
+            similarPropData={similarPropData}
+          />
           <ShareLinksCont data={data} />
         </div>
       </div>

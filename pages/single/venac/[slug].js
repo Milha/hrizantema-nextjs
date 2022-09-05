@@ -2,13 +2,16 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 
 import { venciSetData } from "../../../utils/similarsFinder";
+import { simVenciDataFind } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems }) {
- 
+export default function Slug({ pageItems, smallSimilarItems }) {
   return (
     <>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} />
+      <BigVerticalSingleCard
+        data={pageItems}
+        similarPropData={smallSimilarItems}
+      />
     </>
   );
 }
@@ -16,15 +19,17 @@ export default function Slug({ pageItems }) {
 export async function getStaticProps(context) {
   // pageItems LOGIC
   const data = venciSetData;
+  const data2 = simVenciDataFind;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
+  const simVenciData = data2.find((el) => el.sluglink == paramsSlug);
 
   // miniData LOGIC
   // const arrayTest = pageSlug.test;
   // const newMiniData = arrayTest.map((el) => venciItemData[el]);
 
   return {
-    props: { pageItems: pageSlug },
+    props: { pageItems: pageSlug, smallSimilarItems: simVenciData },
   };
 }
 

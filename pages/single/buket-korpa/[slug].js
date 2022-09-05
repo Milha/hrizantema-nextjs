@@ -4,27 +4,35 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 // import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
 // import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
 import { buketSetData } from "../../../utils/similarsFinder";
+import { simBuketiTest } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems }) {
+export default function Slug({ pageItems, smallSimilarItems }) {
+  // console.log(simBuketiTest, "From test");
+  // console.log(buketSetData, "From setdata");
   return (
     <div>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} />
+      <BigVerticalSingleCard
+        data={pageItems}
+        similarPropData={smallSimilarItems}
+      />
     </div>
   );
 }
 
 export async function getStaticProps(context) {
   const data = buketSetData;
+  const data2 = simBuketiTest;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
+  const simBuketiTest1 = data2.find((el) => el.sluglink == paramsSlug);
 
   // // miniData LOGIC
   // const arrayTest = pageSlug.test;
   // const newMiniData = arrayTest.map((el) => buketiKorpeItemData[el]);
 
   return {
-    props: { pageItems: pageSlug },
+    props: { pageItems: pageSlug, smallSimilarItems: simBuketiTest1 },
   };
 }
 

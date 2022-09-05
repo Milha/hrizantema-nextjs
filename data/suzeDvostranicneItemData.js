@@ -3,6 +3,11 @@ const categorySuze = `?category=${categorySchema}`;
 
 export const suzeDvostranicneData = [
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [0, 1, 2],
     id: 1,
     title: "Kala ~ beli gerber",
@@ -35,6 +40,11 @@ export const suzeDvostranicneData = [
   },
 
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [0, 1, 2],
     id: 2,
     title: "Bela kala ~ bela margareta",
@@ -67,6 +77,11 @@ export const suzeDvostranicneData = [
   },
 
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [0, 1, 3],
     id: 3,
     title: "Beli ljiljan ~ crvena ruža",
@@ -99,6 +114,11 @@ export const suzeDvostranicneData = [
     category: categorySchema,
   },
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [0, 1, 2],
     id: 4,
     title: "Bela ruža ~ mahonija",
@@ -131,6 +151,11 @@ export const suzeDvostranicneData = [
   },
 
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [0, 2, 3],
     id: 5,
     title: "Beli ljiljan ~ crvene ruže",
@@ -162,6 +187,11 @@ export const suzeDvostranicneData = [
     category: categorySchema,
   },
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [3, 4, 1],
     id: 6,
     title: "Bela ruža ~ bela gladiola",
@@ -192,6 +222,11 @@ export const suzeDvostranicneData = [
     category: categorySchema,
   },
   {
+    similarTo: [
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+      "Kala ~ beli gerber",
+    ],
     test: [5, 0, 1],
     id: 7,
     title: "Crveni gerber ~ crvene gladiole",

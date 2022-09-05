@@ -7,6 +7,11 @@ const categoryStaklici = `?category=${categorySchema[2]}`;
 export const ostaloUPonudiData = [
   {
     sample: true,
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [2, 10, 16],
     id: 1,
     title: "Velika kućica za paljenje sveće",
@@ -31,6 +36,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [4, 7, 8],
     id: 2,
     title: "Roze ljiljan ruže saksija",
@@ -63,6 +73,11 @@ export const ostaloUPonudiData = [
   },
   {
     sample: true,
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [5, 9, 3],
     id: 3,
     title: "Krst od stakla mali - plave ruže",
@@ -86,6 +101,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [16, 2, 12],
     id: 4,
     title: "Suza od stakla ljubičaste ruže",
@@ -113,6 +133,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [8, 1, 21],
     id: 5,
     title: "Bela kala ~ ružice ~ saksija",
@@ -144,6 +169,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [15, 11, 14],
     id: 6,
     title: "Velika piramida od stakla - crvene ruže",
@@ -174,6 +204,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [3, 13, 12],
     id: 7,
     title: "Srce srednje staklo crvene ruže",
@@ -201,6 +236,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [4, 8, 1],
     id: 8,
     title: "Bele orhideje",
@@ -233,6 +273,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [1, 7, 4],
     id: 9,
     title: "Roze orhideje",
@@ -265,6 +310,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [3, 2, 5],
     id: 10,
     title: "Krst staklo crvene ruže",
@@ -290,6 +340,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [0, 4, 11],
     id: 11,
     title: "Srednja kućica za sveće",
@@ -314,6 +369,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [14, 5, 15],
     id: 12,
     title: "Piramida velika staklo crvene i bele ruže",
@@ -345,6 +405,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [3, 16, 6],
     id: 13,
     title: "Suza od stakla ljubičaste i bele ruže",
@@ -375,6 +440,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [3, 6, 16],
     id: 14,
     title: "Srce staklo crvene bele ruže",
@@ -402,6 +472,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [11, 15, 5],
     id: 15,
     title: "Piramida crvene ruže - mala",
@@ -428,6 +503,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [11, 14, 5],
     id: 16,
     title: "Staklo piramida ljubičaste i bele ruže",
@@ -458,6 +538,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [6, 3, 5],
     id: 17,
     title: "Suza od stakla ljubičaste i bele ruže",
@@ -488,6 +573,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[2],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [20, 19, 18],
     id: 18,
     title: "Plave orhideje - veštačko",
@@ -519,6 +609,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [17, 20, 19],
     id: 19,
     title: "Crvene ružice - veštačko",
@@ -550,6 +645,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [18, 17, 20],
     id: 20,
     title: "Roze orhideje - veštačko",
@@ -581,6 +681,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [17, 4, 19],
     id: 21,
     title: "Bele kale - veštačko",
@@ -614,6 +719,11 @@ export const ostaloUPonudiData = [
 
   {
     sample: true,
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [1, 4, 22],
     id: 22,
     title: "Crveni ljiljan ~ veštačko gips",
@@ -646,6 +756,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [1, 4, 21],
     id: 23,
     title: "Žuta ruža ~ žute ružice",
@@ -677,6 +792,11 @@ export const ostaloUPonudiData = [
   },
 
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [1, 4, 21],
     id: 24,
     title: "Beli ljiljan ~ veštačko cveće",
@@ -708,6 +828,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [18, 22, 21],
     id: 25,
     title: "Crvena ruža ~ crvene ružice",
@@ -738,6 +863,11 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
+    similarTo: [
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+      "Žuti ljiljan ~ žute ružice",
+    ],
     test: [1, 21, 23],
     id: 26,
     title: "Žuti ljiljan ~ žute ružice",

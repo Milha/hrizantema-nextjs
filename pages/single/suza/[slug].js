@@ -5,13 +5,17 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 // import { similarsSuzeFinder } from "../../../utils/similarsFinder";
 
 import { suzeSetData } from "../../../utils/similarsFinder";
+import { simSuzeDataFind } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems }) {
+export default function Slug({ pageItems, smallSimilarItems }) {
   // console.log(pageItems);
   return (
     <>
       <HeadSingle data={pageItems} />
-      <BigVerticalSingleCard data={pageItems} />
+      <BigVerticalSingleCard
+        data={pageItems}
+        similarPropData={smallSimilarItems}
+      />
     </>
   );
 }
@@ -19,15 +23,17 @@ export default function Slug({ pageItems }) {
 export async function getStaticProps(context) {
   // pageItems LOGIC
   const data = suzeSetData;
+  const data2 = simSuzeDataFind;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
+  const simSuzeData = data2.find((el) => el.sluglink == paramsSlug);
 
   // miniData LOGIC
   // const arrayTest = pageSlug.test;
   // const newMiniData = arrayTest.map((el) => suzeSetData[el]);
 
   return {
-    props: { pageItems: pageSlug },
+    props: { pageItems: pageSlug, smallSimilarItems: simSuzeData },
   };
 }
 
