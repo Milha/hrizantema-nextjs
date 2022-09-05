@@ -781,6 +781,36 @@ export const venciItemData = [
     prodId: "VE-025",
     category: categorySchema,
   },
+  {
+    test: [24, 12, 5],
+    id: 26,
+    title: "Roze gerber ~ bele ruže",
+    price: "6.500",
+    priceRange: "5.000 - 8.500",
+    includes: ["gerbere", "ruže", "gladiole", "mrežica", "robelini"],
+    imageBig:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac-mini.webp",
+    alt: "Prirodni venac roze gerber bele ruze bele gladiole mrezica robelini.",
+    text: "Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Gladiole predstavljaju snagu i karakter, kao i integritet. Njihovo uključivanje aranžman govori mnogo o vašim osećanjima prema osobi koja je preminula.",
+    httpaddress: `https://hrizantema.rs/single/venac/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac${categoryVenci}`,
+    sluglink: "ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-026",
+    category: categorySchema,
+  },
   // {
   //   test: [15, 1, 8],
   //   id: 1,
