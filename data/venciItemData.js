@@ -500,7 +500,7 @@ export const venciItemData = [
     test: [3, 15, 1],
     id: 17,
     title: "Beli ljiljan ~ crvene ruže",
-    price: "5.000",
+    price: "6.000",
     priceRange: "5.000 - 7.500",
     includes: ["ljiljane", "ruže", "kale", "margarete"],
     imageBig:
