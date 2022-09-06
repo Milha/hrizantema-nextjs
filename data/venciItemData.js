@@ -800,9 +800,9 @@ export const venciItemData = [
   {
     sample: true,
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Bela ruža ~ beli gerber",
+      "Srce bele ruže ~ beli gerber",
+      "Bele orijental ~ ruže ~ gerber ~ kale",
     ],
     test: [2, 21, 8],
     id: 23,
@@ -836,9 +836,9 @@ export const venciItemData = [
 
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Orijental ~ crvena ruža ~ gerber",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Crveni ljiljan ~ beli gerber",
     ],
     test: [21, 22, 13],
     id: 24,
@@ -873,8 +873,8 @@ export const venciItemData = [
   {
     similarTo: [
       "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Gerber ~ gladiole",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
     ],
     test: [5, 11, 12],
     id: 25,
@@ -908,9 +908,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Ljiljan ~ hrizantema ~ gladiola",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
+      "Gerber ~ gladiole",
     ],
     test: [24, 12, 5],
     id: 26,
