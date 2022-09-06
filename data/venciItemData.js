@@ -6,8 +6,8 @@ export const venciItemData = [
     sample: true,
     similarTo: [
       "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
+      "Ruža ~ gerber ~ margareta",
     ],
     test: [1, 19, 17],
     id: 1,
@@ -47,9 +47,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Carski ljiljan ~ crveni gerber ~ margareta",
+      "Beli orijental ~ beli gerber",
+      "Bele ruže ~ crvene ruže",
     ],
     test: [20, 13, 19],
     id: 2,
@@ -92,9 +92,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Beli orijental ~ beli gerber",
+      "Srce bele ruže ~ beli gerber",
+      "Ruže ~ gerbere ~ kale ~ robelini",
     ],
     test: [5, 8, 15],
     id: 3,
@@ -138,9 +138,9 @@ export const venciItemData = [
   {
     sample: true,
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Venac srce od gerbera",
+      "Srce bele ruže ~ beli gerber",
     ],
     test: [0, 6, 21],
     id: 4,
@@ -168,9 +168,9 @@ export const venciItemData = [
 
   {
     similarTo: [
+      "Beli orijental ~ beli gerber",
       "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
     ],
     test: [13, 3, 10],
     id: 5,
@@ -202,9 +202,9 @@ export const venciItemData = [
 
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Carski ljiljan ~ crveni gerber ~ margareta",
+      "Carski ljiljan ~ bele ruže",
+      "Beli ljiljan ~ roze gerber",
     ],
     test: [10, 15, 13],
     id: 6,
@@ -238,9 +238,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Ruža ~ gerber ~ margareta",
+      "Crveni gerber ~ bela gipsofila",
+      "Beli gerber ~ žuti gerber",
     ],
     test: [19, 3, 13],
     id: 7,
@@ -267,9 +267,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Beli ljiljan ~ crvene gerber",
+      "Crveni gerber ~ bela gipsofila",
+      "Venac srce od gerbera",
     ],
     test: [6, 9, 2],
     id: 8,
@@ -299,9 +299,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Srce bele ruže ~ beli gerber",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Beli orijental ~ beli gerber",
     ],
     test: [0, 1, 18],
     id: 9,
@@ -328,9 +328,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
+      "Crveni gerber ~ bela gipsofila",
       "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Venac srce od gerbera",
     ],
     test: [19, 13, 6],
     id: 10,
@@ -360,9 +360,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Beli orijental ~ beli gerber",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
+      "Carski ljiljan ~ bele ruže",
     ],
     test: [13, 1, 4],
     id: 11,
@@ -402,9 +402,9 @@ export const venciItemData = [
 
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Crveni gerber ~ bela gipsofila",
+      "Beli gerber ~ žuti gerber",
+      "Venac srce od gerbera",
     ],
     test: [12, 4, 9],
     id: 12,
@@ -439,8 +439,8 @@ export const venciItemData = [
 
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Gerber ~ palisad hrizanteme",
+      "Crveni gerber ~ bela gipsofila",
       "Roze gerber ~ bele ruže",
     ],
     test: [14, 11, 9],
@@ -470,9 +470,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Ljiljan ~ ruža ~ gerber ~ margareta",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
+      "Orijental ~ crvena ruža ~ gerber",
     ],
     test: [10, 1, 4],
     id: 14,
@@ -506,8 +506,8 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Beli gerber ~ žuti gerber",
+      "Venac srce od gerbera",
       "Roze gerber ~ bele ruže",
     ],
     test: [0, 6, 19],
@@ -541,9 +541,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Orijental ~ crvena ruža ~ gerber",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
+      "Carski ljiljan ~ crveni gerber ~ margareta",
     ],
     test: [1, 13, 16],
     id: 16,
@@ -578,9 +578,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Bele kale ~ crveni gerber",
+      "Bele orijental ~ ruže ~ gerber ~ kale",
     ],
     test: [3, 15, 1],
     id: 17,
@@ -615,9 +615,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Ljiljan ~ ruža ~ gerber ~ margareta",
+      "Bela ruža ~ beli gerber",
+      "Bele ruže ~ crvene ruže",
     ],
     test: [16, 0, 1],
     id: 18,
@@ -652,9 +652,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Beli gerber ~ žuti gerber",
+      "Bele ruže ~ crvene ruže",
+      "Bela ruža ~ beli gerber",
     ],
     test: [16, 5, 8],
     id: 19,
@@ -689,9 +689,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Beli ljiljan ~ roze gerber",
+      "Beli orijental ~ beli gerber",
+      "Crveni ljiljan ~ beli gerber",
     ],
     test: [0, 6, 14],
     id: 20,
@@ -725,9 +725,9 @@ export const venciItemData = [
   },
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Carski ljiljan ~ bele ruže",
+      "Carski ljiljan ~ crveni gerber ~ margareta",
+      "Beli ljiljan ~ crvene gerber",
     ],
     test: [15, 1, 8],
     id: 21,
@@ -763,9 +763,9 @@ export const venciItemData = [
 
   {
     similarTo: [
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
-      "Roze gerber ~ bele ruže",
+      "Venac srce od gerbera",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Srce crvena ruža",
     ],
     test: [2, 22, 15],
     id: 22,
@@ -879,7 +879,7 @@ export const venciItemData = [
     test: [5, 11, 12],
     id: 25,
     title: "Ljiljan ~ hrizantema ~ gladiola",
-    price: "3.800",
+    price: "4.000",
     priceRange: "3.000 - 4.500",
     includes: ["ljiljane", "hrizanteme", "gladiole", "robelini"],
     imageBig:

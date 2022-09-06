@@ -16,10 +16,6 @@ export default function SimilarsCont({ data, small, similarPropData }) {
   //   similarPropData.similar[2],
   //   "From container similar ALTTTTTTTTTTTTTTTT 3"
   // );
-  // console.log(data, "From container DATA");
-  // console.log(data.similar[0], "FROM SIMILAR CONT 1");
-  // console.log(data.similar[1], "FROM SIMILAR CONT 2");
-  // console.log(data.similar[2], "FROM SIMILAR CONT 3");
   const similarData11 = similarPropData.similar[0];
   const similarData22 = similarPropData.similar[1];
   const similarData33 = similarPropData.similar[2];
@@ -29,10 +25,6 @@ export default function SimilarsCont({ data, small, similarPropData }) {
 
   return (
     <div className={small ? classes.cont_horizontal : classes.cont}>
-      {/* {similarData.map((item, i) => (
-        <MiniSimilar key={i} miniSimilarFinal={miniData[i]} />
-      ))} */}
-
       {/* {!small ? `<h3>Aloha</h3>` : `<h3>Working if</h3>`} */}
       <MiniSimilar
         // miniSimilarFinal={similarData1}
