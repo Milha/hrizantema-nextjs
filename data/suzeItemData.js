@@ -4,9 +4,9 @@ const categorySuze = `?category=${categorySchema}`;
 export const suzeItemData = [
   {
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Ljiljan ~ margareta ~ gerber",
+      "Ljiljan orijental gerber",
+      "Beli ljiljan ~ crveni gerber",
     ],
     test: [7, 6, 4],
     id: 1,
@@ -40,9 +40,9 @@ export const suzeItemData = [
   {
     sample: true,
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Bela ruža ~ roze gerber",
+      "Ljiljan orijental - carski ljiljan",
+      "Crvene ruža ~ bela gladiola",
     ],
     test: [3, 7, 2],
     id: 2,
@@ -69,8 +69,8 @@ export const suzeItemData = [
   {
     sample: true,
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Beli ljiljan ~ crveni gerber",
+      "Ljiljan ~ margareta ~ gerber",
       "Bele margarete ~ crvene gladiole",
     ],
     test: [6, 7, 5],
@@ -106,9 +106,9 @@ export const suzeItemData = [
   {
     sample: true,
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Ljiljan ~ margareta ~ gerber",
+      "Ljiljan orijental - carski ljiljan",
+      "Margareta gerber",
     ],
     test: [7, 5, 2],
     id: 4,
@@ -140,8 +140,8 @@ export const suzeItemData = [
 
   {
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Ljiljan ~ margareta ~ gerber",
+      "Beli gerber",
       "Bele margarete ~ crvene gladiole",
     ],
     test: [5, 7, 2],
@@ -176,9 +176,9 @@ export const suzeItemData = [
   },
   {
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Ljiljan ~ margareta ~ gerber",
+      "Ljiljan orijental - carski ljiljan",
+      "Margareta gerber",
     ],
     test: [0, 7, 5],
     id: 6,
@@ -213,9 +213,9 @@ export const suzeItemData = [
 
   {
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Bela ruža ~ roze gerber",
+      "Beli ljiljan ~ margareta",
+      "Ljiljan orijental gerber",
     ],
     test: [3, 2, 5],
     id: 7,
@@ -242,9 +242,9 @@ export const suzeItemData = [
 
   {
     similarTo: [
+      "Margareta gerber",
       "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Crvene ruža ~ bela gladiola",
     ],
     test: [3, 5, 2],
     id: 8,
@@ -279,9 +279,9 @@ export const suzeItemData = [
 
   {
     similarTo: [
+      "Ljiljan orijental gerber",
       "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Crvene ruža ~ bela gladiola",
     ],
     test: [7, 5, 1],
     id: 9,
@@ -310,8 +310,8 @@ export const suzeItemData = [
 
   {
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Crvena ruža",
+      "Bela ruža ~ roze gerber",
       "Bele margarete ~ crvene gladiole",
     ],
     test: [8, 1, 3],
@@ -341,9 +341,9 @@ export const suzeItemData = [
   },
   {
     similarTo: [
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
-      "Bele margarete ~ crvene gladiole",
+      "Margareta gerber",
+      "Beli ljiljan ~ margareta",
+      "Crvene ruža ~ bela gladiola",
     ],
     test: [4, 2, 9],
     id: 11,

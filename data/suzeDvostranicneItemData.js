@@ -4,9 +4,9 @@ const categorySuze = `?category=${categorySchema}`;
 export const suzeDvostranicneData = [
   {
     similarTo: [
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Bela kala ~ bela margareta",
+      "Bela ruža ~ mahonija",
+      "Bela ruža ~ bela gladiola",
     ],
     test: [0, 1, 2],
     id: 1,
@@ -42,8 +42,8 @@ export const suzeDvostranicneData = [
   {
     similarTo: [
       "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Bela ruža ~ mahonija",
+      "Bela ruža ~ bela gladiola",
     ],
     test: [0, 1, 2],
     id: 2,
@@ -78,9 +78,9 @@ export const suzeDvostranicneData = [
 
   {
     similarTo: [
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Beli ljiljan ~ crvene ruže",
+      "Bela ruža ~ mahonija",
+      "Crveni gerber ~ crvene gladiole",
     ],
     test: [0, 1, 3],
     id: 3,
@@ -115,9 +115,9 @@ export const suzeDvostranicneData = [
   },
   {
     similarTo: [
+      "Bela kala ~ bela margareta",
       "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Bela ruža ~ bela gladiola",
     ],
     test: [0, 1, 2],
     id: 4,
@@ -152,9 +152,9 @@ export const suzeDvostranicneData = [
 
   {
     similarTo: [
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Crveni gerber ~ crvene gladiole",
+      "Bela ruža ~ mahonija",
+      "Beli ljiljan ~ crvena ruža",
     ],
     test: [0, 2, 3],
     id: 5,
@@ -189,8 +189,8 @@ export const suzeDvostranicneData = [
   {
     similarTo: [
       "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Bela ruža ~ mahonija",
+      "Bela kala ~ bela margareta",
     ],
     test: [3, 4, 1],
     id: 6,
@@ -223,9 +223,9 @@ export const suzeDvostranicneData = [
   },
   {
     similarTo: [
+      "Bela kala ~ bela margareta",
       "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
-      "Kala ~ beli gerber",
+      "Bela ruža ~ bela gladiola",
     ],
     test: [5, 0, 1],
     id: 7,

@@ -5,7 +5,7 @@ import { rezanoSimilarData } from "../../../utils/similarsFinder";
 import { simRezanoDataFind } from "../../../utils/testSimilars";
 
 export default function Slug({ pageItems, smallSimilarItems }) {
-  console.log(pageItems, "From slug Rezano");
+  // console.log(pageItems, "From slug Rezano");
   // console.log(rezanoSimilarData[3].test[2], "FROM norma datat");
   return (
     <div>

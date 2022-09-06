@@ -843,7 +843,7 @@ export const venciItemData = [
     test: [21, 22, 13],
     id: 24,
     title: "Beli orijental ~ beli gerber",
-    price: "5.500",
+    price: "6.200",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljane orijentale", "gerbere", "robelini", "lovor"],
     imageBig:

@@ -5,9 +5,9 @@ const categoryBuketi = `?category=${categorySchema[1]}`;
 export const buketiKorpeItemData = [
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Orijental ~ bele ruže",
+      "Beli ljiljan ~ bele ruže",
+      "Beli i roze ljiljani orijentali",
     ],
     sample: true,
     test: [1, 4, 6],
@@ -35,9 +35,9 @@ export const buketiKorpeItemData = [
   },
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Beli ljiljan ~ bele ruže",
+      "Beli i roze ljiljani orijentali",
+      "Crvene ruže sa perlicama",
     ],
     test: [4, 0, 6],
     id: 2,
@@ -64,9 +64,9 @@ export const buketiKorpeItemData = [
   },
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Crveni ljiljan ~ bela ruža",
+      "Svetlo roze gerberi",
+      "Beli ljiljan ~ bele margarete",
     ],
     test: [7, 3, 5],
     id: 3,
@@ -100,8 +100,8 @@ export const buketiKorpeItemData = [
   {
     similarTo: [
       "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Crveni ljiljan ~ bela ruža",
+      "Bele kale",
     ],
     test: [5, 7, 2],
     id: 4,
@@ -136,9 +136,9 @@ export const buketiKorpeItemData = [
 
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Beli i roze ljiljani orijentali",
+      "Crvene ruže sa perlicama",
+      "Orijental ~ bele ruže",
     ],
     sample: true,
     test: [1, 6, 0],
@@ -174,8 +174,8 @@ export const buketiKorpeItemData = [
   {
     similarTo: [
       "Korpa beli ljiljan",
-      "Bele gladiole",
       "Roze ljiljan ~ bela kala",
+      "Bele gladiole",
     ],
     test: [3, 2, 4],
     id: 6,
@@ -202,9 +202,9 @@ export const buketiKorpeItemData = [
   },
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Orijental ~ bele ruže",
+      "Crvene ruže sa perlicama",
+      "Beli ljiljan ~ bele ruže",
     ],
     test: [1, 4, 3],
     id: 7,
@@ -232,9 +232,9 @@ export const buketiKorpeItemData = [
   },
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Bele kale",
+      "Korpa crimson gerber",
+      "Beli ljiljan ~ bele margarete",
     ],
     test: [5, 2, 3],
     id: 8,
@@ -266,9 +266,9 @@ export const buketiKorpeItemData = [
 
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
       "Roze ljiljan ~ bela kala",
+      "Beli ljiljan ~ crvena ruža",
+      "Roze ljiljan",
     ],
     sample: true,
     test: [5, 2, 3],
@@ -304,9 +304,9 @@ export const buketiKorpeItemData = [
 
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
+      "Beli ljiljan ~ crvena ruža",
       "Roze ljiljan ~ bela kala",
+      "Crveni ljiljan ~ bela ruža",
     ],
     test: [8, 1, 3],
     id: 10,
@@ -334,9 +334,9 @@ export const buketiKorpeItemData = [
 
   {
     similarTo: [
-      "Korpa beli ljiljan",
-      "Bele gladiole",
       "Roze ljiljan ~ bela kala",
+      "Crveni ljiljan ~ bela ruža",
+      "Roze ljiljan",
     ],
     test: [9, 8, 3],
     id: 11,
@@ -371,8 +371,8 @@ export const buketiKorpeItemData = [
   {
     similarTo: [
       "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Beli ljiljan ~ bele margarete",
+      "Bele kale",
     ],
     test: [9, 10, 3],
     id: 12,
@@ -404,9 +404,9 @@ export const buketiKorpeItemData = [
   },
   {
     similarTo: [
+      "Beli ljiljan ~ bele margarete",
       "Korpa beli ljiljan",
-      "Bele gladiole",
-      "Roze ljiljan ~ bela kala",
+      "Bele kale",
     ],
     test: [5, 4, 3],
     id: 13,
@@ -436,9 +436,9 @@ export const buketiKorpeItemData = [
   },
   {
     similarTo: [
-      "Beli ljiljan ~ crvena ruža",
-      "Roze ljiljan",
       "Crveni ljiljan ~ bela ruža",
+      "Beli ljiljan ~ crvena ruža",
+      "Bele gladiole",
     ],
     test: [5, 10, 3],
     id: 14,
