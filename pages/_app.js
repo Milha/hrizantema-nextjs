@@ -42,9 +42,12 @@ function MyApp({ Component, pageProps }) {
         ></meta>
         <meta
           property="og:image"
-          content="https://hrizantema.rs/images/aside/hrizantema-cvecara-gmb.jpg"
+          content="https://hrizantema.rs/images/aside/logo.png"
           key="image"
         />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:width" content="360" />
+        <meta property="og:image:height" content="360" />
         {/* NEW Favicon ico */}
         <link
           rel="apple-touch-icon"
