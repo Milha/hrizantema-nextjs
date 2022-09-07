@@ -42,7 +42,7 @@ function MyApp({ Component, pageProps }) {
         ></meta>
         <meta
           property="og:image"
-          content="../images/aside/hrizantema-cvecara-gmb.jpg"
+          content="https://hrizantema.rs/images/aside/hrizantema-cvecara-gmb.jpg"
           key="image"
         />
         {/* NEW Favicon ico */}
