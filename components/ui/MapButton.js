@@ -5,15 +5,17 @@ function MapButton({ hrefData }) {
   return (
     <div className={clases.cont}>
       <p>
-        <a href={hrefData}>Nadjite nas ovde:</a>
+        <a href={hrefData} target="_blank" rel="noopener noreferrer">
+          Nadjite nas ovde:
+        </a>
       </p>
       <div>
-        <a href={hrefData}>
+        <a href={hrefData} target="_blank" rel="noopener noreferrer">
           <GoogleMapColore />
         </a>
       </div>
       <p>
-        <a href={hrefData}>
+        <a href={hrefData} target="_blank" rel="noopener noreferrer">
           Groblje Orlovača lok. 30 Beograd
         </a>
       </p>

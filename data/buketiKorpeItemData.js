@@ -328,7 +328,7 @@ export const buketiKorpeItemData = [
     link: `/single/buket-korpa/roze-ljiljan-prirodna-korpa${categoryKorpe}`,
     sluglink: "roze-ljiljan-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
-    prodId: "BU-011",
+    prodId: "BU-010",
     category: categorySchema[0],
   },
 
@@ -468,25 +468,60 @@ export const buketiKorpeItemData = [
     availability: "https://schema.org/PreOrder",
     prodId: "BU-014",
   },
+  {
+    similarTo: [
+      "Svetlo roze gerberi",
+      "Crveni ljiljan ~ bela ruža",
+      "Korpa crimson gerber",
+    ],
+    test: [5, 4, 3],
+    id: 15,
+    title: "Korpa Roze Gerber",
+    price: "1.500",
+    priceRange: "1.000 - 2.500",
+    includes: ["gerber", "mrežica", "lovor", "robelini"],
+    imageBig:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa-mini.webp",
+    alt: "Prirodna korpa roze gerber lovor visnja mrezica zelenilo",
+    text: "Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa${categoryKorpe}`,
+    link: `/single/buket-korpa/ljubicasti-gerber-ljubicasta-masna-prirodna-korpa${categoryKorpe}`,
+    sluglink: "ljubicasti-gerber-ljubicasta-masna-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-015",
+  },
+
   // {
+  //   similarTo: [
+  //     "Crveni ljiljan ~ bela ruža",
+  //     "Beli ljiljan ~ crvena ruža",
+  //     "Bele gladiole",
+  //   ],
   //   test: [5, 4, 3],
   //   id: 13,
-  //   title: "BTITLE",
+  //   title: "TITLE",
   //   price: "NA.500",
   //   priceRange: "1.000 - 2.500",
   //   includes: [],
   //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
-  //   imageBigWebP:
-  //     "/images/buketi-korpe/INPUTIMAGE.webp",
-  //   imageSmall:
-  //     "/images/buketi-korpe/INPUTIMAGE-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
+  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
   //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
-  //   imageMini:
-  //     "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/buketi-korpe/INPUTIMAGE-mini.webp",
+  //   imageMini: "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/buketi-korpe/INPUTIMAGE-mini.webp",
   //   alt: "ALTTTTTT",
   //   text: "DESCRIPTION",
   //   httpaddress: `https://hrizantema.rs/single/buket-korpa/INPUTLINK${categoryKorpe}`,
