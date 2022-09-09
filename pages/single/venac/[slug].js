@@ -1,8 +1,9 @@
-import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
-import HeadSingle from "../../../components/heads/HeadSingle";
+import BigVerticalSingleCard from '../../../components/cards/BigVerticalSingleCard';
+import HeadSingle from '../../../components/heads/HeadSingle';
 
-import { venciSetData } from "../../../utils/similarsFinder";
-import { simVenciDataFind } from "../../../utils/testSimilars";
+// import { venciSetData } from "../../../utils/similarsFinder";
+import { venciItemData } from '../../../data/venciItemData';
+import { simVenciDataFind } from '../../../utils/testSimilars';
 
 export default function Slug({ pageItems, smallSimilarItems }) {
   return (
@@ -18,7 +19,7 @@ export default function Slug({ pageItems, smallSimilarItems }) {
 
 export async function getStaticProps(context) {
   // pageItems LOGIC
-  const data = venciSetData;
+  const data = venciItemData;
   const data2 = simVenciDataFind;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
@@ -34,7 +35,7 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
-  const data = venciSetData;
+  const data = venciItemData;
 
   const paths = data.map((way) => ({
     params: { slug: way.sluglink },

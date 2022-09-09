@@ -132,4 +132,6 @@ Ružičasti cvetovi predstavljaju milost, saosećanje i nevinost.
 
 Zeleno cveće označava prirodu, zdravlje i obnovu.
 
-####
+##### Venac srce
+
+Proslavite život svog dragog prijatelja ili voljene osobe sa ovim prelepim vencem. Napravljen od bujnih crvenih ruža, savršen je simbol naklonosti i ljubavi. U obliku srca, jedinstven je i izuzetno poseban. To će dodati toplinu i eleganciju sahrani ili pomenu. Cvećara Hrizantema će isporučiti ovaj cvetni aranžman svež i na vreme za vaše okupljanje. Uključićemo i vašu poruku kako bismo je učinili ličnim i sentimentalnijim izrazom vašeg saučešća.
