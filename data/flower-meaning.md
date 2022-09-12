@@ -46,6 +46,10 @@ Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
 
 Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
 
+## Roze ljiljan orijental carski ljiljan 'Stargazer'
+
+Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo.
+
 ## Roze gerber
 
 Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.
@@ -78,7 +82,9 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 
 ### Ljiljan
 
-Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti.
+Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti. 
+
+Ljiljani predstavljaju gest saučešća nakon gubitka.
 
 ### Gerber
 

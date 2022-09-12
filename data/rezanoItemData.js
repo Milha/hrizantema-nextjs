@@ -432,7 +432,49 @@ export const rezanoItemData = [
     prodId: "KO-013",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Beli carski ljiljan orijental",
+      "Ljubičasti carski ljiljan orijental",
+      "Narandžasti carski ljiljan orijental",
+    ],
+    test: [1, 2, 3],
+    id: 14,
+    title: "Roze beli carski ljiljan orijental 'Stargazer'",
+    price: "600",
+    priceRange: "500 - 800",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-mini.webp",
+    alt: "Belo roze orijental carski ljiljan stargazer prirodni rezani komadni cvet",
+    text: "Ljiljani predstavljaju gest saučešća nakon gubitka. Roze zvezdari ljiljana orijentala simbolizuju prosperitet, obilje i bogatstvo.",
+    httpaddress: `https://hrizantema.rs/single/rezano/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    link: `/single/rezano/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    sluglink:
+      "belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-014",
+    category: categorySchema,
+  },
+
   // {
+  //   similarTo: [
+  //     "Beli ljiljan",
+  //     "Ljubičasti carski ljiljan orijental",
+  //     "Bela margareta",
+  //   ],
   //   test: [1, 2, 3],
   //   id: 1,
   //   title: "TITLE",
