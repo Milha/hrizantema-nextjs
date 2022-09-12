@@ -1,11 +1,11 @@
-import "../styles/globals.scss";
+import '../styles/globals.scss';
 
-import Head from "next/head";
+import Head from 'next/head';
 
-import { firmSchema } from "../utils/firmSchema";
+import { firmSchema } from '../utils/firmSchema';
 // import Header from "../components/layout/Header";
-import HeaderNew from "../components/layout/HeaderNew";
-import GoogleAnalytics from "../components/diverse/GoogleAnalytics";
+import HeaderNew from '../components/layout/HeaderNew';
+import GoogleAnalytics from '../components/diverse/GoogleAnalytics';
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -19,6 +19,9 @@ function MyApp({ Component, pageProps }) {
           name="description"
           content="Hrizantema je cvećara na groblju Orlovača, prodaja cveća i izrada cvetnih aranžmana. Prirodni i vestački venci, suze, buketi."
         />
+
+        {/* Yandex Meta registration */}
+        <meta name="yandex-verification" content="a2ab817209920ace" />
 
         {/* META:OG */}
         <meta

@@ -1,8 +1,9 @@
-import ShareLinksCont from "../conts/ShareLinksCont";
-import SimilarsCont from "../conts/SimilarsCont";
-import classes from "./BigVerticalSingleCard.module.scss";
+import ShareLinksCont from '../conts/ShareLinksCont';
+import SimilarsCont from '../conts/SimilarsCont';
+import classes from './BigVerticalSingleCard.module.scss';
 // import MiniSimilar from "./MiniSimilar";
-import Includes from "./card-items/Includes";
+import Includes from './card-items/Includes';
+import MoreText from './card-items/MoreText';
 
 export default function BigVerticalSingleCard({ data, similarPropData }) {
   // console.log(data.imageBig, "FROM BIG VERTICAl - Data");
@@ -16,12 +17,12 @@ export default function BigVerticalSingleCard({ data, similarPropData }) {
             {/* <source srcSet={data.imageSmallWebP} type="image/webp" /> */}
             <source
               srcSet={data.imageSmallWebP}
-              media={"(max-width: 1000px)"}
+              media={'(max-width: 1000px)'}
               type="image/webp"
             />
             <source
               srcSet={data.imageSmall}
-              media={"(max-width: 1000px)"}
+              media={'(max-width: 1000px)'}
               type="image/jpg"
             />
 
@@ -41,10 +42,11 @@ export default function BigVerticalSingleCard({ data, similarPropData }) {
         </div>
         <div className={classes.text_cont}>
           <p className={classes.price}>
-            {data.price === "" ? data.priceRange : data.price} din*
+            {data.price === '' ? data.priceRange : data.price} din*
           </p>
           <h2 className={classes.title}>{data.title}</h2>
           <p className={classes.desc}>{data.text}</p>
+          {data.text2 ? <MoreText data={data.text2} /> : null}
           {data.includes ? <Includes includes={data.includes} /> : null}
           <p className={classes.code}>
             <span>šifra:</span> {data.prodId}
