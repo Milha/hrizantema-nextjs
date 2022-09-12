@@ -441,8 +441,8 @@ export const rezanoItemData = [
     test: [1, 2, 3],
     id: 14,
     title: "Roze beli carski ljiljan orijental 'Stargazer'",
-    price: "600",
-    priceRange: "500 - 800",
+    price: "800",
+    priceRange: "500 - 900",
     includes: null,
     imageBig:
       "/images/rezano-cvece/belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece.jpg",
