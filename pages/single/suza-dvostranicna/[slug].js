@@ -4,7 +4,8 @@ import HeadSingle from "../../../components/heads/HeadSingle";
 // import { suzeItemData } from "../../../data/suzeItemData";
 // import { similarsSuzeFinder } from "../../../utils/similarsFinder";
 
-import { dvostranicneSuzeSetData } from "../../../utils/similarsFinder";
+import { suzeDvostranicneData } from "../../../data/suzeDvostranicneItemData";
+// import { dvostranicneSuzeSetData } from "../../../utils/similarsFinder";
 import { simDvostranicneSuzeTest } from "../../../utils/testSimilars";
 
 export default function Slug({ pageItems, smallSimilarItems }) {
@@ -24,7 +25,7 @@ export default function Slug({ pageItems, smallSimilarItems }) {
 
 export async function getStaticProps(context) {
   // pageItems LOGIC
-  const data = dvostranicneSuzeSetData;
+  const data = suzeDvostranicneData;
   const data2 = simDvostranicneSuzeTest;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
@@ -45,7 +46,7 @@ export async function getStaticProps(context) {
 }
 
 export async function getStaticPaths() {
-  const data = dvostranicneSuzeSetData;
+  const data = suzeDvostranicneData;
 
   const paths = data.map((way) => ({
     params: { slug: way.sluglink },

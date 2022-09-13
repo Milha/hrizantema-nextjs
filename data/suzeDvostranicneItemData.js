@@ -256,7 +256,85 @@ export const suzeDvostranicneData = [
     prodId: "DS-007",
     category: categorySchema,
   },
+
   // {
+  //   similarTo: [
+  //     "Beli ljiljan ~ crvene ruže",
+  //     "Bela ruža ~ bela gladiola",
+  //     "Beli ljiljan ~ crvena ruža",
+  //   ],
+  //   test: [0, 0, 0],
+  //   id: 8,
+  //   title: "Crvena ruža ~ gerber ~ bela baltika",
+  //   price: "10.000",
+  //   priceRange: "8.000 - 12.500",
+  //   includes: ["ruže", "gerbere", "hrizanteme"],
+  //   imageBig:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza.jpg",
+  //   imageBigWebP:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza.webp",
+  //   imageSmall:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza-small.webp",
+  //   imageGMB:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza-gmb.jpg",
+  //   imageMini:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza-mini.webp",
+  //   alt: "dvostranican suza za sahrane za sanduk prirodno cvece crvene ruze crveni gerberi bele hrizanteme baltika",
+  //   text: "Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+  //   httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza${categorySuze}`,
+  //   link: `/single/suza-dvostranicna/crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza${categorySuze}`,
+  //   sluglink:
+  //     "crvene-ruze-crveni-gerber-bele-margarete-robelini-dvostranicna-prirodna-suza",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "DS-008",
+  //   category: categorySchema,
+  // },
+  // {
+  //   similarTo: [
+  //     "Beli ljiljan ~ crvene ruže",
+  //     "Bela ruža ~ mahonija",
+  //     "Beli ljiljan ~ crvena ruža",
+  //   ],
+  //   test: [0, 0, 0],
+  //   id: 9,
+  //   title: "Beli ljiljan ~ crveni gerber ~ bele hrizanteme",
+  //   price: "10.000",
+  //   priceRange: "8.000 - 12.500",
+  //   includes: ["ljiljani", "gerbere", "hrizanteme"],
+  //   imageBig:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.jpg",
+  //   imageBigWebP:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.webp",
+  //   imageSmall:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-small.webp",
+  //   imageGMB:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-gmb.jpg",
+  //   imageMini:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-mini.webp",
+  //   alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
+  //   text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crveni gerberi predstavljaju ljubav. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+  //   httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza${categorySuze}`,
+  //   link: `/single/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza${categorySuze}`,
+  //   sluglink:
+  //     "beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "DS-009",
+  //   category: categorySchema,
+  // },
+  // {
+  //   similarTo: [
+  //     "Bela kala ~ bela margareta",
+  //     "Kala ~ beli gerber",
+  //     "Bela ruža ~ bela gladiola",
+  //   ],
   //   test: [0, 0, 0],
   //   id: 5,
   //   title: "TITLE",

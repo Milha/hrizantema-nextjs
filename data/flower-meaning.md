@@ -66,15 +66,29 @@ Svetloružičasti gerberi označavaju divljenje i saosećanje, što znači da s
 
 Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u pitanju gerberi, oni označavaju da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.
 
+## Narandžasta ruža
+
+Poklonite narandžastih ruža osobi kojoj je potrebno podizanje raspoloženja. Narandžaste ruže su simbol energije i entuzijazma. Ovo svetlo cveće će odmah podići energiju i motivaciju.
+
 ## Žuta ruža
 
 Žuta ruža je simbol prijateljstva koje izražava vašu podršku.
 
 Kada se neko oseća loše, slanje buketa jarko žutih ruža je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Buket jarko žutog cveća takođe može da izrazi brigu i brigu za ljude koji su vam dragi i savršeno prenesu želje da se oporavite.
 
+Sama svetla boja podseća na sunce svojom suštinskom toplinom i dobrim raspoloženjem u sunčanim danima. Zato žute ruže simbolizuju radost, raspoloženje i optimizam. Kada se neko oseća loše, slanje buketa jarko žutih ruža za isporuku je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Buket jarko žutog cveća takođe može da izrazi brigu i brigu za ljude koji su vam dragi i savršeno prenesu želje „ozdravite“.
+
+Žute ruže mogu i predstavljati ljubomoru, nevernost i prošlu ljubav. Može značiti i želju da se oprosti i prekine vezu.
+
 ## Žuti ljiljan
 
 Žuti ljiljan je simbol zdravlja, blagostanja i čistoće. Zlatna boja ljiljana odiše izuzetnom lepotom i snagom van okolnosti i životnih napora.
+
+## Žuti gerber
+
+Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću.
+
+Žute gerbere možete poslati nekome ko se oporavlja od bolesti da biste ih razveselili. Buket žutih gerbera je siguran način da preokrenete tmuran dan.
 
 ### Ruža
 
@@ -82,7 +96,7 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 
 ### Ljiljan
 
-Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti. 
+Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti.
 
 Ljiljani predstavljaju gest saučešća nakon gubitka.
 

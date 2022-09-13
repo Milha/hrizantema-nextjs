@@ -376,12 +376,53 @@ export const suzeItemData = [
   },
 
   // {
-  //   test: [8, 1, 3],
-  //   id: 5,
+  //   similarTo: [
+  //     "Margareta gerber",
+  //     "Beli ljiljan ~ margareta",
+  //     "Bele margarete ~ crvene gladiole",
+  //   ],
+  //   test: [4, 2, 9],
+  //   id: 12,
+  //   title: "Bele baltika margarete ~ crvene gerberi",
+  //   price: "2.000",
+  //   priceRange: "2.000 - 3.500",
+  //   includes: ["margarete", "gladiole", "mrežica"],
+  //   imageBig:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.jpg",
+  //   imageBigWebP:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.webp",
+  //   imageSmall:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-small.webp",
+  //   imageGMB:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-gmb.jpg",
+  //   imageMini:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-mini.webp",
+  //   alt: "Prirodna suza prirodno cvece bele hrizanteme margarete crvene gladiole mrezica",
+  //   text: "Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.",
+  //   httpaddress: `https://hrizantema.rs/single/suza/bela-baltika-margareta-crveni-gerber-prirodna-suza${categorySuze}`,
+  //   link: `/single/suza/bela-baltika-margareta-crveni-gerber-prirodna-suza${categorySuze}`,
+  //   sluglink: "bela-baltika-margareta-crveni-gerber-prirodna-suza",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "SU-012",
+  //   category: categorySchema,
+  // },
+
+  // {
+  //   similarTo: [
+  //     "Margareta gerber",
+  //     "Beli ljiljan ~ margareta",
+  //     "Crvene ruža ~ bela gladiola",
+  //   ],
+  //   test: [4, 2, 9],
+  //   id: 12,
   //   title: "TITLE",
   //   price: "2.000",
-  //   priceRange: "1.000 - 2.500",
-  //   includes: [],
+  //   priceRange: "2.000 - 3.500",
+  //   includes: ["margarete", "gladiole", "mrežica"],
   //   imageBig: "/images/suze/INPUTIMAGE.jpg",
   //   imageBigWebP: "/images/suze/INPUTIMAGE.webp",
   //   imageSmall: "/images/suze/INPUTIMAGE-small.jpg",
@@ -390,67 +431,12 @@ export const suzeItemData = [
   //   imageMini: "/images/suze/INPUTIMAGE-mini.jpg",
   //   imageMiniWebP: "/images/suze/INPUTIMAGE-mini.webp",
   //   alt: "ALT",
-  //   text: "DESCRIPTION",
-  //   httpaddress: `https://hrizantema.rs/single/suza/INPUTLINK${categorySuze}`,
-  //   link: `/single/suza/INPUTLINK${categorySuze}`,
-  //   sluglink: "INPUTLINK",
-  //   prodId: "SU-005",
+  //   text: "DESC",
+  //   httpaddress: `https://hrizantema.rs/single/suza/LINKINPUT${categorySuze}`,
+  //   link: `/single/suza/LINKINPUT${categorySuze}`,
+  //   sluglink: "LINKINPUT",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "SU-012",
   //   category: categorySchema,
-  // },
-
-  // {
-  //   id: 2,
-  //   title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ponuda suza prirodne dvostranicne vestacke",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
-  // {
-  //   id: 3,
-  //   title: "Ostalo u poundi",
-  //   price: "4.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
-
-  // {
-  //   id: 2,
-  //   title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ponuda suza prirodne dvostranicne vestacke",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
-  // {
-  //   id: 3,
-  //   title: "Ostalo u poundi",
-  //   price: "4.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
   // },
 ];

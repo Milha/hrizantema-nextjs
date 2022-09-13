@@ -471,6 +471,72 @@ export const rezanoItemData = [
 
   // {
   //   similarTo: [
+  //     "Crvena ruža",
+  //     "Narandžasti carski ljiljan orijental",
+  //     "Bela ruža",
+  //   ],
+  //   test: [1, 2, 3],
+  //   id: 15,
+  //   title: "Žute i naranžaste ruže",
+  //   price: "200",
+  //   priceRange: "100 - 300",
+  //   includes: null,
+  //   imageBig:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece.jpg",
+  //   imageBigWebP:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece.webp",
+  //   imageSmall:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-small.webp",
+  //   imageGMB:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-gmb.jpg",
+  //   imageMini:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-mini.webp",
+  //   alt: "Narandzaste ruze zute ruze prirodni rezani komadni cvet",
+  //   text: "Žuta ruža je simbol prijateljstva koje izražava vašu podršku. Žute ruže mogu i predstavljati ljubomoru, nevernost i prošlu ljubav. Može značiti i želju da se oprosti i prekine vezu. Poklonite narandžastih ruža osobi kojoj je potrebno podizanje raspoloženja. Narandžaste ruže su simbol energije i entuzijazma. Ovo svetlo cveće će odmah podići energiju i motivaciju.",
+  //   httpaddress: `https://hrizantema.rs/single/rezano/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece${categoryRezano}`,
+  //   link: `/single/rezano/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece${categoryRezano}`,
+  //   sluglink: "zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece",
+  //   availability: "https://schema.org/InStock",
+  //   prodId: "KO-015",
+  //   category: categorySchema,
+  // },
+  // {
+  //   similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
+  //   test: [1, 2, 3],
+  //   id: 16,
+  //   title: "Ljubičasti i beli gerberi",
+  //   price: "200",
+  //   priceRange: "100 - 300",
+  //   includes: null,
+  //   imageBig:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.jpg",
+  //   imageBigWebP:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.webp",
+  //   imageSmall:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.webp",
+  //   imageGMB:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-gmb.jpg",
+  //   imageMini:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.webp",
+  //   alt: "Ljubicasti gerberi beli gerberi prirodni rezani komadni cvet",
+  //   text: "Ljubičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ljubičasti gerberi su simbol zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+  //   httpaddress: `https://hrizantema.rs/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
+  //   link: `/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
+  //   sluglink: "ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece",
+  //   availability: "https://schema.org/InStock",
+  //   prodId: "KO-016",
+  //   category: categorySchema,
+  // }
+  // {
+  //   similarTo: [
   //     "Beli ljiljan",
   //     "Ljubičasti carski ljiljan orijental",
   //     "Bela margareta",
