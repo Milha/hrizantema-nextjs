@@ -79,11 +79,8 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <GoogleAnalytics />
-
-      {/* <Header /> */}
-      {/* <hr /> */}
+    
       <HeaderNew />
-      {/* <hr /> */}
 
       <main>
         <Component {...pageProps} />

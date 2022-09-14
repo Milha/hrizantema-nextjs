@@ -38,7 +38,7 @@ export default function HeadSingle({ data }) {
   return (
     <Head>
       {/* TITLE */}
-      <title>Cvećara Hrizantema Orlovača | {data.title}</title>
+      <title>Cvećara Orlovača | {data.title}</title>
 
       {/* REL CANNONICAL */}
       <link rel="canonical" href={data.httpaddress} />
@@ -51,7 +51,7 @@ export default function HeadSingle({ data }) {
       <meta property="og:type" content="product" key="type" />
       <meta
         property="og:title"
-        content={`Cvećara Hrizantema Orlovača | ${data.title}`}
+        content={`Cvećara Orlovača | ${data.title}`}
         key="title"
       />
       <meta property="og:description" content={data.text} key="description" />
