@@ -1,9 +1,27 @@
-import React from 'react'
+import Link from "next/link";
 
-function OriginLinksNav() {
+import HomeHeart from "../../icons/HomeHeart";
+import ChevronSingleRight from "../../icons/ChevronSingleRight";
+
+import classes from "./OriginLinksNav.module.scss";
+
+function OriginLinksNav({ list, addHttpaddress }) {
+  console.log(list);
   return (
-    <div>OriginLinksNav</div>
-  )
+    <div className={classes.cont}>
+      <Link href="/">
+        <a>
+          <HomeHeart />
+        </a>
+      </Link>
+      <span className={classes.chevron_arrow}>
+        <ChevronSingleRight />
+      </span>
+      <Link href={addHttpaddress}>
+        <a>{list}</a>
+      </Link>
+    </div>
+  );
 }
 
-export default OriginLinksNav
+export default OriginLinksNav;

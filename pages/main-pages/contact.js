@@ -1,16 +1,19 @@
 import QandAs from "../../components/vary-components/QandAs";
 import classes from "./contact.module.scss";
+import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 
 import { qandasData } from "../../data/qandas-data";
 
 import ContactHead from "../../components/heads/ContactHead";
 
 export default function Contact({ qandasData }) {
-  
   return (
     <>
       <ContactHead qandasProps={qandasData} />
       <main>
+        <div className={classes.origin_cont}>
+          <OriginLinksNav list="Kontak" addHttpaddress="/main-pages/contact" />
+        </div>
         <div className={classes.contact_cont}>
           <div className={classes.contact_item}>
             <p>Možete nas kontaktirati:</p>

@@ -1,5 +1,6 @@
 import SmallCard from "../../components/cards/SmallCard";
 import HeadList from "../../components/heads/HeadList";
+import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 
 import classes from "./ListsArticles.module.scss";
 
@@ -20,6 +21,10 @@ export default function Lists({ inject }) {
         data={inject}
         addTitle="Ponuda rezanog cveća"
         addHttpaddress="https://hrizantema.rs/lists/lista-ponuda-rezano-cvece"
+      />
+      <OriginLinksNav
+        list="Rezano cveće"
+        addHttpaddress="/lists/lista-ponuda-rezano-cvece"
       />
       <article className={classes.cont}>
         {inject.map((inj) => (

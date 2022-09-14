@@ -1,3 +1,24 @@
 .cont {
-  background-color: red;
+  // background-color: red;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2vh 3vw;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  color: #33160a;
+
+  @media (min-width: 75rem) {
+    width: 70%;
+    padding: 2vh 1vw;
+  }
+
+  .chevron_arrow {
+    // background-color: rebeccapurple;
+    height: 1rem;
+    // margin: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
 }

@@ -1,10 +1,11 @@
-import SmallCardHorizontal from '../../components/cards/SmallCardHorizontal';
-import HeadList from '../../components/heads/HeadList';
+import SmallCardHorizontal from "../../components/cards/SmallCardHorizontal";
+import HeadList from "../../components/heads/HeadList";
+import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 
-import classes from './ListsArticles.module.scss';
+import classes from "./ListsArticles.module.scss";
 
-import { suzeDvostranicneData } from '../../data/suzeDvostranicneItemData';
-import ArrowToTop from '../../components/ui/ArrowToTop';
+import { suzeDvostranicneData } from "../../data/suzeDvostranicneItemData";
+import ArrowToTop from "../../components/ui/ArrowToTop";
 
 const reverte = suzeDvostranicneData.reverse();
 
@@ -14,8 +15,12 @@ export default function Lists({ inject }) {
     <>
       <HeadList
         data={inject}
-        addTitle="Ponuda Klasičnih Suza"
+        addTitle="Ponuda Dvostraničnih Suza"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-dvostranicne-suze"
+      />
+      <OriginLinksNav
+        list="Dvostranične suze"
+        addHttpaddress="/lists/list-ponuda-dvostranicne-suze"
       />
       <article className={`${classes.cont} ${classes.horizontal_items}`}>
         {inject.map((inj) => (

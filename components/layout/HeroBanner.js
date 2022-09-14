@@ -20,12 +20,12 @@ export default function HeroBanner() {
           crvenim ružama, prelepim ljiljanima orijentalima, raznobojnim
           margaretama i ostalim vrstama rezanog i saksijskog cveća.
         </p>
-        <p>
+        {/* <p>
           Stavljamo Vam na raspolaganje široku i raznovrsnu ponudu cveća kako u
           pogledu vrsta koje se koriste, tako i posvećenosti, brige i puno
           ljubavi da pripremite cvetne kompozicije pogodne za svaku od Vaših
           prilika.
-        </p>
+        </p> */}
         {/* <p>
           Cvećara Hrizantema Orlovača nudi veliki izbor cveća kojim bi preneli
           vašu ljubav i podršku zbog gubitka voljene osobe
