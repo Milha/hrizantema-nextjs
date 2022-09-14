@@ -24,6 +24,9 @@ function ContactHead({ qandasProps }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaDataQandAs) }}
       />
+
+      {/* REL CANNONICAL */}
+      <link rel="canonical" href="https://hrizantema.rs/main-pages/contact" />
     </Head>
   );
 }
