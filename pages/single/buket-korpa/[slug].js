@@ -1,5 +1,6 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
+import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
 // import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
 // import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
@@ -12,6 +13,12 @@ export default function Slug({ pageItems, smallSimilarItems }) {
   return (
     <div>
       <HeadSingle data={pageItems} />
+      <OriginLinksNavSingle
+        list="Buketi"
+        addHttpaddress="https://hrizantema.rs/lists/list-ponuda-buketi-korpe"
+        linksSingle={pageItems.httpaddress}
+        titleSingle={pageItems.title}
+      />
       <BigVerticalSingleCard
         data={pageItems}
         similarPropData={smallSimilarItems}

@@ -1,14 +1,21 @@
-import BigVerticalSingleCard from '../../../components/cards/BigVerticalSingleCard';
-import HeadSingle from '../../../components/heads/HeadSingle';
+import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
+import HeadSingle from "../../../components/heads/HeadSingle";
+import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
 // import { venciSetData } from "../../../utils/similarsFinder";
-import { venciItemData } from '../../../data/venciItemData';
-import { simVenciDataFind } from '../../../utils/testSimilars';
+import { venciItemData } from "../../../data/venciItemData";
+import { simVenciDataFind } from "../../../utils/testSimilars";
 
 export default function Slug({ pageItems, smallSimilarItems }) {
   return (
     <>
       <HeadSingle data={pageItems} />
+      <OriginLinksNavSingle
+        list="Venci"
+        addHttpaddress="https://hrizantema.rs/lists/list-ponuda-venci"
+        linksSingle={pageItems.httpaddress}
+        titleSingle={pageItems.title}
+      />
       <BigVerticalSingleCard
         data={pageItems}
         similarPropData={smallSimilarItems}

@@ -22,7 +22,7 @@ export default function SimilarsCont({ data, small, similarPropData }) {
   // const similarData1 = data.similar[0];
   // const similarData2 = data.similar[1];
   // const similarData3 = data.similar[2];
-  console.log(similarPropData);
+  // console.log(similarPropData);
 
   return (
     <div className={small ? classes.cont_horizontal : classes.cont}>

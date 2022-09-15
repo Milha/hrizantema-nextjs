@@ -20,7 +20,7 @@ export default function Lists({ inject }) {
       />
       <OriginLinksNav
         list="Klasične suze"
-        addHttpaddress="/lists/list-ponuda-dvostranicne-suze"
+        addHttpaddress="/lists/list-ponuda-suze"
       />
       <article className={classes.cont}>
         {inject.map((inj) => (

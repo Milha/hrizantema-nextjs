@@ -1,5 +1,6 @@
 import BigHorizontalSingleCard from "../../../components/cards/BigHorizontalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
+import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
 // import { suzeItemData } from "../../../data/suzeItemData";
 // import { similarsSuzeFinder } from "../../../utils/similarsFinder";
@@ -15,6 +16,12 @@ export default function Slug({ pageItems, smallSimilarItems }) {
     <>
       <HeadSingle data={pageItems} />
       {/* <BigVerticalSingleCard data={pageItems} /> */}
+      <OriginLinksNavSingle
+        list="Dvostranične suze"
+        addHttpaddress="https://hrizantema.rs/lists/list-ponuda-dvostranicne-suze"
+        linksSingle={pageItems.httpaddress}
+        titleSingle={pageItems.title}
+      />
       <BigHorizontalSingleCard
         data={pageItems}
         similarPropData={smallSimilarItems}

@@ -1,5 +1,6 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
+import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
 // import { ostaloUPonudiData } from "../../../data/ostaloUPonudiData";
 // import { similarsOstaloFinder } from "../../../utils/similarsFinder";
@@ -14,6 +15,12 @@ export default function Slug({ pageItems, smallSimilarItems }) {
   return (
     <>
       <HeadSingle data={pageItems} />
+      <OriginLinksNavSingle
+        list="Ostalo u ponudi"
+        addHttpaddress="https://hrizantema.rs/lists/list-ostalo-u-ponudi"
+        linksSingle={pageItems.httpaddress}
+        titleSingle={pageItems.title}
+      />
       <BigVerticalSingleCard
         data={pageItems}
         similarPropData={smallSimilarItems}

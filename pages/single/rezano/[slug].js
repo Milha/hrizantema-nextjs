@@ -1,5 +1,7 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
+import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
+
 // import { rezanoItemData } from "../../../data/rezanoItemData";
 import { rezanoSimilarData } from "../../../utils/similarsFinder";
 import { simRezanoDataFind } from "../../../utils/testSimilars";
@@ -10,6 +12,12 @@ export default function Slug({ pageItems, smallSimilarItems }) {
   return (
     <div>
       <HeadSingle data={pageItems} />
+      <OriginLinksNavSingle
+        list="Rezano cveće"
+        addHttpaddress="https://hrizantema.rs/lists/lista-ponuda-rezano-cvece"
+        linksSingle={pageItems.httpaddress}
+        titleSingle={pageItems.title}
+      />
       <BigVerticalSingleCard
         data={pageItems}
         similarPropData={smallSimilarItems}

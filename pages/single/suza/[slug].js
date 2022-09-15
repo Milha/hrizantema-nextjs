@@ -1,5 +1,6 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
+import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
 // import { suzeItemData } from "../../../data/suzeItemData";
 // import { similarsSuzeFinder } from "../../../utils/similarsFinder";
@@ -9,9 +10,17 @@ import { simSuzeDataFind } from "../../../utils/testSimilars";
 
 export default function Slug({ pageItems, smallSimilarItems }) {
   // console.log(pageItems);
+  const listLink = pageItems.category;
+  // console.log(listLink);
   return (
     <>
       <HeadSingle data={pageItems} />
+      <OriginLinksNavSingle
+        list="Klasične suze"
+        addHttpaddress="https://hrizantema.rs/lists/list-ponuda-suze"
+        linksSingle={pageItems.httpaddress}
+        titleSingle={pageItems.title}
+      />
       <BigVerticalSingleCard
         data={pageItems}
         similarPropData={smallSimilarItems}
