@@ -945,41 +945,41 @@ export const venciItemData = [
     prodId: "VE-026",
     category: categorySchema,
   },
-  // {
-  //   similarTo: [
-  //     "Roze gerber ~ bele ruže",
-  //     "Beli gerber ~ žuti gerber",
-  //     "Venac srce od gerbera",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 27,
-  //   title: "Beli gerber ~ žuti gerber ~ gipsofila",
-  //   price: "4.900",
-  //   priceRange: "6.000 - 9.500",
-  //   includes: ["gerbere", "gipsofila", "robelini"],
-  //   imageBig:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2.webp",
-  //   imageSmall:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-small.webp",
-  //   imageGMB:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-mini.webp",
-  //   alt: "Prirodni venac beli gerber zuti gerber bela gipsofila",
-  //   text: "Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću. Žute gerbere možete poslati nekome ko se oporavlja od bolesti da biste ih razveselili. Buket žutih gerbera je siguran način da preokrenete tmuran dan.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2${categoryVenci}`,
-  //   link: `/single/venac/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2${categoryVenci}`,
-  //   sluglink: "zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-027",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Roze gerber ~ bele ruže",
+      "Beli gerber ~ žuti gerber",
+      "Venac srce od gerbera",
+    ],
+    test: [15, 1, 8],
+    id: 27,
+    title: "Beli gerber ~ žuti gerber ~ gipsofila",
+    price: "4.900",
+    priceRange: "6.000 - 9.500",
+    includes: ["gerbere", "gipsofila", "robelini"],
+    imageBig:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2.jpg",
+    imageBigWebP:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2.webp",
+    imageSmall:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-small.jpg",
+    imageSmallWebP:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-small.webp",
+    imageGMB:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-gmb.jpg",
+    imageMini:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2-mini.webp",
+    alt: "Prirodni venac beli gerber zuti gerber bela gipsofila",
+    text: "Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću. Žute gerbere možete poslati nekome ko se oporavlja od bolesti da biste ih razveselili. Buket žutih gerbera je siguran način da preokrenete tmuran dan.",
+    httpaddress: `https://hrizantema.rs/single/venac/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2${categoryVenci}`,
+    link: `/single/venac/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2${categoryVenci}`,
+    sluglink: "zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-027",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Ruža ~ gerber ~ margareta",
