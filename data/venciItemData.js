@@ -980,6 +980,7 @@ export const venciItemData = [
     prodId: "VE-027",
     category: categorySchema,
   },
+  
   // {
   //   similarTo: [
   //     "Ruža ~ gerber ~ margareta",
