@@ -2,6 +2,11 @@ import Link from "next/link";
 import classes from "./SmallCard.module.scss";
 
 export default function SmallCard({ data }) {
+  // const upperFirstLetter = data.title
+  //   .split(" ")
+  //   .map((el) => el.charAt(0).toUpperCase() + el.slice(1))
+  //   .join(" ");
+  // console.log(upperFirstLetter);
   return (
     <div className={classes.cont}>
       <div className={classes.image_cont}>

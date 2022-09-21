@@ -469,41 +469,42 @@ export const rezanoItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: [
-  //     "Crvena ruža",
-  //     "Narandžasti carski ljiljan orijental",
-  //     "Bela ruža",
-  //   ],
-  //   test: [1, 2, 3],
-  //   id: 15,
-  //   title: "Žute i naranžaste ruže",
-  //   price: "200",
-  //   priceRange: "100 - 300",
-  //   includes: null,
-  //   imageBig:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece.jpg",
-  //   imageBigWebP:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece.webp",
-  //   imageSmall:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-small.webp",
-  //   imageGMB:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-gmb.jpg",
-  //   imageMini:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-mini.webp",
-  //   alt: "Narandzaste ruze zute ruze prirodni rezani komadni cvet",
-  //   text: "Žuta ruža je simbol prijateljstva koje izražava vašu podršku. Žute ruže mogu i predstavljati ljubomoru, nevernost i prošlu ljubav. Može značiti i želju da se oprosti i prekine vezu. Poklonite narandžastih ruža osobi kojoj je potrebno podizanje raspoloženja. Narandžaste ruže su simbol energije i entuzijazma. Ovo svetlo cveće će odmah podići energiju i motivaciju.",
-  //   httpaddress: `https://hrizantema.rs/single/rezano/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece${categoryRezano}`,
-  //   link: `/single/rezano/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece${categoryRezano}`,
-  //   sluglink: "zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece",
-  //   availability: "https://schema.org/InStock",
-  //   prodId: "KO-015",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Crvena ruža",
+      "Narandžasti carski ljiljan orijental",
+      "Bela ruža",
+    ],
+    test: [1, 2, 3],
+    id: 15,
+    title: "Žute i naranžaste ruže",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece-mini.webp",
+    alt: "Narandzaste ruze zute ruze prirodni rezani komadni cvet",
+    text: "Žuta ruža je simbol prijateljstva koje izražava vašu podršku. Žute ruže mogu i predstavljati ljubomoru, nevernost i prošlu ljubav. Može značiti i želju da se oprosti i prekine vezu. Poklonite narandžastih ruža osobi kojoj je potrebno podizanje raspoloženja. Narandžaste ruže su simbol energije i entuzijazma. Ovo svetlo cveće će odmah podići energiju i motivaciju.",
+    httpaddress: `https://hrizantema.rs/single/rezano/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece${categoryRezano}`,
+    link: `/single/rezano/zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece${categoryRezano}`,
+    sluglink: "zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-015",
+    category: categorySchema,
+  },
+
   // {
   //   similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
   //   test: [1, 2, 3],
@@ -564,45 +565,7 @@ export const rezanoItemData = [
   //   category: categorySchema,
   // },
 
-  // {
-  //   id: 3,
-  //   title: "Ostalo u poundi",
-  //   price: "4.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
 
-  // {
-  //   id: 2,
-  //   title: "Ljiljan ~ ruža ~ gerber ~ margareta",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ponuda suza prirodne dvostranicne vestacke",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
-  // {
-  //   id: 3,
-  //   title: "Ostalo u poundi",
-  //   price: "4.500",
-  //   imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   cardImage: "/images/buketi-korpe/buket-crvene-ruze-perlice-gmb.jpg",
-  //   alt: "Ostalo u ponudi buketi saksije kucice za svece",
-  //   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto fugiat ipsum repellat ab voluptatem vero, rerum quae ea autem?",
-  //   httpaddress:
-  //     "https://hrizantema.rs/single/beograd-stan/cerska-stan-beograd-28m",
-  //   link: "/single/beograd-stan/cerska-stan-beograd-28m",
-  //   sluglink: "banatska_st_bg_76m",
-  // },
+
+  
 ];
