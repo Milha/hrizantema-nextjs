@@ -375,41 +375,41 @@ export const suzeItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: [
-  //     "Margareta gerber",
-  //     "Beli ljiljan ~ margareta",
-  //     "Bele margarete ~ crvene gladiole",
-  //   ],
-  //   test: [4, 2, 9],
-  //   id: 12,
-  //   title: "Bele baltika margarete ~ crvene gerberi",
-  //   price: "2.000",
-  //   priceRange: "2.000 - 3.500",
-  //   includes: ["margarete", "gladiole", "mrežica"],
-  //   imageBig:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.jpg",
-  //   imageBigWebP:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.webp",
-  //   imageSmall:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-small.webp",
-  //   imageGMB:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-gmb.jpg",
-  //   imageMini:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-mini.webp",
-  //   alt: "Prirodna suza prirodno cvece bele hrizanteme margarete crvene gladiole mrezica",
-  //   text: "Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.",
-  //   httpaddress: `https://hrizantema.rs/single/suza/bela-baltika-margareta-crveni-gerber-prirodna-suza${categorySuze}`,
-  //   link: `/single/suza/bela-baltika-margareta-crveni-gerber-prirodna-suza${categorySuze}`,
-  //   sluglink: "bela-baltika-margareta-crveni-gerber-prirodna-suza",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "SU-012",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Margareta gerber",
+      "Beli ljiljan ~ margareta",
+      "Bele margarete ~ crvene gladiole",
+    ],
+    test: [4, 2, 9],
+    id: 12,
+    title: "Bele baltika margarete ~ crvene gerberi",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
+    includes: ["margarete", "gladiole", "mrežica"],
+    imageBig:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.webp",
+    imageSmall:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza-mini.webp",
+    alt: "Prirodna suza prirodno cvece bele hrizanteme margarete crvene gladiole mrezica",
+    text: "Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.",
+    httpaddress: `https://hrizantema.rs/single/suza/bela-baltika-margareta-crveni-gerber-prirodna-suza${categorySuze}`,
+    link: `/single/suza/bela-baltika-margareta-crveni-gerber-prirodna-suza${categorySuze}`,
+    sluglink: "bela-baltika-margareta-crveni-gerber-prirodna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "SU-012",
+    category: categorySchema,
+  },
 
   // {
   //   similarTo: [

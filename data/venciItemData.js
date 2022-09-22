@@ -145,7 +145,7 @@ export const venciItemData = [
     test: [0, 6, 21],
     id: 4,
     title: "Srce crvena ruža",
-    price: "7.500",
+    price: "10.900",
     priceRange: "4.000 - 5.000",
     includes: ["ruže", "gipsofila", "lovor"],
     imageBig: "/images/venci/ruza-crvena-oblik-srce-venac.jpg",
@@ -247,7 +247,7 @@ export const venciItemData = [
     test: [19, 3, 13],
     id: 7,
     title: "Venac srce od gerbera",
-    price: "5.500",
+    price: "7.900",
     priceRange: "4.000 - 5.500",
     includes: ["gerbere"],
     imageBig: "/images/venci/gerber-crveni-oblik-srce-venac.jpg",
@@ -772,7 +772,7 @@ export const venciItemData = [
     test: [2, 22, 15],
     id: 22,
     title: "Srce bele ruže ~ beli gerber",
-    price: "11.000",
+    price: "11.900",
     priceRange: "9.000 - 11.500",
     includes: ["ruže", "gerbere", "gipsofila", "robelini", "lovor"],
     imageBig:
@@ -847,7 +847,7 @@ export const venciItemData = [
     test: [21, 22, 13],
     id: 24,
     title: "Beli orijental ~ beli gerber",
-    price: "6.200",
+    price: "6.900",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljane orijentale", "gerbere", "robelini", "lovor"],
     imageBig:
@@ -980,6 +980,7 @@ export const venciItemData = [
     prodId: "VE-027",
     category: categorySchema,
   },
+  
   // {
   //   similarTo: [
   //     "Ruža ~ gerber ~ margareta",
