@@ -2,10 +2,10 @@ import Link from "next/link";
 import classes from "./SmallCard.module.scss";
 
 export default function SmallCard({ data }) {
-  // const upperFirstLetter = data.title
-  //   .split(" ")
-  //   .map((el) => el.charAt(0).toUpperCase() + el.slice(1))
-  //   .join(" ");
+  const upperFirstLetter = data.title
+    .split(" ")
+    .map((el) => el.charAt(0).toUpperCase() + el.slice(1))
+    .join(" ");
   // console.log(upperFirstLetter);
   return (
     <div className={classes.cont}>
@@ -18,7 +18,7 @@ export default function SmallCard({ data }) {
       <div className={classes.text_cont}>
         <Link href={data.link}>
           <a>
-            <h3>{data.title}</h3>
+            <h3>{upperFirstLetter}</h3>
           </a>
         </Link>
         <p className={classes.desc}>{data.text}</p>
