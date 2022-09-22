@@ -8,7 +8,7 @@ export const rezanoItemData = [
     test: [1, 2, 4],
     id: 1,
     title: "Crvena ruža",
-    price: "200",
+    price: "250",
     priceRange: "200 - 400",
     includes: null,
     imageBig: "/images/rezano-cvece/crvena-ruza-rezano-komadno-cvece.jpg",
@@ -36,7 +36,7 @@ export const rezanoItemData = [
     test: [0, 5, 4],
     id: 2,
     title: "Bela ruža",
-    price: "200",
+    price: "250",
     priceRange: "200 - 400",
     includes: null,
     imageBig: "/images/rezano-cvece/bela-ruza-rezano-komadno-cvece.jpg",
@@ -371,7 +371,7 @@ export const rezanoItemData = [
     test: [4, 7, 9],
     id: 12,
     title: "Crveni gerber",
-    price: "200",
+    price: "250",
     priceRange: "100 - 300",
     includes: null,
     imageBig:
@@ -478,7 +478,7 @@ export const rezanoItemData = [
     test: [1, 2, 3],
     id: 15,
     title: "Žute i naranžaste ruže",
-    price: "200",
+    price: "250",
     priceRange: "100 - 300",
     includes: null,
     imageBig:
@@ -564,8 +564,4 @@ export const rezanoItemData = [
   //   prodId: "KO-001",
   //   category: categorySchema,
   // },
-
-
-
-  
 ];
