@@ -811,8 +811,8 @@ export const venciItemData = [
     test: [2, 21, 8],
     id: 23,
     title: "Ruže ~ gerbere ~ kale ~ robelini",
-    price: "9.000",
-    priceRange: "4.000 - 5.500",
+    price: "10.900",
+    priceRange: "9.000 - 15.500",
     includes: ["ljiljan", "ruže", "gerber", "kale", "robelini", "lovor"],
     imageBig:
       "/images/venci/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac.jpg",
@@ -919,8 +919,8 @@ export const venciItemData = [
     test: [24, 12, 5],
     id: 26,
     title: "Roze gerber ~ bele ruže",
-    price: "6.500",
-    priceRange: "5.000 - 8.500",
+    price: "8.500",
+    priceRange: "7.000 - 9.500",
     includes: ["gerbere", "ruže", "gladiole", "mrežica", "robelini"],
     imageBig:
       "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac.jpg",
@@ -980,7 +980,7 @@ export const venciItemData = [
     prodId: "VE-027",
     category: categorySchema,
   },
-  
+
   // {
   //   similarTo: [
   //     "Ruža ~ gerber ~ margareta",
@@ -1017,6 +1017,7 @@ export const venciItemData = [
   //   prodId: "VE-028",
   //   category: categorySchema,
   // },
+
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",

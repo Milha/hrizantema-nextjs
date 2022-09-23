@@ -132,7 +132,7 @@ export const rezanoItemData = [
     test: [11, 0, 9],
     id: 5,
     title: "Crimson gerber",
-    price: "150",
+    price: "200",
     priceRange: "100 - 200",
     includes: null,
     imageBig: "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.jpg",
@@ -163,8 +163,8 @@ export const rezanoItemData = [
     test: [1, 2, 3],
     id: 6,
     title: "Kala",
-    price: "150",
-    priceRange: "100 - 300",
+    price: "350",
+    priceRange: "100 - 500",
     includes: null,
     imageBig: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.webp",
@@ -234,7 +234,7 @@ export const rezanoItemData = [
     test: [6, 2, 3],
     id: 8,
     title: "Narandžasti carski ljiljan orijental",
-    price: "800 ",
+    price: "800",
     priceRange: "700 - 900",
     includes: null,
     imageBig:
@@ -308,7 +308,7 @@ export const rezanoItemData = [
     test: [11, 2, 4],
     id: 10,
     title: "Narandžasti gerber",
-    price: "150",
+    price: "200",
     priceRange: "100 - 300",
     includes: null,
     imageBig:
@@ -477,7 +477,7 @@ export const rezanoItemData = [
     ],
     test: [1, 2, 3],
     id: 15,
-    title: "Žute i naranžaste ruže",
+    title: "Žute ~ narandžaste ruže",
     price: "250",
     priceRange: "100 - 300",
     includes: null,
@@ -505,37 +505,38 @@ export const rezanoItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
-  //   test: [1, 2, 3],
-  //   id: 16,
-  //   title: "Ljubičasti i beli gerberi",
-  //   price: "200",
-  //   priceRange: "100 - 300",
-  //   includes: null,
-  //   imageBig:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.jpg",
-  //   imageBigWebP:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.webp",
-  //   imageSmall:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.webp",
-  //   imageGMB:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-gmb.jpg",
-  //   imageMini:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.webp",
-  //   alt: "Ljubicasti gerberi beli gerberi prirodni rezani komadni cvet",
-  //   text: "Ljubičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ljubičasti gerberi su simbol zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
-  //   httpaddress: `https://hrizantema.rs/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
-  //   link: `/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
-  //   sluglink: "ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece",
-  //   availability: "https://schema.org/InStock",
-  //   prodId: "KO-016",
-  //   category: categorySchema,
-  // }
+  {
+    similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
+    test: [1, 2, 3],
+    id: 16,
+    title: "Ljubičasti ~ beli gerberi",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.webp",
+    alt: "Ljubicasti gerberi beli gerberi prirodni rezani komadni cvet",
+    text: "Ljubičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ljubičasti gerberi su simbol zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+    httpaddress: `https://hrizantema.rs/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    link: `/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    sluglink: "ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-016",
+    category: categorySchema,
+  },
+
   // {
   //   similarTo: [
   //     "Beli ljiljan",
