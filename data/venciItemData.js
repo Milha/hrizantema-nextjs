@@ -812,7 +812,7 @@ export const venciItemData = [
     id: 23,
     title: "Ruže ~ gerbere ~ kale ~ robelini",
     price: "10.900",
-    priceRange: "9.000 - 15.500",
+    priceRange: "9.000 - 5.500",
     includes: ["ljiljan", "ruže", "gerber", "kale", "robelini", "lovor"],
     imageBig:
       "/images/venci/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac.jpg",
