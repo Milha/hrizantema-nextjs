@@ -12,7 +12,7 @@ export const venciItemData = [
     test: [1, 19, 17],
     id: 1,
     title: "Bele ruže ~ crvene ruže",
-    price: "7.000",
+    price: "9.900",
     priceRange: "5.000 - 7.500",
     includes: [
       "ruže",
@@ -177,7 +177,7 @@ export const venciItemData = [
     test: [13, 3, 10],
     id: 5,
     title: "Beli ljiljan ~ roze gerber",
-    price: "4.000 - 5.000",
+    price: "5.500",
     priceRange: "4.000 - 5.000",
     includes: ["ljiljane", "gerbere", "gipsofila", "lovor"],
     imageBig: "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac.jpg",
@@ -211,7 +211,7 @@ export const venciItemData = [
     test: [10, 15, 13],
     id: 6,
     title: "Carski ljiljan ~ bele ruže ~ gladiole",
-    price: "6.000",
+    price: "7.800",
     priceRange: "4.000 - 6.000",
     includes: ["ljiljane orijentale", "ruže", "gladiole", "lovor", "robelini"],
     imageBig:
@@ -550,7 +550,7 @@ export const venciItemData = [
     test: [1, 13, 16],
     id: 16,
     title: "Carski ljiljan ~ bele ruže",
-    price: "8.000",
+    price: "10.900",
     priceRange: "7.000 - 9.000",
     includes: ["ljiljane orijentale", "ruže", "margarete", "lovor"],
     imageBig:
@@ -734,7 +734,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 21,
     title: "Crveni ljiljan ~ beli gerber",
-    price: "4.000",
+    price: "5.500",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljane", "gerbere", "margarete", "gipsofila", "robelini"],
     imageBig:
@@ -981,42 +981,42 @@ export const venciItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: [
-  //     "Ruža ~ gerber ~ margareta",
-  //     "Bela ruža ~ beli gerber",
-  //     "Bele ruže ~ crvene ruže",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 28,
-  //   title: "Ruže ~ gerberi ~ baltika margarete",
-  //   price: "10.000",
-  //   priceRange: "7.000 - 11.500",
-  //   includes: ["gerbere", "ruže", "hrizantme", "lovor", "robelini"],
-  //   imageBig:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3.webp",
-  //   imageSmall:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-small.webp",
-  //   imageGMB:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-mini.webp",
-  //   alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele hrizanteme margarete baltike",
-  //   text: "Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Crveni gerberi predstavljaju ljubav. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3${categoryVenci}`,
-  //   link: `/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3${categoryVenci}`,
-  //   sluglink:
-  //     "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-028",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Ruža ~ gerber ~ margareta",
+      "Bela ruža ~ beli gerber",
+      "Bele ruže ~ crvene ruže",
+    ],
+    test: [15, 1, 8],
+    id: 28,
+    title: "Ruže ~ gerberi ~ baltika margarete",
+    price: "10.000",
+    priceRange: "7.000 - 11.500",
+    includes: ["gerbere", "ruže", "hrizantme", "lovor", "robelini"],
+    imageBig:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3.jpg",
+    imageBigWebP:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3.webp",
+    imageSmall:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-small.webp",
+    imageGMB:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-gmb.jpg",
+    imageMini:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3-mini.webp",
+    alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele hrizanteme margarete baltike",
+    text: "Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Crveni gerberi predstavljaju ljubav. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+    httpaddress: `https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3${categoryVenci}`,
+    link: `/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3${categoryVenci}`,
+    sluglink:
+      "crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-028",
+    category: categorySchema,
+  },
 
   // {
   //   similarTo: [
