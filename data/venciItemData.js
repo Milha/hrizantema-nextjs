@@ -1026,7 +1026,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 29,
     title: "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
-    price: "12.900",
+    price: "10.900",
     priceRange: "11.000 - 15.500",
     includes: ["ljiljan", "ruže", "gerbere", "gladiole", "robelini"],
     imageBig:
