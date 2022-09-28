@@ -38,7 +38,7 @@ export default function HeadSingle({ data }) {
   return (
     <Head>
       {/* TITLE */}
-      <title>Cvećara Orlovača | {data.title}</title>
+      <title>{`Cvećara Orlovača | ${data.title}`}</title>
 
       {/* REL CANNONICAL */}
       <link rel="canonical" href={data.httpaddress} />

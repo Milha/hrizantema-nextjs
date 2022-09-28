@@ -384,7 +384,11 @@ export const suzeItemData = [
     test: [4, 2, 9],
     id: 12,
     title: "Bele baltika margarete ~ crvene gerberi",
+<<<<<<< HEAD
     price: "2.000",
+=======
+    price: "2.500",
+>>>>>>> dd23d35e20c37e2518b96c59d02e0c6cfc5acf63
     priceRange: "2.000 - 3.500",
     includes: ["margarete", "gladiole", "mrežica"],
     imageBig:

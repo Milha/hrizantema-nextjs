@@ -1,17 +1,17 @@
-import Head from 'next/head';
+import Head from "next/head";
 
 export default function HeadList({ data, addTitle, addHttpaddress }) {
   const eleMap = data.map((inj, i) => ({
-    '@type': 'ListItem',
+    "@type": "ListItem",
     position: i + 1,
     name: inj.title,
     item: inj.httpaddress,
     image: inj.imageBig,
   }));
   const schemaDataItemList = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    name: 'Lista venaca',
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    name: "Lista venaca",
     itemListElement: eleMap,
   };
 
@@ -25,7 +25,7 @@ export default function HeadList({ data, addTitle, addHttpaddress }) {
         }}
       />
       {/* META */}
-      <title>Cvećara Hrizantema Orlovača | {addTitle}</title>
+      <title>{`Cvećara Hrizantema Orlovača | ${addTitle}`}</title>
       {/* REL CANNONICAL */}
       <link rel="canonical" href={addHttpaddress} />
     </Head>
