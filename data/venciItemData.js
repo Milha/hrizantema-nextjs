@@ -1159,6 +1159,44 @@ export const venciItemData = [
   //   prodId: "VE-032",
   //   category: categorySchema,
   // },
+
+  // {
+  //   similarTo: [
+  //     "Roze gerber ~ bele ruže",
+  //     "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
+  //     "Gerber ~ gladiole",
+  //   ],
+  //   test: [15, 1, 8],
+  //   id: 33,
+  //   title: "Beli ljiljan ~ beli gerber ~ gladiole ~ robelini",
+  //   price: "6.000",
+  //   priceRange: "4.000 - 5.500",
+  //   includes: ["ljiljan", "gerbere", "gladiole", "mrežica", "robelini"],
+  //   imageBig:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac.jpg",
+  //   imageBigWebP:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac.webp",
+  //   imageSmall:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac-small.webp",
+  //   imageGMB:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac-gmb.jpg",
+  //   imageMini:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac-mini.webp",
+  //   alt: "Prirodni venac beli ljiljan beli gerber crvene gladiole robelini mrezica",
+  //   text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Gladiola je prezentuje snagu i karakter.",
+  //   httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac${categoryVenci}`,
+  //   link: `/single/venac/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac${categoryVenci}`,
+  //   sluglink:
+  //     "beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "VE-033",
+  //   category: categorySchema,
+  // },
+  
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
