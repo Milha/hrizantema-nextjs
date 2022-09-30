@@ -1053,42 +1053,43 @@ export const venciItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: [
-  //     "Roze gerber ~ bele ruže",
-  //     "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
-  //     "Gerber ~ gladiole",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 30,
-  //   title: "Ljiljan ~ ruža ~ gladiola ~ mrežica",
-  //   price: "9.000",
-  //   priceRange: "8.000 - 11.500",
-  //   includes: ["gladiole", "ruže", "gerbere", "robelini", "mrežica"],
-  //   imageBig:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac.webp",
-  //   imageSmall:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-small.webp",
-  //   imageGMB:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-mini.webp",
-  //   alt: "Prirodni venac beli ljiljan crvena ruza bela gladiola lovor limun zelenilo mrezica",
-  //   text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Gladiole predstavljaju snagu i karakter, kao i integritet.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac${categoryVenci}`,
-  //   link: `/single/venac/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac${categoryVenci}`,
-  //   sluglink:
-  //     "beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-030",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Roze gerber ~ bele ruže",
+      "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
+      "Gerber ~ gladiole",
+    ],
+    test: [15, 1, 8],
+    id: 30,
+    title: "Ljiljan ~ ruža ~ gladiola ~ mrežica",
+    price: "5.500",
+    priceRange: "8.000 - 11.500",
+    includes: ["gladiole", "ruže", "gerbere", "robelini", "mrežica"],
+    imageBig:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac-mini.webp",
+    alt: "Prirodni venac beli ljiljan crvena ruza bela gladiola lovor limun zelenilo mrezica",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Gladiole predstavljaju snagu i karakter, kao i integritet.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac${categoryVenci}`,
+    sluglink:
+      "beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-030",
+    category: categorySchema,
+  },
+
   // {
   //   similarTo: [
   //     "Carski ljiljan ~ crveni gerber ~ margareta",
@@ -1196,7 +1197,7 @@ export const venciItemData = [
   //   prodId: "VE-033",
   //   category: categorySchema,
   // },
-  
+
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
