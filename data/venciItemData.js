@@ -1099,7 +1099,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 31,
     title: "Orijental ~ ruža ~ hrizantema ~ mrežica",
-    price: "11.000",
+    price: "12.500",
     priceRange: "4.000 - 5.500",
     includes: ["orijentale", "ruže", "hrizantme", "robelini", "mrežica"],
     imageBig:
