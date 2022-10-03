@@ -1090,41 +1090,41 @@ export const venciItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: [
-  //     "Carski ljiljan ~ crveni gerber ~ margareta",
-  //     "Orijental ~ crvena ruža ~ gerber",
-  //     "Carski ljiljan ~ bele ruže ~ gladiole",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 31,
-  //   title: "Orijental ~ ruža ~ hrizantema ~ mrežica",
-  //   price: "11.000",
-  //   priceRange: "4.000 - 5.500",
-  //   includes: ["orijentale", "ruže", "hrizantme", "robelini", "mrežica"],
-  //   imageBig:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica.webp",
-  //   imageSmall:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-small.webp",
-  //   imageGMB:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-mini.webp",
-  //   alt: "Prirodni venac carski ljiljan orijental roze bela ruza bela hrizantema margareta",
-  //   text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica${categoryVenci}`,
-  //   link: `/single/venac/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica${categoryVenci}`,
-  //   sluglink: "roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-031",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Carski ljiljan ~ crveni gerber ~ margareta",
+      "Orijental ~ crvena ruža ~ gerber",
+      "Carski ljiljan ~ bele ruže ~ gladiole",
+    ],
+    test: [15, 1, 8],
+    id: 31,
+    title: "Orijental ~ ruža ~ hrizantema ~ mrežica",
+    price: "11.000",
+    priceRange: "4.000 - 5.500",
+    includes: ["orijentale", "ruže", "hrizantme", "robelini", "mrežica"],
+    imageBig:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica.jpg",
+    imageBigWebP:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica.webp",
+    imageSmall:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-small.jpg",
+    imageSmallWebP:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-small.webp",
+    imageGMB:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-gmb.jpg",
+    imageMini:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-mini.webp",
+    alt: "Prirodni venac carski ljiljan orijental roze bela ruza bela hrizantema margareta",
+    text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+    httpaddress: `https://hrizantema.rs/single/venac/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica${categoryVenci}`,
+    link: `/single/venac/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica${categoryVenci}`,
+    sluglink: "roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-031",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Ljiljan ~ ruža ~ gerber ~ margareta",
