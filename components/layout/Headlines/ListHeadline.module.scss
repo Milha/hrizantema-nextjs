@@ -1,0 +1,19 @@
+@import "../../../styles/colors.module.scss";
+
+.headline {
+  text-align: center;
+  //   border-bottom: 3px solid red;
+  color: $color-main-brown-700;
+}
+
+.borderBottom {
+  width: 80%;
+  color: $color-main-brown-400;
+
+  //   @media (min-width: 40rem) {
+  //   }
+
+  //   @media (min-width: 60rem) {
+  //     width: 75%;
+  //   }
+}
