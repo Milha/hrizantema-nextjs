@@ -120,6 +120,16 @@ Ime gladiola potiče od latinske reči gladius, što se prevodi kao mač. Kao re
 
 Lepa kata simbolizuje ljubav, mudrost, strpljenje, veru, eleganciju i lepotu. Svaka vrsta boja nosiće svoju duboku simboliku, od plemenitosti do prijateljstva, pa čak i čistoće.
 
+### Hrizantema saksijska
+
+Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti.
+
+### Hrizantema saksijska - bela
+
+Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća.
+
+Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.
+
 #### Crvena
 
 Crveni cvetovi označavaju snagu, poštovanje, predanost i ljubav.

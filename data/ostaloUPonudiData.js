@@ -894,6 +894,41 @@ export const ostaloUPonudiData = [
     prodId: "OP-026",
     category: categorySchema[1],
   },
+  {
+    similarTo: [
+      "Beli ljiljan ~ veštačko cveće",
+      "Crveni ljiljan ~ veštačko gips",
+      "Žuta ruža ~ žute ružice",
+    ],
+    test: [1, 4, 8],
+    id: 27,
+    title: "Bela hrizantema jesenka - saksija",
+    price: "600",
+    priceRange: "500 - 800",
+    includes: [],
+    imageBig:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.webp",
+    alt: "Bela hrizantema jesenka - saksija",
+    text: "Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti. Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća. Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categoryVestacko}`,
+    link: `/single/ostalo/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categoryVestacko}`,
+    sluglink: "hrizantema-jesenja-ruza-saksija-cvecara-hrizantema",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-027",
+    category: categorySchema[1],
+  },
   // {
   //   similarTo: [
   //     "Beli ljiljan ~ veštačko cveće",
