@@ -130,6 +130,14 @@ Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervi
 
 Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.
 
+### Hrizantema saksijska - žuta
+
+Ranije, žute hrizanteme su predstavljale tugu i zanemarenu ljubav - što je u suprotnosti sa njihovom svetlom, veselom nijansom.
+
+Međutim, danas se smatra žute hrizanteme simbolizuju sreću, radost, slavlje i dobro raspoloženje.
+
+Dobar su izbor za proslavu rođendana, aranžmane uz čestitke ili za razveseljenje pacijenta koji se oporavlja.
+
 #### Crvena
 
 Crveni cvetovi označavaju snagu, poštovanje, predanost i ljubav.
