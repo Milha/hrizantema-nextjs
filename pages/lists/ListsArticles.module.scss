@@ -10,6 +10,12 @@
   @media (min-width: 75rem) {
     width: 70%;
     margin: 0 auto;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 90rem) {
+    width: 70%;
+    margin: 0 auto;
     grid-template-columns: repeat(3, 1fr);
   }
 }
