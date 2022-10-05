@@ -1,6 +1,8 @@
 import Head from "next/head";
 
 export default function HeadSingle({ data }) {
+  const slicedDesc = data.text.slice(0, 152).concat("...");
+
   const schemaSingleItemData = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -12,7 +14,7 @@ export default function HeadSingle({ data }) {
       email: "sztrhrizantema@gmail.com",
     },
     image: data.imageBig,
-    description: data.text,
+    description: slicedDesc,
     name: data.title,
     category: data.category,
     material: data.includes,
@@ -44,7 +46,7 @@ export default function HeadSingle({ data }) {
       <link rel="canonical" href={data.httpaddress} />
 
       {/* META */}
-      <meta name="description" content={data.text} />
+      <meta name="description" content={slicedDesc} />
 
       {/* META:OG */}
       <meta property="og:url" content={data.httpaddress} key="url" />
@@ -54,7 +56,7 @@ export default function HeadSingle({ data }) {
         content={`Cvećara Orlovača | ${data.title}`}
         key="title"
       />
-      <meta property="og:description" content={data.text} key="description" />
+      <meta property="og:description" content={slicedDesc} key="description" />
       <meta
         property="og:site_name"
         content="Hrizantema cvećara Orlovača"
