@@ -292,7 +292,7 @@ export const buketiKorpeItemData = [
     imageMiniWebP:
       "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa-mini.webp",
     alt: "Korpa od prirodnog cveca crveni ljiljan bele ruze robelini lovor visnja",
-    text: "Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav. Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.",
+    text: "Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću i večnu ljubav. Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.",
     httpaddress:
       "https://hrizantema.rs/single/buket-korpa/crveni-lljiljan-bela-ruza-prirodna-korpa",
     link: "/single/buket-korpa/crveni-lljiljan-bela-ruza-prirodna-korpa",
@@ -503,6 +503,74 @@ export const buketiKorpeItemData = [
     prodId: "BU-015",
   },
 
+  // {
+  //   similarTo: [
+  //     "Crveni ljiljan ~ bela ruža",
+  //     "Beli ljiljan ~ crvena ruža",
+  //     "Bele gladiole",
+  //   ],
+  //   test: [5, 4, 3],
+  //   id: 14,
+  //   title: "Šest belih ruža",
+  //   price: "2.500",
+  //   priceRange: "2.000 - 3.500",
+  //   includes: ["ruža", "mrežica", "lovor", "robelini"],
+  //   imageBig:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa.jpg",
+  //   imageBigWebP:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa.webp",
+  //   imageSmall:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-small.webp",
+  //   imageGMB:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-gmb.jpg",
+  //   imageMini:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-mini.webp",
+  //   alt: "sest belih ruza ljubicasta masna korpa prirodnog cveca",
+  //   text: "Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.",
+  //   httpaddress: `https://hrizantema.rs/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
+  //   link: `/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
+  //   sluglink: "sest-belih-ruza-lovor-limun-prirodna-korpa",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "BU-014",
+  // },
+  // {
+  //   similarTo: [
+  //     "Crveni ljiljan ~ bela ruža",
+  //     "Beli ljiljan ~ crvena ruža",
+  //     "Bele gladiole",
+  //   ],
+  //   test: [5, 4, 3],
+  //   id: 15,
+  //   title: "Carski ljiljan ~ mrežica",
+  //   price: "3.500",
+  //   priceRange: "3.000 - 4.500",
+  //   includes: ["ljiljan", "mrežica", "lovor", "robelini"],
+  //   imageBig:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa.jpg",
+  //   imageBigWebP:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa.webp",
+  //   imageSmall:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa-small.webp",
+  //   imageGMB:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa-gmb.jpg",
+  //   imageMini:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/buketi-korpe/dva-roze-bela-orijentala-prirodna-korpa-mini.webp",
+  //   alt: "Roze beli ljiljan orijental carski ljiljan mrezica prirodna korpa",
+  //   text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo.",
+  //   httpaddress: `https://hrizantema.rs/single/buket-korpa/dva-roze-bela-orijentala-prirodna-korpa${categoryKorpe}`,
+  //   link: `/single/buket-korpa/dva-roze-bela-orijentala-prirodna-korpa${categoryKorpe}`,
+  //   sluglink: "dva-roze-bela-orijentala-prirodna-korpa",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "BU-015",
+  // },
   // {
   //   similarTo: [
   //     "Crveni ljiljan ~ bela ruža",
