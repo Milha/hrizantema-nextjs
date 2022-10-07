@@ -540,7 +540,7 @@ export const rezanoItemData = [
   {
     similarTo: [
       "Roze margareta hrizantema baltika",
-      "Beli ljiljan",
+      "Žuta hrizantema jesenka - saksija",
       "Bela margareta",
     ],
     test: [1, 4, 8],
@@ -572,41 +572,41 @@ export const rezanoItemData = [
     prodId: "OP-017",
     category: categorySchema[1],
   },
-  // {
-  //   similarTo: [
-  //     "Roze margareta hrizantema baltika",
-  //     "Beli ljiljan",
-  //     "Bela margareta",
-  //   ],
-  //   test: [1, 4, 8],
-  //   id:18,
-  //   title: "Žuta hrizantema jesenka - saksija",
-  //   price: "600",
-  //   priceRange: "500 - 800",
-  //   includes: [],
-  //   imageBig:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.jpg",
-  //   imageBigWebP:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.webp",
-  //   imageSmall:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.webp",
-  //   imageGMB:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-gmb.jpg",
-  //   imageMini:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.webp",
-  //   alt: "Žuta hrizantema jesenka - saksija",
-  //   text: "Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti. Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća. Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.",
-  //   httpaddress: `https://hrizantema.rs/single/rezano/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
-  //   link: `/single/rezano/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
-  //   sluglink: "zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "OP-18",
-  //   category: categorySchema[1],
-  // },
+  {
+    similarTo: [
+      "Roze margareta hrizantema baltika",
+      "Bela hrizantema jesenka - saksija",
+      "Bela margareta",
+    ],
+    test: [1, 4, 8],
+    id: 18,
+    title: "Žuta hrizantema jesenka - saksija",
+    price: "600",
+    priceRange: "500 - 800",
+    includes: [],
+    imageBig:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.webp",
+    imageSmall:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.webp",
+    alt: "Žuta hrizantema jesenka - saksija",
+    text: "Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti. Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća. Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.",
+    httpaddress: `https://hrizantema.rs/single/rezano/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
+    link: `/single/rezano/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
+    sluglink: "zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-018",
+    category: categorySchema[1],
+  },
 
   // {
   //   similarTo: [
@@ -671,4 +671,5 @@ export const rezanoItemData = [
   //   prodId: "KO-001",
   //   category: categorySchema,
   // },
+  
 ];
