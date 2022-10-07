@@ -643,6 +643,7 @@ export const rezanoItemData = [
   //   prodId: "KO-019",
   //   category: categorySchema,
   // },
+  
   // {
   //   similarTo: [
   //     "Beli ljiljan",
@@ -671,5 +672,5 @@ export const rezanoItemData = [
   //   prodId: "KO-001",
   //   category: categorySchema,
   // },
-  
+
 ];
