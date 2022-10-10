@@ -503,40 +503,40 @@ export const buketiKorpeItemData = [
     prodId: "BU-015",
   },
 
-  // {
-  //   similarTo: [
-  //     "Crveni ljiljan ~ bela ruža",
-  //     "Beli ljiljan ~ crvena ruža",
-  //     "Bele gladiole",
-  //   ],
-  //   test: [5, 4, 3],
-  //   id: 14,
-  //   title: "Šest belih ruža",
-  //   price: "2.500",
-  //   priceRange: "2.000 - 3.500",
-  //   includes: ["ruža", "mrežica", "lovor", "robelini"],
-  //   imageBig:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa.jpg",
-  //   imageBigWebP:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa.webp",
-  //   imageSmall:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-small.webp",
-  //   imageGMB:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-gmb.jpg",
-  //   imageMini:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-mini.webp",
-  //   alt: "sest belih ruza ljubicasta masna korpa prirodnog cveca",
-  //   text: "Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.",
-  //   httpaddress: `https://hrizantema.rs/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
-  //   link: `/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
-  //   sluglink: "sest-belih-ruza-lovor-limun-prirodna-korpa",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "BU-014",
-  // },
+  {
+    similarTo: [
+      "Crveni ljiljan ~ bela ruža",
+      "Beli ljiljan ~ crvena ruža",
+      "Bele gladiole",
+    ],
+    test: [5, 4, 3],
+    id: 14,
+    title: "Šest belih ruža",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
+    includes: ["ruža", "mrežica", "lovor", "robelini"],
+    imageBig:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa.webp",
+    imageSmall:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/sest-belih-ruza-lovor-limun-prirodna-korpa-mini.webp",
+    alt: "sest belih ruza ljubicasta masna korpa prirodnog cveca",
+    text: "Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
+    link: `/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
+    sluglink: "sest-belih-ruza-lovor-limun-prirodna-korpa",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-014",
+  },
   // {
   //   similarTo: [
   //     "Crveni ljiljan ~ bela ruža",
