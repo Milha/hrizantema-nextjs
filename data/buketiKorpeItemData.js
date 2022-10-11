@@ -510,7 +510,7 @@ export const buketiKorpeItemData = [
       "Bele gladiole",
     ],
     test: [5, 4, 3],
-    id: 14,
+    id: 16,
     title: "Šest belih ruža",
     price: "2.500",
     priceRange: "2.000 - 3.500",
