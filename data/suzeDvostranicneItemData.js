@@ -195,8 +195,8 @@ export const suzeDvostranicneData = [
     test: [3, 4, 1],
     id: 6,
     title: "Bela ruža ~ bela gladiola",
-    price: "3.800",
-    priceRange: "1.000 - 2.500",
+    price: "5.900",
+    priceRange: "5.000 - 7.500",
     includes: ["ruže", "gladiole", "lovor", "robelini"],
     imageBig:
       "/images/suza-dvostranicna/bela-ruza-bela-gladiola-prirodna-dvostranicna-suza.jpg",
