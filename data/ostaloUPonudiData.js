@@ -895,40 +895,42 @@ export const ostaloUPonudiData = [
     prodId: "OP-026",
     category: categorySchema[1],
   },
-  // {
-  //   similarTo: [
-  //     "Beli ljiljan ~ veštačko cveće",
-  //     "Crveni ljiljan ~ veštačko gips",
-  //     "Žuta ruža ~ žute ružice",
-  //   ],
-  //   test: [1, 4, 8],
-  //   id: 27,
-  //   title: "Kućica za paljenje sveća - mala obla",
-  //   price: "2.000",
-  //   priceRange: "2.000 - 2.500",
-  //   includes: [],
-  //   imageBig: "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla.jpg",
-  //   imageBigWebP:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla.webp",
-  //   imageSmall:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-small.webp",
-  //   imageGMB:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-gmb.jpg",
-  //   imageMini:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-mini.webp",
-  //   alt: "Kucica za paljenje sveca na groblju mala obla",
-  //   text: "Kućica za paljenje sveća, mala, oblih stranica. Sadrži posudu za peska sa rešetkama za oslanjanje sveća.",
-  //   httpaddress: `https://hrizantema.rs/single/ostalo/kucica-za-paljenje-sveca-mala-obla${categoryVestacko}`,
-  //   link: `/single/ostalo/kucica-za-paljenje-sveca-mala-obla${categoryVestacko}`,
-  //   sluglink: "kucica-za-paljenje-sveca-mala-obla",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "OP-027",
-  //   category: categorySchema[1],
-  // },
+
+  {
+    similarTo: [
+      "Beli ljiljan ~ veštačko cveće",
+      "Crveni ljiljan ~ veštačko gips",
+      "Žuta ruža ~ žute ružice",
+    ],
+    test: [1, 4, 8],
+    id: 27,
+    title: "Kućica za paljenje sveća - mala obla",
+    price: "2.000",
+    priceRange: "2.000 - 2.500",
+    includes: [],
+    imageBig: "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-mini.webp",
+    alt: "Kucica za paljenje sveca na groblju mala obla",
+    text: "Kućica za paljenje sveća, mala, oblih stranica. Sadrži posudu za peska sa rešetkama za oslanjanje sveća.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/kucica-za-paljenje-sveca-mala-obla${categoryVestacko}`,
+    link: `/single/ostalo/kucica-za-paljenje-sveca-mala-obla${categoryVestacko}`,
+    sluglink: "kucica-za-paljenje-sveca-mala-obla",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-027",
+    category: categorySchema[1],
+  },
+
   // {
   //   similarTo: [
   //     "Beli ljiljan ~ veštačko cveće",
