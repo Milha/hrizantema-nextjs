@@ -15,7 +15,7 @@ export const buketiKorpeItemData = [
     title: "Crvene ruže sa perlicama",
     price: "7.900",
     priceRange: "6.000 - 8.500",
-    includes: ["ruže", "perlice", "robelini"],
+    includes: ["ruža", "perlice", "robelini"],
     imageBig: "/images/buketi-korpe/buket-crvene-ruze-perlice.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-crvene-ruze-perlice.webp",
     imageSmall: "/images/buketi-korpe/buket-crvene-ruze-perlice-small.jpg",
@@ -44,7 +44,7 @@ export const buketiKorpeItemData = [
     title: "Orijental ~ bele ruže",
     price: "3.900",
     priceRange: "2.000 - 4.000",
-    includes: ["carske ljiljane", "ruže", "robelini"],
+    includes: ["carski ljiljan", "ruža", "robelini"],
     imageBig: "/images/buketi-korpe/buket-orijental-bele-ruze.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-orijental-bele-ruze.webp",
     imageSmall: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
@@ -73,7 +73,7 @@ export const buketiKorpeItemData = [
     title: "Korpa crimson gerber",
     price: "1.900",
     priceRange: "1.000 - 2.000",
-    includes: ["gerbere", "lovor"],
+    includes: ["gerber", "lovor"],
     imageBig: "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa.jpg",
     imageBigWebP:
       "/images/buketi-korpe/crveni-crimson-gerber-prirodna-korpa.webp",
@@ -108,7 +108,7 @@ export const buketiKorpeItemData = [
     title: "Beli ljiljan ~ bele margarete",
     price: "2.400",
     priceRange: "1.000 - 2.000",
-    includes: ["ljiljane", "margarete", "gipsofila", "lovor"],
+    includes: ["ljiljan", "margareta", "gipsofila", "lovor"],
     imageBig:
       "/images/buketi-korpe/ljiljan-beli-bele-margarete-prirodna-korpa.jpg",
     imageBigWebP:
@@ -146,7 +146,7 @@ export const buketiKorpeItemData = [
     title: "Beli ljiljan ~ bele ruže",
     price: "3.900",
     priceRange: "2.000 - 4.500",
-    includes: ["ljiljane", "ruže", "gipsofila", "robelini"],
+    includes: ["ljiljan", "ruža", "gipsofila", "robelini"],
     imageBig: "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket.jpg",
     imageBigWebP:
       "/images/buketi-korpe/beli-ljiljan-bele-ruze-prirodni-buket.webp",
@@ -182,7 +182,7 @@ export const buketiKorpeItemData = [
     title: "Bele kale",
     price: "1.900",
     priceRange: "2.000 - 3.500",
-    includes: ["kale", "lovor"],
+    includes: ["kala", "lovor"],
     imageBig: "/images/buketi-korpe/kale-bele-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/kale-bele-prirodna-korpa.webp",
     imageSmall: "/images/buketi-korpe/kale-bele-prirodna-korpa-small.jpg",
@@ -211,7 +211,7 @@ export const buketiKorpeItemData = [
     title: "Beli i roze ljiljani orijentali",
     price: "5.000",
     priceRange: "2.000 - 3.500",
-    includes: ["ljiljane orijentale", "gipsofila", "lovor", "robelini"],
+    includes: ["ljiljan orijental", "gipsofila", "lovor", "robelini"],
     imageBig: "/images/buketi-korpe/buketi-orijental-roze-beli.jpg",
     imageBigWebP: "/images/buketi-korpe/buketi-orijental-roze-beli.webp",
     imageSmall: "/images/buketi-korpe/buketi-orijental-roze-beli-small.jpg",
@@ -241,7 +241,7 @@ export const buketiKorpeItemData = [
     title: "Svetlo roze gerberi",
     price: "1.900",
     priceRange: "1.000 - 2.500",
-    includes: ["gerbere", "lovor", "robelini"],
+    includes: ["gerber", "lovor", "robelini"],
     imageBig: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/gerber-svetlo-roze-prirodna-korpa.webp",
     imageSmall:
@@ -276,7 +276,7 @@ export const buketiKorpeItemData = [
     title: "Crveni ljiljan ~ bela ruža",
     price: "2.900",
     priceRange: "2.000 - 3.000",
-    includes: ["ljiljane", "ruže", "gipsofila", "lovor", "robelini"],
+    includes: ["ljiljan", "ruža", "gipsofila", "lovor", "robelini"],
     imageBig:
       "/images/buketi-korpe/crveni-lljiljan-bela-ruza-prirodna-korpa.jpg",
     imageBigWebP:
@@ -313,7 +313,7 @@ export const buketiKorpeItemData = [
     title: "Roze ljiljan",
     price: "2.400",
     priceRange: "2.000 - 3.500",
-    includes: ["ljiljane", "robelini"],
+    includes: ["ljiljan", "robelini"],
     imageBig: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa.jpg",
     imageBigWebP: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa.webp",
     imageSmall: "/images/buketi-korpe/roze-ljiljan-prirodna-korpa-small.jpg",
@@ -343,7 +343,7 @@ export const buketiKorpeItemData = [
     title: "Beli ljiljan ~ crvena ruža",
     price: "1.900",
     priceRange: "1.000 - 2.500",
-    includes: ["ljiljane", "ruže", "mahonija", "robelini"],
+    includes: ["ljiljan", "ruža", "mahonija", "robelini"],
     imageBig:
       "/images/buketi-korpe/beli-ljiljan-crvena-ruza-prirodna-korpa.jpg",
     imageBigWebP:
@@ -379,7 +379,7 @@ export const buketiKorpeItemData = [
     title: "Roze ljiljan ~ bela kala",
     price: "1.900",
     priceRange: "1.000 - 2.500",
-    includes: ["ljiljane", "kale", "gipsofila", "lovor", "robelini"],
+    includes: ["ljiljan", "kala", "gipsofila", "lovor", "robelini"],
     imageBig:
       "/images/buketi-korpe/roze-ljiljan-bela-kala-gipsofila-prirodna-korpa.jpg",
     imageBigWebP:
@@ -413,7 +413,7 @@ export const buketiKorpeItemData = [
     title: "Bele gladiole",
     price: "1.900",
     priceRange: "1.000 - 2.500",
-    includes: ["gladiole", "robelini", "mrežica"],
+    includes: ["gladiola", "robelini", "mrežica"],
     imageBig: "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa.jpg",
     imageBigWebP:
       "/images/buketi-korpe/bela-gladiola-prirodno-cvece-korpa.webp",
@@ -445,7 +445,7 @@ export const buketiKorpeItemData = [
     title: "Korpa beli ljiljan",
     price: "1.900",
     priceRange: "1.000 - 2.500",
-    includes: ["ljiljane", "mrežica", "lovor"],
+    includes: ["ljiljan", "mrežica", "lovor"],
     imageBig:
       "/images/buketi-korpe/beli-ljiljan-ljubicasta-masna-prirodna-korpa.jpg",
     imageBigWebP:

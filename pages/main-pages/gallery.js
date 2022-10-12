@@ -1,5 +1,7 @@
 import { useState, useEffect } from "react";
 
+import SortButton from "../../components/ui/buttons/SortButton";
+
 import { rezanoItemData } from "../../data/rezanoItemData";
 import { buketSetData } from "../../utils/similarsFinder";
 
@@ -33,15 +35,22 @@ function Gallery({ imagesMaped }) {
     <div className={classes.cont}>
       <div className={classes.listCont}>
         <ul>
+          <div
+            className={classes.sortButton}
+            onClick={() => setData(imagesMaped)}
+          >
+            sve slike
+          </div>
           {newColl.map((el) => (
             <li key={el.id}>
-              <button
+              <div
+                className={classes.sortButton}
                 onClick={() => {
                   galleryFillter(el);
                 }}
               >
                 {el}
-              </button>
+              </div>
             </li>
           ))}
         </ul>

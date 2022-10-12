@@ -1,13 +1,39 @@
+@import "../../styles/colors.module.scss";
+
 .cont {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
 
   .listCont {
     ul {
       display: flex;
+      flex-wrap: wrap;
       justify-content: center;
       align-items: center;
+      // grid-template-columns: repeat(4, 1fr);
+      // grid-template-rows: repeat(4, 1fr);
       list-style: none;
+      padding: 0;
+
+      .sortButton {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        background-color: $color-alert-600;
+        color: #fff;
+        border-radius: 12px;
+        padding: 0.2rem 1rem;
+        border: 2px solid $color-alert-600;
+      }
+
+      .sortButton:hover {
+        background-color: #fff;
+        color: $color-alert-600;
+        border-radius: 12px;
+
+        padding: 0.2rem 1rem;
+      }
 
       li {
         margin: 0.4rem;
@@ -23,7 +49,7 @@
     gap: 5px;
 
     @media (min-width: 40rem) {
-      width: 100%;
+      width: 80%;
       margin: 0 auto;
       grid-template-columns: repeat(3, 1fr);
       gap: 1rem;
