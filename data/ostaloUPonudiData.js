@@ -349,7 +349,7 @@ export const ostaloUPonudiData = [
     test: [0, 4, 11],
     id: 11,
     title: "Srednja kućica za sveće - obla",
-    price: "2.000",
+    price: "2.500",
     priceRange: "1.000 - 3.000",
     includes: null,
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-mala.jpg",
@@ -898,9 +898,9 @@ export const ostaloUPonudiData = [
 
   {
     similarTo: [
-      "Beli ljiljan ~ veštačko cveće",
-      "Crveni ljiljan ~ veštačko gips",
-      "Žuta ruža ~ žute ružice",
+      "Velika kućica za paljenje sveće",
+      "Kućica za paljenje sveća - srednja ravna",
+      "Srednja kućica za sveće - obla",
     ],
     test: [1, 4, 8],
     id: 27,
@@ -931,41 +931,42 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
 
-  // {
-  //   similarTo: [
-  //     "Beli ljiljan ~ veštačko cveće",
-  //     "Crveni ljiljan ~ veštačko gips",
-  //     "Žuta ruža ~ žute ružice",
-  //   ],
-  //   test: [1, 4, 8],
-  //   id: 28,
-  //   title: "Kućica za paljenje sveća - srednja ravna",
-  //   price: "2.500",
-  //   priceRange: "2.000 - 2.500",
-  //   includes: [],
-  //   imageBig:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna.jpg",
-  //   imageBigWebP:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna.webp",
-  //   imageSmall:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-small.webp",
-  //   imageGMB:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-gmb.jpg",
-  //   imageMini:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-mini.webp",
-  //   alt: "Kucica za paljenje sveca na groblju srednja velicina ravnih ivica",
-  //   text: "Kućica za paljenje sveća, srednja, ravnih stranica. Sadrži posudu za peska sa rešetkama za oslanjanje sveća.",
-  //   httpaddress: `https://hrizantema.rs/single/ostalo/kucica-za-paljenje-sveca-srednja-ravna${categoryVestacko}`,
-  //   link: `/single/ostalo/kucica-za-paljenje-sveca-srednja-ravna${categoryVestacko}`,
-  //   sluglink: "kucica-za-paljenje-sveca-srednja-ravna",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "OP-028",
-  //   category: categorySchema[1],
-  // },
+  {
+    similarTo: [
+      "Velika kućica za paljenje sveće",
+      "Kućica za paljenje sveća - mala obla",
+      "Srednja kućica za sveće - obla",
+    ],
+    test: [1, 4, 8],
+    id: 28,
+    title: "Kućica za paljenje sveća - srednja ravna",
+    price: "2.500",
+    priceRange: "2.000 - 2.500",
+    includes: [],
+    imageBig:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-mini.webp",
+    alt: "Kucica za paljenje sveca na groblju srednja velicina ravnih ivica",
+    text: "Kućica za paljenje sveća, srednja, ravnih stranica. Sadrži posudu za peska sa rešetkama za oslanjanje sveća.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/kucica-za-paljenje-sveca-srednja-ravna${categoryVestacko}`,
+    link: `/single/ostalo/kucica-za-paljenje-sveca-srednja-ravna${categoryVestacko}`,
+    sluglink: "kucica-za-paljenje-sveca-srednja-ravna",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-028",
+    category: categorySchema[1],
+  },
+
   // {
   //   similarTo: [
   //     "Beli ljiljan ~ veštačko cveće",
