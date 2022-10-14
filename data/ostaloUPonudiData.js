@@ -1,15 +1,16 @@
-const categorySchema = ["ostalo", "vestacko", "staklici"];
+const categorySchema = ["ostalo", "vestacko", "staklici", "saksijsko"];
 
 const categoryOstaloUPonudi = `?category=${categorySchema[0]}`;
 const categoryVestacko = `?category=${categorySchema[1]}`;
 const categoryStaklici = `?category=${categorySchema[2]}`;
+const categorySaksijsko = `?category=${categorySchema[3]}`;
 
 export const ostaloUPonudiData = [
   {
     sample: true,
     similarTo: [
       "Suza od stakla ljubičaste ruže",
-      "Srednja kućica za sveće",
+      "Srednja kućica za sveće - obla",
       "Krst od stakla mali - plave ruže",
     ],
     test: [2, 10, 16],
@@ -347,8 +348,8 @@ export const ostaloUPonudiData = [
     ],
     test: [0, 4, 11],
     id: 11,
-    title: "Srednja kućica za sveće",
-    price: "2.000",
+    title: "Srednja kućica za sveće - obla",
+    price: "2.500",
     priceRange: "1.000 - 3.000",
     includes: null,
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-mala.jpg",
@@ -359,7 +360,7 @@ export const ostaloUPonudiData = [
     imageMini: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.jpg",
     imageMiniWebP: "/images/ostalo-u-ponudi/kucica-za-svece-mala-small.webp",
     alt: "Mala kucica za svece",
-    text: "Hrizantema cvećara Orlovača. Mala kućica za sveće. Kućica za paljenje sveća.",
+    text: "Hrizantema cvećara Orlovača. Srednja kućica za sveće. Kućica za paljenje sveća.",
     httpaddress: "https://hrizantema.rs/single/ostalo/kucica-za-svece-mala",
     link: "/single/ostalo/kucica-za-svece-mala",
     sluglink: "kucica-za-svece-mala",
@@ -894,6 +895,78 @@ export const ostaloUPonudiData = [
     prodId: "OP-026",
     category: categorySchema[1],
   },
+
+  {
+    similarTo: [
+      "Velika kućica za paljenje sveće",
+      "Kućica za paljenje sveća - srednja ravna",
+      "Srednja kućica za sveće - obla",
+    ],
+    test: [1, 4, 8],
+    id: 27,
+    title: "Kućica za paljenje sveća - mala obla",
+    price: "2.000",
+    priceRange: "2.000 - 2.500",
+    includes: [],
+    imageBig: "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-mala-obla-mini.webp",
+    alt: "Kucica za paljenje sveca na groblju mala obla",
+    text: "Kućica za paljenje sveća, mala, oblih stranica. Sadrži posudu za peska sa rešetkama za oslanjanje sveća.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/kucica-za-paljenje-sveca-mala-obla${categoryVestacko}`,
+    link: `/single/ostalo/kucica-za-paljenje-sveca-mala-obla${categoryVestacko}`,
+    sluglink: "kucica-za-paljenje-sveca-mala-obla",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-027",
+    category: categorySchema[1],
+  },
+
+  {
+    similarTo: [
+      "Velika kućica za paljenje sveće",
+      "Kućica za paljenje sveća - mala obla",
+      "Srednja kućica za sveće - obla",
+    ],
+    test: [1, 4, 8],
+    id: 28,
+    title: "Kućica za paljenje sveća - srednja ravna",
+    price: "2.500",
+    priceRange: "2.000 - 2.500",
+    includes: [],
+    imageBig:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna.jpg",
+    imageBigWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-small.webp",
+    imageGMB:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/kucica-za-paljenje-sveca-srednja-ravna-mini.webp",
+    alt: "Kucica za paljenje sveca na groblju srednja velicina ravnih ivica",
+    text: "Kućica za paljenje sveća, srednja, ravnih stranica. Sadrži posudu za peska sa rešetkama za oslanjanje sveća.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/kucica-za-paljenje-sveca-srednja-ravna${categoryVestacko}`,
+    link: `/single/ostalo/kucica-za-paljenje-sveca-srednja-ravna${categoryVestacko}`,
+    sluglink: "kucica-za-paljenje-sveca-srednja-ravna",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-028",
+    category: categorySchema[1],
+  },
+
   // {
   //   similarTo: [
   //     "Beli ljiljan ~ veštačko cveće",

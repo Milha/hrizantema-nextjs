@@ -1,5 +1,6 @@
-const categorySchema = "rezano";
-const categoryRezano = `?category=${categorySchema}`;
+const categorySchema = ["rezano", "saksijsko"];
+const categoryRezano = `?category=${categorySchema[0]}`;
+const categorySaksijsko = `?category=${categorySchema[1]}`;
 
 export const rezanoItemData = [
   {
@@ -29,7 +30,7 @@ export const rezanoItemData = [
     sluglink: "crvena-ruza-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-001",
-    category: categorySchema,
+    category: categorySchema[0],
   },
   {
     similarTo: ["Beli ljiljan", "Kala", "Bela margareta"],
@@ -56,7 +57,7 @@ export const rezanoItemData = [
     sluglink: "bela-ruza-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-002",
-    category: categorySchema,
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -89,7 +90,7 @@ export const rezanoItemData = [
     sluglink: "beli-ljiljan-rezani-komadni-cvet",
     availability: "https://schema.org/InStock",
     prodId: "KO-003",
-    category: categorySchema,
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -124,7 +125,7 @@ export const rezanoItemData = [
     sluglink: "bela-margareta-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-004",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -132,7 +133,7 @@ export const rezanoItemData = [
     test: [11, 0, 9],
     id: 5,
     title: "Crimson gerber",
-    price: "150",
+    price: "200",
     priceRange: "100 - 200",
     includes: null,
     imageBig: "/images/rezano-cvece/crimson-gerber-rezano-komadno-cvece.jpg",
@@ -156,15 +157,15 @@ export const rezanoItemData = [
     sluglink: "crimson-gerber-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-005",
-    category: categorySchema,
+    category: categorySchema[0],
   },
   {
     similarTo: ["Beli carski ljiljan orijental", "Bela ruža", "Beli ljiljan"],
     test: [1, 2, 3],
     id: 6,
     title: "Kala",
-    price: "150",
-    priceRange: "100 - 300",
+    price: "350",
+    priceRange: "100 - 500",
     includes: null,
     imageBig: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.jpg",
     imageBigWebP: "/images/rezano-cvece/bela-kala-rezano-komadno-cvece.webp",
@@ -183,7 +184,7 @@ export const rezanoItemData = [
     sluglink: "bela-kala-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-006",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -221,7 +222,7 @@ export const rezanoItemData = [
     sluglink: "roze-carski-ljiljan-orijental-rezani-komadni-cvet",
     availability: "https://schema.org/InStock",
     prodId: "KO-007",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -234,7 +235,7 @@ export const rezanoItemData = [
     test: [6, 2, 3],
     id: 8,
     title: "Narandžasti carski ljiljan orijental",
-    price: "800 ",
+    price: "800",
     priceRange: "700 - 900",
     includes: null,
     imageBig:
@@ -259,7 +260,7 @@ export const rezanoItemData = [
     sluglink: "narandzasti-ljiljan-orijental-carski-ljiljan-rezan-komadni-cvet",
     availability: "https://schema.org/InStock",
     prodId: "KO-008",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -296,7 +297,7 @@ export const rezanoItemData = [
     sluglink: "beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-009",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -308,7 +309,7 @@ export const rezanoItemData = [
     test: [11, 2, 4],
     id: 10,
     title: "Narandžasti gerber",
-    price: "150",
+    price: "200",
     priceRange: "100 - 300",
     includes: null,
     imageBig:
@@ -332,7 +333,7 @@ export const rezanoItemData = [
     sluglink: "narandzasti-gerber-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-010",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -363,7 +364,7 @@ export const rezanoItemData = [
     sluglink: "lepa-kata-rezano-cvece-buket",
     availability: "https://schema.org/InStock",
     prodId: "KO-011",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -395,7 +396,7 @@ export const rezanoItemData = [
     sluglink: "crveni-gerber-rezano-komadno-prirodno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-012",
-    category: categorySchema,
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -430,7 +431,7 @@ export const rezanoItemData = [
     sluglink: "roze-baltika-margareta-hrizantema-prirodno-komadno-rezano-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-013",
-    category: categorySchema,
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -466,7 +467,7 @@ export const rezanoItemData = [
       "belo-roze-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-014",
-    category: categorySchema,
+    category: categorySchema[0],
   },
 
   {
@@ -477,7 +478,7 @@ export const rezanoItemData = [
     ],
     test: [1, 2, 3],
     id: 15,
-    title: "Žute i naranžaste ruže",
+    title: "Žute ~ narandžaste ruže",
     price: "250",
     priceRange: "100 - 300",
     includes: null,
@@ -502,40 +503,147 @@ export const rezanoItemData = [
     sluglink: "zuta-ruza-narandzasta-ruza-prirodno-rezano-komadno-cvece",
     availability: "https://schema.org/InStock",
     prodId: "KO-015",
-    category: categorySchema,
+    category: categorySchema[0],
+  },
+
+  {
+    similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
+    test: [1, 2, 3],
+    id: 16,
+    title: "Ljubičasti ~ beli gerberi",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.webp",
+    alt: "Ljubicasti gerberi beli gerberi prirodni rezani komadni cvet",
+    text: "Ljubičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ljubičasti gerberi su simbol zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+    httpaddress: `https://hrizantema.rs/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    link: `/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
+    sluglink: "ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-016",
+    category: categorySchema[0],
+  },
+  {
+    similarTo: [
+      "Roze margareta hrizantema baltika",
+      "Žuta hrizantema jesenka - saksija",
+      "Bela margareta",
+    ],
+    test: [1, 4, 8],
+    id: 17,
+    title: "Bela hrizantema jesenka - saksija",
+    price: "600",
+    priceRange: "500 - 800",
+    includes: [],
+    imageBig:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.webp",
+    imageSmall:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.webp",
+    alt: "Bela hrizantema jesenka - saksija",
+    text: "Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti. Ranije, žute hrizanteme su predstavljale tugu i zanemarenu ljubav - što je u suprotnosti sa njihovom svetlom, veselom nijansom.Međutim, danas se smatra žute hrizanteme simbolizuju sreću, radost, slavlje i dobro raspoloženje.Dobar su izbor za proslavu rođendana, aranžmane uz čestitke ili za razveseljenje pacijenta koji se oporavlja.",
+    httpaddress: `https://hrizantema.rs/single/rezano/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
+    link: `/single/rezano/hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
+    sluglink: "hrizantema-jesenja-ruza-saksija-cvecara-hrizantema",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-017",
+    category: categorySchema[1],
+  },
+  {
+    similarTo: [
+      "Roze margareta hrizantema baltika",
+      "Bela hrizantema jesenka - saksija",
+      "Bela margareta",
+    ],
+    test: [1, 4, 8],
+    id: 18,
+    title: "Žuta hrizantema jesenka - saksija",
+    price: "600",
+    priceRange: "500 - 800",
+    includes: [],
+    imageBig:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema.webp",
+    imageSmall:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema-mini.webp",
+    alt: "Žuta hrizantema jesenka - saksija",
+    text: "Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti. Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća. Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.",
+    httpaddress: `https://hrizantema.rs/single/rezano/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
+    link: `/single/rezano/zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema${categorySaksijsko}`,
+    sluglink: "zuta-hrizantema-jesenja-ruza-saksija-cvecara-hrizantema",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-018",
+    category: categorySchema[1],
   },
 
   // {
-  //   similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
+  //   similarTo: [
+  //     "Roze margareta hrizantema baltika",
+  //     "Beli ljiljan",
+  //     "Bela margareta",
+  //   ],
   //   test: [1, 2, 3],
-  //   id: 16,
-  //   title: "Ljubičasti i beli gerberi",
-  //   price: "200",
+  //   id: 19,
+  //   title: "Žuta hrizantema margareta baltika",
+  //   price: "250",
   //   priceRange: "100 - 300",
   //   includes: null,
   //   imageBig:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.jpg",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet.jpg",
   //   imageBigWebP:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece.webp",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet.webp",
   //   imageSmall:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.jpg",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-small.jpg",
   //   imageSmallWebP:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-small.webp",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-small.webp",
   //   imageGMB:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-gmb.jpg",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-gmb.jpg",
   //   imageMini:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.jpg",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-mini.jpg",
   //   imageMiniWebP:
-  //     "/images/rezano-cvece/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece-mini.webp",
-  //   alt: "Ljubicasti gerberi beli gerberi prirodni rezani komadni cvet",
-  //   text: "Ljubičasti gerberi označavaju divljenje i saosećanje, što znači da se često šalju kao čin prijateljstva ili kao poklon za ozdravljenje. Tamnije ljubičasti gerberi su simbol zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
-  //   httpaddress: `https://hrizantema.rs/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
-  //   link: `/single/rezano/ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece${categoryRezano}`,
-  //   sluglink: "ljubicasti-gerberi-beli-gerberi-rezano-komadno-prirodno-cvece",
+  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-mini.webp",
+  //   alt: "zuta hrizantema margareta baltika prirodni rezani komadni cvet",
+  //   text: "Žute hrizantem simbolizuju sreću, radost i slavlje. Ako tražite hrizantemu koja će nekome ulepšati dan, ne možete pogrešiti sa žutim cvetovima. Hrizanteme predstavljaju i simbol istine.",
+  //   httpaddress: `https://hrizantema.rs/single/rezano/zuta-baltika-margareta-hrizantema-rezani-cvet${categoryRezano}`,
+  //   link: `/single/rezano/zuta-baltika-margareta-hrizantema-rezani-cvet${categoryRezano}`,
+  //   sluglink: "zuta-baltika-margareta-hrizantema-rezani-cvet",
   //   availability: "https://schema.org/InStock",
-  //   prodId: "KO-016",
+  //   prodId: "KO-019",
   //   category: categorySchema,
-  // }
+  // },
+  
   // {
   //   similarTo: [
   //     "Beli ljiljan",
@@ -564,4 +672,5 @@ export const rezanoItemData = [
   //   prodId: "KO-001",
   //   category: categorySchema,
   // },
+
 ];

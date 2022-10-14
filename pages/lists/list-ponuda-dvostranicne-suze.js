@@ -6,22 +6,29 @@ import classes from "./ListsArticles.module.scss";
 
 import { suzeDvostranicneData } from "../../data/suzeDvostranicneItemData";
 import ArrowToTop from "../../components/ui/ArrowToTop";
+import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
 const reverte = suzeDvostranicneData.reverse();
 
 export default function Lists({ inject }) {
+  const listTitle = "Dvostranične Suza";
+  const listDesc =
+    "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
   // console.log(inject, "from list page");
+
   return (
     <>
       <HeadList
+        listDesc={listDesc}
         data={inject}
-        addTitle="Ponuda Dvostraničnih Suza"
+        addTitle={listTitle}
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-dvostranicne-suze"
       />
       <OriginLinksNav
-        list="Dvostranične suze"
+        list={listTitle}
         addHttpaddress="/lists/list-ponuda-dvostranicne-suze"
       />
+      <ListHeadline>{listTitle}</ListHeadline>
       <article className={`${classes.cont} ${classes.horizontal_items}`}>
         {inject.map((inj) => (
           <section key={inj.id}>

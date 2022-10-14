@@ -14,7 +14,7 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 
 ## Crveni ljiljan
 
-Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću, Djevicu Mariju i večnu ljubav.
+Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću i večnu ljubav.
 
 ## Crveni gerber
 
@@ -23,6 +23,8 @@ Crveni gerberi predstavljaju ljubav.
 Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Dakle, ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.
 
 ## Bela ruža
+
+Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.
 
 Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
 
@@ -84,11 +86,15 @@ Sama svetla boja podseća na sunce svojom suštinskom toplinom i dobrim raspolo
 
 Žuti ljiljan je simbol zdravlja, blagostanja i čistoće. Zlatna boja ljiljana odiše izuzetnom lepotom i snagom van okolnosti i životnih napora.
 
-## Žuti gerber
+## Žuti ljiljan
 
 Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću.
 
 Žute gerbere možete poslati nekome ko se oporavlja od bolesti da biste ih razveselili. Buket žutih gerbera je siguran način da preokrenete tmuran dan.
+
+## Žuti hrizantema
+
+Žute hrizantem simbolizuju sreću, radost i slavlje. Ako tražite hrizantemu koja će nekome ulepšati dan, ne možete pogrešiti sa žutim cvetovima.
 
 ### Ruža
 
@@ -106,7 +112,7 @@ Gerberi simbolizuju lepotu, nevinost i čistotu. Gerberi označava da je osoba k
 
 ### Hrizantema
 
-Hrizanteme se vide kao simbol istine.
+Hrizanteme predstavljaju i simbol istine.
 
 ### Gladiola
 
@@ -119,6 +125,24 @@ Ime gladiola potiče od latinske reči gladius, što se prevodi kao mač. Kao re
 ### Lepa kata
 
 Lepa kata simbolizuje ljubav, mudrost, strpljenje, veru, eleganciju i lepotu. Svaka vrsta boja nosiće svoju duboku simboliku, od plemenitosti do prijateljstva, pa čak i čistoće.
+
+### Hrizantema saksijska
+
+Na jeziku cveća, hrizantema nosi simboličko značenje odane ljubavi, odanosti, sreće, dugovečnosti i radosti.
+
+### Hrizantema saksijska - bela
+
+Bele hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća.
+
+Međutim, bele hrizanteme takođe simbolizuju čistoću, nevinost, duhovnost, odanost i poštenje. Dodatna simbolička značenja mogu se postići kombinovanjem sa drugim cvećem.
+
+### Hrizantema saksijska - žuta
+
+Ranije, žute hrizanteme su predstavljale tugu i zanemarenu ljubav - što je u suprotnosti sa njihovom svetlom, veselom nijansom.
+
+Međutim, danas se smatra žute hrizanteme simbolizuju sreću, radost, slavlje i dobro raspoloženje.
+
+Dobar su izbor za proslavu rođendana, aranžmane uz čestitke ili za razveseljenje pacijenta koji se oporavlja.
 
 #### Crvena
 
