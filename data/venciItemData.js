@@ -1125,41 +1125,41 @@ export const venciItemData = [
     prodId: "VE-031",
     category: categorySchema,
   },
-  // {
-  //   similarTo: [
-  //     "Ljiljan ~ ruža ~ gerber ~ margareta",
-  //     "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
-  //     "Beli ljiljan ~ roze gerber",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 32,
-  //   title: "Ljiljan ~ crveni gerber ~ mrežica",
-  //   price: "7.000",
-  //   priceRange: "6.000 - 8.500",
-  //   includes: ["ljiljane", "gerbere", "gerbere", "robelini"],
-  //   imageBig:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac.webp",
-  //   imageSmall:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.webp",
-  //   imageGMB:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.webp",
-  //   alt: "Prirodni venac beli ljiljan crveno crni gerber mrezica robelini",
-  //   text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crveni gerberi predstavljaju ljubav.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
-  //   link: `/single/venac/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
-  //   sluglink: "beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-032",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Ljiljan ~ ruža ~ gerber ~ margareta",
+      "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
+      "Beli ljiljan ~ roze gerber",
+    ],
+    test: [15, 1, 8],
+    id: 32,
+    title: "Ljiljan ~ crveni gerber ~ mrežica",
+    price: "8.000",
+    priceRange: "6.000 - 8.500",
+    includes: ["ljiljane", "gerbere", "gerbere", "robelini"],
+    imageBig:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.webp",
+    alt: "Prirodni venac beli ljiljan crveno crni gerber mrezica robelini",
+    text: "Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Iz tog razloga, oni su popularan (i veoma prikladan) izbor za važne životne prilike kao što su rođenja, venčanja, pa čak i sahrane. Mnogi ljudi takođe vide bele ljiljane kao simbol veličanstva i besmrtnosti. Crveni gerberi predstavljaju ljubav.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
+    sluglink: "beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-032",
+    category: categorySchema,
+  },
 
   // {
   //   similarTo: [

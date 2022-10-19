@@ -30,6 +30,8 @@ Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe
 
 ## Beli ljiljan
 
+Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Iz tog razloga, oni su popularan (i veoma prikladan) izbor za važne životne prilike kao što su rođenja, venčanja, pa čak i sahrane. Mnogi ljudi takođe vide bele ljiljane kao simbol veličanstva i besmrtnosti.
+
 Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.
 
 ## Beli gerberi
