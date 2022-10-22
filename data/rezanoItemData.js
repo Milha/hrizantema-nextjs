@@ -62,7 +62,7 @@ export const rezanoItemData = [
   {
     similarTo: [
       "Narandžasti carski ljiljan orijental",
-      "Ljubičasti carski ljiljan orijental",
+      "Žuta hrizantema margareta baltika",
       "Beli carski ljiljan orijental",
     ],
     test: [5, 6, 1],
@@ -400,8 +400,8 @@ export const rezanoItemData = [
   },
   {
     similarTo: [
+      "Žuta hrizantema margareta baltika",
       "Beli ljiljan",
-      "Ljubičasti carski ljiljan orijental",
       "Bela margareta",
     ],
     test: [8, 2, 3],
@@ -608,42 +608,42 @@ export const rezanoItemData = [
     category: categorySchema[1],
   },
 
-  // {
-  //   similarTo: [
-  //     "Roze margareta hrizantema baltika",
-  //     "Beli ljiljan",
-  //     "Bela margareta",
-  //   ],
-  //   test: [1, 2, 3],
-  //   id: 19,
-  //   title: "Žuta hrizantema margareta baltika",
-  //   price: "250",
-  //   priceRange: "100 - 300",
-  //   includes: null,
-  //   imageBig:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet.jpg",
-  //   imageBigWebP:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet.webp",
-  //   imageSmall:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-small.webp",
-  //   imageGMB:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-gmb.jpg",
-  //   imageMini:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-mini.webp",
-  //   alt: "zuta hrizantema margareta baltika prirodni rezani komadni cvet",
-  //   text: "Žute hrizantem simbolizuju sreću, radost i slavlje. Ako tražite hrizantemu koja će nekome ulepšati dan, ne možete pogrešiti sa žutim cvetovima. Hrizanteme predstavljaju i simbol istine.",
-  //   httpaddress: `https://hrizantema.rs/single/rezano/zuta-baltika-margareta-hrizantema-rezani-cvet${categoryRezano}`,
-  //   link: `/single/rezano/zuta-baltika-margareta-hrizantema-rezani-cvet${categoryRezano}`,
-  //   sluglink: "zuta-baltika-margareta-hrizantema-rezani-cvet",
-  //   availability: "https://schema.org/InStock",
-  //   prodId: "KO-019",
-  //   category: categorySchema,
-  // },
-  
+  {
+    similarTo: [
+      "Roze margareta hrizantema baltika",
+      "Beli ljiljan",
+      "Bela margareta",
+    ],
+    test: [1, 2, 3],
+    id: 19,
+    title: "Žuta hrizantema margareta baltika",
+    price: "250",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet.webp",
+    imageSmall:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/zuta-baltika-margareta-hrizantema-rezani-cvet-mini.webp",
+    alt: "zuta hrizantema margareta baltika prirodni rezani komadni cvet",
+    text: "Žute hrizantem simbolizuju sreću, radost i slavlje. Ako tražite hrizantemu koja će nekome ulepšati dan, ne možete pogrešiti sa žutim cvetovima. Hrizanteme predstavljaju i simbol istine.",
+    httpaddress: `https://hrizantema.rs/single/rezano/zuta-baltika-margareta-hrizantema-rezani-cvet${categoryRezano}`,
+    link: `/single/rezano/zuta-baltika-margareta-hrizantema-rezani-cvet${categoryRezano}`,
+    sluglink: "zuta-baltika-margareta-hrizantema-rezani-cvet",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-019",
+    category: categorySchema,
+  },
+
   // {
   //   similarTo: [
   //     "Beli ljiljan",
@@ -672,5 +672,4 @@ export const rezanoItemData = [
   //   prodId: "KO-001",
   //   category: categorySchema,
   // },
-
 ];
