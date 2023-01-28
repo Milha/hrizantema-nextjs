@@ -1198,41 +1198,41 @@ export const venciItemData = [
     category: categorySchema,
   },
 
-  // {
-  //   similarTo: [
-  //     "Crveni gerber ~ bela gipsofila",
-  //     "Beli gerber ~ žuti gerber ~ gipsofila",
-  //     "Venac srce od gerbera",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 34,
-  //   title: "Crvenocrni gerber ~ mrežica",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   includes: ["gerber", "mrežica"],
-  //   imageBig:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac.webp",
-  //   imageSmall:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.webp",
-  //   imageGMB:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.webp",
-  //   alt: "Prirodni venac crveni gerber sa crnom tackom mrezica dekoracija",
-  //   text: "Crveni gerberi predstavljaju ljubav. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Dakle, ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
-  //   link: `/single/venac/crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
-  //   sluglink: "crveno-crni-gerber-mrezica-robelini-prirodni-venac",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-034",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Crveni gerber ~ bela gipsofila",
+      "Beli gerber ~ žuti gerber ~ gipsofila",
+      "Venac srce od gerbera",
+    ],
+    test: [15, 1, 8],
+    id: 34,
+    title: "Crvenocrni gerber ~ mrežica",
+    price: "5.000",
+    priceRange: "4.000 - 5.500",
+    includes: ["gerber", "mrežica"],
+    imageBig:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/crveno-crni-gerber-mrezica-robelini-prirodni-venac-mini.webp",
+    alt: "Prirodni venac crveni gerber sa crnom tackom mrezica dekoracija",
+    text: "Crveni gerberi predstavljaju ljubav. Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Dakle, ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.",
+    httpaddress: `https://hrizantema.rs/single/venac/crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/crveno-crni-gerber-mrezica-robelini-prirodni-venac${categoryVenci}`,
+    sluglink: "crveno-crni-gerber-mrezica-robelini-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-034",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Beli ljiljan ~ beli gerber ~ gladiole ~ robelini",
@@ -1240,7 +1240,7 @@ export const venciItemData = [
   //     "Ljiljan ~ ruža ~ gladiola ~ mrežica",
   //   ],
   //   test: [15, 1, 8],
-  //   id: 34,
+  //   id: 35,
   //   title: "Ljiljan ~ crvenozuti gerber ~ gladiola",
   //   price: "5.000",
   //   priceRange: "4.000 - 5.500",
@@ -1265,7 +1265,7 @@ export const venciItemData = [
   //   link: `/single/venac/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac${categoryVenci}`,
   //   sluglink: "beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac",
   //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-034",
+  //   prodId: "VE-035",
   //   category: categorySchema,
   // },
   // {
