@@ -1233,41 +1233,41 @@ export const venciItemData = [
     prodId: "VE-034",
     category: categorySchema,
   },
-  // {
-  //   similarTo: [
-  //     "Beli ljiljan ~ beli gerber ~ gladiole ~ robelini",
-  //     "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
-  //     "Ljiljan ~ ruža ~ gladiola ~ mrežica",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 35,
-  //   title: "Ljiljan ~ crvenozuti gerber ~ gladiola",
-  //   price: "5.000",
-  //   priceRange: "4.000 - 5.500",
-  //   includes: ["ljiljan", "gerber", "gladila"],
-  //   imageBig:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac.webp",
-  //   imageSmall:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-small.webp",
-  //   imageGMB:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-mini.webp",
-  //   alt: "Prirodni venac beli ljiljan crvenozuti gerber bele gladiole",
-  //   text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crveni gerberi predstavljaju ljubav. Gladiola je prezentuje snagu i karakter.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac${categoryVenci}`,
-  //   link: `/single/venac/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac${categoryVenci}`,
-  //   sluglink: "beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-035",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Beli ljiljan ~ beli gerber ~ gladiole ~ robelini",
+      "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
+      "Ljiljan ~ ruža ~ gladiola ~ mrežica",
+    ],
+    test: [15, 1, 8],
+    id: 35,
+    title: "Ljiljan ~ crvenozuti gerber ~ gladiola",
+    price: "5.000",
+    priceRange: "4.000 - 5.500",
+    includes: ["ljiljan", "gerber", "gladila"],
+    imageBig:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac-mini.webp",
+    alt: "Prirodni venac beli ljiljan crvenozuti gerber bele gladiole",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crveni gerberi predstavljaju ljubav. Gladiola je prezentuje snagu i karakter.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac${categoryVenci}`,
+    sluglink: "beli-ljiljan-crveno-zuti-gerber-bela-gladiola-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-035",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Orijental ~ crvena ruža ~ gerber",
