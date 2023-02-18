@@ -1268,41 +1268,41 @@ export const venciItemData = [
     prodId: "VE-035",
     category: categorySchema,
   },
-  // {
-  //   similarTo: [
-  //     "Orijental ~ crvena ruža ~ gerber",
-  //     "Orijental ~ ruža ~ hrizantema ~ mrežica",
-  //     "Carski ljiljan ~ crveni gerber ~ margareta",
-  //   ],
-  //   test: [15, 1, 8],
-  //   id: 35,
-  //   title: "Rozebeli orijental ~ baltika hrizantema",
-  //   price: "10.000",
-  //   priceRange: "8.000 - 12.500",
-  //   includes: ["ljiljan", "hrizantema", "robelini"],
-  //   imageBig:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac.jpg",
-  //   imageBigWebP:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac.webp",
-  //   imageSmall:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-small.webp",
-  //   imageGMB:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-gmb.jpg",
-  //   imageMini:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-mini.webp",
-  //   alt: "Prirodni venac roze beli orijental carski ljiljan margareta bela baltika hrizantema robelini zelenilo",
-  //   text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo.",
-  //   httpaddress: `https://hrizantema.rs/single/venac/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac${categoryVenci}`,
-  //   link: `/single/venac/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac${categoryVenci}`,
-  //   sluglink: "roze-orijental-bela-margareta-baltika-robelini-prirodni-venac",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-035",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Orijental ~ crvena ruža ~ gerber",
+      "Orijental ~ ruža ~ hrizantema ~ mrežica",
+      "Carski ljiljan ~ crveni gerber ~ margareta",
+    ],
+    test: [15, 1, 8],
+    id: 36,
+    title: "Rozebeli orijental ~ baltika hrizantema",
+    price: "10.000",
+    priceRange: "8.000 - 12.500",
+    includes: ["ljiljan", "hrizantema", "robelini"],
+    imageBig:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac-mini.webp",
+    alt: "Prirodni venac roze beli orijental carski ljiljan margareta bela baltika hrizantema robelini zelenilo",
+    text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo.",
+    httpaddress: `https://hrizantema.rs/single/venac/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/roze-orijental-bela-margareta-baltika-robelini-prirodni-venac${categoryVenci}`,
+    sluglink: "roze-orijental-bela-margareta-baltika-robelini-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-036",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Ljiljan ~ crveni gerber ~ mrežica",
