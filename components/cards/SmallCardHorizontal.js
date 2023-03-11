@@ -12,9 +12,7 @@ export default function SmallCard({ data }) {
       </div>
       <div className={classes.text_cont}>
         <Link href={data.link}>
-          <a>
-            <h3>{data.title}</h3>
-          </a>
+          <h3>{data.title}</h3>
         </Link>
         <p className={classes.desc}>{data.text}</p>
         <div className={classes.price_more_cont}>
@@ -23,7 +21,7 @@ export default function SmallCard({ data }) {
           </p>
           <p className={classes.more_a}>
             <Link href={data.link}>
-              <a>detaljnije...</a>
+              detaljnije...
             </Link>
           </p>
         </div>

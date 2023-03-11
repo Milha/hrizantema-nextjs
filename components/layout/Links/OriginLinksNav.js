@@ -10,15 +10,15 @@ function OriginLinksNav({ list, addHttpaddress }) {
   return (
     <div className={classes.cont}>
       <Link href="/">
-        <a>
+       
           <HomeHeart />
-        </a>
+        
       </Link>
       <span className={classes.chevron_arrow}>
         <ChevronSingleRight />
       </span>
       <Link href={addHttpaddress}>
-        <a>{list}</a>
+        {list}
       </Link>
     </div>
   );

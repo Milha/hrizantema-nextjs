@@ -15,21 +15,21 @@ function OriginLinksNavSingle({
   return (
     <div className={classes.cont}>
       <Link href="/">
-        <a>
+        
           <HomeHeart />
-        </a>
+        
       </Link>
       <span className={classes.chevron_arrow}>
         <ChevronSingleRight />
       </span>
       <Link href={addHttpaddress}>
-        <a>{list}</a>
+        {list}
       </Link>
       <span className={classes.chevron_arrow}>
         <ChevronSingleRight />
       </span>
       <Link href={linksSingle}>
-        <a>{titleSingle}</a>
+        {titleSingle}
       </Link>
     </div>
   );

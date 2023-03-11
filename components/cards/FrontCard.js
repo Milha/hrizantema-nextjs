@@ -21,11 +21,11 @@ export default function FrontCard({ data }) {
       </div>
 
       <div className={classes.text_cont}>
-        <Link href={data.offerLink}>
-          <a>
+        <Link href={data.offerLink} >
+          
             <h2>{data.title}</h2>
             <p>{data.text}</p>
-          </a>
+          
         </Link>
       </div>
     </article>

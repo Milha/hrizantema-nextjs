@@ -30,12 +30,12 @@ function HeaderNew() {
         <ul aria-label="menu">
           <li onClick={openMenu}>
             <Link href="/lists/list-ponuda-buketi-korpe">
-              <a>Buketi</a>
+              Buketi
             </Link>
           </li>
           <li onClick={openMenu}>
             <Link href="/lists/list-ponuda-venci">
-              <a>Venci</a>
+              Venci
             </Link>
           </li>
 
@@ -49,28 +49,28 @@ function HeaderNew() {
             >
               <div className={classes.drop_link_cont}>
                 <Link href="/lists/list-ponuda-suze">
-                  <a>Klasične</a>
+                  Klasične
                 </Link>
                 {/* <br /> */}
                 <Link href="/lists/list-ponuda-dvostranicne-suze">
-                  <a>Dvostranične</a>
+                  Dvostranične
                 </Link>
               </div>
             </div>
           </li>
           <li onClick={openMenu}>
             <Link href="/lists/lista-ponuda-rezano-cvece">
-              <a>Rezano cveće</a>
+              Rezano cveće
             </Link>
           </li>
           <li onClick={openMenu}>
             <Link href="/lists/list-ostalo-u-ponudi">
-              <a>Ostalo u ponudi</a>
+              Ostalo u ponudi
             </Link>
           </li>
           <li onClick={openMenu}>
             <Link href="/main-pages/contact">
-              <a className={classes.contact}>Kontakt</a>
+              Kontakt
             </Link>
           </li>
         </ul>
