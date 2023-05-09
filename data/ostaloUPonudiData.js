@@ -969,6 +969,35 @@ export const ostaloUPonudiData = [
 
   // {
   //   similarTo: [
+  //     "Velika kućica za paljenje sveće",
+  //     "Kućica za paljenje sveća - mala obla",
+  //     "Srednja kućica za sveće - obla",
+  //   ],
+  //   test: [1, 4, 8],
+  //   id: 29,
+  //   title: "Sveća",
+  //   price: "NA.000",
+  //   priceRange: "4.000 - 5.500",
+  //   includes: [],
+  //   imageBig: "/images/ostalo-u-ponudi/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/ostalo-u-ponudi/INPUTIMAGE.webp",
+  //   imageSmall: "/images/ostalo-u-ponudi/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/ostalo-u-ponudi/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/ostalo-u-ponudi/INPUTIMAGE-mini.webp",
+  //   alt: "ALTTTTTTT",
+  //   text: "DESCCCCCCC",
+  //   httpaddress: `https://hrizantema.rs/single/ostalo/LINKKKKK${categoryVestacko}`,
+  //   link: `/single/ostalo/LINKKKKK${categoryVestacko}`,
+  //   sluglink: "LINKKKKK",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "OP-029",
+  //   category: categorySchema[1],
+  // },
+
+  // {
+  //   similarTo: [
   //     "Beli ljiljan ~ veštačko cveće",
   //     "Crveni ljiljan ~ veštačko gips",
   //     "Žuta ruža ~ žute ružice",
