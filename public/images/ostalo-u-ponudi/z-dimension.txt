@@ -2,13 +2,13 @@ New Insta friendly 08 2022
 
 Vereical  IN PROGRESS 09 08 2022
 
-h: 1080 w: 1350 - normal
+w: 1080 h: 1350 - normal
 
-h: 720  w: 900 - GMB
+w: 720  h: 900 - GMB
 
-h: 480  w: 600 - small
+w: 480  h: 600 - small
 
-h: 240 w: 300 - mini
+w: 240 h: 300 - mini
 
 
 

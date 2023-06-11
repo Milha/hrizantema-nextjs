@@ -181,3 +181,7 @@ Zeleno cveće označava prirodu, zdravlje i obnovu.
 ##### Venac srce
 
 Proslavite život svog dragog prijatelja ili voljene osobe sa ovim prelepim vencem. Napravljen od bujnih crvenih ruža, savršen je simbol naklonosti i ljubavi. U obliku srca, jedinstven je i izuzetno poseban. To će dodati toplinu i eleganciju sahrani ili pomenu. Cvećara Hrizantema će isporučiti ovaj cvetni aranžman svež i na vreme za vaše okupljanje. Uključićemo i vašu poruku kako bismo je učinili ličnim i sentimentalnijim izrazom vašeg saučešća.
+
+##### Lampioni
+
+Ritual paljenja sveće za odavanje počasti „prošlom“ životu odavno je deo naše kulture. Čuvanje svetlosti koja gori u sećanju znači da sećanje i dalje živi i da gori. To je ritual koji promoviše refleksiju i označava sećanje. Može se pratiti do drevnih paganskih obreda i početka hrišćanstva kakvog poznajemo. Svetlost se smatra čistom. Ona raspršuje tamu, hrani život i sve osvetljava. Pošto je takva svetlost postala prikladan simbol za Boga, ’Blaženog Spasitelja‘, kako se u Bibliji spominje kao „svetlost sveta“.
