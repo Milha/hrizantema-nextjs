@@ -976,7 +976,7 @@ export const ostaloUPonudiData = [
     test: [1, 4, 8],
     id: 29,
     title: "Lampion - srednji",
-    price: "150",
+    price: "200",
     priceRange: "120 - 200",
     includes: [],
     imageBig: "/images/ostalo-u-ponudi/lampion-srednji.jpg",
