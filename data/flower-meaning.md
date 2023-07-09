@@ -54,6 +54,10 @@ Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljilja
 
 Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo.
 
+## Roze beli carski ljiljan orijental 'Tiger lily'
+
+Roze tigrasti ljiljani simbolizuju sreću i radost, a crveno cveće je povezano sa strašću.
+
 ## Roze gerber
 
 Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.

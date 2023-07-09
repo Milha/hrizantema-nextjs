@@ -62,7 +62,7 @@ export const rezanoItemData = [
   {
     similarTo: [
       "Narandžasti carski ljiljan orijental",
-      "Žuta hrizantema margareta baltika",
+      "Roze beli carski ljiljan orijental 'Tiger lily'",
       "Beli carski ljiljan orijental",
     ],
     test: [5, 6, 1],
@@ -437,7 +437,7 @@ export const rezanoItemData = [
     similarTo: [
       "Beli carski ljiljan orijental",
       "Ljubičasti carski ljiljan orijental",
-      "Narandžasti carski ljiljan orijental",
+      "Roze beli carski ljiljan orijental 'Tiger lily'",
     ],
     test: [1, 2, 3],
     id: 14,
@@ -644,6 +644,41 @@ export const rezanoItemData = [
     category: categorySchema,
   },
 
+  {
+    similarTo: [
+      "Beli ljiljan",
+      "Ljubičasti carski ljiljan orijental",
+      "Roze beli carski ljiljan orijental 'Stargazer'",
+    ],
+    test: [1, 2, 3],
+    id: 20,
+    title: "Roze beli carski ljiljan orijental 'Tiger lily'",
+    price: "800",
+    priceRange: "700 - 1300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece-mini.webp",
+    alt: "Roze beli carski ljiljan orijental 'Tiger lily' prirodni rezani komadni cvet",
+    text: "Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Roze tigrasti ljiljani simbolizuju sreću i radost, a crveno cveće je povezano sa strašću. Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.",
+    httpaddress: `https://hrizantema.rs/single/rezano/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece${categoryRezano}`,
+    link: `/single/rezano/ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece${categoryRezano}`,
+    sluglink: "ljiljan-orijental-roze-beli-tiger-lily-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-020",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Beli ljiljan",
