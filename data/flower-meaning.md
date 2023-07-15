@@ -102,6 +102,8 @@ Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću.
 
 Žute hrizantem simbolizuju sreću, radost i slavlje. Ako tražite hrizantemu koja će nekome ulepšati dan, ne možete pogrešiti sa žutim cvetovima.
 
+Žute hrizanteme simbolizuju neuzvraćenu ljubav ili tugu.
+
 ### Ruža
 
 Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu.

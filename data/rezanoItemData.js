@@ -611,7 +611,7 @@ export const rezanoItemData = [
   {
     similarTo: [
       "Roze margareta hrizantema baltika",
-      "Beli ljiljan",
+      "Hrizantema - Palisad žuta",
       "Bela margareta",
     ],
     test: [1, 2, 3],
@@ -679,6 +679,72 @@ export const rezanoItemData = [
     prodId: "KO-020",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Žuta hrizantema margareta baltika",
+      "Žuta hrizantema jesenka - saksija",
+      "Bela margareta",
+    ],
+    test: [1, 2, 3],
+    id: 21,
+    title: "Hrizantema - Palisad žuta",
+    price: "200",
+    priceRange: "100 - 300",
+    includes: null,
+    imageBig:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece.jpg",
+    imageBigWebP:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece.webp",
+    imageSmall:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece-small.webp",
+    imageGMB:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece-gmb.jpg",
+    imageMini:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/rezano-cvece/hrizantema-palisad-zuti-rezano-komadno-cvece-mini.webp",
+    alt: "Hrizantema palisad palisada prirodni rezani komadni cvet",
+    text: "Žute hrizantem simbolizuju sreću, radost i slavlje. Takodje, žute hrizanteme simbolizuju neuzvraćenu ljubav ili tugu. Hrizanteme predstavljaju i simbol istine.",
+    httpaddress: `https://hrizantema.rs/single/rezano/hrizantema-palisad-zuti-rezano-komadno-cvece${categoryRezano}`,
+    link: `/single/rezano/hrizantema-palisad-zuti-rezano-komadno-cvece${categoryRezano}`,
+    sluglink: "hrizantema-palisad-zuti-rezano-komadno-cvece",
+    availability: "https://schema.org/InStock",
+    prodId: "KO-021",
+    category: categorySchema,
+  },
+  // {
+  //   similarTo: ["Beli ljiljan", "Hrizantema - Palisad žuta", "Bela margareta"],
+  //   test: [1, 2, 3],
+  //   id: 22,
+  //   title: "Hrizantema - Palisad bela",
+  //   price: "200",
+  //   priceRange: "100 - 300",
+  //   includes: null,
+  //   imageBig:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece.jpg",
+  //   imageBigWebP:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece.webp",
+  //   imageSmall:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece-small.jpg",
+  //   imageSmallWebP:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece-small.webp",
+  //   imageGMB:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece-gmb.jpg",
+  //   imageMini:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece-mini.jpg",
+  //   imageMiniWebP:
+  //     "/images/rezano-cvece/hrizantema-palisad-bela-rezano-komadno-cvece-mini.webp",
+  //   alt: "Hrizantema palisad bela palisada prirodni rezani komadni cvet",
+  //   text: "Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Hrizanteme predstavljaju i simbol istine.",
+  //   httpaddress: `https://hrizantema.rs/single/rezano/hrizantema-palisad-bela-rezano-komadno-cvece${categoryRezano}`,
+  //   link: `/single/rezano/hrizantema-palisad-bela-rezano-komadno-cvece${categoryRezano}`,
+  //   sluglink: "hrizantema-palisad-bela-rezano-komadno-cvece",
+  //   availability: "https://schema.org/InStock",
+  //   prodId: "KO-022",
+  //   category: categorySchema,
+  // },
   // {
   //   similarTo: [
   //     "Beli ljiljan",
