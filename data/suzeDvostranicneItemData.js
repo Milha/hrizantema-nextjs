@@ -265,7 +265,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 8,
     title: "Crvena ruža ~ gerber ~ bela baltika",
-    price: "10.000",
+    price: "8.000",
     priceRange: "8.000 - 12.500",
     includes: ["ruže", "gerbere", "hrizanteme"],
     imageBig:
