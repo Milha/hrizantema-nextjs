@@ -301,8 +301,8 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 9,
     title: "Beli ljiljan ~ crveni gerber ~ bele hrizanteme",
-    price: "10.000",
-    priceRange: "8.000 - 12.500",
+    price: "5.500",
+    priceRange: "4.000 - 6.500",
     includes: ["ljiljani", "gerbere", "hrizanteme"],
     imageBig:
       "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.jpg",
