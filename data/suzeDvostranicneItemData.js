@@ -292,42 +292,42 @@ export const suzeDvostranicneData = [
     prodId: "DS-008",
     category: categorySchema,
   },
-  // {
-  //   similarTo: [
-  //     "Beli ljiljan ~ crvene ruže",
-  //     "Bela ruža ~ mahonija",
-  //     "Beli ljiljan ~ crvena ruža",
-  //   ],
-  //   test: [0, 0, 0],
-  //   id: 9,
-  //   title: "Beli ljiljan ~ crveni gerber ~ bele hrizanteme",
-  //   price: "10.000",
-  //   priceRange: "8.000 - 12.500",
-  //   includes: ["ljiljani", "gerbere", "hrizanteme"],
-  //   imageBig:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.jpg",
-  //   imageBigWebP:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.webp",
-  //   imageSmall:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-small.webp",
-  //   imageGMB:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-gmb.jpg",
-  //   imageMini:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-mini.webp",
-  //   alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
-  //   text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crveni gerberi predstavljaju ljubav. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
-  //   httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza${categorySuze}`,
-  //   link: `/single/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza${categorySuze}`,
-  //   sluglink:
-  //     "beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "DS-009",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Beli ljiljan ~ crvene ruže",
+      "Bela ruža ~ mahonija",
+      "Beli ljiljan ~ crvena ruža",
+    ],
+    test: [0, 0, 0],
+    id: 9,
+    title: "Beli ljiljan ~ crveni gerber ~ bele hrizanteme",
+    price: "10.000",
+    priceRange: "8.000 - 12.500",
+    includes: ["ljiljani", "gerbere", "hrizanteme"],
+    imageBig:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza-mini.webp",
+    alt: "dvostranican suza za sahrane za sanduk prirodno cvece ALT",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crveni gerberi predstavljaju ljubav. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza${categorySuze}`,
+    link: `/single/suza-dvostranicna/beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza${categorySuze}`,
+    sluglink:
+      "beli-ljiljani-crveni-gerberi-bele-hrizanteme-margarete-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "DS-009",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Bela kala ~ bela margareta",
