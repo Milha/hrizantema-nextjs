@@ -328,41 +328,41 @@ export const suzeDvostranicneData = [
     prodId: "DS-009",
     category: categorySchema,
   },
-  // {
-  //   similarTo: [
-  //     "Bela kala ~ bela margareta",
-  //     "Kala ~ beli gerber",
-  //     "Bela ruža ~ bela gladiola",
-  //   ],
-  //   test: [0, 0, 0],
-  //   id: 10,
-  //   title: "Ruža bela ~ Astromerija",
-  //   price: "15.000",
-  //   priceRange: "13.000 - 18.500",
-  //   includes: ["ruže", "astromerija", "rubelini", "gipsofila"],
-  //   imageBig:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza.jpg",
-  //   imageBigWebP:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza.webp",
-  //   imageSmall:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-small.jpg",
-  //   imageSmallWebP:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-small.webp",
-  //   imageGMB:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-gmb.jpg",
-  //   imageMini:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-mini.jpg",
-  //   imageMiniWebP:
-  //     "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-mini.webp",
-  //   alt: "dvostranican suza za sahrane za sanduk prirodno cvece od belih ruza ljubicastih astromerija bela gipsofila",
-  //   text: "Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.",
-  //   httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza${categorySuze}`,
-  //   link: `/single/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza${categorySuze}`,
-  //   sluglink: "bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza",
-  //   availability: "https://schema.org/PreOrder",
-  //   prodId: "DS-010",
-  //   category: categorySchema,
-  // },
+  {
+    similarTo: [
+      "Bela kala ~ bela margareta",
+      "Kala ~ beli gerber",
+      "Bela ruža ~ bela gladiola",
+    ],
+    test: [0, 0, 0],
+    id: 10,
+    title: "Ruža bela ~ Astromerija",
+    price: "15.000",
+    priceRange: "13.000 - 18.500",
+    includes: ["ruže", "astromerija", "rubelini", "gipsofila"],
+    imageBig:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza-mini.webp",
+    alt: "dvostranican suza za sahrane za sanduk prirodno cvece od belih ruza ljubicastih astromerija bela gipsofila",
+    text: "Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.",
+    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza${categorySuze}`,
+    link: `/single/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza${categorySuze}`,
+    sluglink: "bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "DS-010",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Bela kala ~ bela margareta",
