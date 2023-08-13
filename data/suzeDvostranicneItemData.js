@@ -337,8 +337,8 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 10,
     title: "Ruža bela ~ Astromerija",
-    price: "15.000",
-    priceRange: "13.000 - 18.500",
+    price: "9.000",
+    priceRange: "8.000 - 11.500",
     includes: ["ruže", "astromerija", "rubelini", "gipsofila"],
     imageBig:
       "/images/suza-dvostranicna/bela-ruza-ljubicasta-astromerija-gipsofilija-dvostranicna-suza.jpg",
