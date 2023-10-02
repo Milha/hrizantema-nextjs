@@ -995,7 +995,35 @@ export const ostaloUPonudiData = [
     prodId: "OP-029",
     category: categorySchema[1],
   },
-
+  {
+    similarTo: [
+      "Velika kućica za paljenje sveće",
+      "Srednja kućica za sveće - obla",
+      "Kućica za paljenje sveća - mala obla",
+    ],
+    test: [1, 4, 8],
+    id: 30,
+    title: "Klupica za groblje",
+    price: "7.200",
+    priceRange: "4.000 - 5.500",
+    includes: [],
+    imageBig: "/images/ostalo-u-ponudi/klupica-za-groblje-crna.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/klupica-za-groblje-crna.webp",
+    imageSmall: "/images/ostalo-u-ponudi/klupica-za-groblje-crna-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/klupica-za-groblje-crna-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/klupica-za-groblje-crna-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/klupica-za-groblje-crna-mini.jpg",
+    imageMiniWebP: "/images/ostalo-u-ponudi/klupica-za-groblje-crna-mini.webp",
+    alt: "Klupica za groblje crne boje",
+    text: "Klupica za groblje - crna. Klupica se prodaje uz besplatnu montažu na groblju Orlovača.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/klupica-za-groblje-crna${categoryVestacko}`,
+    link: `/single/ostalo/klupica-za-groblje-crna${categoryVestacko}`,
+    sluglink: "klupica-za-groblje-crna",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-030",
+    category: categorySchema[1],
+  },
   // {
   //   similarTo: [
   //     "Beli ljiljan ~ veštačko cveće",
