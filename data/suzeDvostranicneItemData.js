@@ -122,7 +122,7 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 4,
     title: "Bela ruža ~ mahonija",
-    price: "5.000",
+    price: "9.000",
     priceRange: "4.000 - 6.500",
     includes: ["ruže", "mahonija"],
     imageBig:
@@ -337,7 +337,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 10,
     title: "Ruža bela ~ Astromerija",
-    price: "9.000",
+    price: "12.000",
     priceRange: "8.000 - 11.500",
     includes: ["ruže", "astromerija", "rubelini", "gipsofila"],
     imageBig:
