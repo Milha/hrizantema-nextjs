@@ -442,7 +442,7 @@ export const rezanoItemData = [
     test: [1, 2, 3],
     id: 14,
     title: "Roze beli carski ljiljan orijental 'Stargazer'",
-    price: "800",
+    price: "1.000",
     priceRange: "500 - 900",
     includes: null,
     imageBig:
