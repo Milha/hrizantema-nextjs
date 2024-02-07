@@ -653,7 +653,7 @@ export const rezanoItemData = [
     test: [1, 2, 3],
     id: 20,
     title: "Roze beli carski ljiljan orijental 'Tiger lily'",
-    price: "800",
+    price: "1.000",
     priceRange: "700 - 1300",
     includes: null,
     imageBig:
