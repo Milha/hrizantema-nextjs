@@ -928,7 +928,7 @@ export const ostaloUPonudiData = [
     sluglink: "kucica-za-paljenje-sveca-mala-obla",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-027",
-    category: categorySchema[1],
+    category: categorySchema[0],
   },
 
   {
@@ -964,14 +964,14 @@ export const ostaloUPonudiData = [
     sluglink: "kucica-za-paljenje-sveca-srednja-ravna",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-028",
-    category: categorySchema[1],
+    category: categorySchema[0],
   },
 
   {
     similarTo: [
       "Velika kućica za paljenje sveće",
+      "Parafinske sveće - vise veličina",
       "Kućica za paljenje sveća - mala obla",
-      "Srednja kućica za sveće - obla",
     ],
     test: [1, 4, 8],
     id: 29,
@@ -993,7 +993,7 @@ export const ostaloUPonudiData = [
     sluglink: "lampion-srednji",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-029",
-    category: categorySchema[1],
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -1022,7 +1022,39 @@ export const ostaloUPonudiData = [
     sluglink: "klupica-za-groblje-crna",
     availability: "https://schema.org/PreOrder",
     prodId: "OP-030",
-    category: categorySchema[1],
+    category: categorySchema[0],
+  },
+  {
+    similarTo: [
+      "Velika kućica za paljenje sveće",
+      "Lampion - srednji",
+      "Kućica za paljenje sveća - mala obla",
+    ],
+    test: [1, 4, 8],
+    id: 31,
+    title: "Parafinske sveće - vise veličina",
+    price: "5 - 500",
+    priceRange: "5 - 500",
+    includes: [],
+    imageBig: "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina.webp",
+    imageSmall:
+      "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina-small.jpg",
+    imageSmallWebP:
+      "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina-gmb.jpg",
+    imageMini:
+      "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina-mini.jpg",
+    imageMiniWebP:
+      "/images/ostalo-u-ponudi/svece-parafinske-vise-velicina-mini.webp",
+    alt: "parafinske svece vise velicina za groblje i crkve",
+    text: "Ritual paljenja sveće za odavanje počasti „prošlom“ životu odavno je deo naše kulture. Čuvanje svetlosti koja gori u sećanju znači da sećanje i dalje živi i da gori. To je ritual koji promoviše refleksiju i označava sećanje. Može se pratiti do drevnih paganskih obreda i početka hrišćanstva kakvog poznajemo. Svetlost se smatra čistom. Ona raspršuje tamu, hrani život i sve osvetljava. Pošto je takva svetlost postala prikladan simbol za Boga, ’Blaženog Spasitelja‘, kako se u Bibliji spominje kao „svetlost sveta“.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/svece-parafinske-vise-velicina${categoryVestacko}`,
+    link: `/single/ostalo/svece-parafinske-vise-velicina${categoryVestacko}`,
+    sluglink: "svece-parafinske-vise-velicina",
+    availability: "https://schema.org/InStock",
+    prodId: "OP-031",
+    category: categorySchema[0],
   },
   // {
   //   similarTo: [
