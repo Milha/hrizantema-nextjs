@@ -18,7 +18,7 @@ function Header() {
       </Link>
 
       {/* NAVIGATION */}
-      <div className={!isOpen ? classes.nav_toggle : classes.nav_toggle_none}>
+      {/* <div className={!isOpen ? classes.nav_toggle : classes.nav_toggle_none}>
         <ul onClick={openMenu} aria-label="menu">
           <li>
             <Link href="/lists/list-ponuda-suze">
@@ -51,7 +51,7 @@ function Header() {
             </Link>
           </li>
         </ul>
-      </div>
+      </div> */}
 
       <button
         className={classes.btn}

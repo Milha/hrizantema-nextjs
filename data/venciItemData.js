@@ -1374,6 +1374,41 @@ export const venciItemData = [
     prodId: "VE-038",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Ljiljan ~ crveni gerber ~ mrežica",
+      "Ljiljan ~ ruža ~ gerber ~ margareta",
+      "Beli orijental ~ beli gerber",
+    ],
+    test: [15, 1, 8],
+    id: 39,
+    title: "Beli Carski Ljiljan ~ Gerber ~ Crvena Ruža",
+    price: "10.000",
+    priceRange: "8.000 - 15.500",
+    includes: ["ljiljan", "gerber", "ruža", "gipsofila", "robelini"],
+    imageBig:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac.webp",
+    imageSmall:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-mini.webp",
+    alt: "Prirodni venac beli orijenatl carski ljiljan beli gerber crvene ruze bela gipsofila rubelini prirodni venac",
+    text: "Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-orijental-crvena-ruza-beli-greber-prirodini-venac${categoryVenci}`,
+    link: `/single/venac/beli-orijental-crvena-ruza-beli-greber-prirodini-venac${categoryVenci}`,
+    sluglink: "beli-orijental-crvena-ruza-beli-greber-prirodini-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-039",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
