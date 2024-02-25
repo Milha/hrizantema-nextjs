@@ -1,29 +1,30 @@
 export const offersCardsData = [
   {
-    title: 'Venci',
+    title: "Venci",
     cardImage:
-      '/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.jpg',
+      "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini-small.jpg",
     cardImageWebP:
-      '/images/venci/roze-carski-ljiljan-orijental-bela-ruza-bela-gladiola-venac.webp',
-    text: 'Venci od uvek svežeg cveća',
-    offerLink: '/lists/list-ponuda-venci',
+      "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini-small.webp",
+    text: "Venci od uvek svežeg cveća cvecara orlovaca",
+    offerLink: "/lists/list-ponuda-venci",
   },
   {
-    title: 'Suze',
+    title: "Suze",
     cardImage:
-      '/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.jpg',
-    text: 'Suze svih veličina i dvostranične suze',
+      "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini-small.jpg",
+    text: "Suze svih veličina i dvostranične suze",
     cardImageWebP:
-      '/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp',
-    text: 'Suze svih veličina i dvostranične suze',
-    offerLink: '/lists/list-ponuda-suze',
+      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
+    text: "Suze svih veličina i dvostranične suze",
+    offerLink: "/lists/list-ponuda-suze",
   },
   {
-    title: 'Ostalo u poundi',
-    cardImage: '/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg',
-    cardImageWebP: '/images/ostalo-u-ponudi/kucica-za-svece-velika-small.webp',
+    title: "Ostalo u poundi",
+    cardImage:
+      "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini-small.jpg",
+    cardImageWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.webp",
 
-    text: 'Veštačko cveće, kućice za sveće, saksijsko cveće',
-    offerLink: '/lists/list-ostalo-u-ponudi',
+    text: "Veštačko cveće, kućice za sveće, saksijsko cveće",
+    offerLink: "/lists/list-ostalo-u-ponudi",
   },
 ];

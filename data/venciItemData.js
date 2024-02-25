@@ -910,7 +910,6 @@ export const venciItemData = [
     category: categorySchema,
   },
   {
-    sample: true,
     similarTo: [
       "Ljiljan ~ hrizantema ~ gladiola",
       "Carski ljiljan ~ bele ruže ~ gladiole",
@@ -1375,6 +1374,7 @@ export const venciItemData = [
     category: categorySchema,
   },
   {
+    sample: true,
     similarTo: [
       "Ljiljan ~ crveni gerber ~ mrežica",
       "Ljiljan ~ ruža ~ gerber ~ margareta",

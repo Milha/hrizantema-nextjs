@@ -4,7 +4,6 @@ const categorySaksijsko = `?category=${categorySchema[1]}`;
 
 export const rezanoItemData = [
   {
-    sample: true,
     similarTo: ["Crveni gerber", "Bela ruža", "Crimson gerber"],
     test: [1, 2, 4],
     id: 1,
@@ -33,6 +32,7 @@ export const rezanoItemData = [
     category: categorySchema[0],
   },
   {
+    sample: true,
     similarTo: ["Beli ljiljan", "Kala", "Bela margareta"],
     test: [0, 5, 4],
     id: 2,
@@ -193,7 +193,6 @@ export const rezanoItemData = [
       "Beli ljiljan",
       "Narandžasti carski ljiljan orijental",
     ],
-    sample: true,
     test: [2, 7, 3],
     id: 7,
     title: "Ljubičasti carski ljiljan orijental",
@@ -231,7 +230,6 @@ export const rezanoItemData = [
       "Ljubičasti carski ljiljan orijental",
       "Beli carski ljiljan orijental",
     ],
-    sample: true,
     test: [6, 2, 3],
     id: 8,
     title: "Narandžasti carski ljiljan orijental",
@@ -264,6 +262,7 @@ export const rezanoItemData = [
   },
 
   {
+    sample: true,
     similarTo: [
       "Ljubičasti carski ljiljan orijental",
       "Beli ljiljan",
@@ -507,6 +506,7 @@ export const rezanoItemData = [
   },
 
   {
+    sample: true,
     similarTo: ["Crimson gerber", "Narandžasti gerber", "Crveni gerber"],
     test: [1, 2, 3],
     id: 16,
