@@ -741,7 +741,7 @@ export const ostaloUPonudiData = [
       "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-mini.jpg",
     imageMiniWebP:
       "/images/ostalo-u-ponudi/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips-mini.webp",
-    alt: "vestacko crveni ljiljan crvene ruzice saksija gips",
+    alt: "vestacko crveni ljiljan crvene ruzice saksija gips, hrizantema cvecara orlovaca",
     text: "Crveni ljiljan - crvene ružice, veštačko cveće u saksiji, gipsu.",
     httpaddress:
       "https://hrizantema.rs/single/ostalo/crveni-ljiljan-crvene-ruzice-vestacko-cvece-gips",

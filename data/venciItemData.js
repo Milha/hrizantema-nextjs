@@ -1363,7 +1363,7 @@ export const venciItemData = [
       "/images/venci/beli-ljiljan-beli-gerber-crvene-gladiole-robelini-prirodni-venac-1-mini.jpg",
     imageMiniWebP:
       "/images/venci/beli-ljiljan-beli-gerber-crvene-gladiole-robelini-prirodni-venac-1-mini.webp",
-    alt: "Prirodni venac beli ljilja crveni gerber crvene gladiole zelenilo robelini",
+    alt: "Prirodni venac beli ljilja crveni gerber crvene gladiole zelenilo robelini, hrizantema cvecara orlovaca",
     text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Gladiola je prezentuje snagu i karakter.",
     httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-beli-gerber-crvene-gladiole-robelini-prirodni-venac-1${categoryVenci}`,
     link: `/single/venac/beli-ljiljan-beli-gerber-crvene-gladiole-robelini-prirodni-venac-1${categoryVenci}`,
@@ -1400,7 +1400,7 @@ export const venciItemData = [
       "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-mini.jpg",
     imageMiniWebP:
       "/images/venci/beli-orijental-crvena-ruza-beli-greber-prirodini-venac-mini.webp",
-    alt: "Prirodni venac beli orijenatl carski ljiljan beli gerber crvene ruze bela gipsofila rubelini prirodni venac",
+    alt: "Prirodni venac beli orijenatl carski ljiljan beli gerber crvene ruze bela gipsofila rubelini prirodni venac, hrizantema cvecara orlovaca",
     text: "Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.",
     httpaddress: `https://hrizantema.rs/single/venac/beli-orijental-crvena-ruza-beli-greber-prirodini-venac${categoryVenci}`,
     link: `/single/venac/beli-orijental-crvena-ruza-beli-greber-prirodini-venac${categoryVenci}`,

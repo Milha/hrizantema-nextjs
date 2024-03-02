@@ -288,7 +288,7 @@ export const rezanoItemData = [
       "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-mini.jpg",
     imageMiniWebP:
       "/images/rezano-cvece/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece-mini.webp",
-    alt: "narandzasti carski ljiljan orijental ljiljan prirodni rezani komadni cvet",
+    alt: "narandzasti carski ljiljan orijental ljiljan prirodni rezani komadni cvet, hrizantema cvecara orlovaca",
     text: "Beli ljiljani je čest izbor i za venčanja i za sahrane, jer  simbolizuju podmlađivanje duše. Beli ljiljani orijentali mogu predstavljati čistoću, posvećenost i ponovno rođenje, zbog čega se često biraju kao cveće za saučešće. Hrizantema cvećara Orlovača. Beli carski ljiljan orijental, prirodno cveće, veliki izbor, uvek sveže.",
     httpaddress:
       "https://hrizantema.rs/single/rezano/beli-orijental-carski-ljiljan-rezano-komadno-prirodno-cvece",
