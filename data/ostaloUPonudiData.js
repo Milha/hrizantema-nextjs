@@ -969,7 +969,7 @@ export const ostaloUPonudiData = [
 
   {
     similarTo: [
-      "Velika kućica za paljenje sveće",
+      "Lampion - mali",
       "Parafinske sveće - vise veličina",
       "Kućica za paljenje sveća - mala obla",
     ],
@@ -1028,7 +1028,7 @@ export const ostaloUPonudiData = [
     similarTo: [
       "Velika kućica za paljenje sveće",
       "Lampion - srednji",
-      "Kućica za paljenje sveća - mala obla",
+      "Lampion - mali",
     ],
     test: [1, 4, 8],
     id: 31,
@@ -1055,6 +1055,34 @@ export const ostaloUPonudiData = [
     availability: "https://schema.org/InStock",
     prodId: "OP-031",
     category: categorySchema[0],
+  },
+  {
+    similarTo: [
+      "Lampion - srednji",
+      "Kućica za paljenje sveća - mala obla",
+      "Parafinske sveće - vise veličina",
+    ],
+    test: [1, 4, 8],
+    id: 32,
+    title: "Lampion - mali",
+    price: "100",
+    priceRange: "80 - 120",
+    includes: [],
+    imageBig: "/images/ostalo-u-ponudi/mali-lampion.jpg",
+    imageBigWebP: "/images/ostalo-u-ponudi/mali-lampion.webp",
+    imageSmall: "/images/ostalo-u-ponudi/mali-lampion-small.jpg",
+    imageSmallWebP: "/images/ostalo-u-ponudi/mali-lampion-small.webp",
+    imageGMB: "/images/ostalo-u-ponudi/mali-lampion-gmb.jpg",
+    imageMini: "/images/ostalo-u-ponudi/mali-lampion-mini.jpg",
+    imageMiniWebP: "/images/ostalo-u-ponudi/mali-lampion-mini.webp",
+    alt: "Lampion sveca mali prodaja cvecara orlovaca",
+    text: "Paljenja sveća za mrtve ima mnogo značenja. Neki zapale sveće u čast uspomene ili odaju počast dobro proživljenom životu. Neke verske grupa pale sveće tokom sahrane ili parastosa da simbolizuju lepotu i kratkoću života. Ipak, drugi smatraju da paljenje sveće za nekoga ko je umro na neki način pojačava molitve i pomaže duhu pokojnika. Paljenje sveće u znak sećanja na voljenu osobu koja je umrla — u crkvi ili vašem domu — je dobar način da ih se sećate i poštujete njihov život. Kao što plamen donosi svetlost, toplinu i lepotu svima koji su blizu, upaljena sveća podseća žive na pozitivne doprinose koje su preminuli dali u životu.",
+    httpaddress: `https://hrizantema.rs/single/ostalo/mali-lampion${categoryVestacko}`,
+    link: `/single/ostalo/mali-lampion${categoryVestacko}`,
+    sluglink: "mali-lampion",
+    availability: "https://schema.org/PreOrder",
+    prodId: "OP-032",
+    category: categorySchema[1],
   },
   // {
   //   similarTo: [

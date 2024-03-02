@@ -191,3 +191,9 @@ Proslavite život svog dragog prijatelja ili voljene osobe sa ovim prelepim venc
 ##### Lampioni
 
 Ritual paljenja sveće za odavanje počasti „prošlom“ životu odavno je deo naše kulture. Čuvanje svetlosti koja gori u sećanju znači da sećanje i dalje živi i da gori. To je ritual koji promoviše refleksiju i označava sećanje. Može se pratiti do drevnih paganskih obreda i početka hrišćanstva kakvog poznajemo. Svetlost se smatra čistom. Ona raspršuje tamu, hrani život i sve osvetljava. Pošto je takva svetlost postala prikladan simbol za Boga, ’Blaženog Spasitelja‘, kako se u Bibliji spominje kao „svetlost sveta“.
+
+### Sveće
+
+Paljenja sveća za mrtve ima mnogo značenja. Neki zapale sveće u čast uspomene ili odaju počast dobro proživljenom životu. Neke verske grupa pale sveće tokom sahrane ili parastosa da simbolizuju lepotu i kratkoću života. Ipak, drugi smatraju da paljenje sveće za nekoga ko je umro na neki način pojačava molitve i pomaže duhu pokojnika.
+
+Paljenje sveće u znak sećanja na voljenu osobu koja je umrla — u crkvi ili vašem domu — je dobar način da ih se sećate i poštujete njihov život. Kao što plamen donosi svetlost, toplinu i lepotu svima koji su blizu, upaljena sveća podseća žive na pozitivne doprinose koje su preminuli dali u životu.
