@@ -12,6 +12,7 @@ import { offersCardsData } from "../data/offersCardsData";
 import { sampleItems } from "../utils/sampleFinder";
 import ArrowToTop from "../components/ui/ArrowToTop";
 import MapButton from "../components/ui/MapButton";
+import ReminderCard from "../components/vary-components/ReminderCard";
 
 export default function Home({ propsData, sampleFinderData }) {
   // console.log(sampleFinderData, "from PROPS");
@@ -24,6 +25,7 @@ export default function Home({ propsData, sampleFinderData }) {
       {/* <Hero /> */}
       {/* <SubHero /> */}
       <HeroBanner />
+      <ReminderCard></ReminderCard>
       <Offers data={propsData} />
       <MapButton
         hrefData={
