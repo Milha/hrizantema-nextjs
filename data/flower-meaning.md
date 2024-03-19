@@ -22,6 +22,10 @@ Crveni gerberi predstavljaju ljubav.
 
 Crvena je poznata kao boja ljubavi i strasti. Uopšteno povezana sa crvenim ružama, ova boja označava duboku ljubav u skoro svim varijantama cveća, uključujući crvene gerbere. Dakle, ovo cveće treba pokloniti svom partneru kako biste pokazali svoju naklonost prema njemu.
 
+## Crveni karanfil
+
+Tamno crveni karanfil simbolizuje duboku ljubav i privrženost, dok bledocrveni karanfil predstavlja divljenje i reči „srce me boli za tobom“. Kažu da tamnocrvene latice crvenog karanfila predstavljaju kucanje srca koje je takođe ispunjeno ljubavlju! Osim toga, crveni karanfili su takođe simbol strasti i prepoznatljivosti!
+
 ## Bela ruža
 
 Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.

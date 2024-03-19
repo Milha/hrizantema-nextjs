@@ -1409,6 +1409,41 @@ export const venciItemData = [
     prodId: "VE-039",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Bele ruže ~ crvene ruže",
+      "Ruža ~ gerber ~ margareta",
+      "Ruže ~ gerberi ~ baltika margarete",
+    ],
+    test: [15, 1, 8],
+    id: 40,
+    title: "Crveni Karnfil ~ Beli Gerber",
+    price: "6.000",
+    priceRange: "5.000 - 6.500",
+    includes: [],
+    imageBig:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac-mini.webp",
+    alt: "Prirodni venac crveni karanfili beli gerber cvecara orlovaca hrizantema",
+    text: "Tamno crveni karanfil simbolizuje duboku ljubav i privrženost, dok bledocrveni karanfil predstavlja divljenje i reči „srce me boli za tobom“. Kažu da tamnocrvene latice crvenog karanfila predstavljaju kucanje srca koje je takođe ispunjeno ljubavlju! Osim toga, crveni karanfili su takođe simbol strasti i prepoznatljivosti!",
+    httpaddress: `https://hrizantema.rs/single/venac/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac${categoryVenci}`,
+    sluglink: "crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-040",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
