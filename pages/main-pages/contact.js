@@ -42,7 +42,7 @@ export default function Contact({ qandasData }) {
               telefonom.
             </p>
             <p>Radno vreme:</p>
-            <p>ponedeljak - nedelja: 07:00 - 18:00</p>
+            <p>ponedeljak - nedelja: 07:00 - 18:30</p>
           </div>
           <div className={classes.contact_item}>
             <div className={classes.map_big}>
