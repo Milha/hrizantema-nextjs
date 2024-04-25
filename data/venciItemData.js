@@ -1420,7 +1420,7 @@ export const venciItemData = [
     title: "Crveni Karnfil ~ Beli Gerber",
     price: "6.000",
     priceRange: "5.000 - 6.500",
-    includes: [],
+    includes: ["karnfil", "gerber"],
     imageBig:
       "/images/venci/crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
@@ -1442,6 +1442,41 @@ export const venciItemData = [
     sluglink: "crveni-karanfil-beli-gerber-bela-gipsofila-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-040",
+    category: categorySchema,
+  },
+  {
+    similarTo: [
+      "Ruže ~ gerberi ~ baltika margarete",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Beli ljiljan ~ crvene ruže",
+    ],
+    test: [15, 1, 8],
+    id: 41,
+    title: "Bela kala ~ Bela ruža ~ Crveni gerber",
+    price: "8.000",
+    priceRange: "6.000 - 9.500",
+    includes: ["kala", "ruza", "gerber", "rubelini"],
+    imageBig:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac-mini.webp",
+    alt: "Prirodni venac cvecara orlovaca bele kale bele ruze crveno crni gerber prirodni venac",
+    text: "Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.",
+    httpaddress: `https://hrizantema.rs/single/venac/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac${categoryVenci}`,
+    sluglink: "bela-kala-bela-ruza-crveno-crni-gerber-rubelini-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-041",
     category: categorySchema,
   },
   // {
