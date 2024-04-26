@@ -1453,7 +1453,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 41,
     title: "Bela kala ~ Bela ruža ~ Crveni gerber",
-    price: "8.000",
+    price: "7.000",
     priceRange: "6.000 - 9.500",
     includes: ["kala", "ruza", "gerber", "rubelini"],
     imageBig:
