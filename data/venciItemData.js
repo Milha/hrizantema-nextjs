@@ -1479,6 +1479,40 @@ export const venciItemData = [
     prodId: "VE-041",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Crvenocrni gerber ~ mrežica",
+      "Beli gerber ~ žuti gerber ~ gipsofila",
+      "Venac srce od gerbera",
+    ],
+    test: [15, 1, 8],
+    id: 42,
+    title: "Narandžasti ~ Sunčani ~ Gerber",
+    price: "6.000",
+    priceRange: "4.000 - 5.500",
+    includes: ["gerber", "robelini", "lovor"],
+    imageBig: "/images/venci/narandzasti-sunacani-gerber-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/narandzasti-sunacani-gerber-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/narandzasti-sunacani-gerber-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/narandzasti-sunacani-gerber-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/narandzasti-sunacani-gerber-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/narandzasti-sunacani-gerber-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/narandzasti-sunacani-gerber-prirodni-venac-mini.webp",
+    alt: "Prirodni venac narndzasti suncani gerber prirondi venac za sahranu cvecara orlovaca",
+    text: "Narandžasta boja cveća uglavnom asocira na toplinu, podršku, saosećanje. Ona može simbolizovati i poštovanje prema preminulom i njegovoj porodici. Obzirom da naranžasta boja simbolizuje svetlost, energiju i vitalnost, noseći cveće te boje nudite nadu i ohrabrenje u teškim trenutcima.",
+    httpaddress: `https://hrizantema.rs/single/venac/narandzasti-sunacani-gerber-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/narandzasti-sunacani-gerber-prirodni-venac${categoryVenci}`,
+    sluglink: "narandzasti-sunacani-gerber-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-042",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",

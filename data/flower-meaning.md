@@ -172,6 +172,8 @@ Plavo cveće predstavlja tugu, saosećanje i mir.
 
 Narandžasti cvetovi označavaju entuzijazam, radost i toplinu.
 
+Narandžasta boja cveća uglavnom asocira na toplinu, podršku, saosećanje. Ona može simbolizovati i poštovanje prema preminulom i njegovoj porodici. Obzirom da naranžasta boja simbolizuje svetlost, energiju i vitalnost, noseći cveće te boje nudite nadu i ohrabrenje u teškim trenutcima.
+
 #### Ljubičasti
 
 Ljubičasti cvetovi predstavljaju poštovanje, tugu, simpatiju i divljenje.
