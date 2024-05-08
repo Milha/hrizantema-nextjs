@@ -1488,7 +1488,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 42,
     title: "Narandžasti ~ Sunčani ~ Gerber",
-    price: "6.000",
+    price: "4.500",
     priceRange: "4.000 - 5.500",
     includes: ["gerber", "robelini", "lovor"],
     imageBig: "/images/venci/narandzasti-sunacani-gerber-prirodni-venac.jpg",
