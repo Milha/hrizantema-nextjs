@@ -1513,6 +1513,42 @@ export const venciItemData = [
     prodId: "VE-042",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Beli Carski Ljiljan ~ Gerber ~ Crvena Ruža",
+      "Beli orijental ~ beli gerber",
+      "Orijental ~ crvena ruža ~ gerber",
+    ],
+    test: [15, 1, 8],
+    id: 43,
+    title: "Ljubičati orijental ~ Bela ruža ~ Beli gerber",
+    price: "9.900",
+    priceRange: "8.000 - 11.500",
+    includes: [],
+    imageBig:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac-mini.webp",
+    alt: "Prirodni venac orijental ljiljan ljubicasti bele ruze beli gerber venac za sahranu cvecara orlovaca",
+    text: "Ljubičasti cvetovi predstavljaju poštovanje, tugu, simpatiju i divljenje. Ljiljani predstavljaju gest saučešća nakon gubitka. Gerberi simbolizuju lepotu, nevinost i čistotu. Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. Gerberi označava da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi.",
+    httpaddress: `https://hrizantema.rs/single/venac/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac${categoryVenci}`,
+    sluglink:
+      "ljubicasti-orijental-ljiljan-bela-ruza-beli-gerber-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-043",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
