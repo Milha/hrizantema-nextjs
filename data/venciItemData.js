@@ -1549,6 +1549,41 @@ export const venciItemData = [
     prodId: "VE-043",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Bela kala ~ Bela ruža ~ Crveni gerber",
+      "Ruže ~ gerbere ~ kale ~ robelini",
+      "Beli ljiljan ~ crvene ruže",
+    ],
+    test: [15, 1, 8],
+    id: 44,
+    title: "Beli ljiljan ~ Crvena ruža ~ Bela kala",
+    price: "7.000",
+    priceRange: "4.000 - 9.500",
+    includes: [],
+    imageBig:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac-mini.webp",
+    alt: "Prirodni venac crvene ruze beli ljiljan bele kale groblje orlovaca",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac${categoryVenci}`,
+    sluglink: "beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-044",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
