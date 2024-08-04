@@ -1241,7 +1241,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 35,
     title: "Ljiljan ~ crvenozuti gerber ~ gladiola",
-    price: "5.000",
+    price: "5.500",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljan", "gerber", "gladila"],
     imageBig:
@@ -1276,7 +1276,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 36,
     title: "Rozebeli orijental ~ baltika hrizantema",
-    price: "10.000",
+    price: "10.500",
     priceRange: "8.000 - 12.500",
     includes: ["ljiljan", "hrizantema", "robelini"],
     imageBig:
@@ -1311,7 +1311,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 37,
     title: "Ljiljan ~ crvenocrni gerber ~ baltika",
-    price: "8.000",
+    price: "9.500",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljan", "gerber", "hrizantema", "lovor", "robelini"],
     imageBig:
@@ -1346,7 +1346,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 38,
     title: "Ljiljan ~ gerber ~ gladiole - manji",
-    price: "5.000",
+    price: "5.900",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljan", "gerber", "gladiola", "lovor", "robelini"],
     imageBig:
@@ -1383,7 +1383,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 39,
     title: "Beli Carski Ljiljan ~ Gerber ~ Crvena Ruža",
-    price: "10.000",
+    price: "10.500",
     priceRange: "8.000 - 15.500",
     includes: ["ljiljan", "gerber", "ruža", "gipsofila", "robelini"],
     imageBig:
@@ -1418,7 +1418,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 40,
     title: "Crveni Karnfil ~ Beli Gerber",
-    price: "6.000",
+    price: "6.900",
     priceRange: "5.000 - 6.500",
     includes: ["karnfil", "gerber"],
     imageBig:
