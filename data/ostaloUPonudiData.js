@@ -1004,7 +1004,7 @@ export const ostaloUPonudiData = [
     test: [1, 4, 8],
     id: 30,
     title: "Klupica za groblje",
-    price: "7.200",
+    price: "8.000",
     priceRange: "4.000 - 5.500",
     includes: [],
     imageBig: "/images/ostalo-u-ponudi/klupica-za-groblje-crna.jpg",

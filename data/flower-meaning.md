@@ -50,6 +50,14 @@ Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično kori
 
 Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.
 
+## Bela gipsofilija
+
+Bela gipsofilija simbolizuje čistotu, nevinost, veru, čistotu, devičanstvo, savršenstvo, ljupkost, dobrotu, poniznost, nebo, svetlost, dobrotu i mekoću.
+
+Bela gipsofila simbolizuje čistotu i duhovnost i izaziva osećanja nevinosti i božanstva. Značenja bele gipsofile čine ih idealnim za venčanja, krštenja dece i bilo koje duhovne događaje. U kombinaciji sa ružama, njegova strastvena simbolika je dodatno pojačana.
+
+Značenje gipsofile je nevinost, čistota i večna ljubav. Kao takvo, prisustvo ovog cveta u bilo kom aranžmanu smatra se simbolom nežne naklonosti i lojalnosti, idealno za demonstriranje jakih osećanja i dubokih emocija koje reči često ne mogu da izraze.
+
 ## Roze ljiljan
 
 Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
