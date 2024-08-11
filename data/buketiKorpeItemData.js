@@ -546,7 +546,7 @@ export const buketiKorpeItemData = [
     test: [5, 4, 3],
     id: 15,
     title: "Carski ljiljan ~ mrežica",
-    price: "3.500",
+    price: "3.900",
     priceRange: "3.000 - 4.500",
     includes: ["ljiljan", "mrežica", "lovor", "robelini"],
     imageBig:
