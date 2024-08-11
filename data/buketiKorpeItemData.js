@@ -578,9 +578,9 @@ export const buketiKorpeItemData = [
       "Carski ljiljan ~ mrežica",
     ],
     test: [5, 4, 3],
-    id: 14,
+    id: 16,
     title: "Bele ruže ~ Beli ljijan ~ prirodna korpa",
-    price: "9.500",
+    price: "8.900",
     priceRange: "1.000 - 2.500",
     includes: ["ruža", "ljiljan", "robelini"],
     imageBig: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece.jpg",
@@ -596,7 +596,7 @@ export const buketiKorpeItemData = [
     link: `/single/buket-korpa/bela-ruza-beli-gerber-korpa-prirodno-cvece${categoryKorpe}`,
     sluglink: "bela-ruza-beli-gerber-korpa-prirodno-cvece",
     availability: "https://schema.org/PreOrder",
-    prodId: "BU-014",
+    prodId: "BU-016",
   },  
   // {
   //   similarTo: [
