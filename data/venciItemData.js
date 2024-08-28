@@ -1621,7 +1621,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 46,
     title: "Beli Orijental ~ Bela Ruža ~ Beli Gerber ~ Gipsofila",
-    price: "12.900",
+    price: "9.900",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljan", "ruza", "gerber", "gipsofila", "robelini"],
     imageBig: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac.jpg",
