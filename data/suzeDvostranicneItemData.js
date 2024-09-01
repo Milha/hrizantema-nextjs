@@ -11,8 +11,8 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 1,
     title: "Kala ~ beli gerber",
-    price: "4.500",
-    priceRange: "2.500 - 4.000",
+    price: "5.500",
+    priceRange: "4.500 - 8.000",
     includes: ["kale", "gerber", "gipsofila"],
     imageBig:
       "/images/suza-dvostranicna/bela-kala-beli-gerber-prirodna-dvostranicna-suza.jpg",
@@ -48,8 +48,8 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 2,
     title: "Bela kala ~ bela margareta",
-    price: "4.000",
-    priceRange: "3.000 - 4.500",
+    price: "5.500",
+    priceRange: "4.000 - 8.500",
     includes: ["kale", "margarete", "lovor"],
     imageBig:
       "/images/suza-dvostranicna/bela-kala-bela-margareta-hrizantema-dvostranicna-suza.jpg",
@@ -85,7 +85,7 @@ export const suzeDvostranicneData = [
     test: [0, 1, 3],
     id: 3,
     title: "Beli ljiljan ~ crvena ruža",
-    price: "4.500",
+    price: "6.500",
     priceRange: "3.000 - 5.500",
     includes: ["ljiljane", "ruže", "lovor", "mahooniju"],
     imageBig:
@@ -122,7 +122,7 @@ export const suzeDvostranicneData = [
     test: [0, 1, 2],
     id: 4,
     title: "Bela ruža ~ mahonija",
-    price: "9.000",
+    price: "10.500",
     priceRange: "4.000 - 6.500",
     includes: ["ruže", "mahonija"],
     imageBig:
@@ -159,7 +159,7 @@ export const suzeDvostranicneData = [
     test: [0, 2, 3],
     id: 5,
     title: "Beli ljiljan ~ crvene ruže",
-    price: "6.500",
+    price: "8.500",
     priceRange: "4.000 - 6.500",
     includes: ["ruže", "ljiljane", "gipsofila", "lovor"],
     imageBig:
@@ -195,7 +195,7 @@ export const suzeDvostranicneData = [
     test: [3, 4, 1],
     id: 6,
     title: "Bela ruža ~ bela gladiola",
-    price: "6.500",
+    price: "6.900",
     priceRange: "5.000 - 7.500",
     includes: ["ruže", "gladiole", "lovor", "robelini"],
     imageBig:
@@ -265,7 +265,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 8,
     title: "Crvena ruža ~ gerber ~ bela baltika",
-    price: "8.000",
+    price: "8.500",
     priceRange: "8.000 - 12.500",
     includes: ["ruže", "gerbere", "hrizanteme"],
     imageBig:
@@ -301,7 +301,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 9,
     title: "Beli ljiljan ~ crveni gerber ~ bele hrizanteme",
-    price: "6.500",
+    price: "7.500",
     priceRange: "4.000 - 6.500",
     includes: ["ljiljani", "gerbere", "hrizanteme"],
     imageBig:
@@ -337,7 +337,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 10,
     title: "Ruža bela ~ Astromerija",
-    price: "12.000",
+    price: "12.500",
     priceRange: "8.000 - 11.500",
     includes: ["ruže", "astromerija", "rubelini", "gipsofila"],
     imageBig:
