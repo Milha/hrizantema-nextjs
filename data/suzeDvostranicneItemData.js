@@ -372,7 +372,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 11,
     title: "Roze žuti gerber ~ Dvostranična suza",
-    price: "9.900",
+    price: "9.500",
     priceRange: "1.000 - 2.500",
     includes: [],
     imageBig: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza.jpg",
