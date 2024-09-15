@@ -1649,7 +1649,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 47,
     title: "Beli Orijentali Ruže Margarete ~ Crveni gerberi",
-    price: "11.000",
+    price: "9.900",
     priceRange: "8.000 - 15.500",
     includes: ["ljiljan", "ruza", "gerber", "margareta", "robelini"],
     imageBig: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac.jpg",
