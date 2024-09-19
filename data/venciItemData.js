@@ -400,7 +400,6 @@ export const venciItemData = [
     prodId: "VE-011",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Crveni gerber ~ bela gipsofila",
@@ -514,7 +513,7 @@ export const venciItemData = [
     test: [0, 6, 19],
     id: 15,
     title: "Crveni gerber ~ bela gipsofila",
-    price: "4.000",
+    price: "4.900",
     priceRange: "3.000 - 5.000",
     includes: ["gerbere", "gipsofila"],
     imageBig: "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
@@ -549,7 +548,7 @@ export const venciItemData = [
     test: [1, 13, 16],
     id: 16,
     title: "Carski ljiljan ~ bele ruže",
-    price: "10.900",
+    price: "11.900",
     priceRange: "7.000 - 9.000",
     includes: ["ljiljane orijentale", "ruže", "margarete", "lovor"],
     imageBig:
@@ -623,7 +622,7 @@ export const venciItemData = [
     test: [16, 0, 1],
     id: 18,
     title: "Ruža ~ gerber ~ margareta",
-    price: "8.000",
+    price: "9.900",
     priceRange: "7.000 - 9.500",
     includes: ["ruže", "gerbere", "margarete", "robelini"],
     imageBig:
@@ -697,7 +696,7 @@ export const venciItemData = [
     test: [0, 6, 14],
     id: 20,
     title: "Beli ljiljan ~ crvene gerber",
-    price: "6.000",
+    price: "6.900",
     priceRange: "4.000 - 5.000",
     includes: ["ljiljane", "gerbere"],
     imageBig:
@@ -733,7 +732,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 21,
     title: "Crveni ljiljan ~ beli gerber",
-    price: "5.500",
+    price: "6.500",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljane", "gerbere", "margarete", "gipsofila", "robelini"],
     imageBig:
@@ -810,7 +809,7 @@ export const venciItemData = [
     test: [2, 21, 8],
     id: 23,
     title: "Ruže ~ gerbere ~ kale ~ robelini",
-    price: "10.900",
+    price: "12.900",
     priceRange: "9.000 - 5.500",
     includes: ["ljiljan", "ruže", "gerber", "kale", "robelini", "lovor"],
     imageBig:
@@ -836,7 +835,6 @@ export const venciItemData = [
     prodId: "VE-023",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Orijental ~ crvena ruža ~ gerber",
@@ -872,7 +870,6 @@ export const venciItemData = [
     prodId: "VE-024",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Roze gerber ~ bele ruže",
@@ -882,7 +879,7 @@ export const venciItemData = [
     test: [5, 11, 12],
     id: 25,
     title: "Ljiljan ~ hrizantema ~ gladiola",
-    price: "4.000",
+    price: "4.900",
     priceRange: "3.000 - 4.500",
     includes: ["ljiljane", "hrizanteme", "gladiole", "robelini"],
     imageBig:

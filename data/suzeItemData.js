@@ -11,8 +11,8 @@ export const suzeItemData = [
     test: [7, 6, 4],
     id: 1,
     title: "Ljiljan orijental - carski ljiljan",
-    price: "2.400",
-    priceRange: "2.000 - 3.000",
+    price: "3.500",
+    priceRange: "3.000 - 4.000",
     includes: ["ljiljane orijentale", "gipsofila", "lovor", "robelini"],
     imageBig: "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza.jpg",
     imageBigWebP:
@@ -47,8 +47,8 @@ export const suzeItemData = [
     test: [3, 7, 2],
     id: 2,
     title: "Crvena ruža",
-    price: "2.500",
-    priceRange: "2.000 - 3.000",
+    price: "3.000",
+    priceRange: "2.000 - 4.000",
     includes: ["ruže", "gipsofila"],
     imageBig: "/images/suze/crvena-ruza-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-prirodna-suza.webp",
@@ -76,8 +76,8 @@ export const suzeItemData = [
     test: [6, 7, 5],
     id: 3,
     title: "Margareta gerber",
-    price: "2.900",
-    priceRange: "2.000 - 3.000",
+    price: "3.500",
+    priceRange: "3.000 - 5.000",
     includes: ["margarete", "gerbere", "gipsofila"],
     imageBig:
       "/images/suze/bela-margareta-hrizantema-crveni-gerber-prirodna-suza.jpg",
@@ -114,7 +114,7 @@ export const suzeItemData = [
     id: 4,
     title: "Beli ljiljan ~ crveni gerber",
     price: "3.500",
-    priceRange: "2.000 - 4.000",
+    priceRange: "3.000 - 4.000",
     includes: ["ljiljane", "gerbere", "gipsofila"],
     imageBig: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-ljiljan-crveni-gerber-prirodna-suza.webp",
@@ -137,7 +137,6 @@ export const suzeItemData = [
     prodId: "SU-004",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Ljiljan ~ margareta ~ gerber",
@@ -147,8 +146,8 @@ export const suzeItemData = [
     test: [5, 7, 2],
     id: 5,
     title: "Beli ljiljan ~ margareta",
-    price: "2.900",
-    priceRange: "1.000 - 2.500",
+    price: "3.900",
+    priceRange: "3.000 - 5.500",
     includes: ["ljiljane", "margarete"],
     imageBig:
       "/images/suze/beli-ljiljan--bela-hrizantema-margareta-prirodna-suza.jpg",
@@ -183,8 +182,8 @@ export const suzeItemData = [
     test: [0, 7, 5],
     id: 6,
     title: "Ljiljan orijental gerber",
-    price: "2.900",
-    priceRange: "1.000 - 2.500",
+    price: "3.500",
+    priceRange: "3.000 - 4.500",
     includes: ["ljiljane orijentale", "gerbere", "mrežicu", "robelini"],
     imageBig:
       "/images/suze/roze-orijental-carski-ljiljan-roze-gerber-prirodna-suza.jpg",
@@ -210,7 +209,6 @@ export const suzeItemData = [
     prodId: "SU-006",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Bela ruža ~ roze gerber",
@@ -220,8 +218,8 @@ export const suzeItemData = [
     test: [3, 2, 5],
     id: 7,
     title: "Beli gerber",
-    price: "1.900",
-    priceRange: "1.000 - 2.500",
+    price: "2.500",
+    priceRange: "2.000 - 3.500",
     includes: ["gerbere"],
     imageBig: "/images/suze/beli-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/beli-gerber-prirodna-suza.webp",
@@ -239,7 +237,6 @@ export const suzeItemData = [
     prodId: "SU-007",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Margareta gerber",
@@ -250,7 +247,7 @@ export const suzeItemData = [
     id: 8,
     title: "Ljiljan ~ margareta ~ gerber",
     price: "3.900",
-    priceRange: "2.000 - 3.000",
+    priceRange: "3.000 - 5.000",
     includes: ["ljiljane", "gerbere", "margarete", "gipsofila", "robelini"],
     imageBig:
       "/images/suze/beli-ljiljan-bela-margareta-crveni-gerber-prirodna-suza.jpg",
@@ -276,7 +273,6 @@ export const suzeItemData = [
     prodId: "SU-008",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Ljiljan orijental gerber",
@@ -286,8 +282,8 @@ export const suzeItemData = [
     test: [7, 5, 1],
     id: 9,
     title: "Bela ruža ~ roze gerber",
-    price: "2.900",
-    priceRange: "2.000 - 3.500",
+    price: "4.000",
+    priceRange: "3.000 - 5.500",
     includes: ["ruže", "gerbere", "gipsofila", "robelini"],
     imageBig: "/images/suze/bela-ruza-roze-gerber-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/bela-ruza-roze-gerber-prirodna-suza.webp",
@@ -317,8 +313,8 @@ export const suzeItemData = [
     test: [8, 1, 3],
     id: 10,
     title: "Crvene ruža ~ bela gladiola",
-    price: "2.500",
-    priceRange: "1.000 - 2.500",
+    price: "3.000",
+    priceRange: "2.000 - 4.500",
     includes: ["ruže", "gladiole", "gipsofila", "robelini"],
     imageBig: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.jpg",
     imageBigWebP: "/images/suze/crvena-ruza-bela-gladiola-prirodna-suza.webp",
@@ -348,8 +344,8 @@ export const suzeItemData = [
     test: [4, 2, 9],
     id: 11,
     title: "Bele margarete ~ crvene gladiole",
-    price: "2.900",
-    priceRange: "2.000 - 3.500",
+    price: "3.400",
+    priceRange: "3.000 - 5.500",
     includes: ["margarete", "gladiole", "mrežica"],
     imageBig:
       "/images/suze/bela-baltika-margareta-hrizantema-crvena-gladiola.jpg",
@@ -374,7 +370,6 @@ export const suzeItemData = [
     prodId: "SU-011",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Margareta gerber",
@@ -384,8 +379,8 @@ export const suzeItemData = [
     test: [4, 2, 9],
     id: 12,
     title: "Bele baltika margarete ~ crvene gerberi",
-    price: "2.900",
-    priceRange: "2.000 - 3.500",
+    price: "3.200",
+    priceRange: "3.000 - 4.500",
     includes: ["margarete", "gladiole", "mrežica"],
     imageBig:
       "/images/suze/bela-baltika-margareta-crveni-gerber-prirodna-suza.jpg",
