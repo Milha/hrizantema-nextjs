@@ -1,5 +1,5 @@
 import classes from "./ReminderCard.module.scss";
-import kapija from "../../utils/kapijaIzracunavanje";
+
 
 const ReminderCard = () => {
   let currMonth =  new Date();
@@ -8,7 +8,7 @@ const ReminderCard = () => {
   
   let reccenica = (month >= 3 && month <= 9 ) ? "Kapija na groblju Orlovača je otvorena od 07.00 do 19.00 - letnji period od 01.04 do 30.09 " : "Kapija na groblju Orlovača je otvorena od 07.00 do 18.00 - zimski period od 01.10 do 31.03";
   
-  console.log(reccenica);
+  // console.log(reccenica);
 
   return (
     <div className={classes.cont}>

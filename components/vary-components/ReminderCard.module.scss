@@ -1,9 +1,21 @@
 .cont {
   background-color: #eee;
-  padding: 0.02rem;
-  margin-top: 0.5rem;
+  padding: 2.02rem;
+  // margin-top: 0.5rem;
+  margin: 0.5rem 1rem;
+  border-radius: 100px 25px 100px 5px;
 }
 
 .text {
   text-align: center;
+}
+
+// .cont hr {
+//   color: red;
+//   // background-color: red;
+//   border: 0.2rem;
+// }
+
+.cont p {
+  margin: 0 1rem;
 }
