@@ -115,7 +115,7 @@ export const suzeDvostranicneData = [
   },
   {
     similarTo: [
-      "Bela kala ~ bela margareta",
+      "Bele ruže ~ dvostranična suza",
       "Kala ~ beli gerber",
       "Bela ruža ~ bela gladiola",
     ],
@@ -393,7 +393,7 @@ export const suzeDvostranicneData = [
   },
   {
     similarTo: [
-      "Bela kala ~ bela margareta",
+      "Bela ruža ~ mahonija",
       "Kala ~ beli gerber",
       "Bela ruža ~ bela gladiola",
     ],
