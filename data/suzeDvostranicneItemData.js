@@ -422,14 +422,14 @@ export const suzeDvostranicneData = [
   {
     similarTo: [
       "Bele ruže ~ dvostranična suza",
-      "Kala ~ beli gerber",
+      "Beli ljiljan ~ crvene ruže",
       "Bela ruža ~ mahonija",
     ],
     test: [0, 0, 0],
     id: 13,
     title: "Crvene ruže ~ Bela gipsofila ~ Dvostranična suza",
-    price: "11.000",
-    priceRange: "10.000 - 12.500",
+    price: "9.500",
+    priceRange: "9.000 - 12.500",
     includes: ["ruza", "gipsofila", "mahonija", "robelini"],
     imageBig: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza.jpg",
     imageBigWebP: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza.webp",
