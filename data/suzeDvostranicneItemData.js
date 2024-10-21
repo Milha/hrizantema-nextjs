@@ -456,7 +456,7 @@ export const suzeDvostranicneData = [
     test: [0, 0, 0],
     id: 14,
     title: "Roze orijental ~ Kale - dvostranična suza",
-    price: "11.000",
+    price: "8.500",
     priceRange: "1.000 - 2.500",
     includes: ["ljiljan orijental", "kala", "gipsofila", "robelini"],
     imageBig: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza.jpg",
