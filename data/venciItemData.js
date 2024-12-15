@@ -1702,7 +1702,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 49,
     title: "Crvene ruže ~ Crveni gerber - okrugli venac",
-    price: "15.000",
+    price: "12.900",
     priceRange: "4.000 - 5.500",
     includes: [],
     imageBig: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac.jpg",
