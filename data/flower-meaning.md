@@ -12,6 +12,8 @@ Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.
 
 Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. U pogrebnom okruženju, crvene ruže simbolizuju ljubav i tugu.
 
+Crvene ruže su jedan od najpoznatijih i najrasprostranjenijih simbola ljubavi i strasti u čitavom svetu. Njihova simbolika potiče još iz antičkih vremena, a do danas su ostale najčešći izbor za izražavanje dubokih emocija.
+
 ## Crveni ljiljan
 
 Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću i večnu ljubav.
@@ -41,6 +43,8 @@ Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevi
 ## Beli gerberi
 
 Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.
+
+Gerberi, kao cvetovi vedrine i jednostavne lepote, nose pozitivne poruke u zavisnosti od boje. Bele gerbere posebno odlikuje značenje čistote, nevinosti i iskrenih namera.
 
 ## Bela kala
 
