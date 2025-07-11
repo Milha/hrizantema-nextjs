@@ -138,6 +138,8 @@ Gerberi simbolizuju lepotu, nevinost i čistotu. Gerberi označava da je osoba k
 
 Hrizanteme predstavljaju i simbol istine.
 
+Hrizantema je jedno od najpoznatijeg i najdugovečnijeg jesenjeg cveća, koje ima bogatu simboliku različitu u zavisnosti od kulture i boje cveta. Njeno ime potiče iz grčkog jezika, gde "chrysos" znači zlato, a "anthemon" cvet – što u prevodu znači "zlatni cvet". Hrizanteme predstavljaju i simbol istine.
+
 ### Gladiola
 
 Gladiola je prezentuje snagu i karakter. Dajući ožalošćenoj porodici ovaj cvet, u suštini ih podsećate kakvi su divni ljudi i ohrabrujete ih da istraju u svom tugovanju. Kao poklon saosećanja, gladiola ne zanemaruje bol gubitka i efikasno saopštava vaše saosećanje u teškom trenutku. Ali to je i podsetnik na njihovu snagu i snagu voljene osobe, što ih motiviše dok ulaze u teško poglavlje svog života.
