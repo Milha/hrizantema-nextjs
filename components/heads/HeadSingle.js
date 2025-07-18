@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { getDateXDayFromNow } from "../../lib/helpers/schema-helpers";
 
 export default function HeadSingle({ data }) {
   const slicedDesc = data.text.slice(0, 152).concat("...");
@@ -23,14 +24,19 @@ export default function HeadSingle({ data }) {
       "@type": "Offer",
       price: data.price,
       priceCurrency: "RSD",
-      priceValidUntil: "2023-11-20",
+      priceValidUntil: getDateXDayFromNow(),
       url: data.httpaddress,
       availability: data.availability,
       itemCondition: "NewCondition",
     },
     url: data.httpaddress,
-    isPartOf: { "@id": "https://hrizantema.rs", url: "https://hrizantema.rs" },
+    isPartOf: {
+      "@type": "WebPage",
+      "@id": "https://hrizantema.rs",
+      url: "https://hrizantema.rs",
+    },
     mainEntityOfPage: {
+      "@type": "WebPage",
       "@id": "https://hrizantema.rs",
       url: "https://hrizantema.rs",
     },
