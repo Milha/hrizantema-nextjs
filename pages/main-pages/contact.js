@@ -29,7 +29,7 @@ export default function Contact({ qandasData }) {
               <address>
                 <a href="mailto:sztrhrizantema@gmail.com">
                   sztrhrizantema@gmail.com
-                </a>{" "}
+                </a>
                 &nbsp;
               </address>
             </div>

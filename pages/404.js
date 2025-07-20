@@ -7,9 +7,7 @@ export default function PageNotFound() {
     <div className={clasees.cont}>
       <h2>Nažalost stranica nije pronadjena</h2>
       <div className={clasees.back_link}>
-        <Link href="/">
-          <a>Povratak na glavnu stranu!!!</a>
-        </Link>
+        <Link href="/">Povratak na glavnu stranu!!!</Link>
       </div>
     </div>
   );

@@ -29,14 +29,10 @@ function HeaderNew() {
       <div className={!isOpen ? classes.nav_toggle : classes.nav_toggle_none}>
         <ul aria-label="menu">
           <li onClick={openMenu}>
-            <Link href="/lists/list-ponuda-buketi-korpe">
-              Buketi
-            </Link>
+            <Link href="/lists/list-ponuda-buketi-korpe">Buketi</Link>
           </li>
           <li onClick={openMenu}>
-            <Link href="/lists/list-ponuda-venci">
-              Venci
-            </Link>
+            <Link href="/lists/list-ponuda-venci">Venci</Link>
           </li>
 
           <li>
@@ -48,9 +44,7 @@ function HeaderNew() {
               onClick={doubleClick}
             >
               <div className={classes.drop_link_cont}>
-                <Link href="/lists/list-ponuda-suze">
-                  Klasične
-                </Link>
+                <Link href="/lists/list-ponuda-suze">Klasične</Link>
                 {/* <br /> */}
                 <Link href="/lists/list-ponuda-dvostranicne-suze">
                   Dvostranične
@@ -59,19 +53,13 @@ function HeaderNew() {
             </div>
           </li>
           <li onClick={openMenu}>
-            <Link href="/lists/lista-ponuda-rezano-cvece">
-              Rezano cveće
-            </Link>
+            <Link href="/lists/lista-ponuda-rezano-cvece">Rezano cveće</Link>
           </li>
           <li onClick={openMenu}>
-            <Link href="/lists/list-ostalo-u-ponudi">
-              Ostalo u ponudi
-            </Link>
+            <Link href="/lists/list-ostalo-u-ponudi">Ostalo u ponudi</Link>
           </li>
           <li onClick={openMenu}>
-            <Link href="/main-pages/contact">
-              Kontakt
-            </Link>
+            <Link href="/main-pages/contact">Kontakt</Link>
           </li>
         </ul>
       </div>
