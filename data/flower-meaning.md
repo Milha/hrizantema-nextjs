@@ -32,13 +32,25 @@ Tamno crveni karanfil simbolizuje duboku ljubav i privrženost, dok bledocrveni 
 
 Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.
 
-Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.
+Bela ruža se kod saučešća koristi da označi nevinost i mladost. Ona takođe mogu označavati poštovanje prema osobi koja je preminula.
 
 ## Beli ljiljan
 
 Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Iz tog razloga, oni su popularan (i veoma prikladan) izbor za važne životne prilike kao što su rođenja, venčanja, pa čak i sahrane. Mnogi ljudi takođe vide bele ljiljane kao simbol veličanstva i besmrtnosti.
 
 Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.
+
+Beli ljiljan je univerzalan simbol nevinosti, čistoće i duhovne svetlosti. Njegova jednostavna, elegantna forma često se povezuje sa neokaljanošću i uzvišenošću.
+
+U hrišćanstvu beli ljiljan posebno simbolizuje Devicu Mariju i njenu bezgrešnost, što pojačava njegovu vezu sa nebeskom čistoćom.
+
+Beli ljiljani na sahranama izražavaju želju da duša pokojnika pronađe mir. Njihova bela boja simbolizuje večni spokoj i oslobađanje od zemaljskih patnji.
+
+Ljiljan je vrlo elegantan cvet, pa se koristi da iskaže poštovanje prema preminulom, dostojanstvenu oproštajnu poruku.
+
+Ljiljani na grobovima simbolizuju veru u život posle smrti i nadu da je osoba pronašla svoje mesto u večnosti.
+
+Kada preminula osoba važi za nekoga "čistog srca", beli ljiljani su vrlo primereni.
 
 ## Beli gerberi
 
@@ -129,6 +141,8 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 Ljiljani sugerišu da se duša pokojnika vratila u mirno stanje nevinosti.
 
 Ljiljani predstavljaju gest saučešća nakon gubitka.
+
+Ljiljani se često vezuju za početak novog života, zbog svoje sposobnosti da izraste iz lukovice svake godine, što simbolično predstavlja vaskrsenje ili novi početak.
 
 ### Gerber
 

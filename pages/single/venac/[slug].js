@@ -7,13 +7,14 @@ import { venciItemData } from "../../../data/venciItemData";
 import { simVenciDataFind } from "../../../utils/testSimilars";
 
 export default function Slug({ pageItems, smallSimilarItems }) {
+  // console.log(pageItems);
   return (
     <>
       <HeadSingle data={pageItems} />
       <OriginLinksNavSingle
         list="Venci"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-venci"
-        linksSingle={pageItems.httpaddress}
+        linksSingle={pageItems.link}
         titleSingle={pageItems.title}
       />
       <BigVerticalSingleCard

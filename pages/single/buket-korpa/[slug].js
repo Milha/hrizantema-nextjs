@@ -16,7 +16,7 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       <OriginLinksNavSingle
         list="Buketi"
         addHttpaddress="https://hrizantema.rs/lists/list-ponuda-buketi-korpe"
-        linksSingle={pageItems.httpaddress}
+        linksSingle={pageItems.link}
         titleSingle={pageItems.title}
       />
       <BigVerticalSingleCard

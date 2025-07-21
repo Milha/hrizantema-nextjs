@@ -12,25 +12,22 @@ function OriginLinksNavSingle({
   titleSingle,
 }) {
   // console.log(list);
+  // console.log(addHttpaddress);
+  // console.log(linksSingle);
+  // console.log(titleSingle);
   return (
     <div className={classes.cont}>
       <Link href="/">
-        
-          <HomeHeart />
-        
+        <HomeHeart />
       </Link>
       <span className={classes.chevron_arrow}>
         <ChevronSingleRight />
       </span>
-      <Link href={addHttpaddress}>
-        {list}
-      </Link>
+      <Link href={addHttpaddress}>{list}</Link>
       <span className={classes.chevron_arrow}>
         <ChevronSingleRight />
       </span>
-      <Link href={linksSingle}>
-        {titleSingle}
-      </Link>
+      <Link href={linksSingle}>{titleSingle}</Link>
     </div>
   );
 }

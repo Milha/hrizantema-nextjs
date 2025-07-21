@@ -1593,13 +1593,20 @@ export const venciItemData = [
     price: "8.500",
     priceRange: "6.000 - 9.500",
     includes: ["hrizantema", "robelini"],
-    imageBig: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac.jpg",
-    imageBigWebP: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac.webp",
-    imageSmall: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-small.jpg",
-    imageSmallWebP: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-small.webp",
-    imageGMB: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-gmb.jpg",
-    imageMini: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-mini.jpg",
-    imageMiniWebP: "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-mini.webp",
+    imageBig:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/hrizantema-margarete-razne-boje-prirodni-venac-mini.webp",
     alt: "Prirodni venac hrizanteme razne boje venac napravljen na groblju orlovaca",
     text: "Hrizantema je jedno od najpoznatijeg i najdugovečnijeg jesenjeg cveća, koje ima bogatu simboliku različitu u zavisnosti od kulture i boje cveta. Njeno ime potiče iz grčkog jezika, gde 'chrysos' znači zlato, a 'anthemon' cvet – što u prevodu znači 'zlatni cvet'. Hrizanteme predstavljaju i simbol istine.",
     httpaddress: `https://hrizantema.rs/single/venac/hrizantema-margarete-razne-boje-prirodni-venac${categoryVenci}`,
@@ -1621,18 +1628,26 @@ export const venciItemData = [
     price: "9.900",
     priceRange: "4.000 - 5.500",
     includes: ["ljiljan", "ruza", "gerber", "gipsofila", "robelini"],
-    imageBig: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac.jpg",
-    imageBigWebP: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac.webp",
-    imageSmall: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-small.jpg",
-    imageSmallWebP: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-small.webp",
-    imageGMB: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-gmb.jpg",
-    imageMini: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-mini.jpg",
-    imageMiniWebP: "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-mini.webp",
+    imageBig:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac-mini.webp",
     alt: "Prirodni venac beli orijental ljiljan bele ruze beli gerber",
     text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
     httpaddress: `https://hrizantema.rs/single/venac/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac${categoryVenci}`,
     link: `/single/venac/beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac${categoryVenci}`,
-    sluglink: "beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac",
+    sluglink:
+      "beli-orijental-ljiljan-bela-ruza-beli-gerber-gipsofila-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-046",
     category: categorySchema,
@@ -1649,18 +1664,26 @@ export const venciItemData = [
     price: "11.500",
     priceRange: "8.000 - 15.500",
     includes: ["ljiljan", "ruza", "gerber", "margareta", "robelini"],
-    imageBig: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac.jpg",
-    imageBigWebP: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac.webp",
-    imageSmall: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-small.jpg",
-    imageSmallWebP: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-small.webp",
-    imageGMB: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-gmb.jpg",
-    imageMini: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-mini.jpg",
-    imageMiniWebP: "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-mini.webp",
+    imageBig:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-mini.webp",
     alt: "Prirodni venac od belih ljiljana belih ruza crvenih gerbera belih margareta robelini na groblju orlovaca",
     text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. Gerberi simbolizuju lepotu, nevinost i čistotu. Hrizanteme predstavljaju i simbol istine.",
     httpaddress: `https://hrizantema.rs/single/venac/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac${categoryVenci}`,
     link: `/single/venac/beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac${categoryVenci}`,
-    sluglink: "beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac",
+    sluglink:
+      "beli-orijental-ljiljan-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-047",
     category: categorySchema,
@@ -1677,12 +1700,18 @@ export const venciItemData = [
     price: "12.500",
     priceRange: "4.000 - 5.500",
     includes: ["ruza", "gerber", "margareta"],
-    imageBig: "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac.jpg",
-    imageBigWebP: "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac.webp",
-    imageSmall: "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-small.jpg",
-    imageSmallWebP: "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-small.webp",
-    imageGMB: "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-gmb.jpg",
-    imageMini: "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-mini.jpg",
+    imageBig:
+      "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/bela-ruza-beli-gerber-bela-margareta-gipsofila-prirodni-venac-mini.jpg",
     imageMiniWebP: "/images/venci/INPUTIMAGE-mini.webp",
     alt: "Prirodni venac bele ruze beli gerber bele margarete hrizanteme cvecara hrizantema orlovaca",
     text: "Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula. vetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
@@ -1705,13 +1734,20 @@ export const venciItemData = [
     price: "12.900",
     priceRange: "4.000 - 5.500",
     includes: ["ruza", "gerber"],
-    imageBig: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac.jpg",
-    imageBigWebP: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac.webp",
-    imageSmall: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-small.jpg",
-    imageSmallWebP: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-small.webp",
-    imageGMB: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-gmb.jpg",
-    imageMini: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-mini.jpg",
-    imageMiniWebP: "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-mini.webp",
+    imageBig:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/crvena-ruza-crveni-gerber-okrugli-prirodni-venac-mini.webp",
     alt: "Prirodni venac crveni gerber crvene ruze oblik okrugli",
     text: "Crveni cvetovi označavaju snagu, poštovanje, predanost i ljubav. Crveni gerberi predstavljaju ljubav. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.",
     httpaddress: `https://hrizantema.rs/single/venac/crvena-ruza-crveni-gerber-okrugli-prirodni-venac${categoryVenci}`,
@@ -1733,13 +1769,20 @@ export const venciItemData = [
     price: "14.000",
     priceRange: "10.000 - 15.500",
     includes: ["ljiljan", "ruza", "robelini"],
-    imageBig: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac.jpg",
-    imageBigWebP: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac.webp",
-    imageSmall: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-small.jpg",
-    imageSmallWebP: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-small.webp",
-    imageGMB: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-gmb.jpg",
-    imageMini: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-mini.jpg",
-    imageMiniWebP: "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-mini.webp",
+    imageBig:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/crveni-ljiljan-bele-ruze-robelini-prirodni-venac-mini.webp",
     alt: "Prirodni venac crveni ljiljan bele ruze robelini zelenilo",
     text: "Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću i večnu ljubav. Ljiljani predstavljaju gest saučešća nakon gubitka. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti.",
     httpaddress: `https://hrizantema.rs/single/venac/crveni-ljiljan-bele-ruze-robelini-prirodni-venac${categoryVenci}`,
@@ -1763,11 +1806,14 @@ export const venciItemData = [
     includes: ["ruza", "gerber", "gipsofila", "robelini"],
     imageBig: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila.jpg",
     imageBigWebP: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila.webp",
-    imageSmall: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-small.jpg",
-    imageSmallWebP: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-small.webp",
+    imageSmall:
+      "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-small.jpg",
+    imageSmallWebP:
+      "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-small.webp",
     imageGMB: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-gmb.jpg",
     imageMini: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-mini.jpg",
-    imageMiniWebP: "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-mini.webp",
+    imageMiniWebP:
+      "/images/venci/crvena-ruza-beli-gerber-bela-gipsofila-mini.webp",
     alt: "Prirodni venac od beli gerber crvenih ruza bela gipsofila slika Cvecara Hrizantema Orlovaca",
     text: "Crvene ruže su jedan od najpoznatijih i najrasprostranjenijih simbola ljubavi i strasti u čitavom svetu. Njihova simbolika potiče još iz antičkih vremena, a do danas su ostale najčešći izbor za izražavanje dubokih emocija. Gerberi, kao cvetovi vedrine i jednostavne lepote, nose pozitivne poruke u zavisnosti od boje. Bele gerbere posebno odlikuje značenje čistote, nevinosti i iskrenih namera.",
     httpaddress: `https://hrizantema.rs/single/venac/crvena-ruza-beli-gerber-bela-gipsofila${categoryVenci}`,
@@ -1775,6 +1821,42 @@ export const venciItemData = [
     sluglink: "crvena-ruza-beli-gerber-bela-gipsofila",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-051",
+    category: categorySchema,
+  },
+  {
+    similarTo: [
+      "Crveni ljiljan ~ Bele ruže ~ Robelini",
+      "Beli Orijentali Ruže Margarete ~ Crveni gerberi",
+      "Crvene ruže ~ Crveni gerber - okrugli venac",
+    ],
+    test: [15, 1, 8],
+    id: 52,
+    title: "Beli ljiljan ~ Bele ruže ~ Crveni gerber ~ Gipsofila",
+    price: "12.900",
+    priceRange: "4.000 - 5.500",
+    includes: [],
+    imageBig:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-mini.webp",
+    alt: "Prirodni venac od belih ljiljana belih ruza crvenih gerbera bele gipsofile palme robelini",
+    text: "Beli ljiljan je univerzalan simbol nevinosti, čistoće i duhovne svetlosti. Njegova jednostavna, elegantna forma često se povezuje sa neokaljanošću i uzvišenošću. Kada preminula osoba važi za nekoga 'čistog srca', beli ljiljani su vrlo primereni. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Ona takođe mogu označavati poštovanje prema osobi koja je preminula. Crveni gerberi predstavljaju ljubav.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac${categoryVenci}`,
+    sluglink:
+      "beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-052",
     category: categorySchema,
   },
   // {
