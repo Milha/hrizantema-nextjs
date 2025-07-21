@@ -6,9 +6,7 @@ import Includes from './card-items/Includes';
 import MoreText from './card-items/MoreText';
 
 export default function BigVerticalSingleCard({ data, similarPropData }) {
-  // console.log(data.imageBig, "FROM BIG VERTICAl - Data");
-  // console.log(miniData, "FROM BIG VERTICAl - Mini data");
-  // console.log(similarPropData, "From big vertical single card");
+  
   return (
     <>
       <div className={classes.cont}>

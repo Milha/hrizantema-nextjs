@@ -16,7 +16,7 @@ export const ostaloUPonudiData = [
     test: [2, 10, 16],
     id: 1,
     title: "Velika kućica za paljenje sveće",
-    price: "2.500",
+    price: "3.000",
     priceRange: "1.800 - 2.200",
     includes: null,
     imageBig: "/images/ostalo-u-ponudi/kucica-za-svece-velika.jpg",
