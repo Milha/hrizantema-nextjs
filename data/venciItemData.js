@@ -513,7 +513,7 @@ export const venciItemData = [
     test: [0, 6, 19],
     id: 15,
     title: "Crveni gerber ~ bela gipsofila",
-    price: "4.900",
+    price: "5.900",
     priceRange: "3.000 - 5.000",
     includes: ["gerbere", "gipsofila"],
     imageBig: "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
@@ -659,7 +659,7 @@ export const venciItemData = [
     test: [16, 5, 8],
     id: 19,
     title: "Bele ruže ~ ljubičaste margarete",
-    price: "9.000",
+    price: "12.900",
     priceRange: "6.000 - 8.000",
     includes: ["ruže", "margarete"],
     imageBig:
@@ -1832,7 +1832,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 52,
     title: "Beli ljiljan ~ Bele ruže ~ Crveni gerber ~ Gipsofila",
-    price: "12.900",
+    price: "13.900",
     priceRange: "4.000 - 5.500",
     includes: [],
     imageBig:
