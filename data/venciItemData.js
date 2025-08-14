@@ -1868,29 +1868,29 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 53,
     title: "Beli ljiljan ~ Beli gerber ~ Crveni gerber ~ Bela gipsofila",
-    price: "15.900",
+    price: "11.900",
     priceRange: "10.000 - 16.500",
     includes: [],
     imageBig:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01.jpg",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01.jpg",
     imageBigWebP:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01.webp",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01.webp",
     imageSmall:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01-small.jpg",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01-small.jpg",
     imageSmallWebP:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01-small.webp",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01-small.webp",
     imageGMB:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01-gmb.jpg",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01-gmb.jpg",
     imageMini:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01-mini.jpg",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01-mini.jpg",
     imageMiniWebP:
-      "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01-mini.webp",
+      "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01-mini.webp",
     alt: "Prirodni venac beli ljiljani beli gerber crveni gerber bela gipsofila naparavljen za groblje orlovaca",
-    text: "Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Iz tog razloga, oni su popularan (i veoma prikladan) izbor za važne životne prilike kao što su rođenja, venčanja, pa čak i sahrane. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
-    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01${categoryVenci}`,
-    link: `/single/venac/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01${categoryVenci}`,
+    text: "Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Iz tog razloga, oni su popularan (i veoma prikladan) izbor za važne životne prilike kao što su rođenja, venčanja, pa čak i sahrane. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Crveni gerberi predstavljaju ljubav.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01${categoryVenci}`,
     sluglink:
-      "beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac-01",
+      "beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01",
     availability: "https://schema.org/PreOrder",
     prodId: "VE-053",
     category: categorySchema,
