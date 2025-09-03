@@ -14,6 +14,8 @@ Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za 
 
 Crvene ruže su jedan od najpoznatijih i najrasprostranjenijih simbola ljubavi i strasti u čitavom svetu. Njihova simbolika potiče još iz antičkih vremena, a do danas su ostale najčešći izbor za izražavanje dubokih emocija.
 
+Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.
+
 ## Crveni ljiljan
 
 Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću i večnu ljubav.
@@ -57,6 +59,8 @@ Kada preminula osoba važi za nekoga "čistog srca", beli ljiljani su vrlo prime
 Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.
 
 Gerberi, kao cvetovi vedrine i jednostavne lepote, nose pozitivne poruke u zavisnosti od boje. Bele gerbere posebno odlikuje značenje čistote, nevinosti i iskrenih namera.
+
+Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.
 
 ## Bela kala
 

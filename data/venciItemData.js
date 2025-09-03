@@ -1895,6 +1895,41 @@ export const venciItemData = [
     prodId: "VE-053",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Crvena ruža ~ Belig gerber ~ Bela gipsofila",
+      "Beli Carski Ljiljan ~ Gerber ~ Crvena Ruža",
+      "Beli Orijental ~ Bela Ruža ~ Beli Gerber ~ Gipsofila",
+    ],
+    test: [15, 1, 8],
+    id: 54,
+    title: "Beli ljiljan ~ Crvena ruža ~ Beli gerber ~ Prirodni venac",
+    price: "15.900",
+    priceRange: "11.000 - 16.500",
+    includes: [],
+    imageBig:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-mini.webp",
+    alt: "Prirodni venac beli liljan crvena  ruza beli gerber cvecara hrizantema orlovaca",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+    httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac${categoryVenci}`,
+    sluglink: "beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-054",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
