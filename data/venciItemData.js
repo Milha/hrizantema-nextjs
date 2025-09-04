@@ -1904,7 +1904,7 @@ export const venciItemData = [
     test: [15, 1, 8],
     id: 54,
     title: "Beli ljiljan ~ Crvena ruža ~ Beli gerber ~ Prirodni venac",
-    price: "15.900",
+    price: "13.900",
     priceRange: "11.000 - 16.500",
     includes: [],
     imageBig:
