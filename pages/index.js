@@ -13,6 +13,7 @@ import { sampleItems } from "../utils/sampleFinder";
 import ArrowToTop from "../components/ui/ArrowToTop";
 import MapButton from "../components/ui/MapButton";
 import ReminderCard from "../components/vary-components/ReminderCard";
+import ButtonWide from "../components/ui/buttons/ButtonWide";
 
 export default function Home({ propsData, sampleFinderData }) {
   // console.log(sampleFinderData, "from PROPS");
@@ -33,6 +34,7 @@ export default function Home({ propsData, sampleFinderData }) {
         }
       />
       <Sample data={sampleFinderData} />
+      <ButtonWide />
       <ArrowToTop />
     </div>
   );

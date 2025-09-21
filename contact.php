@@ -5,17 +5,14 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // 1. Prikupljanje i sanitizacija
     $ime = htmlspecialchars($_POST["name"]);
     $email = filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
     $poruka = htmlspecialchars($_POST["message"]);
 
-    // 2. Honeypot zaštita
     if (!empty($_POST["botcheck"])) {
         exit("Spam detektovan.");
     }
 
-    // 3. Konekcija sa bazom
     $db_host = "169.254.0.2";
     $db_user = "milha79_milha79";
     $db_pass = "Miki7979";
@@ -27,7 +24,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         die("Greška u konekciji: " . $conn->connect_error);
     }
 
-    // 4. Upis u tabelu
     $stmt = $conn->prepare("INSERT INTO poruke (ime, email, poruka) VALUES (?, ?, ?)");
     if (!$stmt) {
         die("Greška u pripremi upita: " . $conn->error);
@@ -38,7 +34,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $stmt->close();
     $conn->close();
 
-    // 5. Odgovor korisniku
+    $to = 'sztrhrizantema@gmail.com';
+    $subject = 'Postavljeno pitanje na sajtu';
+    $message = "
+Pozdrav,
+
+Upravo je postavljeno pitanje.
+
+Ime: $ime  
+Email: $email  
+Poruka: $poruka
+
+Proveri bazu za više detalja.
+";
+
+    $headers = [
+        'From' => 'noreply@domen.rs',
+        'Reply-To' => $email,
+        'Content-Type' => 'text/plain; charset=UTF-8'
+    ];
+
+    mail($to, $subject, $message, implode("\r\n", $headers));
+    // echo "Poslato!";
     echo "Poruka je uspešno sačuvana!";
 } else {
     echo "Neovlašćen pristup.";

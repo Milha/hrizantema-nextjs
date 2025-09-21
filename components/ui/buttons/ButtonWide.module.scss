@@ -1,0 +1,42 @@
+@import "../../../styles/colors.module.scss";
+
+.cont {
+  width: 14.5rem;
+  height: 4rem;
+  margin: auto;
+  margin-bottom: 5rem;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  box-shadow: 0px 4px 15px 1px $color-main-brown-800;
+  position: relative;
+
+  transition: all 1s;
+
+  .icon_cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    span {
+      /* position: block;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+      padding: 5px;
+      /* bottom: -0.2rem; */
+      font-size: 2rem;
+
+      // color: #002349;
+    }
+  }
+}
+
+.cont:hover {
+  transform: scale(1.06);
+  cursor: pointer;
+}
