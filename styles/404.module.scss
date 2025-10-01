@@ -1,4 +1,5 @@
-@import "../styles/colors.module.scss";
+// @import "../styles/colors.module.scss";
+@use "../styles/colors.scss" as colors;
 
 .cont {
   // padding: 3rem;
@@ -11,6 +12,6 @@
   background-image: url("/images/aside/page-not-found-404.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  color: $color-gray-100;
+  color: colors.$color-gray-100;
   text-align: center;
 }

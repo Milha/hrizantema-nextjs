@@ -1,4 +1,5 @@
-@import "../../styles/colors.module.scss";
+// @import "../../styles/colors.module.scss";
+@use "../../styles/colors.scss" as colors;
 
 .cont {
   margin: 1.25rem;
@@ -52,6 +53,7 @@
       overflow: hidden !important;
       text-overflow: ellipsis;
       -webkit-line-clamp: 3;
+      line-clamp: 3;
     }
 
     .price_more_cont {
@@ -101,7 +103,7 @@
 }
 
 .cont:hover {
-  background-color: $color-main-dark-purple-100;
+  background-color: colors.$color-main-dark-purple-100;
 
   .price {
     transform: scale(1.004);

@@ -1,11 +1,12 @@
-@import '../../styles/colors.module.scss';
+// @import '../../styles/colors.module.scss';
+@use "../../styles/colors.scss" as colors;
 
 .cont {
   // background-color: $color-main-goldy-100;
   display: flex;
   flex-direction: column;
   // box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.1);
-  font-family: 'Merriweather Sans';
+  font-family: "Merriweather Sans";
   // font-weight: 300;
 
   @media (min-width: 75rem) {
@@ -53,9 +54,9 @@
     background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
     background-image: image-set(
       url(../../public/images/hero-images/hrizantema-hero-500w.webp)
-        type('image/webp'),
+        type("image/webp"),
       url(../../public/images/hero-images/hrizantema-hero-500w.jpg)
-        type('image/jpg')
+        type("image/jpg")
     );
 
     background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);

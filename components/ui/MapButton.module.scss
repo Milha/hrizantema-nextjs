@@ -1,4 +1,5 @@
-@import "../../styles/colors.module.scss";
+// @import "../../styles/colors.module.scss";
+@use "../../styles/colors.scss" as colors;
 
 .cont {
   display: flex;

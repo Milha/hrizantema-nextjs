@@ -1,4 +1,5 @@
-@import "../../styles/colors.module.scss";
+// @import "../../styles/colors.module.scss";
+@use "../../styles/colors.scss" as colors;
 
 .cont {
   margin: 0;
@@ -7,7 +8,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: $color-main-brown-600;
+  color: colors.$color-main-brown-600;
 }
 
 .icon {

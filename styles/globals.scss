@@ -28,9 +28,8 @@
 
 // }
 
-
-
-@import "../styles/colors.module.scss";
+// @import "../styles/colors.module.scss";
+@use "colors.scss" as colors;
 
 html {
   scroll-behavior: smooth;
@@ -42,19 +41,19 @@ body {
   margin: 0;
   font-family: "Merriweather", "Merriweather Sans", sans-serif;
   font-display: swap;
-  color: $color-main-brown-900;
+  color: colors.$color-main-brown-900;
 }
 
 h1 {
-  color: $color-main-brown-600;
+  color: colors.$color-main-brown-600;
 }
 
 h2 {
-  color: $color-main-brown-900;
+  color: colors.$color-main-brown-900;
 }
 
 p {
-  color: $color-main-brown-800;
+  color: colors.$color-main-brown-800;
   // color: $color-main-brown-700;
 }
 

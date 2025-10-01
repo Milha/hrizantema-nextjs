@@ -1,10 +1,11 @@
-@import '../../styles/colors.module.scss';
+// @import '../../styles/colors.module.scss';
+@use "../../styles/colors.scss" as colors;
 
 .cont {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
   // background-color: red;
 
   @media (min-width: 50rem) {
@@ -129,7 +130,7 @@
     }
 
     .similar_text {
-      color: $color-main-brown-300;
+      color: colors.$color-main-brown-300;
       text-align: left;
       // font-size: 0.75rem;
       margin-bottom: 0;
