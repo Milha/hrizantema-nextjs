@@ -22,7 +22,7 @@ export default function HeadSingle({ data }) {
     // category: data.category ? data.category : "/",
     offers: {
       "@type": "Offer",
-      price: data.price,
+      price: Number(data.price.replace(".", "")),
       priceCurrency: "RSD",
       priceValidUntil: getDateXDayFromNow(),
       url: data.httpaddress,
