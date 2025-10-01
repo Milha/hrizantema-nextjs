@@ -1,4 +1,8 @@
 <?php
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Methods: POST");
+header("Access-Control-Allow-Headers: Content-Type");
+
 // 🔍 Prikaz grešaka
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
@@ -56,7 +60,9 @@ Proveri bazu za više detalja.
 
     mail($to, $subject, $message, implode("\r\n", $headers));
     // echo "Poslato!";
-    echo "Poruka je uspešno sačuvana!";
+    // echo "Poruka je uspešno sačuvana!";
+    echo json_encode(["success" => true]);
+    exit;
 } else {
     echo "Neovlašćen pristup.";
 }

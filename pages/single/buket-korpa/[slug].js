@@ -8,10 +8,8 @@ import { buketSetData } from "../../../utils/similarsFinder";
 import { simBuketiTest } from "../../../utils/testSimilars";
 
 export default function Slug({ pageItems, smallSimilarItems }) {
-  // console.log(simBuketiTest, "From test");
-  // console.log(buketSetData, "From setdata");
   return (
-    <div>
+    <>
       <HeadSingle data={pageItems} />
       <OriginLinksNavSingle
         list="Buketi"
@@ -23,7 +21,7 @@ export default function Slug({ pageItems, smallSimilarItems }) {
         data={pageItems}
         similarPropData={smallSimilarItems}
       />
-    </div>
+    </>
   );
 }
 

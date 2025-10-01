@@ -583,13 +583,20 @@ export const buketiKorpeItemData = [
     price: "8.900",
     priceRange: "1.000 - 2.500",
     includes: ["ruža", "ljiljan", "robelini"],
-    imageBig: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece.jpg",
-    imageBigWebP: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece.webp",
-    imageSmall: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-small.jpg",
-    imageSmallWebP: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-small.webp",
-    imageGMB: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-gmb.jpg",
-    imageMini: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-mini.jpg",
-    imageMiniWebP: "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-mini.webp",
+    imageBig:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece.webp",
+    imageSmall:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/bela-ruza-beli-gerber-korpa-prirodno-cvece-mini.webp",
     alt: "Korpa za groblje bele ruze beli ljiljan prirodno cvece",
     text: "Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti. Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet.",
     httpaddress: `https://hrizantema.rs/single/buket-korpa/bela-ruza-beli-gerber-korpa-prirodno-cvece${categoryKorpe}`,
@@ -597,7 +604,68 @@ export const buketiKorpeItemData = [
     sluglink: "bela-ruza-beli-gerber-korpa-prirodno-cvece",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-016",
-  },  
+  },
+  {
+    similarTo: [
+      "Crveni ljiljan ~ bela ruža",
+      "Beli ljiljan ~ crvena ruža",
+      "Bele gladiole",
+    ],
+    test: [5, 4, 3],
+    id: 17,
+    title: "Beli ljiljan ~ Bela ruža ~ Roze gerber ~ Prirodni buket",
+    price: "14.500",
+    priceRange: "11.000 - 19.500",
+    includes: [],
+    imageBig:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental.webp",
+    imageSmall:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental-mini.webp",
+    alt: "korpa prirodno cvece beli ljiljan bela ruza roze gerber beli gerber crveni gerber palma robelini",
+    text: "Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Značenje bele ruže je povezano sa čistoćom, duhovnošću i nevinošću. Bele ruže su simbol i čednosti. Takođe označavaju pravu i čistu ljubav, naklonost i saosećanje prema nekome. Gerberi, kao cvetovi vedrine i jednostavne lepote, nose pozitivne poruke u zavisnosti od boje: beli gerberi simbolizuju čistu ljubav i nevinost, crveni gerberi predstavljaju strast i ljubav, roze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental${categoryKorpe}`,
+    link: `/single/buket-korpa/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental${categoryKorpe}`,
+    sluglink: "drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-017",
+  },
+  // {
+  //   similarTo: [
+  //     "Crveni ljiljan ~ bela ruža",
+  //     "Beli ljiljan ~ crvena ruža",
+  //     "Bele gladiole",
+  //   ],
+  //   test: [5, 4, 3],
+  //   id: 13,
+  //   title: "TITLE",
+  //   price: "NA.500",
+  //   priceRange: "1.000 - 2.500",
+  //   includes: [],
+  //   imageBig: "/images/buketi-korpe/INPUTIMAGE.jpg",
+  //   imageBigWebP: "/images/buketi-korpe/INPUTIMAGE.webp",
+  //   imageSmall: "/images/buketi-korpe/INPUTIMAGE-small.jpg",
+  //   imageSmallWebP: "/images/buketi-korpe/INPUTIMAGE-small.webp",
+  //   imageGMB: "/images/buketi-korpe/INPUTIMAGE-gmb.jpg",
+  //   imageMini: "/images/buketi-korpe/INPUTIMAGE-mini.jpg",
+  //   imageMiniWebP: "/images/buketi-korpe/INPUTIMAGE-mini.webp",
+  //   alt: "ALTTTTTT",
+  //   text: "DESCRIPTION",
+  //   httpaddress: `https://hrizantema.rs/single/buket-korpa/INPUTLINK${categoryKorpe}`,
+  //   link: `/single/buket-korpa/INPUTLINK${categoryKorpe}`,
+  //   sluglink: "INPUTLINK",
+  //   availability: "https://schema.org/PreOrder",
+  //   prodId: "BU-013",
+  // },
   // {
   //   similarTo: [
   //     "Crveni ljiljan ~ bela ruža",
