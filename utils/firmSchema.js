@@ -1,6 +1,7 @@
 export const firmSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "@id": "https://hrizantema.rs#hrizantema",
   image: [
     "https://hrizantema.rs/images/aside/hrizantema-cvecara-gmb.jpg",
     "https://hrizantema.rs/images/venci/bela-ruza-beli-gerber-bela-kala-robelini-prirodni-venac.jpg",

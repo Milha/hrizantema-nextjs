@@ -616,7 +616,7 @@ export const buketiKorpeItemData = [
     title: "Beli ljiljan ~ Bela ruža ~ Roze gerber ~ Prirodni buket",
     price: "14.500",
     priceRange: "11.000 - 19.500",
-    includes: [],
+    includes: ["ljiljan", "ruza", "gerber", "robelini"],
     imageBig:
       "/images/buketi-korpe/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental.jpg",
     imageBigWebP:
