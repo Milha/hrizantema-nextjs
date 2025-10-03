@@ -1,11 +1,12 @@
-import '../styles/globals.scss';
+import "../styles/globals.scss";
 
-import Head from 'next/head';
+import Head from "next/head";
 
-import { firmSchema } from '../utils/firmSchema';
+import { firmSchema } from "../utils/firmSchema";
 // import Header from "../components/layout/Header";
-import HeaderNew from '../components/layout/HeaderNew';
-import GoogleAnalytics from '../components/diverse/GoogleAnalytics';
+import HeaderNew from "../components/layout/HeaderNew";
+import GoogleAnalytics from "../components/diverse/GoogleAnalytics";
+import Footer from "../components/layout/Footer";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -79,12 +80,13 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <GoogleAnalytics />
-    
+
       <HeaderNew />
 
       <main>
         <Component {...pageProps} />
       </main>
+      <Footer />
     </>
   );
 }
