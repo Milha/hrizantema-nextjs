@@ -3,10 +3,6 @@ import Offers from "../components/cards/Offers";
 import HeroBanner from "../components/layout/HeroBanner";
 import Sample from "../components/cards/Sample";
 
-// import Hero from "../components/layout/Hero";
-// import SubHero from "../components/layout/SubHero";
-// import styles from "../styles/Home.module.css";
-// import { sampleIndexItemData } from "../data/sampleIndexItemData";
 import { offersCardsData } from "../data/offersCardsData";
 
 import { sampleItems } from "../utils/sampleFinder";
@@ -16,11 +12,9 @@ import ReminderCard from "../components/vary-components/ReminderCard";
 import ButtonWide from "../components/ui/buttons/ButtonWide";
 
 export default function Home({ propsData, sampleFinderData }) {
-  // console.log(sampleFinderData, "from PROPS");
   return (
     <div>
       <Head>
-        {/* REL CANNONICAL */}
         <link rel="canonical" href="https://hrizantema.rs" />
       </Head>
       {/* <Hero /> */}
