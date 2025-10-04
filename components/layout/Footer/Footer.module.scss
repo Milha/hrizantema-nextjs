@@ -4,39 +4,79 @@
   padding: 20px 40px;
   margin-top: auto;
 
-  .footer-content {
-    // display: flex;
-    // justify-content: space-between;
-    // align-items: center;
-    // flex-wrap: wrap;
+  .footer-rights {
+    width: 100%;
+    // background-color: rebeccapurple;
+    text-align: center;
+    p {
+      // text-align: center;
+      line-height: 1.2;
+      margin: 0;
+      font-size: 12px;
+    }
+    h3 {
+      margin: 0;
+      font-size: 16px;
+    }
+  }
 
+  .footer-content {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
-    .footer-left,
-    .footer-center,
-    .footer-right {
+    padding: 1rem;
+
+    .footer-contact,
+    .footer-links,
+    .footer-about {
       flex: 1 1 30%;
       min-width: 200px;
     }
 
-    .footer-left {
-      font-size: 14px;
+    .footer-links {
+      font-size: 16px;
+      text-align: center;
+
+      h4 {
+        margin-top: 0;
+        margin-bottom: 6px;
+      }
+
+      ul {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* centriraj horizontalno */
+        gap: 0.5rem;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+
+        li {
+          width: 100%;
+          text-align: center;
+
+          a {
+            margin: auto;
+          }
+        }
+      }
     }
 
-    .footer-center {
+    .footer-contact {
+      // height: 25rem;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
       align-items: center;
-      height: 5rem;
+      height: auto;
+      // color: green;
 
       .footer-address {
-        font-style: normal; // override default italic
+        font-style: normal;
         line-height: 1.6;
         text-align: center;
-        // background-color: purple;
 
         a {
           color: inherit;
@@ -46,15 +86,29 @@
           }
         }
       }
+
+      p {
+        margin: 2px 0;
+        font-size: 16px;
+        color: inherit;
+      }
     }
 
-    .footer-right {
-      //   display: flex;
-      //   gap: 15px;
-      //   color: green;
-      //   background-color: blue;
+    .footer-about {
+      text-align: center;
+      h4 {
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 6px;
+
+        // margin-top: 0;
+        // margin-bottom: 6px;
+        // text-align: center;
+      }
+      // margin-top: 10px;
       p {
-        line-height: 1.2;
+        font-size: 14px;
+        // text-align: center;
       }
     }
   }
@@ -66,9 +120,9 @@
       gap: 1rem;
       text-align: center;
 
-      .footer-left,
-      .footer-center,
-      .footer-right {
+      .footer-about,
+      .footer-nav,
+      .footer-about {
         width: 100%;
         flex: 0 0 100%;
       }
