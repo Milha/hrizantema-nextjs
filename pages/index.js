@@ -10,7 +10,7 @@ import ArrowToTop from "../components/ui/ArrowToTop";
 import MapButton from "../components/ui/MapButton";
 import ReminderCard from "../components/vary-components/ReminderCard";
 import ButtonWide from "../components/ui/buttons/ButtonWide";
-import Footer from "../components/layout/Footer";
+// import Footer from "../components/layout/Footer";
 
 export default function Home({ propsData, sampleFinderData }) {
   return (

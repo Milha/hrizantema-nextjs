@@ -38,7 +38,6 @@ export const suzeItemData = [
     category: categorySchema,
   },
   {
-    sample: true,
     similarTo: [
       "Bela ruža ~ roze gerber",
       "Ljiljan orijental - carski ljiljan",
@@ -67,7 +66,6 @@ export const suzeItemData = [
     category: categorySchema,
   },
   {
-    sample: true,
     similarTo: [
       "Beli ljiljan ~ crveni gerber",
       "Ljiljan ~ margareta ~ gerber",
@@ -371,6 +369,7 @@ export const suzeItemData = [
     category: categorySchema,
   },
   {
+    sample: true,
     similarTo: [
       "Margareta gerber",
       "Beli ljiljan ~ margareta",
@@ -405,8 +404,8 @@ export const suzeItemData = [
     prodId: "SU-012",
     category: categorySchema,
   },
-
   {
+    sample: true,
     similarTo: [
       "Bela ruža ~ roze gerber",
       "Beli ljiljan ~ margareta",
@@ -419,12 +418,18 @@ export const suzeItemData = [
     priceRange: "7.000 - 9.500",
     includes: ["orijental", "ruza", "gipsofila", "robelini"],
     imageBig: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza.jpg",
-    imageBigWebP: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza.webp",
-    imageSmall: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-small.jpg",
-    imageSmallWebP: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-small.webp",
-    imageGMB: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-gmb.jpg",
-    imageMini: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-mini.jpg",
-    imageMiniWebP: "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-mini.webp",
+    imageBigWebP:
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza.webp",
+    imageSmall:
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-mini.webp",
     alt: "Suza od prirodnog cveca beli ljiljan orijental bele ruze cvecara na groblju orlovaca",
     text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. označiti poštovanje prema osobi koja je preminula.",
     httpaddress: `https://hrizantema.rs/single/suza/beli-ljiljan-orijental-bele-ruze-prirodna-suza${categorySuze}`,

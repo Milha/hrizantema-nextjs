@@ -73,7 +73,6 @@ export const ostaloUPonudiData = [
     category: categorySchema[1],
   },
   {
-    sample: true,
     similarTo: [
       "Velika piramida od stakla - crvene ruže",
       "Krst staklo crvene ruže",
@@ -996,6 +995,7 @@ export const ostaloUPonudiData = [
     category: categorySchema[0],
   },
   {
+    sample: true,
     similarTo: [
       "Velika kućica za paljenje sveće",
       "Srednja kućica za sveće - obla",

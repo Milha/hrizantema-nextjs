@@ -166,7 +166,6 @@ export const venciItemData = [
     prodId: "VE-004",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Beli orijental ~ beli gerber",

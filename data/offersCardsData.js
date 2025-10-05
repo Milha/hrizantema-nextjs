@@ -12,18 +12,17 @@ export const offersCardsData = [
   {
     title: "Suze",
     cardImage:
-      "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini-small.jpg",
+      "//images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-small.jpg",
     text: "Suze svih veličina i dvostranične suze",
     cardImageWebP:
-      "/images/suze/roze-carski-ljiljan-orijental-prirodna-suza-small.webp",
+      "/images/suze/beli-ljiljan-orijental-bele-ruze-prirodna-suza-small.webp",
     text: "Suze svih veličina i dvostranične suze",
     altText: "Ponuda suza izradjenih u hrizantema cvecara orlovaca",
     offerLink: "/lists/list-ponuda-suze",
   },
   {
     title: "Ostalo u poundi",
-    cardImage:
-      "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini-small.jpg",
+    cardImage: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.jpg",
     cardImageWebP: "/images/ostalo-u-ponudi/kucica-za-svece-velika-small.webp",
     text: "Veštačko cveće, kućice za sveće, saksijsko cveće",
     altText: "proizvodi za izlazak na groblje sahrane na groblju orlovaca",
