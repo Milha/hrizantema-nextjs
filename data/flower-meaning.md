@@ -114,6 +114,8 @@ Poklonite narandžastih ruža osobi kojoj je potrebno podizanje raspoloženja. N
 
 Žuta ruža je simbol prijateljstva koje izražava vašu podršku.
 
+Žute ruže mogu predstavljati saosećanje i brigu, što ih čini prikladnim izborom za izražavanje saučešća.
+
 Kada se neko oseća loše, slanje buketa jarko žutih ruža je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Buket jarko žutog cveća takođe može da izrazi brigu i brigu za ljude koji su vam dragi i savršeno prenesu želje da se oporavite.
 
 Sama svetla boja podseća na sunce svojom suštinskom toplinom i dobrim raspoloženjem u sunčanim danima. Zato žute ruže simbolizuju radost, raspoloženje i optimizam. Kada se neko oseća loše, slanje buketa jarko žutih ruža za isporuku je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Buket jarko žutog cveća takođe može da izrazi brigu i brigu za ljude koji su vam dragi i savršeno prenesu želje „ozdravite“.

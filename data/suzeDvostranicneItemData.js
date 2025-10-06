@@ -375,18 +375,26 @@ export const suzeDvostranicneData = [
     price: "9.500",
     priceRange: "1.000 - 2.500",
     includes: [],
-    imageBig: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza.jpg",
-    imageBigWebP: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza.webp",
-    imageSmall: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-small.jpg",
-    imageSmallWebP: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-small.webp",
-    imageGMB: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-gmb.jpg",
-    imageMini: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-mini.jpg",
-    imageMiniWebP: "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-mini.webp",
+    imageBig:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza-mini.webp",
     alt: "dvostranican suza za sahrane za sanduk prirodno cvece roze gerber bele margarete",
     text: "Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
     httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza${categorySuze}`,
     link: `/single/suza-dvostranicna/roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza${categorySuze}`,
-    sluglink: "roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza",
+    sluglink:
+      "roze-gerber-bela-margareta-hrizantema-dvostranicna-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-011",
     category: categorySchema,
@@ -403,13 +411,20 @@ export const suzeDvostranicneData = [
     price: "8.500",
     priceRange: "8.000 - 11.500",
     includes: ["ruza", "gipsofila", "robelini"],
-    imageBig: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza.jpg",
-    imageBigWebP: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza.webp",
-    imageSmall: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-small.jpg",
-    imageSmallWebP: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-small.webp",
-    imageGMB: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-gmb.jpg",
-    imageMini: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-mini.jpg",
-    imageMiniWebP: "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-mini.webp",
+    imageBig:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza-mini.webp",
     alt: "dvostranican suza za sahrane za sanduk prirodno cvece bele ruze bela gipsofila",
     text: "Ruže se tradicionalno povezuju sa romantikom i strašću, ali su pogodne i za sahrane. Postoji mnogo različitih boja ruža, a svaka boja ima jedinstveno značenje, posebno kada birate boju ruže za sahranu. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Oni takođe mogu označiti poštovanje prema osobi koja je preminula.",
     httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/bela-ruza-bela-gipsofila-prirodna-dvostranicna-suza${categorySuze}`,
@@ -431,13 +446,20 @@ export const suzeDvostranicneData = [
     price: "9.500",
     priceRange: "9.000 - 12.500",
     includes: ["ruza", "gipsofila", "mahonija", "robelini"],
-    imageBig: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza.jpg",
-    imageBigWebP: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza.webp",
-    imageSmall: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-small.jpg",
-    imageSmallWebP: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-small.webp",
-    imageGMB: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-gmb.jpg",
-    imageMini: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-mini.jpg",
-    imageMiniWebP: "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-mini.webp",
+    imageBig:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza-mini.webp",
     alt: "dvostranican suza za sahrane za sanduk prirodno cvece crvene ruze bela gipsofila cvecara orlovaca",
     text: "Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Poklon cveće je često idealan izbor, jer pruža dugotrajnu počast izgubljenoj voljenoj osobi, kao i stalni podsetnik na prijateljstvo i naklonost koju želite da podržite ožalošćenog tokom procesa tugovanja.",
     httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/crvena-ruza-bela-gipsofila-dvostranicna-prirodna-suza${categorySuze}`,
@@ -459,13 +481,20 @@ export const suzeDvostranicneData = [
     price: "8.500",
     priceRange: "1.000 - 2.500",
     includes: ["ljiljan orijental", "kala", "gipsofila", "robelini"],
-    imageBig: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza.jpg",
-    imageBigWebP: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza.webp",
-    imageSmall: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-small.jpg",
-    imageSmallWebP: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-small.webp",
-    imageGMB: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-gmb.jpg",
-    imageMini: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-mini.jpg",
-    imageMiniWebP: "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-mini.webp",
+    imageBig:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza-mini.webp",
     alt: "dvostranican suza za sahrane za sanduk prirodno cvece roze ljiljan orijental bele kale cvecara hrizantema",
     text: "Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Bela kala označava svetost, veru i čistotu. Cvetovi belih kala se obično koriste u uskršnjim službama i predstavljaju uskrsnuće i ponovno rođenje.",
     httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/roze-orijental-ljiljan-bela-kala-prirodna-dvostranicna-suza${categorySuze}`,
@@ -487,20 +516,63 @@ export const suzeDvostranicneData = [
     price: "8.500",
     priceRange: "6.000 - 9.500",
     includes: [],
-    imageBig: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza.jpg",
-    imageBigWebP: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza.webp",
-    imageSmall: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-small.jpg",
-    imageSmallWebP: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-small.webp",
-    imageGMB: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-gmb.jpg",
-    imageMini: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-mini.jpg",
-    imageMiniWebP: "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-mini.webp",
+    imageBig:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-mini.webp",
     alt: "dvostranican suza roze orijental bele ruze beli gerber",
     text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
     httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza${categorySuze}`,
     link: `/single/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza${categorySuze}`,
-    sluglink: "roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza",
+    sluglink:
+      "roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-015",
+    category: categorySchema,
+  },
+  {
+    similarTo: [
+      "Carski ljiljan roze ~ Bela ruža ~ Beli gerber - dvostaranična suza",
+      "Kala ~ beli gerber",
+      "Roze žuti gerber ~ Dvostranična suza",
+    ],
+    test: [0, 0, 0],
+    id: 5,
+    title: "Žuta ruža ~ beli gerber - dvostranična suza",
+    price: "9.000",
+    priceRange: "1.000 - 2.500",
+    includes: [],
+    imageBig:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza.jpg",
+    imageBigWebP:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza.webp",
+    imageSmall:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza-small.jpg",
+    imageSmallWebP:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza-small.webp",
+    imageGMB:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza-gmb.jpg",
+    imageMini:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza-mini.jpg",
+    imageMiniWebP:
+      "/images/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza-mini.webp",
+    alt: "dvostranican suza za sahrane za sanduk prirodno cvece zute ruze beli gerber groblje orlovaca",
+    text: "Žute ruže mogu predstavljati saosećanje i brigu, što ih čini prikladnim izborom za izražavanje saučešća. Kada se neko oseća loše, slanje buketa jarko žutih ruža je dobar način da im popravite raspoloženje i date im do znanja da ste tu za njih. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza${categorySuze}`,
+    link: `/single/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza${categorySuze}`,
+    sluglink: "zuta-ruza-beli-gerber-prirodna-dvostranicna-suza",
+    availability: "https://schema.org/PreOrder",
+    prodId: "DS-111",
     category: categorySchema,
   },
   // {

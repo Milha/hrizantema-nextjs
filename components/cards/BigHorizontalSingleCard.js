@@ -60,9 +60,10 @@ export default function BigVerticalSingleCard({ data, similarPropData }) {
       </div>
       <div className={classes.additional_cont}>
         <p>
-          * cene su data priblžno tačne prema cenama u trenutku pravljenja
-          aranžmana. Cene mogu biti manje korigovane za isti proizvod. Naravno,
-          svaki aranžman može biti izradjen veći ili manji od prikazanog.
+          * prikazane cene su informativnog karaktera i zasnovane na vrednostima
+          u trenutku izrade aranžmana. Iste se mogu neznatno razlikovati u
+          zavisnosti od veličine ili dostupnosti materijala. Aranžmani mogu biti
+          izradjeni u manjem ili većem formatu po želji kupca.
         </p>
       </div>
     </>
