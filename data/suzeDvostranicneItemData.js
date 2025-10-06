@@ -547,9 +547,9 @@ export const suzeDvostranicneData = [
       "Roze žuti gerber ~ Dvostranična suza",
     ],
     test: [0, 0, 0],
-    id: 5,
+    id: 16,
     title: "Žuta ruža ~ beli gerber - dvostranična suza",
-    price: "9.000",
+    price: "5.900",
     priceRange: "1.000 - 2.500",
     includes: [],
     imageBig:
@@ -572,7 +572,7 @@ export const suzeDvostranicneData = [
     link: `/single/suza-dvostranicna/zuta-ruza-beli-gerber-prirodna-dvostranicna-suza${categorySuze}`,
     sluglink: "zuta-ruza-beli-gerber-prirodna-dvostranicna-suza",
     availability: "https://schema.org/PreOrder",
-    prodId: "DS-111",
+    prodId: "DS-016",
     category: categorySchema,
   },
   // {
