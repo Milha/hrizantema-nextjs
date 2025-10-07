@@ -4,21 +4,24 @@ import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 
 import classes from "./ListsArticles.module.scss";
 
-import { rezanoItemData } from "../../data/rezanoItemData";
+import { buketiKorpeItemData } from "../../data/buketiKorpeItemData";
 import ArrowToTop from "../../components/ui/ArrowToTop";
 import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
-// import { rezanoItemData } from "../../data/rezanoItemData";
+import { NextPage, GetStaticProps } from "next";
 
-const reverte = rezanoItemData.reverse();
-const listDesc =
-  "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
+import { ProductProps } from "../../types/product";
 
-export default function Lists({ inject }) {
-  const listTitle = "Rezano cveće";
+const reverte = [...buketiKorpeItemData].reverse().map((item) => ({
+  ...item,
+  sample: typeof item.sample === "boolean" ? item.sample : false,
+}));
 
+const Lists: NextPage<ProductProps> = ({ inject }) => {
   // console.log(inject, "from list page");
-  // console.log(inject);
+  const listTitle = "Buketi i Korpe";
+  const listDesc =
+    "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
 
   return (
     <>
@@ -26,11 +29,11 @@ export default function Lists({ inject }) {
         listDesc={listDesc}
         data={inject}
         addTitle={listTitle}
-        addHttpaddress="https://hrizantema.rs/lists/lista-ponuda-rezano-cvece"
+        addHttpaddress="https://hrizantema.rs/lists/list-ponuda-buketi-korpe"
       />
       <OriginLinksNav
         list={listTitle}
-        addHttpaddress="/lists/lista-ponuda-rezano-cvece"
+        addHttpaddress="/lists/list-ponuda-buketi-korpe"
       />
       <ListHeadline>{listTitle}</ListHeadline>
       <article className={classes.cont}>
@@ -43,12 +46,14 @@ export default function Lists({ inject }) {
       <ArrowToTop />
     </>
   );
-}
+};
 
-export async function getStaticProps() {
+export const getStaticProps: GetStaticProps<ProductProps> = async () => {
   const inject = reverte;
 
   return {
     props: { inject },
   };
-}
+};
+
+export default Lists;

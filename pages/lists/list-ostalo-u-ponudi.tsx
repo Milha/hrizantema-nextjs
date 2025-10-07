@@ -10,50 +10,52 @@ import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
 import { NextPage, GetStaticProps } from "next";
 
+import { ProductProps } from "../../types/product";
+
 // types/data.ts
 
-export type Item = {
-  sample: boolean;
-  similarTo: string[];
-  test: number[];
-  id: number;
-  title: string;
-  price: string;
-  priceRange: string;
-  includes: string[] | null;
-  imageBig: string;
-  imageBigWebP: string;
-  imageSmall: string;
-  imageSmallWebP: string;
-  imageGMB: string;
-  imageMini: string;
-  imageMiniWebP: string;
-  alt: string;
-  text: string;
-  httpaddress: string;
-  link: string;
-  sluglink: string;
-  availability: string;
-  prodId: string;
-  category: string; // ili ako imaš poseban tip za categorySchema, koristi njega
-};
+// export type Item = {
+//   sample: boolean;
+//   similarTo: string[];
+//   test: number[];
+//   id: number;
+//   title: string;
+//   price: string;
+//   priceRange: string;
+//   includes: string[] | null;
+//   imageBig: string;
+//   imageBigWebP: string;
+//   imageSmall: string;
+//   imageSmallWebP: string;
+//   imageGMB: string;
+//   imageMini: string;
+//   imageMiniWebP: string;
+//   alt: string;
+//   text: string;
+//   httpaddress: string;
+//   link: string;
+//   sluglink: string;
+//   availability: string;
+//   prodId: string;
+//   category: string;
+// };
 
-type ListsProps = {
-  inject: Item[];
-};
+// type ListsProps = {
+//   inject: Item[];
+// };
 
-const reverte = ostaloUPonudiData
+const reverte = [...ostaloUPonudiData]
   .map((item) => ({
     ...item,
     sample: typeof item.sample === "boolean" ? item.sample : false,
   }))
   .reverse();
 
-const Lists: NextPage<ListsProps> = ({ inject }) => {
+const Lists: NextPage<ProductProps> = ({ inject }) => {
   // console.log(inject, "from list page");
   const listTitle = "Ostalo u ponudi";
   const listDesc =
-    "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
+    "Ostali proizvodi iz naše ponude, kućice za sveće, sveće, veštačko cveće, cveće u staklu i još mnogo toga";
 
   return (
     <>
@@ -83,7 +85,7 @@ const Lists: NextPage<ListsProps> = ({ inject }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps<ListsProps> = async () => {
+export const getStaticProps: GetStaticProps<ProductProps> = async () => {
   const inject = reverte;
 
   return {

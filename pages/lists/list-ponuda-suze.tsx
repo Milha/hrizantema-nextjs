@@ -8,11 +8,19 @@ import { suzeItemData } from "../../data/suzeItemData";
 import ArrowToTop from "../../components/ui/ArrowToTop";
 import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
-const reverte = suzeItemData.reverse();
-const listDesc =
-  "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
+import { NextPage, GetStaticProps } from "next";
 
-export default function Lists({ inject }) {
+import { ProductProps } from "../../types/product";
+
+const reverte = [...suzeItemData].reverse().map((item) => ({
+  ...item,
+  sample: typeof item.sample === "boolean" ? item.sample : false,
+}));
+
+const listDesc =
+  "Lista prirodnih suza iz naše ponude, sveže rezano cveće se ugradjuje naše u aranžmane. Jednostranične suze za sahrane ili pomene, u više veličina i boja.";
+
+const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Ponuda Klasičnih Suza";
 
   // console.log(inject, "from list page");
@@ -39,12 +47,14 @@ export default function Lists({ inject }) {
       <ArrowToTop />
     </>
   );
-}
+};
 
-export async function getStaticProps() {
+export const getStaticProps: GetStaticProps<ProductProps> = async () => {
   const inject = reverte;
 
   return {
     props: { inject },
   };
-}
+};
+
+export default Lists;

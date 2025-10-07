@@ -401,6 +401,7 @@ export const buketiKorpeItemData = [
     sluglink: "roze-ljiljan-bela-kala-gipsofila-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-012",
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -433,6 +434,7 @@ export const buketiKorpeItemData = [
     sluglink: "bela-gladiola-prirodno-cvece-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-013",
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -467,6 +469,7 @@ export const buketiKorpeItemData = [
     sluglink: "beli-ljiljan-ljubicasta-masna-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-014",
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -501,6 +504,7 @@ export const buketiKorpeItemData = [
     sluglink: "ljubicasti-gerber-ljubicasta-masna-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-015",
+    category: categorySchema[0],
   },
 
   {
@@ -510,7 +514,7 @@ export const buketiKorpeItemData = [
       "Bele gladiole",
     ],
     test: [5, 4, 3],
-    id: 14,
+    id: 16,
     title: "Šest belih ruža",
     price: "2.500",
     priceRange: "2.000 - 3.500",
@@ -535,7 +539,8 @@ export const buketiKorpeItemData = [
     link: `/single/buket-korpa/sest-belih-ruza-lovor-limun-prirodna-korpa${categoryKorpe}`,
     sluglink: "sest-belih-ruza-lovor-limun-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
-    prodId: "BU-014",
+    prodId: "BU-016",
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -544,7 +549,7 @@ export const buketiKorpeItemData = [
       "Bele gladiole",
     ],
     test: [5, 4, 3],
-    id: 15,
+    id: 17,
     title: "Carski ljiljan ~ mrežica",
     price: "3.900",
     priceRange: "3.000 - 4.500",
@@ -569,7 +574,8 @@ export const buketiKorpeItemData = [
     link: `/single/buket-korpa/dva-roze-bela-orijentala-prirodna-korpa${categoryKorpe}`,
     sluglink: "dva-roze-bela-orijentala-prirodna-korpa",
     availability: "https://schema.org/PreOrder",
-    prodId: "BU-015",
+    prodId: "BU-017",
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -578,7 +584,7 @@ export const buketiKorpeItemData = [
       "Carski ljiljan ~ mrežica",
     ],
     test: [5, 4, 3],
-    id: 16,
+    id: 18,
     title: "Bele ruže ~ Beli ljijan ~ prirodna korpa",
     price: "8.900",
     priceRange: "1.000 - 2.500",
@@ -603,7 +609,8 @@ export const buketiKorpeItemData = [
     link: `/single/buket-korpa/bela-ruza-beli-gerber-korpa-prirodno-cvece${categoryKorpe}`,
     sluglink: "bela-ruza-beli-gerber-korpa-prirodno-cvece",
     availability: "https://schema.org/PreOrder",
-    prodId: "BU-016",
+    prodId: "BU-018",
+    category: categorySchema[0],
   },
   {
     similarTo: [
@@ -612,7 +619,7 @@ export const buketiKorpeItemData = [
       "Bele gladiole",
     ],
     test: [5, 4, 3],
-    id: 17,
+    id: 19,
     title: "Beli ljiljan ~ Bela ruža ~ Roze gerber ~ Prirodni buket",
     price: "5.900",
     priceRange: "4.000 - 9.500",
@@ -637,7 +644,8 @@ export const buketiKorpeItemData = [
     link: `/single/buket-korpa/drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental${categoryKorpe}`,
     sluglink: "drvena-kutijica-gerber-razne-boje-ruze-ljiljan-orijental",
     availability: "https://schema.org/PreOrder",
-    prodId: "BU-017",
+    prodId: "BU-019",
+    category: categorySchema[0],
   },
   // {
   //   similarTo: [

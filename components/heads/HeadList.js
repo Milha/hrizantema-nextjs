@@ -8,10 +8,11 @@ export default function HeadList({ data, addTitle, addHttpaddress, listDesc }) {
     item: inj.httpaddress,
     image: inj.imageBig,
   }));
+  
   const schemaDataItemList = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
-    name: "Lista venaca",
+    name: addTitle,
     itemListElement: eleMap,
   };
 

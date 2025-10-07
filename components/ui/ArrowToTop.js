@@ -7,7 +7,6 @@ function ArrowToTop() {
   const route = useRouter();
 
   const path = route.route;
-  // console.log(path, "From Route Arrow Top");
   return (
     <div className={classes.cont}>
       <Link href={path} passHref>
