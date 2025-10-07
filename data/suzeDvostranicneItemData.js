@@ -517,25 +517,25 @@ export const suzeDvostranicneData = [
     priceRange: "6.000 - 9.500",
     includes: [],
     imageBig:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza.jpg",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza.jpg",
     imageBigWebP:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza.webp",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza.webp",
     imageSmall:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-small.jpg",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza-small.jpg",
     imageSmallWebP:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-small.webp",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza-small.webp",
     imageGMB:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-gmb.jpg",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza-gmb.jpg",
     imageMini:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-mini.jpg",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza-mini.jpg",
     imageMiniWebP:
-      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza-mini.webp",
+      "/images/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza-mini.webp",
     alt: "dvostranican suza roze orijental bele ruze beli gerber",
     text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu. Značenje davanja belih ruža uključuje iskazivanje poštovanja i podrške prema nekome, kao i izražavanje osećanja ljubavi, odanosti i zahvalnosti. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
-    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza${categorySuze}`,
-    link: `/single/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza${categorySuze}`,
+    httpaddress: `https://hrizantema.rs/single/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza${categorySuze}`,
+    link: `/single/suza-dvostranicna/roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza${categorySuze}`,
     sluglink:
-      "roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna- prirodna-suza",
+      "roze-ljiljan-orijental-bele-ruze-beli-gerber-dvostranicna-prirodna-suza",
     availability: "https://schema.org/PreOrder",
     prodId: "DS-015",
     category: categorySchema,
