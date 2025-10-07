@@ -8,9 +8,48 @@ import { ostaloUPonudiData } from "../../data/ostaloUPonudiData";
 import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
-const reverte = ostaloUPonudiData.reverse();
+import { NextPage, GetStaticProps } from "next";
 
-export default function Lists({ inject }) {
+// types/data.ts
+
+export type Item = {
+  sample: boolean;
+  similarTo: string[];
+  test: number[];
+  id: number;
+  title: string;
+  price: string;
+  priceRange: string;
+  includes: string[] | null;
+  imageBig: string;
+  imageBigWebP: string;
+  imageSmall: string;
+  imageSmallWebP: string;
+  imageGMB: string;
+  imageMini: string;
+  imageMiniWebP: string;
+  alt: string;
+  text: string;
+  httpaddress: string;
+  link: string;
+  sluglink: string;
+  availability: string;
+  prodId: string;
+  category: string; // ili ako imaš poseban tip za categorySchema, koristi njega
+};
+
+type ListsProps = {
+  inject: Item[];
+};
+
+const reverte = ostaloUPonudiData
+  .map((item) => ({
+    ...item,
+    sample: typeof item.sample === "boolean" ? item.sample : false,
+  }))
+  .reverse();
+
+const Lists: NextPage<ListsProps> = ({ inject }) => {
   // console.log(inject, "from list page");
   const listTitle = "Ostalo u ponudi";
   const listDesc =
@@ -42,12 +81,14 @@ export default function Lists({ inject }) {
       <ArrowToTop />
     </>
   );
-}
+};
 
-export async function getStaticProps() {
+export const getStaticProps: GetStaticProps<ListsProps> = async () => {
   const inject = reverte;
 
   return {
     props: { inject },
   };
-}
+};
+
+export default Lists;
