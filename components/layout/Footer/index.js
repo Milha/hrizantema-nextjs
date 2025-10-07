@@ -62,7 +62,7 @@ function Footer() {
       </div>
 
       <div className={classes["footer-rights"]}>
-        <h3>Hrizantema</h3>
+        {/* <h3>Hrizantema</h3> */}
         <p>© {new Date().getFullYear()} Sva prava zadržava hrizantema.</p>
       </div>
     </footer>
