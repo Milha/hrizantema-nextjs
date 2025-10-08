@@ -12,14 +12,6 @@ import { NextPage, GetStaticProps } from "next";
 
 import { ProductProps } from "../../types/product";
 
-// import { rezanoItemData } from "../../data/rezanoItemData";
-
-// const reverte = rezanoItemData.reverse().map((item) => ({
-//   ...item,
-//   sample: item.sample !== undefined ? item.sample : false,
-//   category: Array.isArray(item.category) ? item.category.join(", ") : item.category,
-// }));
-
 const reverte = [...rezanoItemData].reverse().map((item) => ({
   ...item,
   sample: typeof item.sample === "boolean" ? item.sample : false,
@@ -30,9 +22,6 @@ const listDesc =
 
 const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Rezano cveće";
-
-  // console.log(inject, "from list page");
-  // console.log(inject);
 
   return (
     <>

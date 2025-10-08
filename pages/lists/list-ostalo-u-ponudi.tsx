@@ -12,38 +12,6 @@ import { NextPage, GetStaticProps } from "next";
 
 import { ProductProps } from "../../types/product";
 
-// types/data.ts
-
-// export type Item = {
-//   sample: boolean;
-//   similarTo: string[];
-//   test: number[];
-//   id: number;
-//   title: string;
-//   price: string;
-//   priceRange: string;
-//   includes: string[] | null;
-//   imageBig: string;
-//   imageBigWebP: string;
-//   imageSmall: string;
-//   imageSmallWebP: string;
-//   imageGMB: string;
-//   imageMini: string;
-//   imageMiniWebP: string;
-//   alt: string;
-//   text: string;
-//   httpaddress: string;
-//   link: string;
-//   sluglink: string;
-//   availability: string;
-//   prodId: string;
-//   category: string;
-// };
-
-// type ListsProps = {
-//   inject: Item[];
-// };
-
 const reverte = [...ostaloUPonudiData]
   .map((item) => ({
     ...item,
@@ -52,7 +20,6 @@ const reverte = [...ostaloUPonudiData]
   .reverse();
 
 const Lists: NextPage<ProductProps> = ({ inject }) => {
-  // console.log(inject, "from list page");
   const listTitle = "Ostalo u ponudi";
   const listDesc =
     "Ostali proizvodi iz naše ponude, kućice za sveće, sveće, veštačko cveće, cveće u staklu i još mnogo toga";
@@ -70,9 +37,6 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
         addHttpaddress="/lists/list-ostalo-u-ponudi"
       />
       <ListHeadline>{listTitle}</ListHeadline>
-      {/* <h2 style={{ textAlign: "center", backgroundColor: "red" }}>
-        {listTitle}
-      </h2> */}
       <article className={classes.cont}>
         {inject.map((inj) => (
           <section key={inj.id}>

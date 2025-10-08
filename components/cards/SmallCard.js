@@ -6,7 +6,6 @@ export default function SmallCard({ data }) {
     .split(" ")
     .map((el) => el.charAt(0).toUpperCase() + el.slice(1))
     .join(" ");
-  // console.log(upperFirstLetter);
   return (
     <div className={classes.cont}>
       <div className={classes.image_cont}>
@@ -17,9 +16,7 @@ export default function SmallCard({ data }) {
       </div>
       <div className={classes.text_cont}>
         <Link href={data.link}>
-          
-            <h3>{upperFirstLetter}</h3>
-          
+          <h3>{upperFirstLetter}</h3>
         </Link>
         <p className={classes.desc}>{data.text}</p>
         <div className={classes.price_more_cont}>
@@ -27,9 +24,7 @@ export default function SmallCard({ data }) {
             {data.price === "" ? data.priceRange : data.price} din
           </p>
           <p className={classes.more_a}>
-            <Link href={data.link}>
-              detaljnije...
-            </Link>
+            <Link href={data.link}>detaljnije...</Link>
           </p>
         </div>
       </div>
