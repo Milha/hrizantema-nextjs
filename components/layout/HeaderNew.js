@@ -12,10 +12,16 @@ function HeaderNew() {
 
   const [drop, setDrop] = useState(true);
   const dropMenu = () => setDrop(!drop);
+  const dropCLose = () => setDrop(true);
 
   const doubleClick = () => {
     openMenu();
     dropMenu();
+  };
+
+  const closeOtherLinka = () => {
+    openMenu();
+    dropCLose();
   };
 
   return (
@@ -28,7 +34,7 @@ function HeaderNew() {
       {/* NAVIGATION */}
       <div className={!isOpen ? classes.nav_toggle : classes.nav_toggle_none}>
         <ul aria-label="menu">
-          <li onClick={openMenu}>
+          <li onClick={closeOtherLinka}>
             <Link href="/lists/list-ponuda-buketi-korpe">Buketi</Link>
           </li>
           <li onClick={openMenu}>
@@ -52,13 +58,15 @@ function HeaderNew() {
               </div>
             </div>
           </li>
-          <li onClick={openMenu}>
-            <Link href="/lists/lista-ponuda-rezano-cvece">Rezano cveće</Link>
+          <li onClick={closeOtherLinka}>
+            <div>
+              <Link href="/lists/lista-ponuda-rezano-cvece">Rezano cveće</Link>
+            </div>
           </li>
-          <li onClick={openMenu}>
+          <li onClick={closeOtherLinka}>
             <Link href="/lists/list-ostalo-u-ponudi">Ostalo u ponudi</Link>
           </li>
-          <li onClick={openMenu}>
+          <li onClick={closeOtherLinka}>
             <Link href="/main-pages/contact">Kontakt</Link>
           </li>
         </ul>
