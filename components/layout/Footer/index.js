@@ -21,6 +21,8 @@ function Footer() {
           </address>
           <p>PIB: 111817197</p>
           <p>Matični broj: 65682478</p>
+          <p>Radno vreme: svakog dana od 07:00 do 18:00 časova</p>
+          <p></p>
         </div>
         <div className={classes["footer-links"]}>
           <h4>Navigacija</h4>
