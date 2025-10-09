@@ -5,7 +5,11 @@ import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNa
 import { ostaloUPonudiSetData } from "../../../utils/similarsFinder";
 import { simOstaloUPonudiDataFind } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems, smallSimilarItems }) {
+import { NextPage, GetStaticProps, GetStaticPaths } from "next";
+
+import { SlugProps } from "../../../types/product";
+
+const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
   return (
     <>
       <HeadSingle data={pageItems} />
@@ -21,9 +25,9 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       />
     </>
   );
-}
+};
 
-export async function getStaticProps(context) {
+export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
   const data = ostaloUPonudiSetData;
   const data2 = simOstaloUPonudiDataFind;
   const paramsSlug = context.params.slug;
@@ -33,9 +37,9 @@ export async function getStaticProps(context) {
   return {
     props: { pageItems: pageSlug, smallSimilarItems: simOstaloUPonudiData },
   };
-}
+};
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const data = ostaloUPonudiSetData;
 
   const paths = data.map((way) => ({
@@ -46,4 +50,6 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
-}
+};
+
+export default Slug;
