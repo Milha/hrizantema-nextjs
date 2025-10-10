@@ -10,7 +10,7 @@ export default function ContactForma() {
     const formData = new FormData(e.target);
 
     try {
-      const res = await fetch("https://hrizantema.rs/contact.php", {
+      const res = await fetch("https://hrizantema.rs/php/contact.php", {
         method: "POST",
         body: formData,
       });
@@ -28,23 +28,23 @@ export default function ContactForma() {
   };
 
   useEffect(() => {
-  if (typeof window !== "undefined") {
-    const query = new URLSearchParams(window.location.search);
-    if (query.get("success") === "true") {
-      setSuccess(true);
+    if (typeof window !== "undefined") {
+      const query = new URLSearchParams(window.location.search);
+      if (query.get("success") === "true") {
+        setSuccess(true);
 
-      setTimeout(() => {
-        // Ukloni query parametar iz URL-a
-        const url = new URL(window.location.href);
-        url.searchParams.delete("success");
-        window.history.replaceState({}, "", url.toString());
+        setTimeout(() => {
+          // Ukloni query parametar iz URL-a
+          const url = new URL(window.location.href);
+          url.searchParams.delete("success");
+          window.history.replaceState({}, "", url.toString());
 
-        // Sakrij poruku
-        setSuccess(false);
-      }, 5000);
+          // Sakrij poruku
+          setSuccess(false);
+        }, 5000);
+      }
     }
-  }
-}, []);
+  }, []);
 
   return (
     <>
