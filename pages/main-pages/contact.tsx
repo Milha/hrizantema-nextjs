@@ -4,7 +4,7 @@ import QandAs from "../../components/vary-components/QandAs";
 import classes from "./contact.module.scss";
 import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 
-import { qandasData } from "../../data/qandas-data";
+// import { qandasData } from "../../data/qandas-data";
 
 import ContactHead from "../../components/heads/ContactHead";
 
@@ -13,12 +13,12 @@ type QandA = {
   answer: string;
 };
 
-type ContactProps = {
+type QandaProps = {
   qandasData: QandA[];
 };
 
 // export default function Contact({ qandasData }) {
-const Contact: NextPage<ContactProps> = ({ qandasData }) => (
+const Contact: NextPage<QandaProps> = ({ qandasData }) => (
   <>
     <ContactHead qandasProps={qandasData} />
     <main>
@@ -101,10 +101,28 @@ const Contact: NextPage<ContactProps> = ({ qandasData }) => (
   </>
 );
 
-export const getStaticProps: GetStaticProps<ContactProps> = async () => {
-  return {
-    props: { qandasData },
-  };
+export const getStaticProps: GetStaticProps<QandaProps> = async () => {
+  try {
+    const res = await fetch("https://hrizantema.rs/php/qandas.php");
+    const text = await res.text();
+
+    let qandasData = [];
+    try {
+      qandasData = JSON.parse(text);
+    } catch (jsonError) {
+      console.error("Nevalidan JSON:", text);
+    }
+
+    return {
+      props: { qandasData },
+      // revalidate: 3600,
+    };
+  } catch (error) {
+    console.error("Fetch greška:", error);
+    return {
+      props: { qandasData: [] },
+    };
+  }
 };
 
 export default Contact;
