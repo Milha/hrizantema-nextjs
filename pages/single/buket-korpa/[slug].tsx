@@ -1,13 +1,13 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
 import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
+import type { GetStaticPaths, GetStaticProps, NextPage } from "next";
 
-// import { buketiKorpeItemData } from "../../../data/buketiKorpeItemData";
-// import { similarsBuketiKorpeFinder } from "../../../utils/similarsFinder";
 import { buketSetData } from "../../../utils/similarsFinder";
 import { simBuketiTest } from "../../../utils/testSimilars";
+import { SlugProps } from "../../../types/product";
 
-export default function Slug({ pageItems, smallSimilarItems }) {
+const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
   return (
     <>
       <HeadSingle data={pageItems} />
@@ -23,9 +23,9 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       />
     </>
   );
-}
+};
 
-export async function getStaticProps(context) {
+export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
   const data = buketSetData;
   const data2 = simBuketiTest;
   const paramsSlug = context.params.slug;
@@ -39,9 +39,9 @@ export async function getStaticProps(context) {
   return {
     props: { pageItems: pageSlug, smallSimilarItems: simBuketiTest1 },
   };
-}
+};
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const data = buketSetData;
 
   const paths = data.map((way) => ({
@@ -52,4 +52,6 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
-}
+};
+
+export default Slug;

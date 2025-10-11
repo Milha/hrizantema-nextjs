@@ -37,7 +37,7 @@ function HeaderNew() {
           <li onClick={closeOtherLinka}>
             <Link href="/lists/list-ponuda-buketi-korpe">Buketi</Link>
           </li>
-          <li onClick={openMenu}>
+          <li onClick={closeOtherLinka}>
             <Link href="/lists/list-ponuda-venci">Venci</Link>
           </li>
 
