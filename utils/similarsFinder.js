@@ -159,7 +159,6 @@ export const buketSetData = dataBuket.map((inj) => ({
   ],
 }));
 
-// Ostalo u ponudi SetData
 const dataOstaloUPonudi = ostaloUPonudiData;
 
 export const ostaloUPonudiSetData = dataOstaloUPonudi.map((inj) => ({

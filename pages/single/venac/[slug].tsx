@@ -2,14 +2,14 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
-// import { venciSetData } from "../../../utils/similarsFinder";
 import { venciItemData } from "../../../data/venciItemData";
 import { simVenciDataFind } from "../../../utils/testSimilars";
 
 import { NextPage, GetStaticProps, GetStaticPaths } from "next";
-import { SlugPropsLoose } from "../../../types/product";
+import { SlugProps } from "../../../types/product";
+import { venciSetData } from "../../../utils/similarsFinder";
 
-const Slug: NextPage<SlugPropsLoose> = ({ pageItems, smallSimilarItems }) => {
+const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
   return (
     <>
       <HeadSingle data={pageItems} />
@@ -27,9 +27,8 @@ const Slug: NextPage<SlugPropsLoose> = ({ pageItems, smallSimilarItems }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps<SlugPropsLoose> = async (context) => {
-  // pageItems LOGIC
-  const data = venciItemData;
+export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
+  const data = venciSetData;
   const data2 = simVenciDataFind;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);

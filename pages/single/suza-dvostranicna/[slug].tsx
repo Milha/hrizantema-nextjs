@@ -5,11 +5,11 @@ import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNa
 import { suzeDvostranicneData } from "../../../data/suzeDvostranicneItemData";
 import { simDvostranicneSuzeTest } from "../../../utils/testSimilars";
 
+import { NextPage, GetStaticProps, GetStaticPaths } from "next";
+import { SlugProps } from "../../../types/product";
+import { dvostranicneSuzeSetData } from "../../../utils/similarsFinder";
 
-
-export default function Slug({ pageItems, smallSimilarItems }) {
-  // console.log(pageItems, "From single / suza dvostranicna");
-  // console.log(pageItems.includes, "From single / suza dvostranicna");
+const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
   return (
     <>
       <HeadSingle data={pageItems} />
@@ -26,11 +26,11 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       />
     </>
   );
-}
+};
 
-export async function getStaticProps(context) {
+export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
   // pageItems LOGIC
-  const data = suzeDvostranicneData;
+  const data = dvostranicneSuzeSetData;
   const data2 = simDvostranicneSuzeTest;
   const paramsSlug = context.params.slug;
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
@@ -48,9 +48,9 @@ export async function getStaticProps(context) {
       smallSimilarItems: simDvostraniceneSuzeTest1,
     },
   };
-}
+};
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const data = suzeDvostranicneData;
 
   const paths = data.map((way) => ({
@@ -61,4 +61,6 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
-}
+};
+
+export default Slug;
