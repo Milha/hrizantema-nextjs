@@ -6,7 +6,10 @@ import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNa
 import { venciItemData } from "../../../data/venciItemData";
 import { simVenciDataFind } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems, smallSimilarItems }) {
+import { NextPage, GetStaticProps, GetStaticPaths } from "next";
+import { SlugPropsLoose } from "../../../types/product";
+
+const Slug: NextPage<SlugPropsLoose> = ({ pageItems, smallSimilarItems }) => {
   return (
     <>
       <HeadSingle data={pageItems} />
@@ -22,9 +25,9 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       />
     </>
   );
-}
+};
 
-export async function getStaticProps(context) {
+export const getStaticProps: GetStaticProps<SlugPropsLoose> = async (context) => {
   // pageItems LOGIC
   const data = venciItemData;
   const data2 = simVenciDataFind;
@@ -32,16 +35,12 @@ export async function getStaticProps(context) {
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
   const simVenciData = data2.find((el) => el.sluglink == paramsSlug);
 
-  // miniData LOGIC
-  // const arrayTest = pageSlug.test;
-  // const newMiniData = arrayTest.map((el) => venciItemData[el]);
-
   return {
     props: { pageItems: pageSlug, smallSimilarItems: simVenciData },
   };
-}
+};
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const data = venciItemData;
 
   const paths = data.map((way) => ({
@@ -52,4 +51,6 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
-}
+};
+
+export default Slug;

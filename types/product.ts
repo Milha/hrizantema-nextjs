@@ -79,3 +79,12 @@ export type SlugProps = {
   pageItems: SimProduct;
   smallSimilarItems: SmallSimilarGroup;
 };
+
+export type SimProductLoose = Omit<SimProduct, "similar"> & {
+  similar?: SimProductSimilar[];
+};
+
+export type SlugPropsLoose = {
+  pageItems: SimProductLoose;
+  smallSimilarItems: SmallSimilarGroup;
+};
