@@ -6,7 +6,6 @@ import { ostaloUPonudiSetData } from "../../../utils/similarsFinder";
 import { simOstaloUPonudiDataFind } from "../../../utils/testSimilars";
 
 import { NextPage, GetStaticProps, GetStaticPaths } from "next";
-
 import { SlugProps } from "../../../types/product";
 
 const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {

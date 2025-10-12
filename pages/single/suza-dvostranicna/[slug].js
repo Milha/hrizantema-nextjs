@@ -2,12 +2,10 @@ import BigHorizontalSingleCard from "../../../components/cards/BigHorizontalSing
 import HeadSingle from "../../../components/heads/HeadSingle";
 import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
-// import { suzeItemData } from "../../../data/suzeItemData";
-// import { similarsSuzeFinder } from "../../../utils/similarsFinder";
-
 import { suzeDvostranicneData } from "../../../data/suzeDvostranicneItemData";
-// import { dvostranicneSuzeSetData } from "../../../utils/similarsFinder";
 import { simDvostranicneSuzeTest } from "../../../utils/testSimilars";
+
+
 
 export default function Slug({ pageItems, smallSimilarItems }) {
   // console.log(pageItems, "From single / suza dvostranicna");

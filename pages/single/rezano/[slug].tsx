@@ -1,12 +1,14 @@
 import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCard";
 import HeadSingle from "../../../components/heads/HeadSingle";
 import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
+import { SlugProps } from "../../../types/product";
 
-// import { rezanoItemData } from "../../../data/rezanoItemData";
 import { rezanoSimilarData } from "../../../utils/similarsFinder";
 import { simRezanoDataFind } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems, smallSimilarItems }) {
+import { NextPage, GetStaticProps, GetStaticPaths } from "next";
+
+const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
   // console.log(pageItems, "From slug Rezano");
   // console.log(rezanoSimilarData[3].test[2], "FROM norma datat");
   return (
@@ -24,9 +26,9 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       />
     </div>
   );
-}
+};
 
-export async function getStaticProps(context) {
+export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
   // pageItems LOGIC
   const data = rezanoSimilarData;
   const data2 = simRezanoDataFind;
@@ -34,16 +36,12 @@ export async function getStaticProps(context) {
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
   const simRezanoData = data2.find((el) => el.sluglink == paramsSlug);
 
-  // // miniData LOGIC
-  // const arrayTest = pageSlug.test;
-  // const newMiniData = arrayTest.map((el) => rezanoItemData[el]);
-
   return {
     props: { pageItems: pageSlug, smallSimilarItems: simRezanoData },
   };
-}
+};
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const data = rezanoSimilarData;
 
   const paths = data.map((way) => ({
@@ -54,4 +52,6 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
-}
+};
+
+export default Slug;

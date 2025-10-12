@@ -65,7 +65,7 @@ export type SimProduct = {
   sluglink: string;
   prodId: string;
   availability: string;
-  category: string;
+  category: string | string[];
   includes: string[] | null;
   similar: SimProductSimilar[];
 };

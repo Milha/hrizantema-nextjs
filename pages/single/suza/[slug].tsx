@@ -2,16 +2,15 @@ import BigVerticalSingleCard from "../../../components/cards/BigVerticalSingleCa
 import HeadSingle from "../../../components/heads/HeadSingle";
 import OriginLinksNavSingle from "../../../components/layout/Links/OriginLinksNavSingle";
 
-// import { suzeItemData } from "../../../data/suzeItemData";
-// import { similarsSuzeFinder } from "../../../utils/similarsFinder";
-
 import { suzeSetData } from "../../../utils/similarsFinder";
 import { simSuzeDataFind } from "../../../utils/testSimilars";
 
-export default function Slug({ pageItems, smallSimilarItems }) {
-  // console.log(pageItems);
-  const listLink = pageItems.category;
-  // console.log(listLink);
+import { NextPage, GetStaticProps, GetStaticPaths } from "next";
+
+import { SlugProps } from "../../../types/product";
+
+const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
+  // const listLink = pageItems.category;
   return (
     <>
       <HeadSingle data={pageItems} />
@@ -27,9 +26,9 @@ export default function Slug({ pageItems, smallSimilarItems }) {
       />
     </>
   );
-}
+};
 
-export async function getStaticProps(context) {
+export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
   // pageItems LOGIC
   const data = suzeSetData;
   const data2 = simSuzeDataFind;
@@ -44,9 +43,9 @@ export async function getStaticProps(context) {
   return {
     props: { pageItems: pageSlug, smallSimilarItems: simSuzeData },
   };
-}
+};
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const data = suzeSetData;
 
   const paths = data.map((way) => ({
@@ -57,4 +56,6 @@ export async function getStaticPaths() {
     paths,
     fallback: false,
   };
-}
+};
+
+export default Slug;

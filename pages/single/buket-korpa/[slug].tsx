@@ -32,10 +32,6 @@ export const getStaticProps: GetStaticProps<SlugProps> = async (context) => {
   const pageSlug = data.find((el) => el.sluglink == paramsSlug);
   const simBuketiTest1 = data2.find((el) => el.sluglink == paramsSlug);
 
-  // // miniData LOGIC
-  // const arrayTest = pageSlug.test;
-  // const newMiniData = arrayTest.map((el) => buketiKorpeItemData[el]);
-
   return {
     props: { pageItems: pageSlug, smallSimilarItems: simBuketiTest1 },
   };
