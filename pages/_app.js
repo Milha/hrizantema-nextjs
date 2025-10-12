@@ -3,7 +3,6 @@ import "../styles/globals.scss";
 import Head from "next/head";
 
 import { firmSchema } from "../utils/firmSchema";
-// import Header from "../components/layout/Header";
 import HeaderNew from "../components/layout/HeaderNew";
 import GoogleAnalytics from "../components/diverse/GoogleAnalytics";
 import Footer from "../components/layout/Footer";
@@ -52,6 +51,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="360" />
         <meta property="og:image:height" content="360" />
+
         {/* NEW Favicon ico */}
         <link
           rel="apple-touch-icon"

@@ -458,7 +458,7 @@ export const venciItemData = [
     imageMiniWebP:
       "/images/venci/gerber-crveni-gladiole-crvene-venac-small.webp",
     alt: "Prirodni venac crveni gerberi crvene gladiole zelenilo robelini",
-    text: "Hrizantema cvećara Orlovača, najprodvanije u radnji. Prirodni venac aranžiran od crvenih gerbera i crvenih gladiola. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor.",
+    text: "Prirodni venac aranžiran od crvenih gerbera i crvenih gladiola. Uz najkvalitetnije zelenilo, robelini, mrežica, lovor. Crveni gerberi predstavljaju duboku ljubav i poštovanje. Crvene gladiole simbolizuju snagu karaktera, hrabrost i čast.",
     httpaddress:
       "https://hrizantema.rs/single/venac/gerber-crveni-gladiole-crvene-venac",
     link: "/single/venac/gerber-crveni-gladiole-crvene-venac",
