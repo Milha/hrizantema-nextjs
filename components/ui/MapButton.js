@@ -10,7 +10,12 @@ function MapButton({ hrefData }) {
         </a>
       </p>
       <div>
-        <a href={hrefData} target="_blank" rel="noopener noreferrer">
+        <a
+          href={hrefData}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Otvori mapu Cvećare Hrizantema na Google Maps"
+        >
           <GoogleMapColore />
         </a>
       </div>
