@@ -49,7 +49,7 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
 };
 
 export const getStaticProps: GetStaticProps<ProductProps> = async () => {
-  const inject = reverte;
+    const inject = reverte;
 
   return {
     props: { inject },
