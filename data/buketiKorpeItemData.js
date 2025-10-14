@@ -679,6 +679,7 @@ export const buketiKorpeItemData = [
     sluglink: "buket-beli-ljiljan-bela-ruza-roze-gerber",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-020",
+    category: categorySchema[1],
   },
   // {
   //   similarTo: [
@@ -706,6 +707,7 @@ export const buketiKorpeItemData = [
   //   sluglink: "INPUTLINK",
   //   availability: "https://schema.org/PreOrder",
   //   prodId: "BU-013",
+  //   category: categorySchema[0],
   // },
   // {
   //   similarTo: [
