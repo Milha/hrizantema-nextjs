@@ -170,7 +170,6 @@ export const buketiKorpeItemData = [
     prodId: "BU-005",
     category: categorySchema[1],
   },
-
   {
     similarTo: [
       "Korpa beli ljiljan",
@@ -646,6 +645,40 @@ export const buketiKorpeItemData = [
     availability: "https://schema.org/PreOrder",
     prodId: "BU-019",
     category: categorySchema[0],
+  },
+  {
+    similarTo: [
+      "Orijental ~ bele ruže",
+      "Beli ljiljan ~ bele ruže",
+      "Beli i roze ljiljani orijentali",
+    ],
+    test: [5, 4, 3],
+    id: 20,
+    title: "Beli ljiljan ~ Bela ruža ~ Roze gerber - prirodni buket",
+    price: "9.500",
+    priceRange: "3.000 - 9.500",
+    includes: [],
+    imageBig:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber.webp",
+    imageSmall:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber-mini.webp",
+    alt: "Buket beli ljiljan bela ruza roze gerber prirodno cvece",
+    text: "Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Ona takođe mogu označavati poštovanje prema osobi koja je preminula. Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/buket-beli-ljiljan-bela-ruza-roze-gerber${categoryKorpe}`,
+    link: `/single/buket-korpa/buket-beli-ljiljan-bela-ruza-roze-gerber${categoryKorpe}`,
+    sluglink: "buket-beli-ljiljan-bela-ruza-roze-gerber",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-020",
   },
   // {
   //   similarTo: [
