@@ -67,6 +67,9 @@ function HeaderNew() {
             <Link href="/lists/list-ostalo-u-ponudi">Ostalo u ponudi</Link>
           </li>
           <li onClick={closeOtherLinka}>
+            <Link href="/main-pages/gallery">Galerija</Link>
+          </li>
+          <li onClick={closeOtherLinka}>
             <Link href="/main-pages/contact">Kontakt</Link>
           </li>
         </ul>
