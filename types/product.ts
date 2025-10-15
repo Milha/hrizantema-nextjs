@@ -88,3 +88,28 @@ export type SlugPropsLoose = {
   pageItems: SimProductLoose;
   smallSimilarItems: SmallSimilarGroup;
 };
+
+export type GalleryItem = {
+  id: number;
+  title: string;
+  prodId: string;
+  alt: string;
+  imageSmall: string;
+  imageSmallWebP: string;
+  includes: string[] | null;
+};
+
+export type GalleryProps = {
+  galleryItems: GalleryItem[];
+};
+
+export type GalleryCardProps = {
+  data: {
+    title: string;
+    cardImage: string;
+    cardImageWeb: string;
+    altText: string;
+    prodId: string;
+    includes?: string[] | null;
+  };
+};

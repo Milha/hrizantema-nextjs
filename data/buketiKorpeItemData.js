@@ -44,7 +44,7 @@ export const buketiKorpeItemData = [
     title: "Orijental ~ bele ruže",
     price: "3.900",
     priceRange: "2.000 - 4.000",
-    includes: ["carske ljiljane", "ruže", "robelini"],
+    includes: ["carski ljiljan", "ruže", "robelini"],
     imageBig: "/images/buketi-korpe/buket-orijental-bele-ruze.jpg",
     imageBigWebP: "/images/buketi-korpe/buket-orijental-bele-ruze.webp",
     imageSmall: "/images/buketi-korpe/buket-orijental-bele-ruze-small.jpg",
