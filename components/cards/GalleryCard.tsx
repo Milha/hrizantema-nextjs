@@ -1,39 +1,23 @@
 import Link from "next/link";
-import classes from "./FrontCard.module.scss";
+import classes from "./GalleryCard.module.scss";
 
-type GalleryCardProps = {
-  data: {
-    cardImage: string;
-    cardImageWeb: string;
-    altText: string;
-    prodId: string;
-    includes?: string[] | null;
-  };
-};
+import { GalleryCardProps } from "../../types/product";
 
 const GalleryCard = ({ data }: GalleryCardProps) => {
-  const { altText, prodId, cardImage, cardImageWeb, includes } = data;
+  const { altText, prodId, cardImage, cardImageWeb, includes, title } = data;
   return (
-    <article className={classes.cont}>
-      <div className={classes.image_cont}>
-        {/* <img
-          src={data.cardImage}
-          width="15rem"
-          height="30rem"
-          alt="proizvodi u ponudi"
+    <figure className={classes.galleryFrame}>
+      <picture>
+        <source srcSet={cardImageWeb} type="image/webp" />
+        <img
+          className={classes.galleryImg}
+          src={cardImage}
+          alt={altText}
           loading="lazy"
-        /> */}
-        {/* <p>{altText}</p> */}
-
-        {includes && includes.map((item, idx) => <h2 key={item}>1</h2>)}
-        <p>{prodId}</p>
-
-        <picture>
-          <source srcSet={cardImageWeb} type="image/webp" />
-          <img src={cardImage} alt={altText} loading="lazy" />
-        </picture>
-      </div>
-    </article>
+        />
+      </picture>
+      <figcaption className={classes.figCaption}>{title}</figcaption>
+    </figure>
   );
 };
 

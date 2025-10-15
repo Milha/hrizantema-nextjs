@@ -1,0 +1,31 @@
+.galleryFrame {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: #ece1cf;
+  color: #220e07;
+  margin: 0.5rem;
+
+  .galleryImg {
+    max-width: 100%;
+    width: 22rem;
+    height: 25rem;
+    object-fit: cover;
+    transition: opacity 0.25s ease-in-out;
+  }
+
+  .galleryImg:hover {
+    opacity: 0.7;
+  }
+
+  .contains {
+    font-size: 11px;
+  }
+
+  .figCaption {
+    height: 2rem;
+    margin-top: 0.5rem;
+    font-weight: bold;
+    font-size: 12px;
+  }
+}

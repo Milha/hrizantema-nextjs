@@ -91,6 +91,7 @@ export type SlugPropsLoose = {
 
 export type GalleryItem = {
   id: number;
+  title: string;
   prodId: string;
   alt: string;
   imageSmall: string;
@@ -100,4 +101,15 @@ export type GalleryItem = {
 
 export type GalleryProps = {
   galleryItems: GalleryItem[];
+};
+
+export type GalleryCardProps = {
+  data: {
+    title: string;
+    cardImage: string;
+    cardImageWeb: string;
+    altText: string;
+    prodId: string;
+    includes?: string[] | null;
+  };
 };
