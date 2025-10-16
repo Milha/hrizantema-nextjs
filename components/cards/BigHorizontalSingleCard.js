@@ -5,15 +5,11 @@ import classes from "./BigHorizontalSingleCard.module.scss";
 import Includes from "./card-items/Includes";
 
 export default function BigVerticalSingleCard({ data, similarPropData }) {
-  // console.log(data.imageBig, "FROM BIG VERTICAl - Data");
-  // console.log(miniData, "FROM BIG VERTICAl - Mini data");
-  // console.log(data, "FROM BIG VERTICAl - Mini data");
   return (
     <>
       <div className={classes.cont}>
         <div className={classes.img_cont}>
           <picture>
-            {/* <source srcSet={data.imageSmallWebP} type="image/webp" /> */}
             <source
               srcSet={data.imageSmallWebP}
               media={"(max-width: 1000px)"}
@@ -25,16 +21,8 @@ export default function BigVerticalSingleCard({ data, similarPropData }) {
               type="image/jpg"
             />
 
-            <source
-              srcSet={data.imageBigWebP}
-              // media={"(min-width: 999px)"}
-              type="image/webp"
-            />
-            <source
-              srcSet={data.imageBig}
-              // media={"(min-width: 999px)"}
-              type="image/jpg"
-            />
+            <source srcSet={data.imageBigWebP} type="image/webp" />
+            <source srcSet={data.imageBig} type="image/jpg" />
 
             <img src={data.imageBig} alt={data.alt} loading="lazy" />
           </picture>

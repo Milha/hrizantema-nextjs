@@ -655,7 +655,7 @@ export const buketiKorpeItemData = [
     test: [5, 4, 3],
     id: 20,
     title: "Beli ljiljan ~ Bela ruža ~ Roze gerber - prirodni buket",
-    price: "9.500",
+    price: "6.500",
     priceRange: "3.000 - 9.500",
     includes: [],
     imageBig:

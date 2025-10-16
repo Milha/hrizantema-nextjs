@@ -1,19 +1,12 @@
 import Link from "next/link";
 import classes from "./FrontCard.module.scss";
 
-export default function FrontCard({ data }) {
-  // console.log(data, "From CARDS");
+import { FrontCardProps } from "../../types/component";
+
+export default function FrontCard({ data }: FrontCardProps) {
   return (
     <article className={classes.cont}>
       <div className={classes.image_cont}>
-        {/* <img
-          src={data.cardImage}
-          width="15rem"
-          height="30rem"
-          alt="proizvodi u ponudi"
-          loading="lazy"
-        /> */}
-
         <picture>
           <source srcSet={data.cardImageWebP} type="image/webp" />
           <img src={data.cardImage} alt={data.altText} loading="lazy" />
