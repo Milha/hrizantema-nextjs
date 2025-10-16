@@ -674,12 +674,12 @@ export const buketiKorpeItemData = [
       "/images/buketi-korpe/buket-beli-ljiljan-bela-ruza-roze-gerber-mini.webp",
     alt: "Buket beli ljiljan bela ruza roze gerber prirodno cvece",
     text: "Beli ljiljani simbolizuju niz emocija, ali se najčešće posmatraju kao slika čistote, lepote, nevinosti i spasenja. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Ona takođe mogu označavati poštovanje prema osobi koja je preminula. Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.",
-    httpaddress: `https://hrizantema.rs/single/buket-korpa/buket-beli-ljiljan-bela-ruza-roze-gerber${categoryKorpe}`,
-    link: `/single/buket-korpa/buket-beli-ljiljan-bela-ruza-roze-gerber${categoryKorpe}`,
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/buket-beli-ljiljan-bela-ruza-roze-gerber${categoryBuketi}`,
+    link: `/single/buket-korpa/buket-beli-ljiljan-bela-ruza-roze-gerber${categoryBuketi}`,
     sluglink: "buket-beli-ljiljan-bela-ruza-roze-gerber",
     availability: "https://schema.org/PreOrder",
     prodId: "BU-020",
-    category: categorySchema[1],
+    category: categorySchema[0],
   },
   // {
   //   similarTo: [
