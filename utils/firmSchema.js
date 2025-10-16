@@ -8,7 +8,7 @@ export const firmSchema = {
     "https://hrizantema.rs/images/venci/ruza-crvena-oblik-srce-venac.jpg",
   ],
   currenciesAccepted: ["USD", "EUR", "RSD"],
-  openingHours: "Mo-Su 07:00-19:00",
+  openingHours: "Mo-Su 07:00-18:00",
   address: {
     "@type": "PostalAddress",
     postalCode: "11000",
@@ -40,6 +40,13 @@ export const firmSchema = {
   hasMap:
     "https://www.google.com/maps/place/Hrizantema+Cve%C4%87ara+Orlova%C4%8Da/@44.7158874,20.4169648,14.71z/data=!4m5!3m4!1s0x0:0xbf13ca7f0a30e621!8m2!3d44.7095133!4d20.4124528",
   name: "Hrizantema",
+  taxID: "111817197",
+  vatID: "RS111817197",
+  identifier: {
+    "@type": "PropertyValue",
+    name: "Matični broj",
+    value: "65682478",
+  },
   url: "https://hrizantema.rs",
   telephone: "+381692050441",
   priceRange: "$$",

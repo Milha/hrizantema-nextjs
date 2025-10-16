@@ -4,8 +4,6 @@ import QandAs from "../../components/vary-components/QandAs";
 import classes from "./contact.module.scss";
 import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 
-// import { qandasData } from "../../data/qandas-data";
-
 import ContactHead from "../../components/heads/ContactHead";
 
 type QandA = {
@@ -17,7 +15,6 @@ type QandaProps = {
   qandasData: QandA[];
 };
 
-// export default function Contact({ qandasData }) {
 const Contact: NextPage<QandaProps> = ({ qandasData }) => (
   <>
     <ContactHead qandasProps={qandasData} />
@@ -53,7 +50,7 @@ const Contact: NextPage<QandaProps> = ({ qandasData }) => (
             telefonom.
           </p>
           <p>Radno vreme:</p>
-          <p>ponedeljak - nedelja: 06:30 - 19:00</p>
+          <p>ponedeljak - nedelja: 06:30 - 18:00</p>
         </div>
         <div className={classes.contact_item}>
           <div className={classes.map_big}>
@@ -95,8 +92,6 @@ const Contact: NextPage<QandaProps> = ({ qandasData }) => (
         </div>
       ))}
       <div className={classes.pusher}></div>
-
-      {/* <QandAs singleQandA={qandasData[1]} /> */}
     </main>
   </>
 );
@@ -115,7 +110,6 @@ export const getStaticProps: GetStaticProps<QandaProps> = async () => {
 
     return {
       props: { qandasData },
-      // revalidate: 3600,
     };
   } catch (error) {
     console.error("Fetch greška:", error);
