@@ -1,7 +1,10 @@
 import classes from "./Includes.module.scss";
 
-function Includes({ includes }) {
-  //   console.log(includes, "From Includes");
+type IncludesProps = {
+  includes: string[];
+};
+
+const Includes: React.FC<IncludesProps> = ({ includes }) => {
   return (
     <div className={classes.include_cont}>
       <p>Sadrži:</p>
@@ -12,6 +15,6 @@ function Includes({ includes }) {
       </div>
     </div>
   );
-}
+};
 
 export default Includes;
