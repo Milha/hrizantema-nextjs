@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/single/suza-dvostranicna/[slug].js"  ],
+, "pages/single/suza-dvostranicna/[slug].js", "components/cards/BigHorizontalSingleCard.tsx"  ],
   "exclude": [
     "node_modules"
   ]

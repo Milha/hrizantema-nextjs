@@ -21,8 +21,8 @@ const Slug: NextPage<SlugProps> = ({ pageItems, smallSimilarItems }) => {
         titleSingle={pageItems.title}
       />
       <BigHorizontalSingleCard
-        data={pageItems}
-        similarPropData={smallSimilarItems}
+        pageItems={pageItems}
+        smallSimilarItems={smallSimilarItems}
       />
     </>
   );

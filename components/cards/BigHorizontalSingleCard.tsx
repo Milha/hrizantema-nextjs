@@ -4,46 +4,56 @@ import classes from "./BigHorizontalSingleCard.module.scss";
 // import MiniSimilar from "./MiniSimilar";
 import Includes from "./card-items/Includes";
 
-export default function BigVerticalSingleCard({ data, similarPropData }) {
+import { SlugProps } from "../../types/product";
+
+type Props = Pick<SlugProps, "pageItems" | "smallSimilarItems">;
+
+export default function BigVerticalSingleCard({
+  pageItems,
+  smallSimilarItems,
+}) {
   return (
     <>
       <div className={classes.cont}>
         <div className={classes.img_cont}>
           <picture>
             <source
-              srcSet={data.imageSmallWebP}
+              srcSet={pageItems.imageSmallWebP}
               media={"(max-width: 1000px)"}
               type="image/webp"
             />
             <source
-              srcSet={data.imageSmall}
+              srcSet={pageItems.imageSmall}
               media={"(max-width: 1000px)"}
               type="image/jpg"
             />
 
-            <source srcSet={data.imageBigWebP} type="image/webp" />
-            <source srcSet={data.imageBig} type="image/jpg" />
+            <source srcSet={pageItems.imageBigWebP} type="image/webp" />
+            <source srcSet={pageItems.imageBig} type="image/jpg" />
 
-            <img src={data.imageBig} alt={data.alt} loading="lazy" />
+            <img src={pageItems.imageBig} alt={pageItems.alt} loading="lazy" />
           </picture>
         </div>
         <div className={classes.text_cont}>
           <p className={classes.price}>
-            {data.price === "" ? data.priceRange : data.price} din*
+            {pageItems.price === "" ? pageItems.priceRange : pageItems.price}{" "}
+            din*
           </p>
-          <h2 className={classes.title}>{data.title}</h2>
-          <p className={classes.desc}>{data.text}</p>
-          {data.includes ? <Includes includes={data.includes} /> : null}
+          <h2 className={classes.title}>{pageItems.title}</h2>
+          <p className={classes.desc}>{pageItems.text}</p>
+          {pageItems.includes ? (
+            <Includes includes={pageItems.includes} />
+          ) : null}
           <p className={classes.code}>
-            <span>šifra:</span> {data.prodId}
+            <span>šifra:</span> {pageItems.prodId}
           </p>
           <p className={classes.similar_text}>Slično:</p>
           <SimilarsCont
-            data={data}
+            data={pageItems}
             small={true}
-            similarPropData={similarPropData}
+            similarPropData={smallSimilarItems}
           />
-          <ShareLinksCont data={data} />
+          <ShareLinksCont data={pageItems} />
         </div>
       </div>
       <div className={classes.additional_cont}>
