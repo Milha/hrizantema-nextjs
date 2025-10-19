@@ -22,7 +22,23 @@ function HeaderNew() {
   const closeOtherLinka = () => {
     openMenu();
     dropCLose();
+    dropCLoseInfo();
   };
+
+  // Odavde
+  const [dropInfo, setDropInfo] = useState(true);
+  const dropMenuInfo = () => setDropInfo(!dropInfo);
+  const dropCLoseInfo = () => setDropInfo(true);
+
+  const doubleClickInfo = () => {
+    // openMenu();
+    dropMenuInfo();
+  };
+
+  // const closeOtherLinka = () => {
+  //   openMenu();
+  //   dropCLose();
+  // };
 
   return (
     <div className={classes.header}>
@@ -49,7 +65,7 @@ function HeaderNew() {
               className={drop ? classes.is_drop : classes.is_not_drop}
               onClick={doubleClick}
             >
-              <div className={classes.drop_link_cont}>
+              <div onClick={closeOtherLinka} className={classes.drop_link_cont}>
                 <Link href="/lists/list-ponuda-suze">Klasične</Link>
                 {/* <br /> */}
                 <Link href="/lists/list-ponuda-dvostranicne-suze">
@@ -58,6 +74,7 @@ function HeaderNew() {
               </div>
             </div>
           </li>
+
           <li onClick={closeOtherLinka}>
             <div>
               <Link href="/lists/lista-ponuda-rezano-cvece">Rezano cveće</Link>
@@ -66,12 +83,33 @@ function HeaderNew() {
           <li onClick={closeOtherLinka}>
             <Link href="/lists/list-ostalo-u-ponudi">Ostalo u ponudi</Link>
           </li>
-          <li onClick={closeOtherLinka}>
+          <li>
+            <p className={classes.drop_p} onClick={dropMenuInfo}>
+              Informacije
+            </p>
+            <div
+              className={
+                dropInfo ? classes.is_dropInfo : classes.is_not_dropInfo
+              }
+              onClick={doubleClickInfo}
+            >
+              <div
+                onClick={closeOtherLinka}
+                className={classes.drop_link_contInfo}
+              >
+                <Link href="/main-pages/contact">Kontakt</Link>
+                {/* <br /> */}
+                <Link href="/main-pages/gallery">Galerija</Link>
+                <Link href="/orlovaca">Orlovača</Link>
+              </div>
+            </div>
+          </li>
+          {/* <li onClick={closeOtherLinka}>
             <Link href="/main-pages/gallery">Galerija</Link>
           </li>
           <li onClick={closeOtherLinka}>
             <Link href="/main-pages/contact">Kontakt</Link>
-          </li>
+          </li> */}
         </ul>
       </div>
 

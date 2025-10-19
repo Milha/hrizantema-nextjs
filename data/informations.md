@@ -28,3 +28,8 @@ Povezanost sa gradom je obezbeđena i putem javnog prevoza, konkretno GSP linija
 Orlovača se nalazi u južnom delu Beograda i administrativno pripada opštini Čukarica. Ovo područje je poznato po svom strateškom položaju — na spoju Ibarske magistrale i autoputa A1 obilaznice oko Beograda, gde se nalazi poznata petlja Orlovača, jedna od najvažnijih saobraćajnih raskrsnica u ovom delu grada.
 
 Iako područje Orlovače nije stambeno naseljeno, u njenom okruženju razvija se poslovna zona u kojoj se nalaze autosaloni, pumpe, građevinske firme, restorani, cvećare i drugi privredni subjekti. Zbog blizine Groblja Orlovača, ovaj deo grada često je povezan sa uslugama komemorativnog cveća i aranžmana za groblje.
+
+<br />
+<br />
+<br />
+<br />

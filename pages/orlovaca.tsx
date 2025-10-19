@@ -10,7 +10,7 @@ type Props = {
 };
 
 const Orlovaca: NextPage<Props> = ({ frontmatter, htmlContent }) => {
-  console.log(frontmatter, htmlContent);
+  // console.log(frontmatter, htmlContent);
   return (
     <>
       <h2 className={classes.title}>{frontmatter.title}</h2>
