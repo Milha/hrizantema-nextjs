@@ -12,8 +12,15 @@ Grobljem upravlja JKP "Pogrebne usluge" Beograd. Izgradnja je započeta 1988. go
 
 Arhitektura je prepoznatljiva po uređenim zelenim površinama, drvoredima i modernoj infrastrukturi koja omogućava mirno i dostojanstveno okruženje za poslednji ispraćaj i sećanje na najmilije. U okviru kompleksa nalazi se Crkva Svetog velikomučenika Prokopija. Od posebnog značaja je prisustvo kapela za različite verske obrede, uključujući i kapelu uređenu po islamskim običajima.
 
-Područje oko Groblja Orlovača danas karakteriše poslovni razvoj i prisustvo brojnih firmi, među kojima su auto saloni, benzinske pumpe, cvećare, restorani i građevinske kompanije. U neposrednoj blizini nalaze se i brojne cvećare specijalizovane za izradu pogrebnih aranžmana, venaca, buketa i lampiona.
+Područje oko Groblja Orlovača danas karakteriše poslovni razvoj i prisustvo brojnih firmi, među kojima su auto saloni, benzinske pumpe, cvećare, restorani i građevinske kompanije. U neposrednoj blizini nalaze se i brojne cvećare specijalizovane za izradu pogrebnih aranžmana, venaca, buketa, sveća i lampiona.
 
+GROBLjE JE OTVORENO ZA POSETIOCE
+
+od 07:00 do 19:00 časova u letnjem periodu (1. aprila do 30. septembra)
+
+od 07:00 do 18:00 časova u zimskom periodu (1. oktobra do 31. marta).
+<br />
+<br />
 Povezanost sa gradom je obezbeđena i putem javnog prevoza, konkretno GSP linijama 502 i 533.
 
 ### O naselju Orlovača
