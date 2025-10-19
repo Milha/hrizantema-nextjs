@@ -8,7 +8,7 @@ export default function HeadList({ data, addTitle, addHttpaddress, listDesc }) {
     item: inj.httpaddress,
     image: inj.imageBig,
   }));
-  
+
   const schemaDataItemList = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -33,6 +33,9 @@ export default function HeadList({ data, addTitle, addHttpaddress, listDesc }) {
       <title>{`Cvećara Hrizantema Orlovača | ${addTitle}`}</title>
       {/* REL CANNONICAL */}
       <link rel="canonical" href={addHttpaddress} />
+
+      {/* META */}
+      <meta name="description" content={listDesc} />
 
       {/* META:OG */}
       <meta property="og:url" content={addHttpaddress} key="url" />
