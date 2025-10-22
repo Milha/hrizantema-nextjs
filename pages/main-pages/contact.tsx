@@ -97,6 +97,7 @@ const Contact: NextPage<QandaProps> = ({ qandasData }) => (
 );
 
 export const getStaticProps: GetStaticProps<QandaProps> = async () => {
+  // console.log(QandAs);
   try {
     const res = await fetch("https://hrizantema.rs/php/qandas.php");
     const text = await res.text();

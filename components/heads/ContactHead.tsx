@@ -1,8 +1,15 @@
 import Head from "next/head";
 
-function ContactHead({ qandasProps }) {
-  // console.log(qandasProps, "Form ContactHead");
+type QandAItem = {
+  question: string;
+  answer: string;
+};
 
+type ContactHeadProps = {
+  qandasProps: QandAItem[];
+};
+
+function ContactHead({ qandasProps }: ContactHeadProps) {
   const eleMap = qandasProps.map((inj, i) => ({
     "@type": "Question",
     name: inj.question,
