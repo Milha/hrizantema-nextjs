@@ -20,4 +20,9 @@ export const qandasData = [
     answer:
       "Na našoj naslovnoj stranici možete naći datum sledećih zadušnica na groblju Orlovača, ostalim beogradskim grobljima i pravoslavnim grobljima u Srbiji pod okriljem Srpske pravoslavne crkve.",
   },
+  {
+    question: "Da li se dostava cveća u kapelu na groblju Orlovača plaća?",
+    answer:
+      "Dostava cveća u samu kapelu iz naše radnje se naravno ne naplaćuje. U kontaktu sa zaposlenima u kapeli se mi dogovaramo kada je najbolje da se cveće postavi, u skladu sa njihovim rasopredima, kako bi naše mušterije bile najbolje uslužene.",
+  },
 ];
