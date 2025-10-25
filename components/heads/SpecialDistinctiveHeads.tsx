@@ -26,8 +26,6 @@ function SpecialDistinctiveHeads({ specilaJsonLdProps, canonicalUrl }) {
   //     mainEntity: eleMap,
   //   };
 
-  console.log(specilaJsonLdProps);
-  console.log(canonicalUrl);
   return (
     <Head>
       <script

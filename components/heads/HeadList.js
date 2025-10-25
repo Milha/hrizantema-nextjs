@@ -18,8 +18,6 @@ export default function HeadList({ data, addTitle, addHttpaddress, listDesc }) {
 
   const ogImage = data[0].imageGMB;
 
-  // console.log(ogImage);
-
   return (
     <Head>
       {/* SCHEMA */}

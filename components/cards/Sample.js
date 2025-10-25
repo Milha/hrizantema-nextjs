@@ -7,7 +7,7 @@ export default function Sample(props) {
     <div className={classes.sample_cont}>
       <article className={classes.cont}>
         {inject.map((inj) => (
-          <section key={inj.prodId}>
+          <section className={classes.section_item} key={inj.prodId}>
             <SmallCard data={inj}></SmallCard>
           </section>
         ))}

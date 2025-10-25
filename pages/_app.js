@@ -19,6 +19,7 @@ function MyApp({ Component, pageProps }) {
           name="description"
           content="Hrizantema je cvećara na groblju Orlovača, prodaja cveća i izrada cvetnih aranžmana. Prirodni i vestački venci, suze, buketi."
         />
+        {/* <meta name="robots" content="index, follow" /> */}
 
         {/* Yandex Meta registration */}
         <meta name="yandex-verification" content="a2ab817209920ace" />
