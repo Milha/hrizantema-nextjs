@@ -48,9 +48,6 @@ function Footer() {
               <Link href="/lists/list-ostalo-u-ponudi">Ostalo u ponudi</Link>
             </li>
           </ul>
-          {/* <a href="/about">O nama</a>
-          <a href="/contact">Kontakt</a>
-          <a href="/privacy">Privatnost</a> */}
         </div>
 
         <div className={classes["footer-about"]}>
@@ -58,7 +55,7 @@ function Footer() {
           <p>
             Cvećara Hrizantema, koja se nalazi na groblju Orlovača, posluje još
             od 1994. godine. Specijalizovani smo za izradu svih vrsta cvetnih
-            aranžmana i posvećeni smo pružanju najkvalitetnije usluge.
+            aranžmana i posvećeni smo pružanju najkvalitetnije usluge. 
           </p>
         </div>
       </div>
