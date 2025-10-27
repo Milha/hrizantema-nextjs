@@ -15,9 +15,6 @@ const Gallery: NextPage<GalleryProps> = ({ galleryItems }) => (
     <section className={classes.section_cont}>
       {galleryItems.map((inj) => (
         <div key={inj.id}>
-          {/* {inj.includes &&
-            inj.includes.map((item) => <span key={item}>{item}</span>)} */}
-          {/* <img src={inj.imageSmall} alt={inj.alt} loading="lazy" /> */}
           <GalleryCard
             data={{
               title: inj.title,
@@ -35,7 +32,7 @@ const Gallery: NextPage<GalleryProps> = ({ galleryItems }) => (
 );
 
 export const getStaticProps: GetStaticProps<GalleryProps> = async () => {
-  const galleryItems = buketiKorpeItemData;
+  const galleryItems = [...buketiKorpeItemData, ...ostaloUPonudiData];
   return {
     props: {
       galleryItems,

@@ -24,6 +24,19 @@ const Orlovaca: NextPage<Props> = ({ frontmatter, htmlContent }) => {
         className={classes.markdown}
         dangerouslySetInnerHTML={{ __html: htmlContent }}
       />
+
+      <figure className={classes.figureImageContainer}>
+        <picture>
+          <img
+            src="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-RAW.jpg"
+            alt="slika sa groblja orlovaca parking ispred glavne kapije i crkve Svetog Prokopija"
+            loading="lazy"
+          />
+        </picture>
+        <figcaption className={classes.figcaptionImage}>
+          Parking ispred glavne kapije i crkve Svetog Prokopija
+        </figcaption>
+      </figure>
     </>
   );
 };

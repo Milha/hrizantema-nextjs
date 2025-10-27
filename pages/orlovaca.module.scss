@@ -16,3 +16,17 @@
 .title {
   text-align: center;
 }
+
+.figureImageContainer {
+  margin: auto;
+  width: 80%;
+  picture {
+    img {
+      width: 15rem;
+    }
+  }
+
+  .figcaptionImage {
+    font-size: 8px;
+  }
+}

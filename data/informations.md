@@ -30,6 +30,8 @@ Orlovača se nalazi u južnom delu Beograda i administrativno pripada opštini �
 Iako područje Orlovače nije stambeno naseljeno, u njenom okruženju razvija se poslovna zona u kojoj se nalaze autosaloni, pumpe, građevinske firme, restorani, cvećare i drugi privredni subjekti. Zbog blizine Groblja Orlovača, ovaj deo grada često je povezan sa uslugama komemorativnog cveća i aranžmana za groblje.
 
 <br />
+<!-- ![Crkva Svetog Prokopija](/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-RAW.jpg) -->
+
 <br />
 <br />
 <br />
