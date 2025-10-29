@@ -8,12 +8,13 @@ import { suzeItemData } from "../../data/suzeItemData";
 import ArrowToTop from "../../components/ui/ArrowToTop";
 import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
+import { useState } from "react";
+
 import { NextPage, GetStaticProps } from "next";
 
 import { ProductProps } from "../../types/product";
 
-import { flowerOptions } from "../../utils/constants/includings";
-import { useState } from "react";
+import SelectSearch from "../../components/ui/searchs/SelectSearch";
 
 const reverte = [...suzeItemData].reverse().map((item) => ({
   ...item,
@@ -24,10 +25,13 @@ const listDesc =
   "Lista prirodnih suza iz naše ponude, sveže rezano cveće se ugradjuje naše u aranžmane. Jednostranične suze za sahrane ili pomene, u više veličina i boja.";
 
 const Lists: NextPage<ProductProps> = ({ inject }) => {
-  const [selectedFlower, setSelectedFlower] = useState("");
-
   const listTitle = "Ponuda Klasičnih Suza";
 
+  const [selectedFlower, setSelectedFlower] = useState("");
+
+  const filteredItems = selectedFlower
+    ? inject.filter((item) => item.includes?.includes(selectedFlower))
+    : inject;
   // console.log(inject, "from list page");
   return (
     <>
@@ -42,9 +46,12 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
         addHttpaddress="/lists/list-ponuda-suze"
       />
       <ListHeadline>{listTitle}</ListHeadline>
-
+      <SelectSearch
+        selectedFlower={selectedFlower}
+        setSelectedFlower={setSelectedFlower}
+      />
       <article className={classes.cont}>
-        {inject.map((inj) => (
+        {filteredItems.map((inj) => (
           <section key={inj.id}>
             <SmallCard data={inj}></SmallCard>
           </section>

@@ -1,7 +1,13 @@
 export const flowerOptions = [
-  "ruza",
+  "ruža",
   "ljiljan",
   "hrizantema",
   "margareta",
   "gerber",
+  "robelini",
+  "ljiljan orijental",
+  "gipsofila",
+  "lovor",
+  "mrežica",
+  "gladiola",
 ];
