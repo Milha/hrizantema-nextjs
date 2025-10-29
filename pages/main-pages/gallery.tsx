@@ -32,7 +32,10 @@ const Gallery: NextPage<GalleryProps> = ({ galleryItems }) => (
 );
 
 export const getStaticProps: GetStaticProps<GalleryProps> = async () => {
-  const galleryItems = [...buketiKorpeItemData, ...ostaloUPonudiData];
+  const galleryItemsGetter = [...buketiKorpeItemData, ...ostaloUPonudiData];
+
+  const galleryItems = galleryItemsGetter.sort(() => Math.random() - 0.5);
+
   return {
     props: {
       galleryItems,

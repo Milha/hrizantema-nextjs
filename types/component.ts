@@ -10,3 +10,16 @@ export type CardData = {
 export type FrontCardProps = {
   data: CardData;
 };
+
+export type OfferCardData = {
+  title: string;
+  cardImage: string;
+  cardImageWebP: string;
+  text: string;
+  altText: string;
+  offerLink: string;
+};
+
+export type OfferCardDataProps = {
+  propsData: OfferCardData[];
+};

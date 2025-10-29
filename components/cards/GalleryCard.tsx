@@ -1,4 +1,4 @@
-import Link from "next/link";
+// import Link from "next/link";
 import classes from "./GalleryCard.module.scss";
 
 import { GalleryCardProps } from "../../types/product";
