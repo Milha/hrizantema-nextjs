@@ -55,7 +55,10 @@ function Footer() {
           <p>
             Cvećara Hrizantema, koja se nalazi na groblju Orlovača, posluje još
             od 1994. godine. Specijalizovani smo za izradu svih vrsta cvetnih
-            aranžmana i posvećeni smo pružanju najkvalitetnije usluge. 
+            aranžmana i posvećeni smo pružanju najkvalitetnije usluge. Svi naši
+            cvetni aranžmani – venci, suze, buketi i korpe – ručno su izrađeni
+            sa posebnom pažnjom prema svakom detalju, što ih čini savršeno
+            prilagođenim svakoj Vašoj prilici i nameni.
           </p>
         </div>
       </div>
