@@ -10,6 +10,8 @@ import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
 import { NextPage, GetStaticProps } from "next";
 
+import { dvostranicneSuzeOptions } from "../../utils/constants/includings";
+
 import { ProductProps } from "../../types/product";
 import SelectSearch from "../../components/ui/searchs/SelectSearch";
 import { useState } from "react";
@@ -46,6 +48,7 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
       <SelectSearch
         selectedFlower={selectedFlower}
         setSelectedFlower={setSelectedFlower}
+        flowerOptions={dvostranicneSuzeOptions}
       />
       <article className={`${classes.cont} ${classes.horizontal_items}`}>
         {filteredItems.map((inj) => (

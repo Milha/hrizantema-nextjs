@@ -1,8 +1,8 @@
 import classes from "./SelectSearch.module.scss";
 
-import { klasicneSuzeOptions } from "../../../utils/constants/includings";
 
-const SelectSearch = ({ selectedFlower, setSelectedFlower }) => {
+
+const SelectSearch = ({ selectedFlower, setSelectedFlower, flowerOptions }) => {
   return (
     <>
       <div className={classes.selectSearchCont}>
@@ -15,7 +15,7 @@ const SelectSearch = ({ selectedFlower, setSelectedFlower }) => {
           onChange={(e) => setSelectedFlower(e.target.value)}
         >
           <option value="">Izaberite cvet</option>
-          {klasicneSuzeOptions.map((flower) => (
+          {flowerOptions.map((flower) => (
             <option key={flower} value={flower}>
               {flower}
             </option>

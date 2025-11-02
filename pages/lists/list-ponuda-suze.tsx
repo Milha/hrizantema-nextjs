@@ -5,6 +5,7 @@ import OriginLinksNav from "../../components/layout/Links/OriginLinksNav";
 import classes from "./ListsArticles.module.scss";
 
 import { suzeItemData } from "../../data/suzeItemData";
+import { klasicneSuzeOptions } from "../../utils/constants/includings";
 import ArrowToTop from "../../components/ui/ArrowToTop";
 import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
@@ -48,6 +49,7 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
       <SelectSearch
         selectedFlower={selectedFlower}
         setSelectedFlower={setSelectedFlower}
+        flowerOptions={klasicneSuzeOptions}
       />
       <article className={classes.cont}>
         {filteredItems.map((inj) => (
