@@ -1,7 +1,9 @@
+import { Product } from "../types/product";
+
 const categorySchema = "suze";
 const categorySuze = `?category=${categorySchema}`;
 
-export const suzeDvostranicneData = [
+export const suzeDvostranicneData: Product[] = [
   {
     similarTo: [
       "Bela kala ~ bela margareta",
@@ -38,7 +40,6 @@ export const suzeDvostranicneData = [
     prodId: "DS-001",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Kala ~ beli gerber",
@@ -75,7 +76,6 @@ export const suzeDvostranicneData = [
     prodId: "DS-002",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Beli ljiljan ~ crvene ruže",
@@ -187,6 +187,7 @@ export const suzeDvostranicneData = [
     category: categorySchema,
   },
   {
+    // sample: false,
     similarTo: [
       "Kala ~ beli gerber",
       "Bela ruža ~ mahonija",

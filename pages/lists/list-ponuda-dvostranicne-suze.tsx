@@ -11,16 +11,24 @@ import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 import { NextPage, GetStaticProps } from "next";
 
 import { ProductProps } from "../../types/product";
+import SelectSearch from "../../components/ui/searchs/SelectSearch";
+import { useState } from "react";
 
 const reverte = [...suzeDvostranicneData].reverse().map((item) => ({
   ...item,
-  sample: typeof item.sample === "boolean" ? item.sample : false,
+  sample: item.sample ?? false,
 }));
 
 const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Dvostranične Suza";
   const listDesc =
     "Ponuda dvostrančnih suza iz naše ponude, sveže rezano cveće iz naše ponude može biti ugradjeno u naše dvostrančne suze koje možete stataviti po vašoj želji.";
+
+  const [selectedFlower, setSelectedFlower] = useState("");
+
+  const filteredItems = selectedFlower
+    ? inject.filter((item) => item.includes?.includes(selectedFlower))
+    : inject;
 
   return (
     <>
@@ -35,8 +43,12 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
         addHttpaddress="/lists/list-ponuda-dvostranicne-suze"
       />
       <ListHeadline>{listTitle}</ListHeadline>
+      <SelectSearch
+        selectedFlower={selectedFlower}
+        setSelectedFlower={setSelectedFlower}
+      />
       <article className={`${classes.cont} ${classes.horizontal_items}`}>
-        {inject.map((inj) => (
+        {filteredItems.map((inj) => (
           <section key={inj.id}>
             <SmallCardHorizontal data={inj}></SmallCardHorizontal>
           </section>

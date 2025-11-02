@@ -1,7 +1,9 @@
+import { Product } from "../types/product";
+
 const categorySchema = "suze";
 const categorySuze = `?category=${categorySchema}`;
 
-export const suzeItemData = [
+export const suzeItemData: Product[] = [
   {
     similarTo: [
       "Ljiljan ~ margareta ~ gerber",

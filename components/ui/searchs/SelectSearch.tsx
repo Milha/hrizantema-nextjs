@@ -1,8 +1,6 @@
 import classes from "./SelectSearch.module.scss";
 
-import { flowerOptions } from "../../../utils/constants/includings";
-
-import { useState } from "react";
+import { klasicneSuzeOptions } from "../../../utils/constants/includings";
 
 const SelectSearch = ({ selectedFlower, setSelectedFlower }) => {
   return (
@@ -17,7 +15,7 @@ const SelectSearch = ({ selectedFlower, setSelectedFlower }) => {
           onChange={(e) => setSelectedFlower(e.target.value)}
         >
           <option value="">Izaberite cvet</option>
-          {flowerOptions.map((flower) => (
+          {klasicneSuzeOptions.map((flower) => (
             <option key={flower} value={flower}>
               {flower}
             </option>

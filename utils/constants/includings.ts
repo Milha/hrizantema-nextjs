@@ -1,4 +1,4 @@
-export const flowerOptions = [
+export const klasicneSuzeOptions = [
   "ruža",
   "ljiljan",
   "hrizantema",

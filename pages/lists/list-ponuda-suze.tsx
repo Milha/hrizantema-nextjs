@@ -32,7 +32,6 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
   const filteredItems = selectedFlower
     ? inject.filter((item) => item.includes?.includes(selectedFlower))
     : inject;
-  // console.log(inject, "from list page");
   return (
     <>
       <HeadList
