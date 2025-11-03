@@ -51,9 +51,9 @@ export const venciItemData: Product[] = [
     price: "9.900",
     priceRange: "5.500 - 6.000",
     includes: [
-      "ljiljane",
+      "ljiljan",
       "ruža",
-      "gerbere",
+      "gerber",
       "margarete",
       "gipsofila",
       "lovor",
@@ -96,10 +96,10 @@ export const venciItemData: Product[] = [
     price: "10.900",
     priceRange: "8.000 - 10.000",
     includes: [
-      "ljiljane",
+      "ljiljan",
       "ruža",
       "kale",
-      "gerbere",
+      "gerber",
       "gipsofila",
       "lovor",
       "robelini",
@@ -172,7 +172,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ roze gerber",
     price: "6.500",
     priceRange: "4.000 - 5.000",
-    includes: ["ljiljane", "gerbere", "gipsofila", "lovor"],
+    includes: ["ljiljane", "gerber", "gipsofila", "lovor"],
     imageBig: "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac.jpg",
     imageBigWebP: "/images/venci/beli-ljiljan-roze-gerber-prirodni-venac.webp",
     imageSmall:
@@ -194,7 +194,6 @@ export const venciItemData: Product[] = [
     prodId: "VE-005",
     category: categorySchema,
   },
-
   {
     similarTo: [
       "Carski ljiljan ~ crveni gerber ~ margareta",
@@ -242,7 +241,7 @@ export const venciItemData: Product[] = [
     title: "Venac srce od gerbera",
     price: "8.900",
     priceRange: "4.000 - 5.500",
-    includes: ["gerbere"],
+    includes: ["gerber"],
     imageBig: "/images/venci/gerber-crveni-oblik-srce-venac.jpg",
     imageBigWebP: "/images/venci/gerber-crveni-oblik-srce-venac.webp",
     imageSmall: "/images/venci/gerber-crveni-oblik-srce-venac-small.jpg",
@@ -271,7 +270,7 @@ export const venciItemData: Product[] = [
     title: "Bele kale ~ crveni gerber",
     price: "5.500",
     priceRange: "4.000 - 6.000",
-    includes: ["kale", "gerbere", "gipsofila", "lovor"],
+    includes: ["kale", "gerber", "gipsofila", "lovor"],
     imageBig: "/images/venci/bele-kale-crveni-gerber-prirodni-venac.jpg",
     imageBigWebP: "/images/venci/bele-kale-crveni-gerber-prirodni-venac.webp",
     imageSmall:
@@ -303,7 +302,7 @@ export const venciItemData: Product[] = [
     title: "Bela ruža ~ beli gerber",
     price: "6.900",
     priceRange: "5.000 - 6.500",
-    includes: ["ruža", "gerbere", "lovor", "robelini"],
+    includes: ["ruža", "gerber", "lovor", "robelini"],
     imageBig: "/images/venci/bela-ruza-beli-gerber-venac.jpg",
     imageBigWebP: "/images/venci/bela-ruza-beli-gerber-venac.webp",
     imageSmall: "/images/venci/bela-ruza-beli-gerber-venac-small.jpg",
@@ -330,7 +329,7 @@ export const venciItemData: Product[] = [
     test: [19, 13, 6],
     id: 10,
     title: "Beli gerber ~ žuti gerber",
-    includes: ["gerbere", "lovor"],
+    includes: ["gerber", "lovor"],
     price: "5.500",
     priceRange: "3.000 - 3.500",
     imageBig: "/images/venci/zuti-gerber-beli-gerber-prirodni-venac.jpg",
@@ -367,7 +366,7 @@ export const venciItemData: Product[] = [
     includes: [
       "ljiljane orijentale",
       "ruža",
-      "gerbere",
+      "gerber",
       "gipsofila",
       "lovor",
       "robelini",
@@ -405,7 +404,7 @@ export const venciItemData: Product[] = [
     title: "Gerber ~ palisad hrizanteme",
     price: "4.000",
     priceRange: "4.000 - 5.000",
-    includes: ["gerbere", "hrizanteme", "lovor", "robelini"],
+    includes: ["gerber", "hrizanteme", "lovor", "robelini"],
     imageBig:
       "/images/venci/crveni-gerber-bele-palisadke-jesenje-ruze-hrizanteme-venac.jpg",
     imageBigWebP:
@@ -441,7 +440,7 @@ export const venciItemData: Product[] = [
     title: "Gerber ~ gladiole",
     price: "4.500",
     priceRange: "4.000 - 5.000",
-    includes: ["gerbere", "gladiole", "lovor", "mrežica"],
+    includes: ["gerber", "gladiole", "lovor", "mrežica"],
     imageBig: "/images/venci/gerber-crveni-gladiole-crvene-venac.jpg",
     imageBigWebP: "/images/venci/gerber-crveni-gladiole-crvene-venac.webp",
     imageSmall: "/images/venci/gerber-crveni-gladiole-crvene-venac-small.jpg",
@@ -472,7 +471,7 @@ export const venciItemData: Product[] = [
     title: "Carski ljiljan ~ crveni gerber ~ margareta",
     price: "9.000",
     priceRange: "8.000 - 10.000",
-    includes: ["ljiljane orijentale", "gerbere", "margarete", "robelini"],
+    includes: ["ljiljane orijentale", "gerber", "margarete", "robelini"],
     imageBig:
       "/images/venci/roze-carski-ljiljan-crveni-gerber-bela-margareta-venac.jpg",
     imageBigWebP:
@@ -508,7 +507,7 @@ export const venciItemData: Product[] = [
     title: "Crveni gerber ~ bela gipsofila",
     price: "5.900",
     priceRange: "3.000 - 5.000",
-    includes: ["gerbere", "gipsofila"],
+    includes: ["gerber", "gipsofila"],
     imageBig: "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
       "/images/venci/crveni-gerber-bela-gipsofila-prirodni-venac.webp",
@@ -580,7 +579,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ crvene ruže",
     price: "6.000",
     priceRange: "5.000 - 7.500",
-    includes: ["ljiljane", "ruže", "kale", "margarete"],
+    includes: ["ljiljan", "ruže", "kale", "margarete"],
     imageBig:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-bela-margareta-prirodni-venac.jpg",
     imageBigWebP:
@@ -691,7 +690,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ crvene gerber",
     price: "6.900",
     priceRange: "4.000 - 5.000",
-    includes: ["ljiljane", "gerbere"],
+    includes: ["ljiljan", "gerber"],
     imageBig:
       "/images/venci/beli-ljiljani-crveni-gerber-prirodni-venac-cvecara-hrizantema.jpg",
     imageBigWebP:
@@ -727,7 +726,7 @@ export const venciItemData: Product[] = [
     title: "Crveni ljiljan ~ beli gerber",
     price: "6.500",
     priceRange: "4.000 - 5.500",
-    includes: ["ljiljane", "gerbere", "margarete", "gipsofila", "robelini"],
+    includes: ["ljiljan", "gerbere", "margarete", "gipsofila", "robelini"],
     imageBig:
       "/images/venci/crveni-ljiljan-beli-gerber-bela-margareta-hrizantema-prirodni-venac.jpg",
     imageBigWebP:
@@ -764,7 +763,7 @@ export const venciItemData: Product[] = [
     title: "Srce bele ruže ~ beli gerber",
     price: "11.900",
     priceRange: "9.000 - 11.500",
-    includes: ["ruža", "gerbere", "gipsofila", "robelini", "lovor"],
+    includes: ["ruža", "gerber", "gipsofila", "robelini", "lovor"],
     imageBig:
       "/images/venci/srce-bele-ruze-beli-gerber-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
@@ -873,7 +872,7 @@ export const venciItemData: Product[] = [
     title: "Ljiljan ~ hrizantema ~ gladiola",
     price: "4.900",
     priceRange: "3.000 - 4.500",
-    includes: ["ljiljane", "hrizanteme", "gladiole", "robelini"],
+    includes: ["ljiljan", "hrizanteme", "gladiole", "robelini"],
     imageBig:
       "/images/venci/beli-lljiljan-bela-hrizantema-palisad-crvena-gladiola-prirodni-venac.jpg",
     imageBigWebP:
@@ -909,7 +908,7 @@ export const venciItemData: Product[] = [
     title: "Roze gerber ~ bele ruže",
     price: "8.500",
     priceRange: "7.000 - 9.500",
-    includes: ["gerbere", "ruža", "gladiole", "mrežica", "robelini"],
+    includes: ["gerber", "ruža", "gladiole", "mrežica", "robelini"],
     imageBig:
       "/images/venci/ljubicasti-gerber-bele-ruze-bele-gladiole-prirodni-venac.jpg",
     imageBigWebP:
@@ -944,7 +943,7 @@ export const venciItemData: Product[] = [
     title: "Beli gerber ~ žuti gerber ~ gipsofila",
     price: "4.900",
     priceRange: "6.000 - 9.500",
-    includes: ["gerbere", "gipsofila", "robelini"],
+    includes: ["gerber", "gipsofila", "robelini"],
     imageBig:
       "/images/venci/zuti-gerber-beli-gerber-gipsofila-prirodni-venac-2.jpg",
     imageBigWebP:
@@ -979,7 +978,7 @@ export const venciItemData: Product[] = [
     title: "Ruže ~ gerberi ~ baltika margarete",
     price: "10.000",
     priceRange: "7.000 - 11.500",
-    includes: ["gerbere", "ruža", "hrizantme", "lovor", "robelini"],
+    includes: ["gerber", "ruža", "hrizantme", "lovor", "robelini"],
     imageBig:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-hrizantema-prirodni-venac-3.jpg",
     imageBigWebP:
@@ -1015,7 +1014,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ Bele ruže ~ zelenilo robelini",
     price: "10.900",
     priceRange: "11.000 - 15.500",
-    includes: ["ljiljan", "ruža", "gerbere", "gladiole", "robelini"],
+    includes: ["ljiljan", "ruža", "gerber", "gladiole", "robelini"],
     imageBig:
       "/images/venci/beli-ljiljan-bela-ruza-beli-gerber-bela-gladiola-robelini.jpg",
     imageBigWebP:
@@ -1050,7 +1049,7 @@ export const venciItemData: Product[] = [
     title: "Ljiljan ~ ruža ~ gladiola ~ mrežica",
     price: "6.500",
     priceRange: "8.000 - 11.500",
-    includes: ["gladiole", "ruža", "gerbere", "robelini", "mrežica"],
+    includes: ["gladiola", "ruža", "ljiljan", "robelini", "mrežica"],
     imageBig:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-gladiola-lovor-limun-prirodni-venac.jpg",
     imageBigWebP:
@@ -1121,7 +1120,7 @@ export const venciItemData: Product[] = [
     title: "Ljiljan ~ crveni gerber ~ mrežica",
     price: "8.000",
     priceRange: "6.000 - 8.500",
-    includes: ["ljiljane", "gerbere", "gerbere", "robelini"],
+    includes: ["ljiljan", "gerber", "robelini"],
     imageBig:
       "/images/venci/beli-ljiljan-crveno-crni-gerber-mrezica-robelini-prirodni-venac.jpg",
     imageBigWebP:
@@ -1156,7 +1155,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ beli gerber ~ gladiole ~ robelini",
     price: "6.000",
     priceRange: "4.000 - 5.500",
-    includes: ["ljiljan", "gerbere", "gladiole", "mrežica", "robelini"],
+    includes: ["ljiljan", "gerber", "gladiole", "mrežica", "robelini"],
     imageBig:
       "/images/venci/beli-ljiljan-beli-gerber-crvena-gladiola-mrezica-robelini-prirodni-venac.jpg",
     imageBigWebP:
@@ -1544,7 +1543,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ Crvena ruža ~ Bela kala",
     price: "7.000",
     priceRange: "4.000 - 9.500",
-    includes: [],
+    includes: ["ljiljan", "ruža", "kala", "mrežica", "robelini"],
     imageBig:
       "/images/venci/beli-ljiljan-crvena-ruza-bela-kala-prirodni-venac.jpg",
     imageBigWebP:
@@ -1821,7 +1820,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ Bele ruže ~ Crveni gerber ~ Gipsofila",
     price: "13.900",
     priceRange: "4.000 - 5.500",
-    includes: [],
+    includes: ["ljiljan", "ruža", "gerber", "robelini", "gipsofila"],
     imageBig:
       "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
     imageBigWebP:
@@ -1857,7 +1856,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ Beli gerber ~ Crveni gerber ~ Bela gipsofila",
     price: "11.900",
     priceRange: "10.000 - 16.500",
-    includes: [],
+    includes: ["gerber", "ljiljan", "robelini"],
     imageBig:
       "/images/venci/beli-ljiljan-beli-gerber-crveni-gerber-bela-gipsofila-prirodni-venac-01.jpg",
     imageBigWebP:
@@ -1893,7 +1892,7 @@ export const venciItemData: Product[] = [
     title: "Beli ljiljan ~ Crvena ruža ~ Beli gerber ~ Prirodni venac",
     price: "13.900",
     priceRange: "11.000 - 16.500",
-    includes: [],
+    includes: ["ljiljan", "gerber", "robelini"],
     imageBig:
       "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac.jpg",
     imageBigWebP:

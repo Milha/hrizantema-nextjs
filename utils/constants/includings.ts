@@ -27,3 +27,18 @@ export const dvostranicneSuzeOptions = [
   "gladiola",
   "kala",
 ];
+
+export const venciOptions = [
+  "ruža",
+  "ljiljan",
+  "hrizantema",
+  "margareta",
+  "gerber",
+  "robelini",
+  "ljiljan orijental",
+  "gipsofila",
+  "lovor",
+  "mrežica",
+  "gladiola",
+  "kala",
+];

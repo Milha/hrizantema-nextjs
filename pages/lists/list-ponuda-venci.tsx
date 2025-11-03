@@ -8,9 +8,13 @@ import { venciItemData } from "../../data/venciItemData";
 import ArrowToTop from "../../components/ui/ArrowToTop";
 import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 
+import { venciOptions } from "../../utils/constants/includings";
+
 import { NextPage, GetStaticProps } from "next";
 
 import { ProductProps } from "../../types/product";
+import SelectSearch from "../../components/ui/searchs/SelectSearch";
+import { useState } from "react";
 
 const reverte = [...venciItemData].reverse().map((item) => ({
   ...item,
@@ -22,7 +26,12 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listDesc =
     "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
 
-  // console.log(inject, "from list page");
+  const [selectedFlower, setSelectedFlower] = useState("");
+
+  const filteredItems = selectedFlower
+    ? inject.filter((item) => item.includes?.includes(selectedFlower))
+    : inject;
+
   return (
     <>
       <HeadList
@@ -36,8 +45,13 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
         addHttpaddress="/lists/list-ponuda-venci"
       />
       <ListHeadline>{listTitle}</ListHeadline>
+      <SelectSearch
+        selectedFlower={selectedFlower}
+        setSelectedFlower={setSelectedFlower}
+        flowerOptions={venciOptions}
+      />
       <article className={classes.cont}>
-        {inject.map((inj) => (
+        {filteredItems.map((inj) => (
           <section key={inj.id}>
             <SmallCard data={inj}></SmallCard>
           </section>
