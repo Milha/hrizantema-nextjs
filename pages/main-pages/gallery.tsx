@@ -4,6 +4,7 @@ import { NextPage, GetStaticProps } from "next";
 
 import { buketiKorpeItemData } from "../../data/buketiKorpeItemData";
 import { ostaloUPonudiData } from "../../data/ostaloUPonudiData";
+import { rezanoItemData } from "../../data/rezanoItemData";
 
 import classes from "./gallery.module.scss";
 
@@ -32,7 +33,11 @@ const Gallery: NextPage<GalleryProps> = ({ galleryItems }) => (
 );
 
 export const getStaticProps: GetStaticProps<GalleryProps> = async () => {
-  const galleryItemsGetter = [...buketiKorpeItemData, ...ostaloUPonudiData];
+  const galleryItemsGetter = [
+    ...buketiKorpeItemData,
+    ...ostaloUPonudiData,
+    ...rezanoItemData,
+  ];
 
   const galleryItems = galleryItemsGetter.sort(() => Math.random() - 0.5);
 
