@@ -10,6 +10,40 @@
   width: 90%;
   margin: auto;
 
+  .selectWithButton {
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    select {
+      width: auto;
+      padding: 0.2rem 0.5rem;
+      border: 1px solid #33160a;
+      border-radius: 3px;
+      background: #fff;
+      transition: border-color 0.2s;
+      padding-right: 2rem;
+    }
+
+    select:focus {
+      border-color: #e3989f;
+      outline: none;
+    }
+
+    .cancelButton {
+      position: absolute;
+      right: -1.8rem;
+      background: transparent;
+      border: none;
+      font-size: 1rem;
+      cursor: pointer;
+
+      &:hover {
+        color: #e3989f;
+      }
+    }
+  }
+
   @media (min-width: 640px) {
     width: 80%;
   }
@@ -25,19 +59,5 @@
     font-weight: 500;
     color: #444;
     padding: 0.2rem 0;
-  }
-
-  select {
-    width: auto;
-    padding: 0.2rem 0.5rem;
-    border: 1px solid #33160a;
-    border-radius: 3px;
-    background: #fff;
-    transition: border-color 0.2s;
-  }
-
-  select:focus {
-    border-color: #e3989f;
-    outline: none;
   }
 }
