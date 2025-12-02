@@ -11,6 +11,9 @@ import ListHeadline from "../../components/layout/Headlines/ListHeadline";
 import { NextPage, GetStaticProps } from "next";
 
 import { ProductProps } from "../../types/product";
+import SelectSearch from "../../components/ui/searchs/SelectSearch";
+import { useState } from "react";
+import { buketiKorpeOptions } from "../../utils/constants/includings";
 
 const reverte = [...buketiKorpeItemData].reverse().map((item) => ({
   ...item,
@@ -22,6 +25,12 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Buketi i Korpe";
   const listDesc =
     "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
+
+  const [selectedFlower, setSelectedFlower] = useState("");
+
+  const filteredItems = selectedFlower
+    ? inject.filter((item) => item.includes?.includes(selectedFlower))
+    : inject;
 
   return (
     <>
@@ -36,8 +45,13 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
         addHttpaddress="/lists/list-ponuda-buketi-korpe"
       />
       <ListHeadline>{listTitle}</ListHeadline>
+      <SelectSearch
+        selectedFlower={selectedFlower}
+        setSelectedFlower={setSelectedFlower}
+        flowerOptions={buketiKorpeOptions}
+      />
       <article className={classes.cont}>
-        {inject.map((inj) => (
+        {filteredItems.map((inj) => (
           <section key={inj.id}>
             <SmallCard data={inj}></SmallCard>
           </section>
@@ -49,7 +63,7 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
 };
 
 export const getStaticProps: GetStaticProps<ProductProps> = async () => {
-    const inject = reverte;
+  const inject = reverte;
 
   return {
     props: { inject },

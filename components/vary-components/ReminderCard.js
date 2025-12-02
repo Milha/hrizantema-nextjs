@@ -15,7 +15,7 @@ const ReminderCard = () => {
     <div className={classes.cont}>
       <p className={classes.text}>
         Podsetnik za datum zadušnica na groblju Orlovača i drugim beogradskim
-        grobljima: 01.11.2025 Mitrovske zadušnice
+        grobljima: 14.02.2026 Velike - zimske zadušnice
       </p>
       <hr></hr>
       <p className={classes.text}>{reccenica}</p>

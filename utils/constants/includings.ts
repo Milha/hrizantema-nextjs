@@ -42,3 +42,18 @@ export const venciOptions = [
   "gladiola",
   "kala",
 ];
+
+export const buketiKorpeOptions = [
+  "ruža",
+  "ljiljan",
+  "hrizantema",
+  "margareta",
+  "gerber",
+  "robelini",
+  "ljiljan orijental",
+  "gipsofila",
+  "lovor",
+  "mrežica",
+  "gladiola",
+  "kala",
+];
