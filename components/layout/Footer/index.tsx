@@ -15,8 +15,8 @@ function Footer() {
             <br />
             <a href="tel:+381692050441">+381 69 205 0441</a>
             <br />
-            <a href="mailto:kontakt.sztrhrizantema@gmail.com">
-              kontakt.sztrhrizantema@gmail.com
+            <a href="mailto:sztrhrizantema@gmail.com">
+              sztrhrizantema@gmail.com
             </a>
           </address>
           <p>PIB: 111817197</p>
