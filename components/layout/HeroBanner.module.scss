@@ -51,15 +51,15 @@
     height: 25vh;
     width: 100%;
     // background-color: red;
-    background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+    background-image: url(../../public/images/hero-images/hrizantema-hero-400w.jpg);
     background-image: image-set(
-      url(../../public/images/hero-images/hrizantema-hero-500w.webp)
+      url(../../public/images/hero-images/hrizantema-hero-400w.webp)
         type("image/webp"),
-      url(../../public/images/hero-images/hrizantema-hero-500w.jpg)
+      url(../../public/images/hero-images/hrizantema-hero-400w.jpg)
         type("image/jpg")
     );
 
-    background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+    // background-image: url(../../public/images/hero-images/hrizantema-hero-400w.webp);
 
     background-repeat: no-repeat;
     background-position: center;
@@ -68,11 +68,27 @@
 
     @media (min-width: 40rem) {
       height: 40vh;
+
+      background-image: url(../../public/images/hero-images/hrizantema-hero-500w.jpg);
+      background-image: image-set(
+        url(../../public/images/hero-images/hrizantema-hero-500w.webp)
+          type("image/webp"),
+        url(../../public/images/hero-images/hrizantema-hero-500w.jpg)
+          type("image/jpg")
+      );
     }
 
     @media (min-width: 75rem) {
       height: 45vh;
       //   background-color: rebeccapurple;
+
+      background-image: url(../../public/images/hero-images/hrizantema-hero-700w.jpg);
+      background-image: image-set(
+        url(../../public/images/hero-images/hrizantema-hero-700w.webp)
+          type("image/webp"),
+        url(../../public/images/hero-images/hrizantema-hero-700w.jpg)
+          type("image/jpg")
+      );
       background-size: cover;
       order: 2;
     }
