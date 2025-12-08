@@ -30,7 +30,7 @@ export const venciItemData: Product[] = [
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.jpg",
     imageMiniWebP:
       "/images/venci/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2-small.webp",
-    alt: "Prirodni venac crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
+    alt: "Prirodni venac za sahranu crvene ruze bele ruze crveni gerber bele margarete hrizanteme lovor visnja zelenilo",
     text: "Prirodni venac od belih i crvenih ruža, crvenih gerbera i belih margareta - hrizantema. Uz najkvalitetnije zelenilo, gipsofilu, lovor.",
     httpaddress: `https://hrizantema.rs/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2${categoryVenci}`,
     link: `/single/venac/crvena-ruza-bela-ruza-crveni-gerber-bela-margareta-prirodni-venac-2${categoryVenci}`,
@@ -1098,8 +1098,8 @@ export const venciItemData: Product[] = [
       "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-mini.jpg",
     imageMiniWebP:
       "/images/venci/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica-mini.webp",
-    alt: "Prirodni venac carski ljiljan orijental roze bela ruza bela hrizantema margareta",
-    text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi.",
+    alt: "Prirodni porodicni venac za sahranu od roze orijentala carskog ljiljana belih ruza bele hrizanteme margarete i mrezice",
+    text: "Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze zvezdari simbolizuju prosperitet, obilje i bogatstvo. Bela ruža se kod saučešća koristi da označi nevinost i mladost. Bela hrizantema je simbol lojalnosti i posvećenu ljubavi. Ovaj venac za sahranu može biti namenjen kao porodični venac ili venac od prijatelja, kolega, komšija, rodbine.",
     httpaddress: `https://hrizantema.rs/single/venac/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica${categoryVenci}`,
     link: `/single/venac/roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica${categoryVenci}`,
     sluglink: "roze-orijenta-carski-ljljan-bele-ruze-bele-margarete-mrezica",
@@ -1905,8 +1905,8 @@ export const venciItemData: Product[] = [
       "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-mini.jpg",
     imageMiniWebP:
       "/images/venci/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac-mini.webp",
-    alt: "Prirodni venac beli liljan crvena  ruza beli gerber cvecara hrizantema orlovaca",
-    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova.",
+    alt: "Prirodni venac za sahranu od belih ljiljana crvenih ruza belih gerbera, uz dekoraciju od gipsofile, palmi robelini i lovora",
+    text: "Beli ljiljani su jedno od najpopularnijih pogrebnih cveća jer simbolizuju nevinost i čistotu duše koja je nedavno napustila ovaj svet. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Cvetovi belih gerbera predstavljaju čistoću i nevinost kao i većina belih cvetova. Ovakav venac za sahranu je može biti izrađen u različitim veličinama, kao porodični venac ili venac od prijatelja, kolega, komšija, familije i slično.",
     httpaddress: `https://hrizantema.rs/single/venac/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac${categoryVenci}`,
     link: `/single/venac/beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac${categoryVenci}`,
     sluglink: "beli-ljiljan-crvena-ruza-beli-gerber-prirodni-venac",
