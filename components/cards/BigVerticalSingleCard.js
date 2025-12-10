@@ -19,11 +19,11 @@ export default function BigVerticalSingleCard({ data, similarPropData }) {
             <source
               srcSet={data.imageSmall}
               media={"(max-width: 1000px)"}
-              type="image/jpg"
+              type="image/jpeg"
             />
 
             <source srcSet={data.imageBigWebP} type="image/webp" />
-            <source srcSet={data.imageBig} type="image/jpg" />
+            <source srcSet={data.imageBig} type="image/jpeg" />
 
             <img src={data.imageBig} alt={data.alt} loading="lazy" />
           </picture>

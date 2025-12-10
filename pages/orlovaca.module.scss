@@ -1,32 +1,34 @@
-.markdown {
-  margin: auto;
-  width: 80%;
-  h3 {
-    margin-top: 3rem;
-    text-align: center;
-    // background-color: red;
-  }
+.contMain {
+  margin: 1rem 0 5rem 0;
 
-  p {
-    text-align: justify;
-    // background-color: rebeccapurple;
-  }
-}
+  .markdown {
+    margin: auto;
+    width: 80%;
+    h3 {
+      margin-top: 3rem;
+      text-align: center;
+    }
 
-.title {
-  text-align: center;
-}
-
-.figureImageContainer {
-  margin: auto;
-  width: 80%;
-  picture {
-    img {
-      width: 15rem;
+    p {
+      text-align: justify;
     }
   }
 
-  .figcaptionImage {
-    font-size: 8px;
+  .title {
+    text-align: center;
+  }
+
+  .figureImageContainer {
+    margin: auto;
+    width: 80%;
+    picture {
+      img {
+        width: 15rem;
+      }
+    }
+
+    .figcaptionImage {
+      font-size: 8px;
+    }
   }
 }
