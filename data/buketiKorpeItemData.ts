@@ -680,6 +680,41 @@ export const buketiKorpeItemData = [
     prodId: "BU-020",
     category: categorySchema[0],
   },
+  {
+    similarTo: [
+      "Crveni ljiljan ~ bela ruža",
+      "Beli ljiljan ~ crvena ruža",
+      "Bele gladiole",
+    ],
+    test: [5, 4, 3],
+    id: 21,
+    title: "Bele crvene margarete - buket srce",
+    price: "5.500",
+    priceRange: "4.000 - 6.500",
+    includes: ["margareta"],
+    imageBig:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket.jpg",
+    imageBigWebP:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket.webp",
+    imageSmall:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket-small.jpg",
+    imageSmallWebP:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket-small.webp",
+    imageGMB:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket-gmb.jpg",
+    imageMini:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket-mini.jpg",
+    imageMiniWebP:
+      "/images/buketi-korpe/crvene-bele-margarete-srce-prirodni-buket-mini.webp",
+    alt: "Buket cveća za sahrane i pomene od belih i crvenih margareta u obliku srca, sa zelenilom lovorom i gipsofilom, udenutim u cvetni sunđer",
+    text: "Margarete predstavljaju simbol istine. Bele margarete / hrizanteme imaju mnoga značenja. U nekim kulturama, cvet je strogo rezervisan za saosećanje i sećanje, jer bela često prenosi osećanja saučešća. Aranžman je napravljen u obliku srca, na sundjeru namenjenom za cvetne aranžmane u obliku srca. Cveće i zelenilo su udenuti u sam sundjer natopljen vodom, kako bi cveće ostalo sveže duži vremenski period.",
+    httpaddress: `https://hrizantema.rs/single/buket-korpa/crvene-bele-margarete-srce-prirodni-buket${categoryKorpe}`,
+    link: `/single/buket-korpa/crvene-bele-margarete-srce-prirodni-buket${categoryKorpe}`,
+    sluglink: "crvene-bele-margarete-srce-prirodni-buket",
+    availability: "https://schema.org/PreOrder",
+    prodId: "BU-021",
+    category: categorySchema[0],
+  },
   // {
   //   similarTo: [
   //     "Crveni ljiljan ~ bela ruža",
