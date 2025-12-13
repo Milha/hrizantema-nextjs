@@ -21,7 +21,7 @@ od 07:00 do 19:00 časova u letnjem periodu (1. aprila do 30. septembra)
 od 07:00 do 18:00 časova u zimskom periodu (1. oktobra do 31. marta).
 <br />
 <br />
-Povezanost sa gradom je obezbeđena i putem javnog prevoza, konkretno GSP linijama 502 i 533.
+Povezanost sa gradom je obezbeđena i putem javnog prevoza, konkretno GSP linijama 502 i 533. Linije 531 i 532 skreću sa magistrale i svraćaju na stanice kod groblja, ali VAŽNO: samo iz pravca Beograda, Banovog brda ka Rušnju.
 
 ### O naselju Orlovača
 

@@ -18,17 +18,35 @@
     text-align: center;
   }
 
-  .figureImageContainer {
+  .galeryCont {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    width: 100%;
     margin: auto;
-    width: 80%;
-    picture {
-      img {
-        width: 15rem;
+
+    .figureImageContainer {
+      margin: auto;
+      width: 80%;
+      picture {
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      .figcaptionImage {
+        max-width: 100%;
+        font-size: 0.9rem;
+        text-wrap: wrap;
+        padding: 0.5rem;
       }
     }
 
-    .figcaptionImage {
-      font-size: 8px;
+    @media (min-width: 790px) {
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      width: 80%;
+      // background-color: yellow;
     }
   }
 }

@@ -26,51 +26,64 @@ const Orlovaca: NextPage<Props> = ({ frontmatter, htmlContent }) => {
           dangerouslySetInnerHTML={{ __html: htmlContent }}
         />
 
-        <figure className={classes.figureImageContainer}>
-          {/* bez source set-a */}
-          {/* <picture>
-          <img
-            src="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg"
-            alt="slika sa groblja orlovaca parking ispred glavne kapije i crkve Svetog Prokopija"
-            loading="lazy"
-          />
-        </picture> */}
-
-          <picture>
-            {/* <source
-            srcSet="/images/orlovaca-place/slika-480.webp 480w, /images/orlovaca-place/slika-720.webp 720w, /images/orlovaca-place/slika-1080.webp 1080w"
-            sizes="(max-width: 600px) 100vw,
+        <div className={classes.galeryCont}>
+          <figure className={classes.figureImageContainer}>
+            <picture>
+              <source
+                srcSet="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-mini.webp 240w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-small.webp 480w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-gmb.webp 720w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.webp 1080w"
+                sizes="(max-width: 600px) 100vw,
            (max-width: 1000px) 720px,
            1080px"
-            type="image/webp"
-          /> */}
+                type="image/webp"
+              />
 
-            <source
-              srcSet="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-mini.webp 240w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-small.webp 480w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-gmb.webp 720w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.webp 1080w"
-              sizes="(max-width: 600px) 100vw,
+              <source
+                srcSet="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-mini.jpg 240w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-small.jpg 480w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-gmb.jpg 720w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg 1080w"
+                sizes="(max-width: 600px) 100vw,
            (max-width: 1000px) 720px,
            1080px"
-              type="image/webp"
-            />
+                type="image/jpeg"
+              />
 
-            <source
-              srcSet="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-mini.jpg 240w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-small.jpg 480w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-gmb.jpg 720w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg 1080w"
-              sizes="(max-width: 600px) 100vw,
+              <img
+                src="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg"
+                alt="slika sa groblja orlovaca parking ispred glavne kapije i crkve Svetog Prokopija"
+                loading="lazy"
+              />
+            </picture>
+            <figcaption className={classes.figcaptionImage}>
+              Parking ispred glavne kapije i crkve Svetog Prokopija
+            </figcaption>
+          </figure>
+          {/* <figure className={classes.figureImageContainer}>
+            <picture>
+              <source
+                srcSet="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-mini.webp 240w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-small.webp 480w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-gmb.webp 720w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.webp 1080w"
+                sizes="(max-width: 600px) 100vw,
            (max-width: 1000px) 720px,
            1080px"
-              type="image/jpeg"
-            />
+                type="image/webp"
+              />
 
-            <img
-              src="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg"
-              alt="slika sa groblja orlovaca parking ispred glavne kapije i crkve Svetog Prokopija"
-              loading="lazy"
-            />
-          </picture>
-          <figcaption className={classes.figcaptionImage}>
-            Parking ispred glavne kapije i crkve Svetog Prokopija
-          </figcaption>
-        </figure>
+              <source
+                srcSet="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-mini.jpg 240w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-small.jpg 480w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking-gmb.jpg 720w, /images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg 1080w"
+                sizes="(max-width: 600px) 100vw,
+           (max-width: 1000px) 720px,
+           1080px"
+                type="image/jpeg"
+              />
+
+              <img
+                src="/images/orlovaca-place/slika-orlovaca-crkava-svetog-prokopija-parking.jpg"
+                alt="slika sa groblja orlovaca parking ispred glavne kapije i crkve Svetog Prokopija"
+                loading="lazy"
+              />
+            </picture>
+            <figcaption className={classes.figcaptionImage}>
+              Parking ispred glavne kapije i crkve Svetog Prokopija
+            </figcaption>
+          </figure> */}
+        </div>
       </div>
     </>
   );
