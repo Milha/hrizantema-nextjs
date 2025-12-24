@@ -724,8 +724,8 @@ export const buketiKorpeItemData = [
     test: [5, 4, 3],
     id: 22,
     title: "Beli ljiljan Crveni gerber Gipsofila - prirodna pletena korpa",
-    price: "9.500",
-    priceRange: "8.000 - 11.500",
+    price: "7.900",
+    priceRange: "6.000 - 10.500",
     includes: ["ljiljan orijental", "gerber", "gipsofila", "robelini"],
     imageBig:
       "/images/buketi-korpe/beli-orijental-crveni-gerber-gipsofila-prirodna-pletena-korpa.jpg",
