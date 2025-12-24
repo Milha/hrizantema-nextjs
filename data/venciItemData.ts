@@ -1816,8 +1816,8 @@ export const venciItemData: Product[] = [
     test: [15, 1, 8],
     id: 52,
     title: "Beli ljiljan ~ Bele ruže ~ Crveni gerber ~ Gipsofila",
-    price: "13.900",
-    priceRange: "4.000 - 5.500",
+    price: "14.900",
+    priceRange: "14.000 - 15.500",
     includes: ["ljiljan", "ruža", "gerber", "robelini", "gipsofila"],
     imageBig:
       "/images/venci/beli-ljiljan-bela-ruza-crveni-gerber-bela-gipsofila-prirodni-venac.jpg",
