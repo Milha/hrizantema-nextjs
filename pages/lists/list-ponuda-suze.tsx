@@ -23,7 +23,7 @@ const reverte = [...suzeItemData].reverse().map((item) => ({
 }));
 
 const listDesc =
-  "Lista prirodnih suza iz naše ponude, sveže rezano cveće se ugradjuje naše u aranžmane. Jednostranične suze za sahrane ili pomene, u više veličina i boja.";
+  "Lista prirodnih suza za sahrane i pomene iz naše ponude, sveže rezano cveće se ugradjuje naše u aranžmane. Jednostranične suze za sahrane ili pomene, u više veličina i boja.";
 
 const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Ponuda Klasičnih Suza";

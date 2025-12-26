@@ -24,7 +24,7 @@ const reverte = [...venciItemData].reverse().map((item) => ({
 const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Venci";
   const listDesc =
-    "Odabrite najlepše cveće svih vrsta, uvek sveže za sve Vaše prilike";
+    "Venci za sahrane, ponuda naše cvećare. Prirodni venci od ruža, ljiljana, gerbera, hrizantema, margareta, ljiljana orijentala i drugih vrsta cveća unikatno izradjeni za prema vašoj želji.";
 
   const [selectedFlower, setSelectedFlower] = useState("");
 

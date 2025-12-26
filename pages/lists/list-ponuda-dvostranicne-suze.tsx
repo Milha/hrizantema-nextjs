@@ -24,7 +24,7 @@ const reverte = [...suzeDvostranicneData].reverse().map((item) => ({
 const Lists: NextPage<ProductProps> = ({ inject }) => {
   const listTitle = "Dvostranične Suza";
   const listDesc =
-    "Ponuda dvostrančnih suza iz naše ponude, sveže rezano cveće iz naše ponude može biti ugradjeno u naše dvostrančne suze koje možete stataviti po vašoj želji.";
+    "Ponuda dvostrančnih suza za sahrane i pomene iz naše ponude, sveže rezano cveće iz naše ponude može biti ugradjeno u naše dvostrančne suze koje možete stataviti po vašoj želji.";
 
   const [selectedFlower, setSelectedFlower] = useState("");
 
