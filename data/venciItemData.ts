@@ -87,8 +87,8 @@ export const venciItemData: Product[] = [
   {
     similarTo: [
       "Beli orijental ~ beli gerber",
-      "Srce bele ruža ~ beli gerber",
-      "Ruža ~ gerbere ~ kale ~ robelini",
+      "Orijental ~ ruža ~ hrizantema ~ mrežica",
+      "Bela margareta ~ gipsofila - prirodni venac",
     ],
     test: [5, 8, 15],
     id: 3,
