@@ -10,9 +10,11 @@ import classes from "./gallery.module.scss";
 
 import { GalleryProps } from "../../types/product";
 import GalleryCard from "../../components/cards/GalleryCard";
+import GalleryHead from "../../components/heads/GalleryHead";
 
 const Gallery: NextPage<GalleryProps> = ({ galleryItems }) => (
   <>
+    <GalleryHead />
     <section className={classes.section_cont}>
       {galleryItems.map((inj) => (
         <div key={inj.id}>
