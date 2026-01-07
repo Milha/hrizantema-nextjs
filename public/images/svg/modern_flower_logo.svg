@@ -1,0 +1,81 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients for modern look -->
+    <radialGradient id="petalGradient1" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#ff9fb8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b9d;stop-opacity:1" />
+    </radialGradient>
+    
+    <radialGradient id="petalGradient2" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#ffb3c6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff8fb5;stop-opacity:1" />
+    </radialGradient>
+    
+    <radialGradient id="centerGradient" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#ffd4e0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffaac8;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Outer layer petals -->
+  <g transform="translate(200, 200)">
+    <!-- Layer 1 - Outer petals (16 petals) -->
+    <g opacity="0.95">
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(0)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(22.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(45)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(67.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(90)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(112.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(135)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(157.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(180)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(202.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(225)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(247.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(270)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(292.5)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(315)"/>
+      <ellipse cx="0" cy="-85" rx="18" ry="55" fill="url(#petalGradient1)" transform="rotate(337.5)"/>
+    </g>
+    
+    <!-- Layer 2 - Middle petals (12 petals) -->
+    <g opacity="0.98">
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(15)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(45)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(75)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(105)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(135)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(165)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(195)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(225)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(255)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(285)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(315)"/>
+      <ellipse cx="0" cy="-65" rx="16" ry="48" fill="url(#petalGradient2)" transform="rotate(345)"/>
+    </g>
+    
+    <!-- Layer 3 - Inner petals (8 petals) -->
+    <g>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(0)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(45)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(90)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(135)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(180)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(225)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(270)"/>
+      <ellipse cx="0" cy="-45" rx="14" ry="40" fill="#ffb3c6" transform="rotate(315)"/>
+    </g>
+    
+    <!-- Center circle -->
+    <circle cx="0" cy="0" r="35" fill="url(#centerGradient)"/>
+    
+    <!-- Center details -->
+    <circle cx="0" cy="0" r="28" fill="#ffc4d6" opacity="0.6"/>
+    <circle cx="-8" cy="-8" r="3" fill="#ff9fb8" opacity="0.7"/>
+    <circle cx="8" cy="-6" r="3" fill="#ff9fb8" opacity="0.7"/>
+    <circle cx="-5" cy="7" r="3" fill="#ff9fb8" opacity="0.7"/>
+    <circle cx="6" cy="8" r="3" fill="#ff9fb8" opacity="0.7"/>
+    <circle cx="0" cy="-3" r="3" fill="#ff9fb8" opacity="0.7"/>
+  </g>
+</svg>
