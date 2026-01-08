@@ -1,13 +1,9 @@
-// @import '../../styles/colors.module.scss';
 @use "../../styles/colors.scss" as colors;
 
 .cont {
-  // background-color: $color-main-goldy-100;
   display: flex;
   flex-direction: column;
-  // box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.1);
   font-family: "Merriweather Sans";
-  // font-weight: 300;
 
   @media (min-width: 75rem) {
     flex-direction: row;
@@ -17,7 +13,6 @@
     height: auto;
     width: 100%;
     text-align: center;
-    // background-color: gainsboro;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -40,7 +35,6 @@
 
     @media (min-width: 75rem) {
       height: 45vh;
-      // background-color: rebeccapurple;
       order: 1;
 
       padding: 1rem 1rem 1rem 6rem;
@@ -50,7 +44,6 @@
   .image_cont {
     height: 25vh;
     width: 100%;
-    // background-color: red;
     background-image: url(../../public/images/hero-images/hrizantema-hero-400w.jpg);
     background-image: image-set(
       url(../../public/images/hero-images/hrizantema-hero-400w.webp)
@@ -58,8 +51,6 @@
       url(../../public/images/hero-images/hrizantema-hero-400w.jpg)
         type("image/jpg")
     );
-
-    // background-image: url(../../public/images/hero-images/hrizantema-hero-400w.webp);
 
     background-repeat: no-repeat;
     background-position: center;
@@ -80,7 +71,6 @@
 
     @media (min-width: 75rem) {
       height: 45vh;
-      //   background-color: rebeccapurple;
 
       background-image: url(../../public/images/hero-images/hrizantema-hero-700w.jpg);
       background-image: image-set(
