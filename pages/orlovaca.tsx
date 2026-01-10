@@ -55,6 +55,36 @@ const Orlovaca: NextPage<Props> = ({ frontmatter, htmlContent }) => {
               Parking ispred glavne kapije i crkve Svetog Prokopija
             </figcaption>
           </figure>
+          {/* Ceka se .webp format  */}
+          <figure className={classes.figureImageContainer}>
+            <picture>
+              <source
+                srcSet="/images/orlovaca-place/slika-parking-kapija-kapela-orlovaca-mini.webp 240w, /images/orlovaca-place/slika-parking-kapija-kapela-orlovaca-small.webp 480w, /images/orlovaca-place/slika-parking-kapija-kapela-orlovaca-gmb.webp 720w, /images/orlovaca-place/slika-parking-kapija-kapela-orlovaca.webp 1080w"
+                sizes="(max-width: 600px) 100vw,
+           (max-width: 1000px) 720px,
+           1080px"
+                type="image/webp"
+              />
+
+              <source
+                srcSet="/images/orlovaca-place/slika-parking-kapija-kapela-orlovaca-mini.jpg 240w, /images/orlovaca-place/slika-parking-kapija-kapela-orlovaca-small.jpg 480w, /images/orlovaca-place/slika-parking-kapija-kapela-orlovaca-gmb.jpg 720w, /images/orlovaca-place/slika-parking-kapija-kapela-orlovaca.jpg 1080w"
+                sizes="(max-width: 600px) 100vw,
+           (max-width: 1000px) 720px,
+           1080px"
+                type="image/jpeg"
+              />
+
+              <img
+                src="/images/orlovaca-place/slika-parking-kapija-kapela-orlovaca.jpg"
+                alt="slika sa groblja orlovaca parking ispred glavne kapije ispred ulaza u kapelu i upravnu zgradu"
+                loading="lazy"
+              />
+            </picture>
+            <figcaption className={classes.figcaptionImage}>
+              Parking ispred glavne kapije ispred ulaza u kapelu na groblju
+              Orlovača i upravnu zgradu
+            </figcaption>
+          </figure>
           {/* <figure className={classes.figureImageContainer}>
             <picture>
               <source
