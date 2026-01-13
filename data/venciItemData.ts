@@ -1921,7 +1921,7 @@ export const venciItemData: Product[] = [
       "Beli orijental ~ beli gerber",
     ],
     test: [15, 1, 8],
-    id: 1,
+    id: 55,
     title: "Bela margareta ~ gipsofila - prirodni venac",
     price: "11.900",
     priceRange: "11.000 - 15.500",
@@ -1941,7 +1941,7 @@ export const venciItemData: Product[] = [
     link: `/single/venac/bele-margarete-cisto-prirodni-venac${categoryVenci}`,
     sluglink: "bele-margarete-cisto-prirodni-venac",
     availability: "https://schema.org/PreOrder",
-    prodId: "VE-001",
+    prodId: "VE-055",
     category: categorySchema,
   },
   // {
