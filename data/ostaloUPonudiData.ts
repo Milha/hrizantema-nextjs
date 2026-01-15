@@ -35,7 +35,6 @@ export const ostaloUPonudiData = [
     prodId: "OP-001",
     category: categorySchema[0],
   },
-
   {
     similarTo: [
       "Žuti ljiljan ~ žute ružice",
@@ -1119,7 +1118,7 @@ export const ostaloUPonudiData = [
   //     "Žuta ruža ~ žute ružice",
   //   ],
   //   test: [1, 4, 8],
-  //   id: 1,
+  //   id: 1111,
   //   title: "TITLE",
   //   price: "NA.000",
   //   priceRange: "4.000 - 5.500",
@@ -1137,7 +1136,7 @@ export const ostaloUPonudiData = [
   //   link: `/single/ostalo/LINKKKKK${categoryVestacko}`,
   //   sluglink: "LINKKKKK",
   //   availability: "https://schema.org/PreOrder",
-  //   prodId: "OP-111",
+  //   prodId: "OP-1111",
   //   category: categorySchema[1],
   // },
 ];

@@ -583,7 +583,7 @@ export const suzeDvostranicneData: Product[] = [
   //     "Bela ruža ~ bela gladiola",
   //   ],
   //   test: [0, 0, 0],
-  //   id: 5,
+  //   id: 11111,
   //   title: "TITLE",
   //   price: "NA.000",
   //   priceRange: "1.000 - 2.500",
@@ -601,7 +601,7 @@ export const suzeDvostranicneData: Product[] = [
   //   link: `/single/suza-dvostranicna/INPUTLINK${categorySuze}`,
   //   sluglink: "INPUTLINK",
   //   availability: "https://schema.org/PreOrder",
-  //   prodId: "DS-111",
+  //   prodId: "DS-11111",
   //   category: categorySchema,
   // },
 ];

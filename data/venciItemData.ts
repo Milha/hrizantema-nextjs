@@ -1944,6 +1944,41 @@ export const venciItemData: Product[] = [
     prodId: "VE-055",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Bele ruže ~ ljubičaste margarete",
+      "Srce crvena ruža",
+      "Margareta razne boje - prirodni venac",
+    ],
+    test: [15, 1, 8],
+    id: 56,
+    title: "Žute ruže ~ Crvene ruže ~ Gipsofila - Prirodni venac",
+    price: "15.000",
+    priceRange: "4.000 - 5.500",
+    includes: [],
+    imageBig:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane.jpg",
+    imageBigWebP:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane.webp",
+    imageSmall:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane-small.jpg",
+    imageSmallWebP:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane-small.webp",
+    imageGMB:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane-gmb.jpg",
+    imageMini:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane-mini.webp",
+    alt: "Prirodni venac za sahranu od žutih i crvenih ruža sa gipsofilom i robelinijem kao zelenilom",
+    text: "Žute ruže su idealne za darivanje dragim osobama kao gest podrške i zahvalnosti. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Značenje gipsofile je nevinost, čistota i večna ljubav. Cvetni venac je znak poslednjeg pozdrava i poštovanja.", 
+    httpaddress: `https://hrizantema.rs/single/venac/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane${categoryVenci}`,
+    link: `/single/venac/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane${categoryVenci}`,
+    sluglink: "zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-056",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
@@ -1951,7 +1986,7 @@ export const venciItemData: Product[] = [
   //     "Roze gerber ~ bele ruže",
   //   ],
   //   test: [15, 1, 8],
-  //   id: 1,
+  //   id: 1111,
   //   title: "TITLE",
   //   price: "NA.000",
   //   priceRange: "4.000 - 5.500",
@@ -1969,7 +2004,7 @@ export const venciItemData: Product[] = [
   //   link: `/single/venac/INPUTLINKKKK${categoryVenci}`,
   //   sluglink: "INPUTLINKKKK",
   //   availability: "https://schema.org/PreOrder",
-  //   prodId: "VE-001",
+  //   prodId: "VE-01111",
   //   category: categorySchema,
   // },
 ];

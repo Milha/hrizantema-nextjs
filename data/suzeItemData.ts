@@ -453,7 +453,7 @@ export const suzeItemData: Product[] = [
   //     "Crvene ruža ~ bela gladiola",
   //   ],
   //   test: [4, 2, 9],
-  //   id: 12,
+  //   id: 11111,
   //   title: "TITLE",
   //   price: "2.000",
   //   priceRange: "2.000 - 3.500",
@@ -471,7 +471,7 @@ export const suzeItemData: Product[] = [
   //   link: `/single/suza/LINKINPUT${categorySuze}`,
   //   sluglink: "LINKINPUT",
   //   availability: "https://schema.org/PreOrder",
-  //   prodId: "SU-012",
+  //   prodId: "SU-011111",
   //   category: categorySchema,
   // },
 ];

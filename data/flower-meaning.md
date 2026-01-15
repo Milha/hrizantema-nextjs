@@ -16,6 +16,8 @@ Crvene ruže su jedan od najpoznatijih i najrasprostranjenijih simbola ljubavi i
 
 Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu.
 
+Crvene ruže su univerzalni simbol duboke, snažne ljubavi.
+
 ## Crveni ljiljan
 
 Crveni ljiljani simbolizuju strast, bezuslovnu ljubav, plodnost, majčinstvo, sreću i večnu ljubav.
@@ -84,6 +86,8 @@ Bela gipsofila simbolizuje čistotu i duhovnost i izaziva osećanja nevinosti i
 
 Značenje gipsofile je nevinost, čistota i večna ljubav. Kao takvo, prisustvo ovog cveta u bilo kom aranžmanu smatra se simbolom nežne naklonosti i lojalnosti, idealno za demonstriranje jakih osećanja i dubokih emocija koje reči često ne mogu da izraze.
 
+Sitni beli cvetići predstavljaju nevinost, iskrenost i trajnost emocija.
+
 ## Roze ljiljan
 
 Roze boja je simbol ženstvenosti, ljubavi, obožavanja i divljenja. Roze ljiljani se poklanjaju bliskim prijateljima i članovima porodice. Oni imaju za cilj da daju do znanja nekome da neko misli na njih, kao i da im pruže podršku u izazovnom vremenu.
@@ -128,11 +132,11 @@ Sama svetla boja podseća na sunce svojom suštinskom toplinom i dobrim raspolo
 
 Žute ruže mogu i predstavljati ljubomoru, nevernost i prošlu ljubav. Može značiti i želju da se oprosti i prekine vezu.
 
+Žute ruže su idealne za darivanje dragim osobama kao gest podrške i zahvalnosti.
+
 ## Žuti ljiljan
 
 Žuti ljiljan je simbol zdravlja, blagostanja i čistoće. Zlatna boja ljiljana odiše izuzetnom lepotom i snagom van okolnosti i životnih napora.
-
-## Žuti ljiljan
 
 Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću.
 
@@ -243,3 +247,7 @@ Ritual paljenja sveće za odavanje počasti „prošlom“ životu odavno je de
 Paljenja sveća za mrtve ima mnogo značenja. Neki zapale sveće u čast uspomene ili odaju počast dobro proživljenom životu. Neke verske grupa pale sveće tokom sahrane ili parastosa da simbolizuju lepotu i kratkoću života. Ipak, drugi smatraju da paljenje sveće za nekoga ko je umro na neki način pojačava molitve i pomaže duhu pokojnika.
 
 Paljenje sveće u znak sećanja na voljenu osobu koja je umrla — u crkvi ili vašem domu — je dobar način da ih se sećate i poštujete njihov život. Kao što plamen donosi svetlost, toplinu i lepotu svima koji su blizu, upaljena sveća podseća žive na pozitivne doprinose koje su preminuli dali u životu.
+
+### Venci
+
+Cvetni venac je znak poslednjeg pozdrava i poštovanja.
