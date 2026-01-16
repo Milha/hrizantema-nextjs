@@ -1953,7 +1953,7 @@ export const venciItemData: Product[] = [
     test: [15, 1, 8],
     id: 56,
     title: "Žute ruže ~ Crvene ruže ~ Gipsofila - Prirodni venac",
-    price: "15.000",
+    price: "12.500",
     priceRange: "4.000 - 5.500",
     includes: [],
     imageBig:
@@ -1971,7 +1971,7 @@ export const venciItemData: Product[] = [
     imageMiniWebP:
       "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane-mini.webp",
     alt: "Prirodni venac za sahranu od žutih i crvenih ruža sa gipsofilom i robelinijem kao zelenilom",
-    text: "Žute ruže su idealne za darivanje dragim osobama kao gest podrške i zahvalnosti. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Značenje gipsofile je nevinost, čistota i večna ljubav. Cvetni venac je znak poslednjeg pozdrava i poštovanja.", 
+    text: "Žute ruže su idealne za darivanje dragim osobama kao gest podrške i zahvalnosti. Crvene ruže predstavljaju ljubav, poštovanje, hrabrost i tugu. Značenje gipsofile je nevinost, čistota i večna ljubav. Cvetni venac je znak poslednjeg pozdrava i poštovanja.",
     httpaddress: `https://hrizantema.rs/single/venac/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane${categoryVenci}`,
     link: `/single/venac/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane${categoryVenci}`,
     sluglink: "zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane",
