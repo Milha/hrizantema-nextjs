@@ -1955,7 +1955,7 @@ export const venciItemData: Product[] = [
     title: "Žute ruže ~ Crvene ruže ~ Gipsofila - Prirodni venac",
     price: "12.500",
     priceRange: "4.000 - 5.500",
-    includes: [],
+    includes: ["ruža", "gipsofila", "robelini"],
     imageBig:
       "/images/venci/zute-ruze-crvene-ruze-gipsofila-prirodni-venac-sahrane.jpg",
     imageBigWebP:
