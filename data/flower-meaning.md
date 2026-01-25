@@ -104,6 +104,7 @@ Roze tigrasti ljiljani simbolizuju sreću i radost, a crveno cveće je povezan
 
 Svetloroze gerberi izražavaju divljenje i saosećanje, tamnoroze su simbol zahvalnosti.
 
+
 ## Roze hrizantema
 
 Za ovu boju hrizanteme se kaže da simbolizuje dugovečnost. Ružičaste hrizanteme takođe mogu značiti čast i ljubav, sjajno ako želite da pošaljete poruku da nekome kažete da vam je stalo i da ga cenite.
