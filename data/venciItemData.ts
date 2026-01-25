@@ -1988,7 +1988,7 @@ export const venciItemData: Product[] = [
     test: [15, 1, 8],
     id: 57,
     title: "Bela ruža ~ Roze gerber - prirodni venac",
-    price: "15.000",
+    price: "10.900",
     priceRange: "7.000 - 15.500",
     includes: ["ruža", "gerber", "gipsofila", "robelini"],
     imageBig: "/images/venci/bela-ruza-roze-gerber-prirodni-venac.jpg",
