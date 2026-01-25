@@ -1,0 +1,528 @@
+{
+  "message": "Successfully fetched ceremonies",
+  "count": 8,
+  "results": [
+    {
+      "_id": "675977b818677adeed40c43e",
+      "cemetery": {
+        "_id": "675977b818677adeed40c43e",
+        "igIDGroblja": 50,
+        "__v": 0,
+        "name": "CENTRALNO GROBLJE"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740479e64d5fdb64fbd348",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e90",
+            "birthDate": "1934-12-22T05:21:45.361Z",
+            "deathDate": "2026-01-20T05:21:45.361Z",
+            "firstName": "OLGA",
+            "lastName": "ĆURČIN",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c43e"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd34d",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e91",
+            "birthDate": "1932-06-25T03:41:52.053Z",
+            "deathDate": "2026-01-22T03:41:52.053Z",
+            "firstName": "STANKA",
+            "lastName": "MRDAKOVIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c43e"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c442",
+      "cemetery": {
+        "_id": "675977b818677adeed40c442",
+        "igIDGroblja": 80,
+        "__v": 0,
+        "name": "LEŠĆE"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740478e64d5fdb64fbd2e4",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T10:00:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e7c",
+            "birthDate": "1936-05-30T05:20:54.028Z",
+            "deathDate": "2026-01-21T05:20:54.028Z",
+            "firstName": "MILORAD",
+            "lastName": "TADIĆ",
+            "occupation": "NEPOZNATO"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd311",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T10:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e85",
+            "birthDate": "1960-06-24T08:11:00.251Z",
+            "deathDate": "2026-01-21T08:11:00.251Z",
+            "firstName": "MIODRAG",
+            "lastName": "STAMENKOVIĆ",
+            "occupation": "Mašinski tehničar"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        },
+        {
+          "_id": "69740478e64d5fdb64fbd2e9",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:00:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e7d",
+            "birthDate": "1948-03-04T01:05:31.409Z",
+            "deathDate": "2026-01-23T01:05:31.409Z",
+            "firstName": "MARA",
+            "lastName": "RADOSAVLJEVIĆ",
+            "occupation": "Ekonomista"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd320",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e88",
+            "birthDate": "1977-05-20T08:53:16.916Z",
+            "deathDate": "2026-01-17T08:53:16.916Z",
+            "firstName": "PREDRAG",
+            "lastName": "OGNJANOV",
+            "occupation": "Službenik"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd316",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e86",
+            "birthDate": "1950-01-04T10:45:37.678Z",
+            "deathDate": "2026-01-19T10:45:37.678Z",
+            "firstName": "DRAGOLJUB",
+            "lastName": "ĆIRIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        },
+        {
+          "_id": "69740478e64d5fdb64fbd2df",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:30:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e7b",
+            "birthDate": "1941-06-28T05:03:29.993Z",
+            "deathDate": "2026-01-20T06:03:29.993Z",
+            "firstName": "GVOZDEN",
+            "lastName": "PANTELIĆ",
+            "occupation": "Radnik"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        },
+        {
+          "_id": "69748308e64d5fdb64fbf7d0",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T13:00:00.000Z",
+          "deceased": {
+            "_id": "69748308135287e921ed4f5b",
+            "birthDate": "1945-07-29T06:09:54.280Z",
+            "deathDate": "2026-01-23T07:09:54.280Z",
+            "firstName": "ILINKA",
+            "lastName": "MIHAJLOVIĆ",
+            "occupation": "Domaćica"
+          },
+          "cemetery": "675977b818677adeed40c442"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c444",
+      "cemetery": {
+        "_id": "675977b818677adeed40c444",
+        "igIDGroblja": 90,
+        "__v": 0,
+        "name": "NOVA BEŽANIJA"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740479e64d5fdb64fbd32f",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e8b",
+            "birthDate": "1952-05-10T23:06:04.266Z",
+            "deathDate": "2025-01-18T23:06:04.266Z",
+            "firstName": "ZAGORKA",
+            "lastName": "ŽEGARAC",
+            "occupation": "EKONOMSKI TEHNIČAR"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd33e",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e8e",
+            "birthDate": "1949-01-24T03:51:24.575Z",
+            "deathDate": "2026-01-18T03:51:24.575Z",
+            "firstName": "CANA",
+            "lastName": "LEŠIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd357",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:45:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e93",
+            "birthDate": "1947-01-03T04:42:38.263Z",
+            "deathDate": "2026-01-20T04:42:38.263Z",
+            "firstName": "GORDANA",
+            "lastName": "STRAJNIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd352",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:15:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e92",
+            "birthDate": "1925-10-27T04:21:53.435Z",
+            "deathDate": "2026-01-19T04:21:53.435Z",
+            "firstName": "JOVAN",
+            "lastName": "MANIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd31b",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e87",
+            "birthDate": "1957-06-28T10:08:49.306Z",
+            "deathDate": "2026-01-19T10:08:49.306Z",
+            "firstName": "PREDRAG",
+            "lastName": "SREĆKOVIĆ",
+            "occupation": "NEPOZNATO"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740478e64d5fdb64fbd2cb",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T13:15:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e77",
+            "birthDate": "1938-04-26T05:23:20.597Z",
+            "deathDate": "2026-01-23T05:23:20.597Z",
+            "firstName": "DANILO",
+            "lastName": "ZUROVAC",
+            "occupation": "Komercijalista"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740478e64d5fdb64fbd2ee",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T13:30:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e7e",
+            "birthDate": "1934-06-07T00:10:57.948Z",
+            "deathDate": "2026-01-23T00:10:57.948Z",
+            "firstName": "ĐURĐIJA",
+            "lastName": "GAJIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd334",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T14:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e8c",
+            "birthDate": "1939-03-16T04:19:42.195Z",
+            "deathDate": "2026-01-23T04:19:42.195Z",
+            "firstName": "KOSA",
+            "lastName": "VUKOVIĆ",
+            "occupation": "Službenik"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        },
+        {
+          "_id": "6974bb49e64d5fdb64fc0772",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T14:15:00.000Z",
+          "deceased": {
+            "_id": "6974bb49135287e921ed4f61",
+            "birthDate": "1950-06-03T08:16:51.845Z",
+            "deathDate": "2026-01-24T08:16:51.845Z",
+            "firstName": "OLGICA",
+            "lastName": "ĆURUVIJA",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c444"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c43d",
+      "cemetery": {
+        "_id": "675977b818677adeed40c43d",
+        "igIDGroblja": 40,
+        "__v": 0,
+        "name": "NOVO GROBLJE"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740479e64d5fdb64fbd30c",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e84",
+            "birthDate": "1957-01-06T08:14:21.619Z",
+            "deathDate": "2026-01-21T08:14:21.619Z",
+            "firstName": "SAVO",
+            "lastName": "KOSIĆ",
+            "occupation": "NEPOZNATO"
+          },
+          "cemetery": "675977b818677adeed40c43d"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c43c",
+      "cemetery": {
+        "_id": "675977b818677adeed40c43c",
+        "igIDGroblja": 30,
+        "__v": 0,
+        "name": "ORLOVAČA"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740479e64d5fdb64fbd325",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T10:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e89",
+            "birthDate": "1951-08-20T04:14:32.959Z",
+            "deathDate": "2026-01-18T04:14:32.959Z",
+            "firstName": "VELJKO",
+            "lastName": "KOVJANIĆ",
+            "occupation": "NEPOZNATO"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd343",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e8f",
+            "birthDate": "1964-05-07T03:47:58.425Z",
+            "deathDate": "2026-01-19T03:47:58.425Z",
+            "firstName": "LJILJANA",
+            "lastName": "MINIĆ",
+            "occupation": "Službenik"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        },
+        {
+          "_id": "69740478e64d5fdb64fbd2da",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:30:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e7a",
+            "birthDate": "1949-06-23T08:10:50.671Z",
+            "deathDate": "2026-01-20T08:10:50.671Z",
+            "firstName": "DOBRILA",
+            "lastName": "ILIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd2fd",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e81",
+            "birthDate": "1934-04-25T23:36:19.332Z",
+            "deathDate": "2026-01-19T23:36:19.332Z",
+            "firstName": "MARSELA",
+            "lastName": "SAVIĆ",
+            "occupation": "Medicinska sestra"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd2f3",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:30:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e7f",
+            "birthDate": "1946-01-20T05:20:25.261Z",
+            "deathDate": "2026-01-23T05:20:25.261Z",
+            "firstName": "JOVAN",
+            "lastName": "BEKČIĆ",
+            "occupation": "TRGOVAC"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c43f",
+      "cemetery": {
+        "_id": "675977b818677adeed40c43f",
+        "igIDGroblja": 60,
+        "__v": 0,
+        "name": "TOPČIDER"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740479e64d5fdb64fbd2f8",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e80",
+            "birthDate": "1973-08-14T23:34:14.499Z",
+            "deathDate": "2026-01-19T23:34:14.499Z",
+            "firstName": "BOJAN",
+            "lastName": "STAMENKOVIĆ",
+            "occupation": "NEPOZNATO"
+          },
+          "cemetery": "675977b818677adeed40c43f"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd339",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T13:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e8d",
+            "birthDate": "1946-05-28T02:03:49.325Z",
+            "deathDate": "2026-01-21T02:03:49.325Z",
+            "firstName": "ANĐELKA",
+            "lastName": "SAVKOVIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c43f"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c443",
+      "cemetery": {
+        "_id": "675977b818677adeed40c443",
+        "igIDGroblja": 86,
+        "__v": 0,
+        "name": "ZBEG"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740479e64d5fdb64fbd32a",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T11:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e8a",
+            "birthDate": "1972-07-29T04:46:23.146Z",
+            "deathDate": "2026-01-21T04:46:23.146Z",
+            "firstName": "LAZA",
+            "lastName": "DRLJAN",
+            "occupation": "Službenik"
+          },
+          "cemetery": "675977b818677adeed40c443"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd302",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e82",
+            "birthDate": "1939-06-04T05:07:24.319Z",
+            "deathDate": "2026-01-21T05:07:24.319Z",
+            "firstName": "STOJAN",
+            "lastName": "MARINKOVIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c443"
+        },
+        {
+          "_id": "69740479e64d5fdb64fbd307",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T13:00:00.000Z",
+          "deceased": {
+            "_id": "69740479135287e921ed4e83",
+            "birthDate": "1951-02-05T05:18:30.330Z",
+            "deathDate": "2026-01-22T05:18:30.330Z",
+            "firstName": "ALEKSANDAR",
+            "lastName": "AGOLI",
+            "occupation": "Ekonomista"
+          },
+          "cemetery": "675977b818677adeed40c443"
+        },
+        {
+          "_id": "69740478e64d5fdb64fbd2d5",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T14:00:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e79",
+            "birthDate": "1968-02-18T10:25:16.660Z",
+            "deathDate": "2026-01-22T10:25:16.660Z",
+            "firstName": "DRAGAN",
+            "lastName": "STANKOVIĆ",
+            "occupation": "VARILAC"
+          },
+          "cemetery": "675977b818677adeed40c443"
+        }
+      ]
+    },
+    {
+      "_id": "675977b818677adeed40c441",
+      "cemetery": {
+        "_id": "675977b818677adeed40c441",
+        "igIDGroblja": 70,
+        "__v": 0,
+        "name": "ZEMUN"
+      },
+      "ceremonies": [
+        {
+          "_id": "69740478e64d5fdb64fbd2d0",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-27T12:00:00.000Z",
+          "deceased": {
+            "_id": "69740478135287e921ed4e78",
+            "birthDate": "1976-10-08T00:19:33.108Z",
+            "deathDate": "2026-01-21T00:19:33.108Z",
+            "firstName": "EMA",
+            "lastName": "MIRČETIĆ",
+            "occupation": "PROFESOR MUZIKE"
+          },
+          "cemetery": "675977b818677adeed40c441"
+        }
+      ]
+    }
+  ]
+}

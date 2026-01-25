@@ -1,6 +1,7 @@
 import { marked } from "marked";
 import { parseMarkdown } from "../lib/utils/parseMarkdownInformation";
 import { NextPage, GetStaticProps } from "next";
+import Link from "next/link";
 
 import classes from "./orlovaca.module.scss";
 import SpecialDistinctiveHeads from "../components/heads/SpecialDistinctiveHeads";
@@ -85,6 +86,7 @@ const Orlovaca: NextPage<Props> = ({ frontmatter, htmlContent }) => {
               Orlovača i upravnu zgradu
             </figcaption>
           </figure>
+
           {/* <figure className={classes.figureImageContainer}>
             <picture>
               <source
@@ -113,6 +115,11 @@ const Orlovaca: NextPage<Props> = ({ frontmatter, htmlContent }) => {
               Parking ispred glavne kapije i crkve Svetog Prokopija
             </figcaption>
           </figure> */}
+        </div>
+        <div className={classes.linkCont}>
+          <Link href="/unique/schedule-ceremony">
+            Raspored sahrana na groblju Orlovača
+          </Link>
         </div>
       </div>
     </>

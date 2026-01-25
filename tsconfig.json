@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/single/suza-dvostranicna/[slug].js", "components/cards/BigHorizontalSingleCard.tsx", "data/suzeDvostranicneItemData.ts"  ],
+, "pages/single/suza-dvostranicna/[slug].js", "components/cards/BigHorizontalSingleCard.tsx", "data/suzeDvostranicneItemData.ts", "lib/collectors/fetchCeremonyData.js"  ],
   "exclude": [
     "node_modules"
   ]
