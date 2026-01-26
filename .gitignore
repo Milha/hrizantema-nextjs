@@ -38,4 +38,4 @@ yarn-error.log*
 data/ceremony/*.json
 
 # fetched ceremony data
-lib/collectors/fetchedCeremonyData.js
+lib/collectors/fetchCeremonyData.js
