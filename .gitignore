@@ -33,3 +33,6 @@ yarn-error.log*
 
 # VSCode Windows Color extesnion
 .vscode
+
+# JSON Database files
+data/ceremony/*.jso
