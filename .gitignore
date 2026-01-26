@@ -36,3 +36,6 @@ yarn-error.log*
 
 # JSON Database files
 data/ceremony/*.json
+
+# fetched ceremony data
+lib/collectors/fetchedCeremonyData.js
