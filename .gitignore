@@ -35,4 +35,4 @@ yarn-error.log*
 .vscode
 
 # JSON Database files
-data/ceremony/*.jso
+data/ceremony/*.json
