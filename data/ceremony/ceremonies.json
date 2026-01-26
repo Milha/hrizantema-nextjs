@@ -249,6 +249,59 @@
           "cemetery": "675977b818677adeed40c43c"
         }
       ]
+    },
+    {
+      "_id": "675977b818677adeed40c43c",
+      "cemetery": {
+        "_id": "675977b818677adeed40c43c",
+        "igIDGroblja": 30,
+        "__v": 0,
+        "name": "ORLOVAČA"
+      },
+      "ceremonies": [
+        {
+          "_id": "6976a778e64d5fdb64fc8520",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-29T11:30:00.000Z",
+          "deceased": {
+            "_id": "6976a778135287e921ed504e",
+            "birthDate": "1949-12-08T06:20:01.664Z",
+            "deathDate": "2026-01-21T06:20:01.664Z",
+            "firstName": "STEVAN",
+            "lastName": "CVETANOVIĆ",
+            "occupation": "NEPOZNATO"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        },
+        {
+          "_id": "6976a779e64d5fdb64fc852f",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-29T12:00:00.000Z",
+          "deceased": {
+            "_id": "6976a778135287e921ed5051",
+            "birthDate": "1957-06-19T01:29:29.139Z",
+            "deathDate": "2026-01-21T01:29:29.139Z",
+            "firstName": "TAMARA",
+            "lastName": "RAŽNATOVIĆ",
+            "occupation": "Penzioner"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        },
+        {
+          "_id": "6976a778e64d5fdb64fc852a",
+          "type": "FUNERAL",
+          "ceremonyDate": "2026-01-29T12:30:00.000Z",
+          "deceased": {
+            "_id": "6976a778135287e921ed5050",
+            "birthDate": "1938-10-17T00:22:21.663Z",
+            "deathDate": "2026-01-20T00:22:21.663Z",
+            "firstName": "MILENA",
+            "lastName": "JOCIĆ",
+            "occupation": "NEMA PODATAKA"
+          },
+          "cemetery": "675977b818677adeed40c43c"
+        }
+      ]
     }
   ]
 }
