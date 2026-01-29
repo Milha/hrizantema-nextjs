@@ -16,6 +16,7 @@ import { NextPage, GetStaticProps } from "next";
 import { ProductProps } from "../../types/product";
 
 import SelectSearch from "../../components/ui/searchs/SelectSearch";
+import FloatingCta from "../../components/ui/cta/FloatingCta";
 
 const reverte = [...suzeItemData].reverse().map((item) => ({
   ...item,
@@ -60,6 +61,7 @@ const Lists: NextPage<ProductProps> = ({ inject }) => {
         ))}
       </article>
       <ArrowToTop />
+      <FloatingCta />
     </>
   );
 };

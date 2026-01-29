@@ -1,0 +1,42 @@
+@use "styles/colors.scss" as colors;
+
+.floatingCtaCont {
+  position: fixed;
+  border-radius: 113px;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1000;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+  &:hover {
+    transform: scale(1.08) translateY(-2px);
+    box-shadow: 0 8px 32px rgba(56, 249, 215, 0.3);
+  }
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+
+  @media (min-width: 600px) {
+    left: auto;
+    left: 20vw;
+    bottom: 20px;
+    border-radius: 20px;
+  }
+
+  .ctaButton {
+    background-color: rgba(colors.$color-link-blue-800, 0.8);
+    border-radius: 115px 115px 115px 0px;
+    border: none;
+    padding: 20px 30px;
+    font-size: 1.1rem;
+    color: whitesmoke;
+  }
+
+  .ctaModal {
+    background-color: colors.$color-footer-bg;
+    border: 1px solid #ccc;
+    // border-radius: 50%;
+    padding: 10px;
+    border-radius: 25px;
+  }
+}
