@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 
 import classes from "./FloatingCta.module.scss";
+import PhoneFixIcon from "../../icons/PhoneFixIcon";
+import MailBoxIcon from "../../icons/MailBoxIcon";
 
 const FloatingCta = () => {
   const [visible, setVisible] = useState(false);
@@ -31,10 +33,14 @@ const FloatingCta = () => {
       )}
       {open && visible && (
         <div className={classes.ctaModal}>
-          <p>📞 +381 69 20 50 441</p>
-          <p>✉️ sztrhrizantema@gmail.com</p>
+          <a href="tel:+381692050441">
+            <PhoneFixIcon /> +381 69 20 50 441
+          </a>
+          <a href="mailto:sztrhrizantema@gmail.com">
+            <MailBoxIcon /> sztrhrizantema@gmail.com
+          </a>
           <button className={classes.ctaButton} onClick={() => setOpen(false)}>
-            Zatvori
+            Zatvorite
           </button>
         </div>
       )}
