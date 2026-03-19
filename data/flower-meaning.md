@@ -143,7 +143,7 @@ Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću.
 
 Žute gerbere možete poslati nekome ko se oporavlja od bolesti da biste ih razveselili. Buket žutih gerbera je siguran način da preokrenete tmuran dan.
 
-## Žuti hrizantema
+## Žuta hrizantema
 
 Žute hrizantem simbolizuju sreću, radost i slavlje. Ako tražite hrizantemu koja će nekome ulepšati dan, ne možete pogrešiti sa žutim cvetovima.
 

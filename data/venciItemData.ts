@@ -2009,6 +2009,41 @@ export const venciItemData: Product[] = [
     prodId: "VE-057",
     category: categorySchema,
   },
+  {
+    similarTo: [
+      "Bela margareta ~ gipsofila - prirodni venac",
+      "Ruža ~ gerber ~ margareta",
+      "Venac srce od gerbera",
+    ],
+    test: [15, 1, 8],
+    id: 58,
+    title: "Žuti gerber ~ Narandžasti gerber ~ Žute margarete - prirodni venac",
+    price: "18.000",
+    priceRange: "4.000 - 7.500",
+    includes: [],
+    imageBig:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac.jpg",
+    imageBigWebP:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac.webp",
+    imageSmall:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac-small.jpg",
+    imageSmallWebP:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac-small.webp",
+    imageGMB:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac-gmb.jpg",
+    imageMini:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac-mini.jpg",
+    imageMiniWebP:
+      "/images/venci/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac-mini.webp",
+    alt: "Prirodni venac za sahranu zuti i narandzasti gerberi zute i narandzaste margarete",
+    text: "Sunčano žute boje gerbera simbolizuju prijateljstvo i sreću. Žute hrizanteme simbolizuju neuzvraćenu ljubav ili tugu. Narandžasta boja se povezije sa entuzijazmom, energijom i toplinom. Kada su u pitanju gerberi, oni označavaju da je osoba kojoj ih poklanjate sunce vašeg života. Osim toga, oni takođe izražavaju vašu privrženost toj osobi. Narandžasta boja cveća uglavnom asocira na toplinu, podršku, saosećanje. Ona može simbolizovati i poštovanje prema preminulom i njegovoj porodici. Obzirom da naranžasta boja simbolizuje svetlost, energiju i vitalnost, noseći cveće te boje nudite nadu i ohrabrenje u teškim trenutcima.",
+    httpaddress: `https://hrizantema.rs/single/venac/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac${categoryVenci}`,
+    link: `/single/venac/zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac${categoryVenci}`,
+    sluglink: "zuti-gerber-narandzasti-gerber-zute-margarete-prirodni-venac",
+    availability: "https://schema.org/PreOrder",
+    prodId: "VE-058",
+    category: categorySchema,
+  },
   // {
   //   similarTo: [
   //     "Roze gerber ~ bele ruže",
