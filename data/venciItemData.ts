@@ -2018,7 +2018,7 @@ export const venciItemData: Product[] = [
     test: [15, 1, 8],
     id: 58,
     title: "Žuti gerber ~ Narandžasti gerber ~ Žute margarete - prirodni venac",
-    price: "18.000",
+    price: "9.000",
     priceRange: "4.000 - 7.500",
     includes: [],
     imageBig:
