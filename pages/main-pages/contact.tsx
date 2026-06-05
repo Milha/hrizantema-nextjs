@@ -35,8 +35,8 @@ const Contact: NextPage<QandaProps> = ({ qandasData }) => (
           <div className={classes.text_span}>
             <span>Email: </span>
             <address>
-              <a href="mailto:sztrhrizantema@gmail.com">
-                sztrhrizantema@gmail.com
+              <a href="mailto:hrizantematim@gmail.com">
+                hrizantematim@gmail.com
               </a>
               &nbsp;
             </address>

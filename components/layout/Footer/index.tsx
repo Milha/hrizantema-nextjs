@@ -13,15 +13,13 @@ function Footer() {
             <br />
             11000 Beograd, Srbija
             <br />
-            <a href="tel:+381692050441">+381 69 205 0441</a>
+            <a href="tel:+381692050441">+381 69 20 50 441</a>
             <br />
-            <a href="mailto:sztrhrizantema@gmail.com">
-              sztrhrizantema@gmail.com
-            </a>
+            <a href="mailto:hrizantematim@gmail.com">hrizantematim@gmail.com</a>
           </address>
-          <p>PIB: 111817197</p>
-          <p>Matični broj: 65682478</p>
-          <p>Radno vreme: svakog dana od 07:00 do 18:00 časova</p>
+          <p>PIB: 115709493</p>
+          <p>Matični broj: 68573661</p>
+          <p>Radno vreme: svakog dana od 07:00 do 19:00 časova</p>
           <p></p>
         </div>
         <div className={classes["footer-links"]}>
